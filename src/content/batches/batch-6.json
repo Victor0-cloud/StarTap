@@ -1,0 +1,1891 @@
+{
+ "batch": 6,
+ "researched": "2026-10-03",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "stephen-curry",
+    "name": "Stephen Curry",
+    "monogram": "SC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "stephen-curry-davidson",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "College years",
+    "question": "At which small North Carolina college town did Stephen Curry play college basketball?",
+    "clue": "Look just north of Charlotte, beside Lake Norman.",
+    "hint": "The college shares the town's name, and it had fewer than 2,000 students.",
+    "answer": {
+     "city": "Davidson",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Stephen Curry got no scholarship offers from major college programs, so he went to Davidson College in North Carolina, a school of fewer than 2,000 students.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Stephen-Curry",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He did not receive scholarship offers from major college basketball programs and attended Davidson (North Carolina) College, which had an enrollment of fewer than 2,000 students."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "No major college offered Curry a scholarship, so he went to tiny Davidson College.",
+     "sourceUrl": "https://www.britannica.com/biography/Stephen-Curry",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "He did not receive scholarship offers from major college basketball programs and attended Davidson (North Carolina) College, which had an enrollment of fewer than 2,000 students."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "kevin-durant",
+    "name": "Kevin Durant",
+    "monogram": "KD",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kevin-durant-oklahoma-city",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Thunder years",
+    "question": "In which Plains city did Kevin Durant's Thunder lead the 73-win Warriors 3–1 in 2016 before losing?",
+    "clue": "Look in the middle of the United States, on Interstate 35.",
+    "hint": "It's the capital of Oklahoma.",
+    "answer": {
+     "city": "Oklahoma City",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "With the Thunder, Kevin Durant led Oklahoma City to a 3–1 conference-finals lead over the 73-win Golden State Warriors, before they lost in seven games.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kevin-Durant",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In the playoffs, Durant led the Thunder to a 3–1 series lead in the conference finals over the Golden State Warriors, who had set an NBA record during the regular season by amassing 73 victories, but Oklahoma City ultimately lost the series in seven games."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "michael-jordan",
+    "name": "Michael Jordan",
+    "monogram": "MJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "michael-jordan-chapel-hill",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "College years",
+    "question": "In which college town did Michael Jordan play for coach Dean Smith from 1981?",
+    "clue": "Look in North Carolina's Research Triangle.",
+    "hint": "The university's full name ends with this town's name.",
+    "answer": {
+     "city": "Chapel Hill",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Michael Jordan entered the University of North Carolina at Chapel Hill in 1981, playing for famed coach Dean Smith. As a freshman he hit the winning shot in the 1982 national final.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Michael-Jordan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jordan entered the University of North Carolina at Chapel Hill in 1981, playing for famed head coach Dean Smith."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kobe-bryant",
+    "name": "Kobe Bryant",
+    "monogram": "KB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "kobe-bryant-charlotte",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Draft day",
+    "question": "Which city's NBA team picked Kobe Bryant 13th in the 1996 draft, before trading him to the Lakers?",
+    "clue": "Look in North Carolina, the state's biggest city.",
+    "hint": "Its team was then called the Hornets.",
+    "answer": {
+     "city": "Charlotte",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Kobe Bryant went straight from high school to the 1996 NBA draft, where the Charlotte Hornets chose him 13th. He was traded to the Lakers shortly afterwards.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kobe-Bryant",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Charlotte Hornets chose him with the 13th pick of the 1996 draft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "magic-johnson",
+    "name": "Magic Johnson",
+    "monogram": "MJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "magic-johnson-barcelona",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Dream Team",
+    "question": "In which city did Magic Johnson win Olympic gold with the 1992 Dream Team?",
+    "clue": "Look on Spain's Mediterranean coast.",
+    "hint": "It's Catalonia's capital.",
+    "answer": {
+     "city": "Barcelona",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Magic Johnson returned to play at the 1992 All-Star Game, where he was MVP, and at the Barcelona 1992 Olympics, helping the Dream Team win gold.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Magic-Johnson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He returned to basketball to participate in the 1992 All-Star Game (of which he was the MVP) and in the Barcelona 1992 Olympic Games, where he helped the NBA-superstar-laden “Dream Team” capture the men’s basketball gold medal."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "larry-bird",
+    "name": "Larry Bird",
+    "monogram": "LB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "larry-bird-french-lick",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "In which small Indiana resort town was Larry Bird raised?",
+    "clue": "Look in southern Indiana, in Orange County.",
+    "hint": "He was nicknamed \"the Hick from\" this town.",
+    "answer": {
+     "city": "French Lick",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Larry Bird was raised in French Lick, Indiana. At Indiana State University he led the team to a 33–1 record in his senior season.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Larry-Bird",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bird was raised in French Lick, Indiana, and attended Indiana State University, where he helped revive the basketball program and led the team to a 33–1 record in his senior season."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shaquille-oneal",
+    "name": "Shaquille O'Neal",
+    "monogram": "SO",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "shaquille-oneal-orlando",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Draft day",
+    "question": "Which Florida city's team made Shaquille O'Neal the first pick of the 1992 NBA draft?",
+    "clue": "Look in central Florida.",
+    "hint": "It's home to famous theme parks; its team is the Magic.",
+    "answer": {
+     "city": "Orlando",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Shaquille O'Neal left LSU for the 1992 NBA draft and was taken first overall by the Orlando Magic. He was named Rookie of the Year.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Shaquille-ONeal",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "O’Neal left school and entered the NBA draft in 1992 and was taken with the first pick by the Orlando Magic."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kareem-abdul-jabbar",
+    "name": "Kareem Abdul-Jabbar",
+    "monogram": "KA",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "kareem-abdul-jabbar-los-angeles",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "College years",
+    "question": "In which city did Kareem Abdul-Jabbar enrol at UCLA in 1965?",
+    "clue": "Look in Southern California.",
+    "hint": "UCLA is named after this city.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Kareem Abdul-Jabbar, then Lew Alcindor, enrolled at UCLA in Los Angeles in 1965. He led UCLA to three NCAA championships.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kareem-Abdul-Jabbar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "His offensive skill was so developed coming out of high school that the collegiate basketball rules committee, fearing he would be able to score at will, made dunking illegal prior to his enrollment at the University of California, Los Angeles (UCLA), in 1965."
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "College rules-makers made dunking illegal before he arrived at UCLA, fearing he would score at will.",
+     "sourceUrl": "https://www.britannica.com/biography/Kareem-Abdul-Jabbar",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "His offensive skill was so developed coming out of high school that the collegiate basketball rules committee, fearing he would be able to score at will, made dunking illegal prior to his enrollment at the University of California, Los Angeles (UCLA), in 1965."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "ja-morant",
+    "name": "Ja Morant",
+    "monogram": "JM",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ja-morant-memphis",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Draft day",
+    "question": "Which Tennessee city's team drafted Ja Morant second overall in 2019?",
+    "clue": "Look on the Mississippi River in southwest Tennessee.",
+    "hint": "It's famous for blues music and Graceland.",
+    "answer": {
+     "city": "Memphis",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Ja Morant was drafted second overall in 2019 by the Memphis Grizzlies and was named Rookie of the Year in 2020.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ja-Morant",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Morant was drafted by the Memphis Grizzlies with the second overall pick in the 2019 NBA draft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "damian-lillard",
+    "name": "Damian Lillard",
+    "monogram": "DL",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "damian-lillard-ogden",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "College years",
+    "question": "In which Utah city did Damian Lillard play college basketball at Weber State?",
+    "clue": "Look in northern Utah, north of Salt Lake City.",
+    "hint": "It's a railway town at the foot of the Wasatch Range.",
+    "answer": {
+     "city": "Ogden",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Damian Lillard was not heavily recruited and chose Weber State University in Ogden, Utah. He became the first Weber State player taken in the first round of the NBA draft.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Damian-Lillard",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Although not heavily recruited, Lillard received several scholarship offers, ultimately accepting one from Weber State University, in Ogden, Utah, of the Big Sky Conference."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dirk-nowitzki",
+    "name": "Dirk Nowitzki",
+    "monogram": "DN",
+    "countryOfOrigin": "DE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "dirk-nowitzki-wurzburg",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which Bavarian city was Dirk Nowitzki born?",
+    "clue": "Look in northern Bavaria, on the River Main.",
+    "hint": "Its name starts with \"Wü\".",
+    "answer": {
+     "city": "Würzburg",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Dirk Nowitzki was born on 19 June 1978 in Würzburg, Germany. He is regarded as one of the greatest foreign-born players in NBA history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dirk-Nowitzki",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Dirk Nowitzki (born June 19, 1978, Würzburg, West Germany) is a German professional basketball player who is regarded as one of the greatest foreign-born players in National Basketball Association (NBA) history."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dikembe-mutombo",
+    "name": "Dikembe Mutombo",
+    "monogram": "DM",
+    "countryOfOrigin": "CD",
+    "region": "africa"
+   },
+   "question": {
+    "id": "dikembe-mutombo-denver",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Draft day",
+    "question": "Which Rocky Mountain city's team took Dikembe Mutombo fourth in the 1991 NBA draft?",
+    "clue": "Look in Colorado, at the foot of the Rockies.",
+    "hint": "It's called the Mile High City.",
+    "answer": {
+     "city": "Denver",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Dikembe Mutombo, born in Kinshasa, moved to the United States for college and was taken fourth overall by the Denver Nuggets in the 1991 NBA draft.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dikembe-Mutombo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He was then selected by the Denver Nuggets with the fourth overall pick of the 1991 NBA draft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "steve-nash",
+    "name": "Steve Nash",
+    "monogram": "SN",
+    "countryOfOrigin": "CA",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "steve-nash-victoria",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "In which British Columbia capital was Steve Nash raised?",
+    "clue": "Look on Vancouver Island, in Canada's far west.",
+    "hint": "It's British Columbia's capital, not Vancouver.",
+    "answer": {
+     "city": "Victoria",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Steve Nash was born in Johannesburg and raised in Victoria, British Columbia. Only one American college, Santa Clara, recruited him.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Steve-Nash",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Nash was raised in Victoria, British Columbia—not exactly a basketball hotbed—and was recruited by a single American college, Santa Clara University."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "Only one American college, Santa Clara University, recruited a young Steve Nash.",
+     "sourceUrl": "https://www.britannica.com/biography/Steve-Nash",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Nash was raised in Victoria, British Columbia—not exactly a basketball hotbed—and was recruited by a single American college, Santa Clara University."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "tim-duncan",
+    "name": "Tim Duncan",
+    "monogram": "TD",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "tim-duncan-san-antonio",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The championship city",
+    "question": "Which Texas city's team did Tim Duncan lead to five NBA championships?",
+    "clue": "Look in south-central Texas.",
+    "hint": "It's home to the Alamo and the River Walk.",
+    "answer": {
+     "city": "San Antonio",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Tim Duncan, from the U.S. Virgin Islands, led the San Antonio Spurs to five NBA championships between 1999 and 2014.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Tim-Duncan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Virgin Islands) is a former American collegiate and professional basketball player who led the San Antonio Spurs of the National Basketball Association (NBA) to five championships (1999, 2003, 2005, 2007, and 2014)."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Duncan won five NBA titles with San Antonio, from 1999 to 2014.",
+     "sourceUrl": "https://www.britannica.com/biography/Tim-Duncan",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Virgin Islands) is a former American collegiate and professional basketball player who led the San Antonio Spurs of the National Basketball Association (NBA) to five championships (1999, 2003, 2005, 2007, and 2014)."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "bill-russell",
+    "name": "Bill Russell",
+    "monogram": "BR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "bill-russell-boston",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The dynasty",
+    "question": "In which city did Bill Russell win 11 NBA titles in 13 seasons?",
+    "clue": "Look in New England.",
+    "hint": "It's Massachusetts' capital; its team plays in green.",
+    "answer": {
+     "city": "Boston",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Bill Russell won 11 NBA titles in 13 seasons with the Boston Celtics. In 1966 he became the first African American coach of a modern major U.S. pro team.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bill-Russell",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He won 11 NBA titles in the 13 seasons that he played with the Boston Celtics, and he became the first African American coach of a modern major professional sports team in the United States when he was named the player-coach of the Celtics in 1966."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Bill Russell won 11 NBA titles in just 13 seasons.",
+     "sourceUrl": "https://www.britannica.com/biography/Bill-Russell",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "He won 11 NBA titles in the 13 seasons that he played with the Boston Celtics, and he became the first African American coach of a modern major professional sports team in the United States when he was named the player-coach of the Celtics in 1966."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "allen-iverson",
+    "name": "Allen Iverson",
+    "monogram": "AI",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "allen-iverson-hampton",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which Virginia city was Allen Iverson born?",
+    "clue": "Look on Virginia's coast, at Hampton Roads.",
+    "hint": "The city shares its name with the bay area it sits on.",
+    "answer": {
+     "city": "Hampton",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Allen Iverson was born on 7 June 1975 in Hampton, Virginia. He was known for explosive play on the court.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Allen-Iverson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Allen Iverson (born June 7, 1975, Hampton, Virginia, U.S.) is an American basketball player known for both explosive play on the court and controversy away from the game."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "drazen-petrovic",
+    "name": "Dražen Petrović",
+    "monogram": "DP",
+    "countryOfOrigin": "HR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "drazen-petrovic-portland",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "The first NBA city",
+    "question": "Which Pacific Northwest city's team gave Dražen Petrović his NBA start in 1989?",
+    "clue": "Look in Oregon, on the Willamette River.",
+    "hint": "Its team is the Trail Blazers.",
+    "answer": {
+     "city": "Portland",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Croatian star Dražen Petrović began his NBA career with the Portland Trail Blazers in 1989, then moved to the New Jersey Nets in 1991.",
+    "sources": [
+     {
+      "url": "https://www.hoophall.com/hall-of-famers/drazen-petrovic",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "He began his career with the Portland Trail Blazers in 1989 before he was traded to the New Jersey Nets in 1991."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "pau-gasol",
+    "name": "Pau Gasol",
+    "monogram": "PG",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "pau-gasol-atlanta",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Draft day",
+    "question": "Which Georgia city's team drafted Spain's Pau Gasol third overall in 2001?",
+    "clue": "Look in the southeastern United States.",
+    "hint": "Its team is the Hawks.",
+    "answer": {
+     "city": "Atlanta",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "The Atlanta Hawks picked Pau Gasol third in the 2001 NBA draft, then the highest pick ever from Europe. He went on to win two NBA titles with the Lakers.",
+    "sources": [
+     {
+      "url": "https://www.hoophall.com/hall-of-famers/pau-gasol",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The Atlanta Hawks selected Gasol third overall in the 2001 NBA Draft, making him the highest pick from Europe at that time."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "At No. 3 in 2001, Gasol was the highest NBA draft pick from Europe at the time.",
+     "sourceUrl": "https://www.hoophall.com/hall-of-famers/pau-gasol",
+     "sourceName": "hoophall.com",
+     "quote": "The Atlanta Hawks selected Gasol third overall in the 2001 NBA Draft, making him the highest pick from Europe at that time."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "rudy-gobert",
+    "name": "Rudy Gobert",
+    "monogram": "RG",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rudy-gobert-cholet",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "The pro debut",
+    "question": "In which French town did Rudy Gobert make his professional debut at 19?",
+    "clue": "Look in western France, in the Loire region, southwest of Angers.",
+    "hint": "Its club is Cholet Basket.",
+    "answer": {
+     "city": "Cholet",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Rudy Gobert started basketball at 11 in his hometown of Saint-Quentin, then moved to Cholet, where he made his professional debut at 19.",
+    "sources": [
+     {
+      "url": "https://www.olympics.com/en/athletes/rudy-gobert",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "He started the sport at 11 in his hometown at the JSC Saint-Quentin club before moving to local powerhouse Cholet Basket Espoirs, where he made his professional debut at 19."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "patty-mills",
+    "name": "Patty Mills",
+    "monogram": "PM",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "patty-mills-canberra",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which national capital was Australian guard Patty Mills born?",
+    "clue": "Look in southeast Australia, inland between Sydney and Melbourne.",
+    "hint": "It's Australia's capital.",
+    "answer": {
+     "city": "Canberra",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Patty Mills was born in Canberra on 11 August 1988 and took up basketball at four. He won the 2014 NBA title with San Antonio.",
+    "sources": [
+     {
+      "url": "https://www.olympics.com/en/news/who-is-patty-mills-australia-basketball-player",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born on August 11, 1988, in Canberra, Patty Mills first took up basketball as a four-year-old."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "josh-giddey",
+    "name": "Josh Giddey",
+    "monogram": "JG",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "josh-giddey-adelaide",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The first pro club",
+    "question": "In which South Australian city did Josh Giddey begin his pro career in the NBL?",
+    "clue": "Look on Australia's south coast, on Gulf St Vincent.",
+    "hint": "It's South Australia's capital; the club is the 36ers.",
+    "answer": {
+     "city": "Adelaide",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Josh Giddey began his career with the Adelaide 36ers in Australia's NBL, the first Australian in the league's Next Stars program. He became the sixth pick of the 2021 NBA draft.",
+    "sources": [
+     {
+      "url": "https://www.olympics.com/en/news/who-is-josh-giddey-australia-basketball-player",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Having begun his career with Australia’s Adelaide 36ers in the National Basketball League (NBL), he was the first Australian to be part of the league’s Next Stars program, which was set up to develop NBA draft prospects."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cooper-flagg",
+    "name": "Cooper Flagg",
+    "monogram": "CF",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "cooper-flagg-newport",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "Which small Maine town is Duke's National Player of the Year Cooper Flagg from?",
+    "clue": "Look in central Maine, west of Bangor.",
+    "hint": "It shares its name with a famous Rhode Island resort city.",
+    "answer": {
+     "city": "Newport",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Cooper Flagg is from Newport, Maine. At Duke he was the 2024–25 National Player of the Year.",
+    "sources": [
+     {
+      "url": "https://goduke.com/sports/mens-basketball/roster/cooper-flagg/20760",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Newport, Maine High School: Montverde Academy"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rui-hachimura",
+    "name": "Rui Hachimura",
+    "monogram": "RH",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rui-hachimura-toyama",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "Which Japanese city on the Sea of Japan coast is Rui Hachimura's hometown?",
+    "clue": "Look on Honshu's north-central coast, facing the Sea of Japan.",
+    "hint": "The city shares its name with its prefecture.",
+    "answer": {
+     "city": "Toyama",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Rui Hachimura is from Toyama, Japan. At Gonzaga he became one of the few Japanese-born men to play NCAA Division I basketball.",
+    "sources": [
+     {
+      "url": "https://gozags.com/sports/mens-basketball/roster/rui-hachimura/2524",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Toyama, Japan High School: Meisei"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jamal-murray",
+    "name": "Jamal Murray",
+    "monogram": "JM",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jamal-murray-kitchener",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "Which Ontario city is NBA champion Jamal Murray's hometown?",
+    "clue": "Look in southern Ontario, west of Toronto.",
+    "hint": "It's twinned with Waterloo.",
+    "answer": {
+     "city": "Kitchener",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Jamal Murray is from Kitchener, Ontario. He played college basketball at Kentucky before the NBA.",
+    "sources": [
+     {
+      "url": "https://ukathletics.com/sports/mbball/roster/player/jamal-murray/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "HOMETOWN Kitchener, Ontario"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "wilt-chamberlain",
+    "name": "Wilt Chamberlain",
+    "monogram": "WC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "wilt-chamberlain-philadelphia",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "High-school star",
+    "question": "In which city did Wilt Chamberlain's Overbrook High School play draw more than 100 colleges?",
+    "clue": "Look on America's East Coast, in Pennsylvania.",
+    "hint": "It's Pennsylvania's biggest city.",
+    "answer": {
+     "city": "Philadelphia",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Wilt Chamberlain starred at Overbrook High School in Philadelphia, and more than 100 colleges tried to recruit him.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Wilt-Chamberlain",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "As a teenager, Chamberlain was sought after by more than 100 colleges and universities after his play at Overbrook High School in Philadelphia."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "diana-taurasi",
+    "name": "Diana Taurasi",
+    "monogram": "DT",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "diana-taurasi-phoenix",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The championship city",
+    "question": "Which desert city's WNBA team did Diana Taurasi lead to three titles?",
+    "clue": "Look in Arizona.",
+    "hint": "It's Arizona's capital; its team is the Mercury.",
+    "answer": {
+     "city": "Phoenix",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Diana Taurasi helped lead the Phoenix Mercury to WNBA championships in 2007, 2009 and 2014.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Diana-Taurasi",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She helped lead the Phoenix Mercury to three Women’s National Basketball Association (WNBA) championships (2007, 2009, and 2014)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "candace-parker",
+    "name": "Candace Parker",
+    "monogram": "CP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "candace-parker-naperville",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "In which Chicago-area city did Candace Parker grow up?",
+    "clue": "Look in Illinois, west of Chicago.",
+    "hint": "Its name starts with \"Naper\".",
+    "answer": {
+     "city": "Naperville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Candace Parker grew up mostly in Naperville, Illinois, where her father coached her from the age of six.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Candace-Parker",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Parker grew up mostly in Naperville, Illinois, where her father, a former basketball player at the University of Iowa, coached her in the sport from the time she was six years old."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lauren-jackson",
+    "name": "Lauren Jackson",
+    "monogram": "LJ",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "lauren-jackson-seattle",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Draft day",
+    "question": "Which US city's WNBA team made Australian star Lauren Jackson the first pick of 2001?",
+    "clue": "Look in the Pacific Northwest, on Puget Sound.",
+    "hint": "Its team is the Storm.",
+    "answer": {
+     "city": "Seattle",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Australian star Lauren Jackson was the first overall pick of the 2001 WNBA draft by the Seattle Storm. She led them to titles in 2004 and 2010.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lauren-Jackson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Seattle Storm …after it drafted Australian star Lauren Jackson with the first overall selection in the 2001 draft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "angel-reese",
+    "name": "Angel Reese",
+    "monogram": "AR",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "angel-reese-chicago",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The first WNBA city",
+    "question": "In which city did Angel Reese spend her first two WNBA seasons?",
+    "clue": "Look on Lake Michigan, in Illinois.",
+    "hint": "Its WNBA team is the Sky.",
+    "answer": {
+     "city": "Chicago",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Angel Reese spent her first two WNBA seasons with the Chicago Sky before a trade to the Atlanta Dream. At LSU she won the 2023 national championship.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Angel-Reese",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She spent her first two seasons on the Chicago Sky and was subsequently traded to the Atlanta Dream."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cheryl-miller",
+    "name": "Cheryl Miller",
+    "monogram": "CM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "cheryl-miller-moscow",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "World champions",
+    "question": "In which capital did Cheryl Miller lead the US to the 1986 women's World Championship title?",
+    "clue": "Look in Eastern Europe — it was then the Soviet capital.",
+    "hint": "It's Russia's capital.",
+    "answer": {
+     "city": "Moscow",
+     "country": "Russia",
+     "countryCode": "RU"
+    },
+    "story": "Cheryl Miller led American teams to titles at the women's World Basketball Championship in Moscow and at the Goodwill Games.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Cheryl-Miller",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Two years later she led American teams to titles at the women’s World Basketball Championship in Moscow and at the Goodwill Games, in which the United States defeated the Soviet Union to secure the gold medal."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sheryl-swoopes",
+    "name": "Sheryl Swoopes",
+    "monogram": "SS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "sheryl-swoopes-houston",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The championship city",
+    "question": "Which Texas city's WNBA team did Sheryl Swoopes help win four straight titles?",
+    "clue": "Look on Texas's Gulf Coast.",
+    "hint": "It's Texas's biggest city; the team was the Comets.",
+    "answer": {
+     "city": "Houston",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Sheryl Swoopes joined the Houston Comets for the WNBA's first season in 1997 and won four straight titles, the last in 2000.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sheryl-Swoopes",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sheryl Swoopes holding the trophy after the Houston Comets defeated the New York Liberty to win the WNBA championship, 2000."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "paige-bueckers",
+    "name": "Paige Bueckers",
+    "monogram": "PB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "paige-bueckers-hopkins",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "Which Minnesota city near Minneapolis is UConn star Paige Bueckers's hometown?",
+    "clue": "Look in Minnesota's Twin Cities area, just west of Minneapolis.",
+    "hint": "The city shares its name with a famous Baltimore university.",
+    "answer": {
+     "city": "Hopkins",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Paige Bueckers is from Hopkins, Minnesota. After UConn she was the No. 1 pick of the 2025 WNBA draft.",
+    "sources": [
+     {
+      "url": "https://uconnhuskies.com/sports/womens-basketball/roster/paige-bueckers/14065",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Hopkins, Minn."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "breanna-stewart",
+    "name": "Breanna Stewart",
+    "monogram": "BS",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "breanna-stewart-north-syracuse",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "Which upstate New York town is Breanna Stewart's hometown?",
+    "clue": "Look in central New York state.",
+    "hint": "It's just north of the city whose name it includes.",
+    "answer": {
+     "city": "North Syracuse",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Breanna Stewart is from North Syracuse, New York. She won four straight national titles at UConn.",
+    "sources": [
+     {
+      "url": "https://uconnhuskies.com/sports/womens-basketball/roster/breanna-stewart/5580",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: North Syracuse, N.Y."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "napheesa-collier",
+    "name": "Napheesa Collier",
+    "monogram": "NC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "napheesa-collier-o-fallon",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Growing up",
+    "question": "Which Missouri city near St. Louis is Napheesa Collier's hometown?",
+    "clue": "Look in eastern Missouri, west of St. Louis.",
+    "hint": "Its name begins with an Irish \"O'\".",
+    "answer": {
+     "city": "O'Fallon",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Napheesa Collier is from O'Fallon, Missouri. She starred at UConn before the WNBA.",
+    "sources": [
+     {
+      "url": "https://uconnhuskies.com/roster.aspx?rp_id=9333",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: O'Fallon, Mo."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sue-bird",
+    "name": "Sue Bird",
+    "monogram": "SB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "sue-bird-seattle",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "One-team career",
+    "question": "Which Pacific Northwest city's team did Sue Bird play for during her whole 21-year career?",
+    "clue": "Look on Puget Sound in Washington state.",
+    "hint": "Its team is the Storm.",
+    "answer": {
+     "city": "Seattle",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Sue Bird was the number one pick of the 2002 WNBA draft and spent her entire 21-year career with the Seattle Storm.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sue-Bird",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "After being drafted as the number one pick in the 2002 draft, she signed with the Seattle Storm, the team she would spend her entire 21-year career with."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Sue Bird played her entire 21-year WNBA career for one team.",
+     "sourceUrl": "https://www.britannica.com/biography/Sue-Bird",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "After being drafted as the number one pick in the 2002 draft, she signed with the Seattle Storm, the team she would spend her entire 21-year career with."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "shohei-ohtani",
+    "name": "Shohei Ohtani",
+    "monogram": "SO",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "shohei-ohtani-oshu",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which city in Iwate Prefecture was two-way star Shohei Ohtani born?",
+    "clue": "Look in northern Honshu, Japan.",
+    "hint": "Its name has just four letters.",
+    "answer": {
+     "city": "Oshu",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Shohei Ohtani was born on 5 July 1994 in Oshu, Japan. He became the sport's greatest two-way player in a century.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Shohei-Ohtani",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shohei Ohtani (born July 5, 1994, Oshu, Japan) is a Japanese professional baseball pitcher and designated hitter (DH) who established himself as the sport’s greatest two-way player in a century"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ichiro-suzuki",
+    "name": "Ichiro Suzuki",
+    "monogram": "IS",
+    "countryOfOrigin": "JP",
+    "region": "asia"
+   },
+   "question": {
+    "id": "ichiro-suzuki-kasugai",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Japanese city near Nagoya was Ichiro Suzuki born?",
+    "clue": "Look in Aichi Prefecture, just north of Nagoya.",
+    "hint": "Its name starts with \"Kasu\".",
+    "answer": {
+     "city": "Kasugai",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Ichiro Suzuki was born on 22 October 1973 in Kasugai, Japan. He has the most total hits across all professional baseball leagues.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ichiro-Suzuki",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ichiro Suzuki (born October 22, 1973, Kasugai, Japan) is a Japanese baseball player who amassed the most total hits across all professional baseball leagues in the history of the sport."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Ichiro has the most total hits across all professional baseball leagues in history.",
+     "sourceUrl": "https://www.britannica.com/biography/Ichiro-Suzuki",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Ichiro Suzuki (born October 22, 1973, Kasugai, Japan) is a Japanese baseball player who amassed the most total hits across all professional baseball leagues in the history of the sport."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "sadaharu-oh",
+    "name": "Sadaharu Oh",
+    "monogram": "SO",
+    "countryOfOrigin": "JP",
+    "region": "asia"
+   },
+   "question": {
+    "id": "sadaharu-oh-tokyo",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "The Giants years",
+    "question": "In which capital did Sadaharu Oh play 22 seasons for the Yomiuri Giants?",
+    "clue": "Look on Japan's Pacific coast, in the Kanto region.",
+    "hint": "It's Japan's capital.",
+    "answer": {
+     "city": "Tokyo",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Sadaharu Oh played 22 seasons for the Tokyo Yomiuri Giants, from 1959 to 1980. He holds the record for the most home runs ever hit: 868.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sadaharu-Oh",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sadaharu Oh (born May 20, 1940, Tokyo, Japan) is a professional baseball player who played for the Tokyo Yomiuri Giants in the Japanese Central League for 22 seasons between 1959 and 1980 and who holds the record for the most home runs ever hit (868)."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Sadaharu Oh hit 868 home runs, the most ever in professional baseball.",
+     "sourceUrl": "https://www.britannica.com/biography/Sadaharu-Oh",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Sadaharu Oh (born May 20, 1940, Tokyo, Japan) is a professional baseball player who played for the Tokyo Yomiuri Giants in the Japanese Central League for 22 seasons between 1959 and 1980 and who holds the record for the most home runs ever hit (868)."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "roberto-clemente",
+    "name": "Roberto Clemente",
+    "monogram": "RC",
+    "countryOfOrigin": "PR",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "roberto-clemente-pittsburgh",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "The championship city",
+    "question": "Which city's team did Roberto Clemente power to the 1971 World Series title?",
+    "clue": "Look in western Pennsylvania, where three rivers meet.",
+    "hint": "Its team is the Pirates.",
+    "answer": {
+     "city": "Pittsburgh",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "In 1971, aged 37, Roberto Clemente hit .414 in the World Series to power Pittsburgh to the title, winning Series MVP.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/clemente-roberto",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "In 1971, the 37-year-old Clemente led the Pirates back to the World Series, where Clemente hit .414 to power Pittsburgh to another world title en route to the Series’ Most Valuable Player Award."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ivan-rodriguez",
+    "name": "Iván Rodríguez",
+    "monogram": "IR",
+    "countryOfOrigin": "PR",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "ivan-rodriguez-detroit",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Turnaround signing",
+    "question": "Which Michigan city's team did catcher Iván \"Pudge\" Rodríguez join after it lost a record 119 games in 2003?",
+    "clue": "Look in the US Midwest, across the river from Canada.",
+    "hint": "Its team is the Tigers; the city is known as Motor City.",
+    "answer": {
+     "city": "Detroit",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Puerto Rico's Iván Rodríguez won the World Series with Florida, then signed with Detroit, a team that had lost an AL-record 119 games in 2003. By 2006 he had led the Tigers to the World Series.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/rodriguez-ivan",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Following his one-year stint in Florida, Rodríguez signed with Detroit, bringing veteran leadership to a team that had lost an American League-record 119 games in 2003."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "pedro-martinez",
+    "name": "Pedro Martínez",
+    "monogram": "PM",
+    "countryOfOrigin": "DO",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "pedro-martinez-santo-domingo",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "Growing up",
+    "question": "Pedro Martínez grew up in a one-room home on the outskirts of which capital?",
+    "clue": "Look on the south coast of Hispaniola.",
+    "hint": "It's the Dominican Republic's capital.",
+    "answer": {
+     "city": "Santo Domingo",
+     "country": "Dominican Republic",
+     "countryCode": "DO"
+    },
+    "story": "Pedro Martínez grew up with five brothers and sisters in a one-room home on the outskirts of Santo Domingo.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/martinez-pedro",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Pedro Martínez, born in Manoguayabo, Dominican Republic, on Oct. 25, 1971, grew up with five brothers and sisters in a one-room home on the outskirts of Santo Domingo."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "juan-soto",
+    "name": "Juan Soto",
+    "monogram": "JS",
+    "countryOfOrigin": "DO",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "juan-soto-washington",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "World Series",
+    "question": "In which capital did Juan Soto's team bring home the city's first World Series title in 95 years, in 2019?",
+    "clue": "Look on the Potomac River.",
+    "hint": "It's the US capital; the team is the Nationals.",
+    "answer": {
+     "city": "Washington",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "In 2019 Juan Soto helped the Nationals beat the Houston Astros in seven games, bringing a World Series title to Washington, D.C., for the first time in 95 years.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Juan-Soto",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Nationals beat the Houston Astros in seven games, bringing a World Series title to Washington, D.C., for the first time in 95 years."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ronald-acuna-jr",
+    "name": "Ronald Acuña Jr.",
+    "monogram": "RA",
+    "countryOfOrigin": "VE",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ronald-acuna-jr-la-guaira",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Venezuelan port city was Ronald Acuña Jr. born?",
+    "clue": "Look on Venezuela's Caribbean coast, near Caracas.",
+    "hint": "It's Caracas's seaport.",
+    "answer": {
+     "city": "La Guaira",
+     "country": "Venezuela",
+     "countryCode": "VE"
+    },
+    "story": "Ronald Acuña Jr. was born on 18 December 1997 in La Guaira, Venezuela. He is the only MLB player with 40 homers and 70 steals in one season.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ronald-Acuna-Jr",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "(born December 18, 1997, La Guaira,Venezuela) is a superstar baseball outfielder for the Atlanta Braves who is the only player in Major League Baseball history to hit at least 40 homers and steal at least 70 bases in a single season."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Acuña is the only player in MLB history with 40 homers and 70 steals in a single season.",
+     "sourceUrl": "https://www.britannica.com/biography/Ronald-Acuna-Jr",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "(born December 18, 1997, La Guaira,Venezuela) is a superstar baseball outfielder for the Atlanta Braves who is the only player in Major League Baseball history to hit at least 40 homers and steal at least 70 bases in a single season."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "fernando-valenzuela",
+    "name": "Fernando Valenzuela",
+    "monogram": "FV",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "fernando-valenzuela-navojoa",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Coming home",
+    "question": "After his 1981 rookie season, for which Mexican city's winter team did Fernando Valenzuela pitch, near his hometown?",
+    "clue": "Look in Sonora, northwest Mexico.",
+    "hint": "The team and city share the name; it starts with \"Navo\".",
+    "answer": {
+     "city": "Navojoa",
+     "country": "Mexico",
+     "countryCode": "MX"
+    },
+    "story": "After his 1981 rookie season, Fernando Valenzuela returned home to pitch for Navojoa in the Mexican Pacific League, and fans filled stadiums to welcome him.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Fernando-Valenzuela",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Following the 1981 season, Valenzuela returned home to play the winter season with Navojoa in the Mexican Pacific League near his hometown, and Mexican fans filled the stadiums throughout the league to welcome him."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "minnie-minoso",
+    "name": "Minnie Miñoso",
+    "monogram": "MM",
+    "countryOfOrigin": "CU",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "minnie-minoso-cleveland",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Between the White Sox stints",
+    "question": "In which Ohio city did Cuba's Minnie Miñoso hit .302 in each of his two seasons there?",
+    "clue": "Look on Lake Erie's south shore.",
+    "hint": "Its team played as the Indians.",
+    "answer": {
+     "city": "Cleveland",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Minnie Miñoso, born in Perico, Cuba, hit .302 in both his seasons in Cleveland before returning to the White Sox in 1960.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/minoso-minnie",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Miñoso hit .302 in both his seasons in Cleveland while averaging 22 homers and 86 RBI per year, then was traded back to the White Sox before the 1960 season."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "larry-walker",
+    "name": "Larry Walker",
+    "monogram": "LW",
+    "countryOfOrigin": "CA",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "larry-walker-maple-ridge",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which British Columbia city was Hall of Famer Larry Walker born?",
+    "clue": "Look in Canada's far west, east of Vancouver, on the Fraser River.",
+    "hint": "It's named after a ridge of maple trees.",
+    "answer": {
+     "city": "Maple Ridge",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Larry Walker was born in Maple Ridge, British Columbia. He grew up a hockey hopeful before becoming a Hall of Fame outfielder.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/walker-larry",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "BIRTH PLACE MAPLE RIDGE, CANADA"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jackie-robinson",
+    "name": "Jackie Robinson",
+    "monogram": "JR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jackie-robinson-montreal",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "Before the big leagues",
+    "question": "In which Canadian city did Jackie Robinson play for the Royals in 1946?",
+    "clue": "Look in Quebec, on the St. Lawrence River.",
+    "hint": "It's Quebec's biggest city.",
+    "answer": {
+     "city": "Montreal",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "In 1946 Jackie Robinson joined the Montreal Royals, the Dodgers' top farm team, and led the International League with a .349 average. In 1947 he integrated the major leagues.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/robinson-jackie",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Robinson joined the Montreal Royals, the Dodgers top farm team, in 1946 and led the International League with a .349 average and 40 stolen bases."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aaron-judge",
+    "name": "Aaron Judge",
+    "monogram": "AJ",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aaron-judge-fresno",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "College years",
+    "question": "In which California city did Aaron Judge play college baseball for the Bulldogs?",
+    "clue": "Look in California's Central Valley.",
+    "hint": "Its state university is Fresno State.",
+    "answer": {
+     "city": "Fresno",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Aaron Judge turned down the Oakland A's to take a baseball scholarship at Fresno State, his parents' university.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aaron-Judge",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "By that time, however, he had received a scholarship to play baseball at California State University, Fresno (Fresno State), his parents’ alma mater, and he was influenced by them to continue his education."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mariano-rivera",
+    "name": "Mariano Rivera",
+    "monogram": "MR",
+    "countryOfOrigin": "PA",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "mariano-rivera-puerto-caimito",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Growing up",
+    "question": "In which Panamanian fishing village, about 15 miles from Panama City, was Mariano Rivera raised?",
+    "clue": "Look on Panama's Pacific coast, west of the canal.",
+    "hint": "Its name starts with \"Puerto\".",
+    "answer": {
+     "city": "Puerto Caimito",
+     "country": "Panama",
+     "countryCode": "PA"
+    },
+    "story": "Mariano Rivera was raised in the fishing village of Puerto Caimito, Panama, where he started out with cardboard gloves and tree-branch bats.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/rivera-mariano",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Raised in the Panamanian fishing village of Puerto Caimito – about 15 miles from Panama City – Rivera began his baseball journey playing with cardboard gloves and tree-branch bats."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "Rivera began playing baseball with cardboard gloves and tree-branch bats.",
+     "sourceUrl": "https://baseballhall.org/hall-of-famers/rivera-mariano",
+     "sourceName": "baseballhall.org",
+     "quote": "Raised in the Panamanian fishing village of Puerto Caimito – about 15 miles from Panama City – Rivera began his baseball journey playing with cardboard gloves and tree-branch bats."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "mike-trout",
+    "name": "Mike Trout",
+    "monogram": "MT",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mike-trout-millville",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "High-school star",
+    "question": "In which New Jersey town was Mike Trout a high-school baseball star?",
+    "clue": "Look in South Jersey, near Vineland.",
+    "hint": "Its name sounds like a mill town.",
+    "answer": {
+     "city": "Millville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Mike Trout starred at Millville High School in New Jersey, and the Angels took him 25th overall in the 2009 draft.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mike-Trout",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Trout was a baseball star at Millville (New Jersey) High School, and his already apparent skills prompted the Los Angeles Angels of Anaheim to choose him as the 25th overall selection of the 2009 Major League Baseball (MLB) draft."
+     }
+    ]
+   }
+  }
+ ]
+}

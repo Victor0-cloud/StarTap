@@ -1,0 +1,17 @@
+# Uploaded to Vercel: only what `npm run build:web` needs (src, public, scripts, configs, package files).
+# Never upload the Android project, local tooling, build outputs, research notes or logs.
+android/
+.local-node/
+node_modules/
+.next/
+.next-mobile/
+out/
+docs/
+assets/
+*.apk
+*.aab
+*.log
+tsconfig.tsbuildinfo
+HANDOFF.md
+SPARK-PORTAL-HANDOFF.md
+pnpm-lock.yaml

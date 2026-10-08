@@ -1,0 +1,562 @@
+{
+ "nelson-mandela": {
+  "query": "Robben Island, Western Cape, South Africa",
+  "results": [
+   {
+    "lat": -33.8053,
+    "lon": 18.3688835,
+    "type": "island",
+    "category": "place",
+    "name": "Robben Island",
+    "display": "Robben Island, Robben Island Village, City of Cape Town, Western Cape, South Africa",
+    "cc": "ZA",
+    "osm": "relation/2302069"
+   }
+  ]
+ },
+ "mahatma-gandhi": {
+  "query": "city=Porbandar countrycodes=IN",
+  "results": [
+   {
+    "lat": 21.6409,
+    "lon": 69.611,
+    "type": "city",
+    "category": "place",
+    "name": "Porbandar",
+    "display": "Porbandar, Porbandar Taluka, Porbandar, Gujarat, 360500, India",
+    "cc": "IN",
+    "osm": "node/245696813"
+   }
+  ]
+ },
+ "marie-curie": {
+  "query": "city=Warsaw countrycodes=PL",
+  "results": [
+   {
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "type": "city",
+    "category": "boundary",
+    "name": "Warsaw",
+    "display": "Warsaw, Masovian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/336075"
+   }
+  ]
+ },
+ "albert-einstein": {
+  "query": "Ulm, Baden-Württemberg, Germany",
+  "results": [
+   {
+    "lat": 48.3984968,
+    "lon": 9.9912458,
+    "type": "city",
+    "category": "boundary",
+    "name": "Ulm",
+    "display": "Ulm, Baden-Württemberg, Germany",
+    "cc": "DE",
+    "osm": "relation/62495"
+   }
+  ]
+ },
+ "frida-kahlo": {
+  "query": "Coyoacán, Mexico City, Mexico",
+  "results": [
+   {
+    "lat": 19.3498606,
+    "lon": -99.1619751,
+    "type": "borough",
+    "category": "boundary",
+    "name": "Coyoacán",
+    "display": "Coyoacán, Mexico City, Mexico",
+    "cc": "MX",
+    "osm": "relation/5605709"
+   }
+  ]
+ },
+ "chinua-achebe": {
+  "query": "Ogidi, Anambra, Nigeria",
+  "results": [
+   {
+    "lat": 6.1526863,
+    "lon": 6.8668298,
+    "type": "town",
+    "category": "place",
+    "name": "Ogidi",
+    "display": "Ogidi, Idemili North, Anambra State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501438288"
+   }
+  ]
+ },
+ "wangari-maathai": {
+  "query": "city=Nyeri countrycodes=KE",
+  "results": [
+   {
+    "lat": -0.4192962,
+    "lon": 36.9517005,
+    "type": "town",
+    "category": "landuse",
+    "name": "Nyeri",
+    "display": "Nyeri, Nyeri Central, Nyeri, Kenya",
+    "cc": "KE",
+    "osm": "way/542138125"
+   }
+  ]
+ },
+ "malala-yousafzai": {
+  "query": "Mingora, Swat, Pakistan",
+  "results": [
+   {
+    "lat": 34.7725375,
+    "lon": 72.3607712,
+    "type": "city",
+    "category": "place",
+    "name": "Mingora",
+    "display": "Mingora, Babuzai Tehsil, Swat District, Malakand Division, Khyber Pakhtunkhwa, 19130, Pakistan",
+    "cc": "PK",
+    "osm": "node/4832577118"
+   }
+  ]
+ },
+ "martin-luther-king-jr": {
+  "query": "Atlanta, Georgia, United States",
+  "results": [
+   {
+    "lat": 33.7544657,
+    "lon": -84.3898151,
+    "type": "city",
+    "category": "boundary",
+    "name": "Atlanta",
+    "display": "Atlanta, Fulton County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/119557"
+   }
+  ]
+ },
+ "zaha-hadid": {
+  "query": "Baghdad, Iraq",
+  "results": [
+   {
+    "lat": 33.3061701,
+    "lon": 44.3872213,
+    "type": "city",
+    "category": "boundary",
+    "name": "Baghdad",
+    "display": "Baghdad, Green Zone Municipality, Zawra District, Baghdad Governorate, Iraq",
+    "cc": "IQ",
+    "osm": "relation/5638803"
+   },
+   {
+    "lat": 33.0112777,
+    "lon": 44.3849679,
+    "type": "state",
+    "category": "boundary",
+    "name": "Baghdad Governorate",
+    "display": "Baghdad Governorate, Iraq",
+    "cc": "IQ",
+    "osm": "relation/3242293"
+   }
+  ]
+ },
+ "amitabh-bachchan": {
+  "query": "Prayagraj, Uttar Pradesh, India",
+  "results": [
+   {
+    "lat": 25.4381302,
+    "lon": 81.8338005,
+    "type": "city",
+    "category": "place",
+    "name": "Prayagraj",
+    "display": "Prayagraj, Allahabad, Prayagraj, Uttar Pradesh, 211001, India",
+    "cc": "IN",
+    "osm": "node/245733956"
+   },
+   {
+    "lat": 25.2793187,
+    "lon": 81.9034977,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Prayagraj",
+    "display": "Prayagraj, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/1959819"
+   },
+   {
+    "lat": 25.4179803,
+    "lon": 81.7399053,
+    "type": "county",
+    "category": "boundary",
+    "name": "Allahabad",
+    "display": "Allahabad, Prayagraj, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/10029487"
+   }
+  ]
+ },
+ "alia-bhatt": {
+  "query": "Mumbai, Maharashtra, India",
+  "results": [
+   {
+    "lat": 19.054999,
+    "lon": 72.8692035,
+    "type": "city",
+    "category": "place",
+    "name": "Mumbai",
+    "display": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "cc": "IN",
+    "osm": "node/16173235"
+   }
+  ]
+ },
+ "lee-jung-jae": {
+  "query": "Gangnam-gu, Seoul, South Korea",
+  "results": [
+   {
+    "lat": 37.5177,
+    "lon": 127.0473,
+    "type": "borough",
+    "category": "boundary",
+    "name": "Gangnam-gu",
+    "display": "Gangnam-gu, Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2410520"
+   }
+  ]
+ },
+ "park-chan-wook": {
+  "query": "Seoul, South Korea",
+  "results": [
+   {
+    "lat": 37.5666791,
+    "lon": 126.9782914,
+    "type": "city",
+    "category": "boundary",
+    "name": "Seoul",
+    "display": "Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297418"
+   }
+  ]
+ },
+ "genevieve-nnaji": {
+  "query": "Yaba, Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.5068212,
+    "lon": 3.3754881,
+    "type": "suburb",
+    "category": "place",
+    "name": "Yaba",
+    "display": "Yaba, Lagos Mainland, Lagos State, 102215, Nigeria",
+    "cc": "NG",
+    "osm": "node/14136598607"
+   },
+   {
+    "lat": 6.5114693,
+    "lon": 3.3699982,
+    "type": "railway",
+    "category": "railway",
+    "name": "Yaba",
+    "display": "Yaba, Olajuwon Street, Ojuelegba, Mushin, Lagos State, 102215, Nigeria",
+    "cc": "NG",
+    "osm": "node/12260658329"
+   }
+  ]
+ },
+ "funke-akindele": {
+  "query": "Ikorodu, Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.6191233,
+    "lon": 3.5041271,
+    "type": "city",
+    "category": "boundary",
+    "name": "Ikorodu",
+    "display": "Ikorodu, Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718194"
+   }
+  ]
+ },
+ "ncuti-gatwa": {
+  "query": "Glasgow, Scotland, United Kingdom",
+  "results": [
+   {
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "type": "city",
+    "category": "place",
+    "name": "Glasgow",
+    "display": "Glasgow, Glasgow City, Scotland, G2 1AR, United Kingdom",
+    "cc": "GB",
+    "osm": "node/11127374"
+   }
+  ]
+ },
+ "mrbeast": {
+  "query": "Greenville, North Carolina, United States",
+  "results": [
+   {
+    "lat": 35.613224,
+    "lon": -77.3724593,
+    "type": "city",
+    "category": "boundary",
+    "name": "Greenville",
+    "display": "Greenville, Pitt County, North Carolina, United States",
+    "cc": "US",
+    "osm": "relation/179983"
+   }
+  ]
+ },
+ "khaby-lame": {
+  "query": "Chivasso, Turin, Italy",
+  "results": [
+   {
+    "lat": 45.1898322,
+    "lon": 7.8860277,
+    "type": "town",
+    "category": "boundary",
+    "name": "Chivasso",
+    "display": "Chivasso, Turin, Piedmont, 10034, Italy",
+    "cc": "IT",
+    "osm": "relation/44385"
+   }
+  ]
+ },
+ "emma-chamberlain": {
+  "query": "San Bruno, California, United States",
+  "results": [
+   {
+    "lat": 37.6248536,
+    "lon": -122.4145986,
+    "type": "town",
+    "category": "boundary",
+    "name": "San Bruno",
+    "display": "San Bruno, San Mateo County, California, 94066, United States",
+    "cc": "US",
+    "osm": "relation/9946925"
+   }
+  ]
+ },
+ "marques-brownlee": {
+  "query": "Maplewood, New Jersey, United States",
+  "results": [
+   {
+    "lat": 40.7312123,
+    "lon": -74.2734808,
+    "type": "town",
+    "category": "boundary",
+    "name": "Maplewood",
+    "display": "Maplewood, Essex County, New Jersey, 07040, United States",
+    "cc": "US",
+    "osm": "relation/170781"
+   }
+  ]
+ },
+ "whindersson-nunes": {
+  "query": "Bom Jesus, Piauí, Brazil",
+  "results": [
+   {
+    "lat": -9.0711644,
+    "lon": -44.3583926,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bom Jesus",
+    "display": "Bom Jesus, Piauí, Northeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/302689"
+   },
+   {
+    "lat": -5.0400642,
+    "lon": -42.8170764,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Bom Jesus",
+    "display": "Bom Jesus, Teresina, Piauí, Northeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/11920107"
+   },
+   {
+    "lat": -6.7129013,
+    "lon": -42.5319712,
+    "type": "village",
+    "category": "place",
+    "name": "Bom Jesus",
+    "display": "Bom Jesus, Cajazeiras do Piauí, Piauí, Northeast Region, Brazil",
+    "cc": "BR",
+    "osm": "node/4060406280"
+   }
+  ]
+ },
+ "carryminati": {
+  "query": "Faridabad, Haryana, India",
+  "results": [
+   {
+    "lat": 28.4031478,
+    "lon": 77.3105561,
+    "type": "city",
+    "category": "place",
+    "name": "Faridabad",
+    "display": "Faridabad, Haryana, 121001, India",
+    "cc": "IN",
+    "osm": "node/3582568815"
+   },
+   {
+    "lat": 28.3568524,
+    "lon": 77.3264937,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Faridabad",
+    "display": "Faridabad, Haryana, India",
+    "cc": "IN",
+    "osm": "relation/1943060"
+   },
+   {
+    "lat": 28.404886,
+    "lon": 77.3278063,
+    "type": "county",
+    "category": "boundary",
+    "name": "Faridabad",
+    "display": "Faridabad, Haryana, India",
+    "cc": "IN",
+    "osm": "relation/10398275"
+   }
+  ]
+ },
+ "jake-paul": {
+  "query": "Cleveland, Ohio, United States",
+  "results": [
+   {
+    "lat": 41.4996574,
+    "lon": -81.6936772,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cleveland",
+    "display": "Cleveland, Cuyahoga County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182130"
+   }
+  ]
+ },
+ "lilly-singh": {
+  "query": "Scarborough, Toronto, Ontario, Canada",
+  "results": [
+   {
+    "lat": 43.7729744,
+    "lon": -79.2576479,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Scarborough",
+    "display": "Scarborough, Toronto, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/2520672"
+   }
+  ]
+ },
+ "ninja": {
+  "query": "Grayslake, Illinois, United States",
+  "results": [
+   {
+    "lat": 42.3433518,
+    "lon": -88.0412192,
+    "type": "town",
+    "category": "boundary",
+    "name": "Grayslake",
+    "display": "Grayslake, Lake County, Illinois, 60030, United States",
+    "cc": "US",
+    "osm": "relation/125659"
+   }
+  ]
+ },
+ "naguib-mahfouz": {
+  "query": "الجمالية, القاهرة (Latin spellings returned no result)",
+  "results": [
+   {
+    "lat": 30.0518,
+    "lon": 31.2649,
+    "type": "suburb",
+    "category": "place",
+    "name": "El-Gamaliyya",
+    "display": "El-Gamaliyya, Cairo, 11681, Egypt",
+    "cc": "EG",
+    "osm": "node/394487247"
+   }
+  ]
+ },
+ "fela-kuti": {
+  "query": "Abeokuta, Ogun, Nigeria",
+  "results": [
+   {
+    "lat": 7.161,
+    "lon": 3.348,
+    "type": "city",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565109"
+   },
+   {
+    "lat": 7.1376758,
+    "lon": 3.3657283,
+    "type": "town",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "cc": "NG",
+    "osm": "node/5728563921"
+   }
+  ]
+ },
+ "sabrina-carpenter": {
+  "query": "Quakertown, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 40.4417682,
+    "lon": -75.3415667,
+    "type": "town",
+    "category": "boundary",
+    "name": "Quakertown",
+    "display": "Quakertown, Bucks County, Pennsylvania, 18951, United States",
+    "cc": "US",
+    "osm": "relation/188512"
+   }
+  ]
+ },
+ "nancy-ajram": {
+  "query": "Achrafieh, Beirut, Lebanon",
+  "results": [
+   {
+    "lat": 33.8842137,
+    "lon": 35.5215023,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Achrafieh",
+    "display": "Achrafieh, Beirut Governorate, 1100, Lebanon",
+    "cc": "LB",
+    "osm": "relation/3074290"
+   },
+   {
+    "lat": 33.8858604,
+    "lon": 35.519361,
+    "type": "city",
+    "category": "boundary",
+    "name": "Achrafieh",
+    "display": "Achrafieh, Beirut Governorate, Lebanon",
+    "cc": "LB",
+    "osm": "relation/7074074"
+   },
+   {
+    "lat": 33.8862143,
+    "lon": 35.5193562,
+    "type": "suburb",
+    "category": "place",
+    "name": "Achrafieh",
+    "display": "Achrafieh, Beirut Governorate, 1100, Lebanon",
+    "cc": "LB",
+    "osm": "node/4741764658"
+   }
+  ]
+ }
+}

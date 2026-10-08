@@ -1,0 +1,3055 @@
+[
+ {
+  "id": "mrbeast-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "In which North Carolina city was MrBeast primarily raised?",
+  "clue": "Look in the eastern part of North Carolina.",
+  "hint": "The city is home to East Carolina University.",
+  "answer": {
+   "city": "Greenville, North Carolina",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 35.6132,
+   "longitude": -77.3725,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/179983"
+  },
+  "story": "MrBeast, born Jimmy Donaldson in Wichita, Kansas, was primarily raised in Greenville, North Carolina, by his mother. He graduated from Greenville Christian Academy in 2016 and enrolled at East Carolina University.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/MrBeast",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: May 7, 1998, Wichita, Kansas, U.S. … Donaldson, the second of three children, was primarily raised in Greenville, North Carolina, by his mother, Sue Donaldson. After graduating from the Baptist high school Greenville Christian Academy in 2016, he enrolled in East Carolina University"
+   }
+  ],
+  "entityId": "mrbeast",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2.",
+    "Batch 15: also in creators/digital-entrepreneurs — built businesses from his channel, such as Feastables"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "digital-entrepreneurs"
+   }
+  ]
+ },
+ {
+  "id": "khaby-lame-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "In which Italian town did Khaby Lame grow up after his family moved from Senegal?",
+  "clue": "Look in northwestern Italy, in Piedmont.",
+  "hint": "The town is just northeast of Turin.",
+  "answer": {
+   "city": "Chivasso",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 45.1898,
+   "longitude": 7.886,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44385"
+  },
+  "story": "Born in Senegal, Khaby Lame moved with his family to a public housing complex in Chivasso, Italy, when he was a year old. He worked as a machine operator in an Italian factory until he was laid off in March 2020.",
+  "sources": [
+   {
+    "url": "https://www.buro247.my/culture/who-is-khaby-lame-8-things-to-know-about-tiktoks-no-1-star.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "was born in Senegal on 9th March 2000, but is currently based in Italy since his family moved to a public housing complex in Chivasso when he was merely a year old. … Lame worked as an operator in an Italian factory before getting laid off in March 2020"
+   }
+  ],
+  "entityId": "khaby-lame",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2.",
+    "Batch 15: also in creators/viral-personalities — his wordless reaction videos went viral worldwide"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "viral-personalities"
+   }
+  ]
+ },
+ {
+  "id": "emma-chamberlain-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "In which California city did Emma Chamberlain grow up?",
+  "clue": "Look in the San Francisco Bay Area.",
+  "hint": "The city is just south of San Francisco.",
+  "answer": {
+   "city": "San Bruno, California",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.6249,
+   "longitude": -122.4146,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9946925"
+  },
+  "story": "Emma Chamberlain grew up in San Bruno, California, just south of San Francisco. She graduated early from high school and moved from the Bay Area to Los Angeles.",
+  "sources": [
+   {
+    "url": "https://www.marieclaire.com/culture/a28778472/emma-chamberlain-youtube-interview/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Chamberlain grew up in San Bruno, California, just south of San Francisco. … She graduated early from high school, relocated to Los Angeles from the Bay Area"
+   }
+  ],
+  "entityId": "emma-chamberlain",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2.",
+    "Batch 15: also in creators/digital-entrepreneurs — founded Chamberlain Coffee from her online following"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "digital-entrepreneurs"
+   }
+  ]
+ },
+ {
+  "id": "marques-brownlee-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "Which New Jersey town is tech reviewer Marques Brownlee (MKBHD) from?",
+  "clue": "Look in northern New Jersey, near New York City.",
+  "hint": "The township is in Essex County.",
+  "answer": {
+   "city": "Maplewood, New Jersey",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7312,
+   "longitude": -74.2735,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170781"
+  },
+  "story": "Tech reviewer Marques Brownlee, known online as MKBHD, is from Maplewood, New Jersey.",
+  "sources": [
+   {
+    "url": "https://www.nbcnews.com/feature/nbcblk28-2017/nbcblk28-marques-brownlee-reviews-dope-tech-n714396",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Marques Brownlee, 23, Maplewood, NJ Tech Reviewer & YouTube Star … the New Jersey native known online simply as MKBHD"
+   }
+  ],
+  "entityId": "marques-brownlee",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "whindersson-nunes-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "In which town in Piauí did Brazilian comedian Whindersson Nunes grow up?",
+  "clue": "Look in northeastern Brazil.",
+  "hint": "The town is in the south of Piauí state.",
+  "answer": {
+   "city": "Bom Jesus, Piauí",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -9.0712,
+   "longitude": -44.3584,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/302689"
+  },
+  "story": "Whindersson Nunes was born in Palmeira do Piauí and grew up in Bom Jesus, in the state of Piauí. Before stardom he worked as a truck loader and a waiter.",
+  "sources": [
+   {
+    "url": "https://www.purepeople.com.br/noticia/whindersson-nunes-e-o-youtuber-mais-famoso-do-brasil-veja-10-curiosidades-do-humorista_a203687/1",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Natural da cidade Palmeira do Piauí, no estado do Piauí … Whindersson cresceu na cidade de Bom Jesus … o youtuber já trabalhou como carregador de caminhão e garçom antes do estrelato!"
+   }
+  ],
+  "entityId": "whindersson-nunes",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "carryminati-studio",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "A moment on the map",
+  "question": "From which city bordering New Delhi does CarryMinati (Ajey Nagar) make his videos?",
+  "clue": "Look in northern India.",
+  "hint": "The city is in Haryana, just south of Delhi.",
+  "answer": {
+   "city": "Faridabad",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 28.4031,
+   "longitude": 77.3106,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/3582568815"
+  },
+  "story": "CarryMinati, Ajey Nagar, works from his studio in Faridabad, a city bordering the Indian capital of New Delhi. His team uses part of his family home to produce his comedy sketches.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/next-generation-leaders/5584913/carryminati-ajey-nagar-next-generation-leaders/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "\"I can't go to malls or restaurants,\" Nagar tells TIME from his studio in Faridabad, a city bordering the Indian capital of New Delhi. (The team use part of his family home to produce Nagar's popular comedy sketches.)"
+   }
+  ],
+  "entityId": "carryminati",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "jake-paul-birthplace",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "secondary": [
+   {
+    "category": "sports",
+    "subcategory": "boxing"
+   }
+  ],
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Where the story began",
+  "question": "In which Ohio city was Jake Paul born?",
+  "clue": "Look in the US Midwest, on Lake Erie.",
+  "hint": "The city sits where the Cuyahoga River meets Lake Erie.",
+  "answer": {
+   "city": "Cleveland",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.4997,
+   "longitude": -81.6937,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/182130"
+  },
+  "story": "Jake Paul was born in Cleveland, Ohio, in 1997. He rose to fame with comedic, provocative videos on Vine and YouTube before becoming a professional boxer.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Jake-Paul",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Jake Paul (born January 17, 1997, Cleveland, Ohio, U.S.) is an American boxer, influencer, and actor. … Jake Paul rose to fame by creating comedic and provocative videos on Vine and YouTube."
+   }
+  ],
+  "entityId": "jake-paul",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "lilly-singh-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "Which part of Toronto is Lilly Singh from?",
+  "clue": "Look in Canada's largest city.",
+  "hint": "The district is in the east of Toronto.",
+  "answer": {
+   "city": "Scarborough, Toronto",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 43.773,
+   "longitude": -79.2576,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2520672"
+  },
+  "story": "Lilly Singh was born and raised in Scarborough, Ontario. She started her YouTube channel in 2010, the same year she graduated from York University in Toronto.",
+  "sources": [
+   {
+    "url": "https://slate.com/culture/2019/03/who-is-lilly-singh-youtube-star-nbc-late-night.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "A native of Scarborough, Ontario, Singh started her YouTube channel in 2010, the same year that she graduated from York University in Toronto."
+   },
+   {
+    "url": "https://www.capitalfm.com/internet/lilly-singh/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She was born and raised in Scarborough, Ontario."
+   }
+  ],
+  "entityId": "lilly-singh",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "ninja-hometown",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Hometown roots",
+  "question": "Which Chicago-area village is Fortnite streamer Ninja (Tyler Blevins) from?",
+  "clue": "Look in northern Illinois.",
+  "hint": "The village is in Lake County, north of Chicago.",
+  "answer": {
+   "city": "Grayslake, Illinois",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3434,
+   "longitude": -88.0412,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/125659"
+  },
+  "story": "Tyler \"Ninja\" Blevins is a Grayslake native. He became the first professional gamer to grace the cover of ESPN The Magazine.",
+  "sources": [
+   {
+    "url": "https://abc7chicago.com/post/fortnite-star-ninja-is-1st-professional-gamer-to-make-espn-cover/4285195/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "It's a huge honor for the 27-year-old Grayslake native. … Tyler Blevins is the first professional gamer to grace the cover of ESPN The Magazine."
+   }
+  ],
+  "entityId": "ninja",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2.",
+    "Batch 15: also in creators/gaming-creators — Fortnite streamer and gaming creator"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "gaming-creators"
+   }
+  ]
+ },
+ {
+  "id": "nick-digiovanni-providence",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "MasterChef to YouTube",
+  "question": "Food creator Nick DiGiovanni, once the youngest MasterChef finalist, is a native of which New England capital?",
+  "clue": "At the head of Narragansett Bay.",
+  "hint": "It's Rhode Island's capital.",
+  "answer": {
+   "city": "Providence",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.824,
+   "longitude": -71.4128,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/191210"
+  },
+  "story": "As a Harvard student in 2019, Nick DiGiovanni became the youngest MasterChef finalist at the time. After graduation the Providence, Rhode Island, native began posting cooking videos to YouTube, where he now has about 27 million subscribers.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299158/nick-digiovanni/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "After graduation, the Providence, R.I. native began uploading videos of cooking tips and tricks to YouTube"
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299158/nick-digiovanni/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "as a student at Harvard University, DiGiovanni became the youngest MasterChef finalist at the time, finishing in third place."
+   }
+  ],
+  "entityId": "nick-digiovanni",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "mark-rober-sunnyvale",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "The mad scientist",
+  "question": "Mark Rober, YouTube's 'mad scientist' of educational stunts, is based in which Silicon Valley city?",
+  "clue": "Santa Clara County, between Mountain View and San Jose.",
+  "hint": "Its name promises plenty of sunshine.",
+  "answer": {
+   "city": "Sunnyvale",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.3688,
+   "longitude": -122.0363,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/112145"
+  },
+  "story": "Mark Rober is social media's 'mad scientist', drawing more than 57 million YouTube subscribers to high-production educational stunts. He lives in Sunnyvale, California.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/mark-rober/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Social media's mad scientist attracts more than 57 million YouTube subscribers with his high-production, educational stunts."
+   },
+   {
+    "url": "https://www.forbes.com/profile/mark-rober/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Sunnyvale, California"
+   }
+  ],
+  "entityId": "mark-rober",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "alan-chikin-chow-dallas",
+  "primaryCategory": "creators",
+  "subcategory": "youtubers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Alan's Universe",
+  "question": "Alan Chikin Chow, whose Alan's Universe channel has more than 94 million subscribers, is a native of which Texas city?",
+  "clue": "North Texas, on the Trinity River.",
+  "hint": "Its NFL team is the Cowboys.",
+  "answer": {
+   "city": "Dallas",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.7763,
+   "longitude": -96.7969,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6571629"
+  },
+  "story": "Alan Chikin Chow's Alan's Universe channel has more than 94 million subscribers. In 2025 the Dallas native signed a deal with HYBE America to develop a new pop group.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299090/alan-chikin-chow/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "the Dallas native signed a deal with HYBE America"
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299090/alan-chikin-chow/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Universe channel boasting more than 94 million subscribers."
+   }
+  ],
+  "entityId": "alan-chikin-chow",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "charli-damelio-norwalk",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "TikTok's dancer",
+  "question": "TikTok dance star Charli D'Amelio is based in which Connecticut city?",
+  "clue": "Fairfield County, on Long Island Sound.",
+  "hint": "Its maritime aquarium sits on the Norwalk River.",
+  "answer": {
+   "city": "Norwalk",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.1176,
+   "longitude": -73.4079,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4139425"
+  },
+  "story": "Charli D'Amelio became a social media superstar posting dance videos on TikTok, and went on to a Broadway run in & Juliet. She lives in Norwalk, Connecticut.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/charli-damelio/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Residence Norwalk, Connecticut"
+   },
+   {
+    "url": "https://www.forbes.com/profile/charli-damelio/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Fresh off her Broadway run in & Juliet, the social media superstar is back to posting the same kinds of danc"
+   }
+  ],
+  "entityId": "charli-damelio",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "alix-earle-miami",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Get Ready With Me",
+  "question": "TikTok lifestyle creator Alix Earle is based in which Florida city?",
+  "clue": "On Biscayne Bay, south-east Florida.",
+  "hint": "Its South Beach is famous.",
+  "answer": {
+   "city": "Miami",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 25.7742,
+   "longitude": -80.1936,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1216769"
+  },
+  "story": "Alix Earle built one of social media's most influential lifestyle brands — her 'Get Ready With Me' videos are a Harvard Business School case study. She lives in Miami.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/alix-earle/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Residence Miami, Florida"
+   },
+   {
+    "url": "https://www.forbes.com/profile/alix-earle/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "There's a reason Earle is literally a Harvard Business School case study."
+   }
+  ],
+  "entityId": "alix-earle",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "mikayla-nogueira-boston",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Makeup millions",
+  "question": "Beauty TikToker Mikayla Nogueira, a Massachusetts native, is based in which city?",
+  "clue": "On Massachusetts Bay.",
+  "hint": "It's the state capital.",
+  "answer": {
+   "city": "Boston",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3588,
+   "longitude": -71.0578,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2315704"
+  },
+  "story": "Massachusetts native Mikayla Nogueira has turned makeup into millions, posting beauty tutorials and reviews for more than 20 million fans on TikTok and Instagram. She lives in Boston.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/mikayla-nogueira/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The Massachusetts native has turned makeup into millions of dollars."
+   },
+   {
+    "url": "https://www.forbes.com/profile/mikayla-nogueira/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Boston, Massachusetts"
+   }
+  ],
+  "entityId": "mikayla-nogueira",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "dylan-mulvaney-san-diego",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Days of Girlhood",
+  "question": "Dylan Mulvaney, whose 'Days of Girlhood' TikTok series drew over a billion views, is based in which Californian city?",
+  "clue": "Southern California, by the Mexican border.",
+  "hint": "Its zoo and Balboa Park are famous.",
+  "answer": {
+   "city": "San Diego",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.7157,
+   "longitude": -117.1638,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/253832"
+  },
+  "story": "Actress and LGBTQ+ activist Dylan Mulvaney gained viral fame with her 'Days of Girlhood' TikTok series, which drew more than 1 billion views. She lives in San Diego.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/dylan-mulvaney/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The actress and LGBTQ+ activist gained viral fame with her \"Days of Girlhood\" TikTok series"
+   },
+   {
+    "url": "https://www.forbes.com/profile/dylan-mulvaney/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence San Diego, California"
+   }
+  ],
+  "entityId": "dylan-mulvaney",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "reece-feldman-queens",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Red carpets",
+  "question": "Entertainment creator Reece Feldman, who covers the Oscars and the Met Gala, is a native of which New York borough?",
+  "clue": "On western Long Island, east of Manhattan.",
+  "hint": "It's home to both of New York's big airports.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7135,
+   "longitude": -73.8283,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691819"
+  },
+  "story": "Reece Feldman covers the Oscars, Emmys, Golden Globes and Met Gala. In 2025 the Queens, New York, native wrote and directed a short film that premiered at Cannes.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299166/reece-feldman/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "the Queens, N.Y. native picked up a camera himself, writing and directing a short film titled Wait, Your Car?, which premiered at Cannes"
+   }
+  ],
+  "entityId": "reece-feldman",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "devon-rodriguez-bronx",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Subway portraits",
+  "question": "Artist Devon Rodriguez, famous online for drawing strangers on the subway, grew up in which part of New York?",
+  "clue": "The only New York borough on the mainland.",
+  "hint": "It's home to Yankee Stadium.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.8298,
+   "longitude": -73.9075,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/13075913036"
+  },
+  "story": "Growing up in New York's South Bronx, Devon Rodriguez used art to escape a tumultuous home life — and his drawings became a hit with audiences online.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299114/devon-rodriguez/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Growing up in New York’s South Bronx, Devon Rodriguez used art to escape a tumultuous home life."
+   }
+  ],
+  "entityId": "devon-rodriguez",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "addison-rae-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "From TikTok to Spotify",
+  "question": "Addison Rae, who went from TikTok views to a debut album in 2025, is based in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Addison Rae evolved from millions of TikTok views to millions of Spotify streams, releasing her debut album, Addison, in 2025. She lives in Los Angeles.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/addison-rae/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Addison Rae has evolved from millions of views on TikTok to millions of streams on Spotify."
+   },
+   {
+    "url": "https://www.forbes.com/profile/addison-rae/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Los Angeles, California"
+   }
+  ],
+  "entityId": "addison-rae",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "zach-king-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "Editing magic",
+  "question": "Zach King, known for 'magic' video edits on TikTok and YouTube, is based in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Zach King started by posting video-editing tutorials on YouTube; his slick editing now stars across YouTube, TikTok and Instagram. He lives in Los Angeles.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/zach-king/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Zach King started on social media by posting video-editing tutorials on YouTube."
+   },
+   {
+    "url": "https://www.forbes.com/profile/zach-king/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Los Angeles, California"
+   }
+  ],
+  "entityId": "zach-king",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "bella-poarch-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "tiktok-creators",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "From the Navy",
+  "question": "Bella Poarch, a former US Navy helicopter mechanic with 90 million-plus TikTok followers, is based in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Bella Poarch, a former Navy helicopter mechanic, attracted more than 90 million TikTok followers and became a crossover music star. She lives in Los Angeles.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/bella-poarch/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The former Navy helicopter mechanic has continued to be a true crossover star."
+   },
+   {
+    "url": "https://www.forbes.com/profile/bella-poarch/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Los Angeles, California"
+   }
+  ],
+  "entityId": "bella-poarch",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "kai-cenat-brooklyn",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Super streamer",
+  "question": "Super-streamer Kai Cenat, who started on YouTube and Twitch in 2018, is a native of which New York borough?",
+  "clue": "Western Long Island.",
+  "hint": "Its bridge to Manhattan is famous.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.6526,
+   "longitude": -73.9497,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691750"
+  },
+  "story": "Kai Cenat is a Brooklyn native who got his start on YouTube and Twitch in 2018 and topped TIME's first Creators list in 2025.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/kai-cenat/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The Brooklyn native got his start on YouTube and Twitch in 2018"
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299142/kai-cenat/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "As a child in the Bronx and later Atlanta, Cenat and his family bounced in and out of shelters"
+   }
+  ],
+  "entityId": "kai-cenat",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "ishowspeed-cincinnati",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Most influential",
+  "question": "IShowSpeed, Rolling Stone's most influential creator of 2025, is a native of which Ohio city?",
+  "clue": "South-western Ohio, on the Ohio River.",
+  "hint": "Its NFL team is the Bengals.",
+  "answer": {
+   "city": "Cincinnati",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.1013,
+   "longitude": -84.5127,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/183453"
+  },
+  "story": "IShowSpeed — Darren Jason Watkins Jr. — is a Cincinnati native who was named Rolling Stone's most influential creator of 2025.",
+  "sources": [
+   {
+    "url": "https://www.fox19.com/2025/08/28/cincinnati-streamer-tops-rolling-stones-influential-creators-list/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Popular streamer and Cincinnati native IShowSpeed, whose real name is Darren Jason Watkins Jr., is among Rolling Stone’s Most"
+   }
+  ],
+  "entityId": "ishowspeed",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "xqc-laval",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "From Overwatch",
+  "question": "Streamer xQc, a former pro Overwatch player, was born in 1995 in which city beside Montreal?",
+  "clue": "On Île Jésus, just north of Montreal, Quebec.",
+  "hint": "The 'QC' in his name stands for Quebec.",
+  "answer": {
+   "city": "Laval",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 45.5571,
+   "longitude": -73.7212,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1438336"
+  },
+  "story": "Félix Lengyel, known as xQc, was born in Laval, Quebec, in 1995. He first made his name as a top-tier Overwatch player before becoming one of Twitch's most-watched streamers.",
+  "sources": [
+   {
+    "url": "https://esports.gg/news/streamers/xqc-streamer-profile/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born on November 12, 1995, in Laval, Quebec, xQc first gained prominence in the eSports scene as a top-tier Ov"
+   }
+  ],
+  "entityId": "xqc",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15.",
+    "Batch 18: also in creators/gaming-creators — first gained prominence in esports as a top-tier Overwatch player"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "gaming-creators"
+   }
+  ]
+ },
+ {
+  "id": "ibai-llanos-bilbao",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "La Velada",
+  "question": "Spanish streamer Ibai Llanos, creator of La Velada del Año, comes from which Basque city?",
+  "clue": "Northern Spain, on the Nervión estuary near the Bay of Biscay.",
+  "hint": "It's home to the Guggenheim Museum.",
+  "answer": {
+   "city": "Bilbao",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 43.263,
+   "longitude": -2.935,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/339549"
+  },
+  "story": "Ibai Llanos was born in 1995 and comes from Bilbao, though he now lives in the province of Barcelona. He first became known for his League of Legends broadcasts.",
+  "sources": [
+   {
+    "url": "https://www.meganoticias.cl/tendencias/441574-ibai-llanos-edad-donde-nacio-la-velada-del-ano-seo.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "El streamer es originario de Bilbao, aunque en la actualidad reside en la provincia de Barcelona."
+   },
+   {
+    "url": "https://www.meganoticias.cl/tendencias/441574-ibai-llanos-edad-donde-nacio-la-velada-del-ano-seo.html",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Ibai Llanos nació el 26 de marzo de 1995"
+   }
+  ],
+  "entityId": "ibai-llanos",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "joe-rogan-newark",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "The Experience",
+  "question": "Podcaster and UFC commentator Joe Rogan was born in 1967 in which New Jersey city?",
+  "clue": "On the Passaic River, across from Manhattan.",
+  "hint": "New Jersey's largest city, with a major airport.",
+  "answer": {
+   "city": "Newark",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7357,
+   "longitude": -74.1724,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170486"
+  },
+  "story": "Joe Rogan was born in Newark, New Jersey, in 1967. A comedian, actor and podcaster, he is also an announcer for the UFC; his family later settled in Newton Upper Falls, Massachusetts.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Joe-Rogan",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Joe Rogan (born August 11, 1967, Newark, New Jersey, U.S.) is an American comedian, actor, television host, podcaster, and announcer"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Joe-Rogan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Rogan and his family eventually settled in Newton Upper Falls, Massachusetts"
+   }
+  ],
+  "entityId": "joe-rogan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "ira-glass-chicago",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "This American Life",
+  "question": "Ira Glass's show This American Life first aired in 1995 on the public radio station of which city?",
+  "clue": "On the south-western shore of Lake Michigan.",
+  "hint": "Illinois's largest city.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.8756,
+   "longitude": -87.6244,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/122604"
+  },
+  "story": "Ira Glass, born in Baltimore in 1959, moved to Chicago in 1989 for NPR. His show, first called Your Radio Playhouse, premiered on Chicago's WBEZ in November 1995 and became This American Life.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ira-Glass",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Originally titled Your Radio Playhouse, Glass’s show first aired on Chicago’s public radio station, WBEZ, in November 1995"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Ira-Glass",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Glass moved to Chicago in 1989 to become a reporter for NPR’s Chicago bureau."
+   }
+  ],
+  "entityId": "ira-glass",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "conan-obrien-brookline",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Late night",
+  "question": "Talk-show host and podcaster Conan O'Brien was born in 1963 in which Massachusetts town?",
+  "clue": "Just west of Boston, almost surrounded by it.",
+  "hint": "JFK was also born there.",
+  "answer": {
+   "city": "Brookline",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3329,
+   "longitude": -71.1188,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2306361"
+  },
+  "story": "Conan O'Brien was born in Brookline, Massachusetts, in 1963. After graduating from Harvard he wrote for TV in Los Angeles, then hosted Late Night and The Tonight Show.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Conan-OBrien",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Conan O’Brien (born April 18, 1963, Brookline, Massachusetts, U.S.) is an American late-night talk-show personality and comedian"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Conan-OBrien",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "After graduating magna cum laude from Harvard in 1985, O’Brien moved to Los Angeles"
+   }
+  ],
+  "entityId": "conan-obrien",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "malcolm-gladwell-london",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "The Tipping Point",
+  "question": "Author and podcaster Malcolm Gladwell, a Canadian journalist, was born in 1963 in which city?",
+  "clue": "On the Thames in south-east England.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Malcolm Gladwell was born in London in 1963. A Canadian journalist known for his take on popular culture, he published his first book, The Tipping Point, in 2000.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Malcolm-Gladwell",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Malcolm Gladwell (born September 3, 1963, London, England) is a Canadian journalist and writer best known for his unique perspective on popular culture"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Malcolm-Gladwell",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 2000 Gladwell released his first book, The Tipping Point"
+   }
+  ],
+  "entityId": "malcolm-gladwell",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "marc-maron-albuquerque",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "WTF",
+  "question": "Marc Maron, host of the podcast WTF, grew up in which New Mexico city?",
+  "clue": "On the Rio Grande, central New Mexico.",
+  "hint": "It hosts a famous hot-air-balloon fiesta.",
+  "answer": {
+   "city": "Albuquerque",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 35.0841,
+   "longitude": -106.651,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/171262"
+  },
+  "story": "Marc Maron was born in Jersey City in 1963; his family moved to Alaska and then settled in Albuquerque, where he grew up. He is best known for the podcast WTF with Marc Maron (2009–25).",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Marc-Maron",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "took his New Jersey-bred family to Alaska before settling in Albuquerque, New Mexico, where Maron grew up."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Marc-Maron",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was perhaps best known for the podcast WTF with Marc Maron (2009–25)"
+   }
+  ],
+  "entityId": "marc-maron",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "alex-cooper-newtown",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "hometown",
+  "difficulty": "legend",
+  "displayCategory": "Creators",
+  "chapter": "Call Her Daddy",
+  "question": "Call Her Daddy host Alex Cooper was born and raised in which Pennsylvania town?",
+  "clue": "Bucks County, north-east of Philadelphia.",
+  "hint": "Its name means 'new town'.",
+  "answer": {
+   "city": "Newtown",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.2294,
+   "longitude": -74.9365,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3506336"
+  },
+  "story": "Alex Cooper was born and raised in Newtown, Pennsylvania. Her Call Her Daddy podcast has roughly 10 million listeners and built a $125 million media empire.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/Call-Her-Daddy",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Cooper was born and raised in Newtown, Pennsylvania"
+   },
+   {
+    "url": "https://www.britannica.com/topic/Call-Her-Daddy",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Cooper has built a circle of roughly 10 million best friends, according to listener data for her hugely popular Call Her Daddy podcast"
+   }
+  ],
+  "entityId": "alex-cooper",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "jay-shetty-london",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "On Purpose",
+  "question": "Podcaster and author Jay Shetty, who talks with guests like Oprah and Tom Holland, is a native of which city?",
+  "clue": "On the Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Jay Shetty, a London native, interviews guests from Oprah to Tom Holland to help people navigate life's challenges; he has more than 22 million followers on Instagram and TikTok.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299134/jay-shetty/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The London native’s message has resonated broadly—he has more than 22 million followers on Instagram and TikTok"
+   }
+  ],
+  "entityId": "jay-shetty",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "steven-bartlett-manchester",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "The Diary of a CEO",
+  "question": "Steven Bartlett, host of The Diary of a CEO, is based in which English city?",
+  "clue": "North-west England.",
+  "hint": "Home of United and City.",
+  "answer": {
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 53.4425,
+   "longitude": -2.2325,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/146656"
+  },
+  "story": "Steven Bartlett turned The Diary of a CEO, an interview show he started at his kitchen table, into a $425 million holding company. He lives in Manchester.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/steven-bartlett/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The Diary of a CEO host has turned the interview show he started at his kitchen table into a $425 million holding company"
+   },
+   {
+    "url": "https://www.forbes.com/profile/steven-bartlett/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Manchester, United Kingdom"
+   }
+  ],
+  "entityId": "steven-bartlett",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "dantdm-wellingborough",
+  "primaryCategory": "creators",
+  "subcategory": "gaming-creators",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "The Diamond Minecart",
+  "question": "Minecraft YouTuber DanTDM is based in which Northamptonshire town?",
+  "clue": "English East Midlands, between Northampton and Kettering.",
+  "hint": "Its name begins 'Welling'.",
+  "answer": {
+   "city": "Wellingborough",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.3019,
+   "longitude": -0.6937,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/26984900"
+  },
+  "story": "Daniel Middleton — DanTDM, or The Diamond Minecart — is a professional gamer known for his mastery of Minecraft. He lives in Wellingborough.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/dantdm/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born Daniel Middleton, the professional gamer is known online as DanTDM or The Diamond Minecraft thanks to his mastery of popular family-friendly game Minecraft."
+   },
+   {
+    "url": "https://www.forbes.com/profile/dantdm/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Wellingborough, United Kingdom"
+   }
+  ],
+  "entityId": "dantdm",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "preston-dallas",
+  "primaryCategory": "creators",
+  "subcategory": "gaming-creators",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "PrestonPlayz",
+  "question": "Gaming YouTuber Preston (PrestonPlayz), who mostly plays Minecraft, is based in which Texas city?",
+  "clue": "North Texas, on the Trinity River.",
+  "hint": "Its NFL team is the Cowboys.",
+  "answer": {
+   "city": "Dallas",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.7763,
+   "longitude": -96.7969,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6571629"
+  },
+  "story": "Preston runs several YouTube channels; his most popular, PrestonPlayz, is mostly Minecraft. He lives in Dallas.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/preston-arsement/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Preston runs several YouTube channels, but the name of his most popular one, PrestonPlayz, says all you really need to know about him"
+   },
+   {
+    "url": "https://www.forbes.com/profile/preston-arsement/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Dallas, Texas"
+   }
+  ],
+  "entityId": "preston-arsement",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "markiplier-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "gaming-creators",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "Iron Lung",
+  "question": "Gaming streamer Markiplier, whose self-funded film Iron Lung played 3,000 theatres, is based in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Markiplier is bridging content and Hollywood: the gaming streamer's self-funded, self-produced film Iron Lung played 3,000 theatres. He lives in Los Angeles.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/markiplier/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The gaming streamer's self-funded and self-produced feature film, Iron Lung, aired at 3,000 theaters around North America"
+   },
+   {
+    "url": "https://www.forbes.com/profile/markiplier/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Los Angeles, California"
+   }
+  ],
+  "entityId": "markiplier",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "ksi-london",
+  "primaryCategory": "creators",
+  "subcategory": "gaming-creators",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "FIFA videos",
+  "question": "KSI, who started in 2009 with YouTube videos about FIFA games, is based in which city?",
+  "clue": "On the Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Olajide Olatunji — KSI — began in 2009 posting YouTube videos about FIFA video games, then co-founded the Sidemen group's ventures and became a rapper and boxer. He lives in London.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/olajide-olatunji/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Olatunji got his start in 2009 when he started posting YouTube videos commenting on FIFA video games."
+   },
+   {
+    "url": "https://www.forbes.com/profile/olajide-olatunji/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence London, United Kingdom"
+   }
+  ],
+  "entityId": "ksi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "kylie-jenner-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "digital-entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "Lip kits",
+  "question": "Kylie Jenner, whose first lip kits sold out in under a minute, was born in 1997 in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Kylie Jenner was born in Los Angeles in 1997. A television personality and entrepreneur, she launched lip kits in November 2015 that sold out in less than a minute.",
+  "secondary": [
+   {
+    "category": "fashion",
+    "subcategory": "beauty-entrepreneurs"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Kylie-Jenner",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kylie Jenner (born August 10, 1997, Los Angeles, California, U.S.) is an American television personality and entrepreneur"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Kylie-Jenner",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "When the lip kits first went on sale in November 2015, they sold out in less than a minute."
+   }
+  ],
+  "entityId": "kylie-jenner",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "michelle-phan-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "digital-entrepreneurs",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Ipsy",
+  "question": "YouTube beauty pioneer Michelle Phan, co-founder of Ipsy, is based in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "A decade after her first YouTube video, Michelle Phan's name became a byword for influencer-turned-entrepreneur: she co-founded the subscription cosmetics box Ipsy. She lives in Los Angeles.",
+  "secondary": [
+   {
+    "category": "fashion",
+    "subcategory": "beauty-entrepreneurs"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/michelle-phan/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Phan's name is a byword for influencer-turned-entrepreneur. She's the cofounder of subscription cosmetics box Ipsy"
+   },
+   {
+    "url": "https://www.forbes.com/profile/michelle-phan/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Los Angeles, California"
+   }
+  ],
+  "entityId": "michelle-phan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "dhar-mann-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "digital-entrepreneurs",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "A creator studio",
+  "question": "Dhar Mann Studios, one of the largest creator-led studios, is based in which city?",
+  "clue": "Southern California.",
+  "hint": "Home of Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Dhar Mann Studios — one of the largest creator-led studios in Los Angeles — was named Studio of the Year at the Shorty Awards.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299115/dhar-mann/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Dhar Mann Studios—one of the largest creator-led studios in Los Angeles—nabbed the Studio of the Year designation at this year’s Shorty Awards."
+   }
+  ],
+  "entityId": "dhar-mann",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "gary-vaynerchuk-new-york",
+  "primaryCategory": "creators",
+  "subcategory": "digital-entrepreneurs",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Early adopter",
+  "question": "Gary Vaynerchuk, one of the internet's earliest social-media entrepreneurs, is based in which city?",
+  "clue": "At the mouth of the Hudson River.",
+  "hint": "The 'Big Apple'.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7127,
+   "longitude": -74.006,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175905"
+  },
+  "story": "Born in what is now Belarus, Gary Vaynerchuk was one of the internet's earliest adopters of social media, building a lucrative, influential following. He lives in New York.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/gary-vaynerchuk/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in the former Soviet Union in what is now Belarus, Vaynerchuk was one of the internet's earliest adopters of social media to build a following"
+   },
+   {
+    "url": "https://www.forbes.com/profile/gary-vaynerchuk/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence New York, New York"
+   }
+  ],
+  "entityId": "gary-vaynerchuk",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "kim-kardashian-calabasas",
+  "primaryCategory": "creators",
+  "subcategory": "digital-entrepreneurs",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "DASH",
+  "question": "Kim Kardashian and her sisters opened their boutique DASH in which Los Angeles-area city?",
+  "clue": "In the Santa Monica Mountains foothills, north-west of Los Angeles.",
+  "hint": "Its name is often linked with the Kardashians' reality show.",
+  "answer": {
+   "city": "Calabasas",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.1447,
+   "longitude": -118.6441,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3353286"
+  },
+  "story": "Kim Kardashian, born in Los Angeles in 1980, is a television personality and entrepreneur. With Kourtney and Khloé she opened DASH, a boutique in Calabasas, California.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Kim-Kardashian",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kim, along with Kourtney and Khloé, opened DASH, a boutique in Calabasas, California"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Kim-Kardashian",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kim Kardashian (born October 21, 1980, Los Angeles, California, U.S.) is an American television personality and entrepreneur"
+   }
+  ],
+  "entityId": "kim-kardashian",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "salt-bae-erzurum",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Before the meme",
+  "question": "'Salt Bae' Nusret Gökçe was born in a small village in which Turkish province, before moving to Istanbul aged 3?",
+  "clue": "Eastern Anatolia, high on the plateau.",
+  "hint": "Its provincial capital shares the province's name and is a ski centre.",
+  "answer": {
+   "city": "Erzurum",
+   "country": "Turkey",
+   "countryCode": "TR",
+   "latitude": 39.9063,
+   "longitude": 41.2728,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/26486754"
+  },
+  "story": "Nusret Gökçe — 'Salt Bae' — was born in a small village in Erzurum, the son of a mining worker. After moving to Istanbul aged 3 he left school and became a butcher's apprentice.",
+  "sources": [
+   {
+    "url": "https://nusr-et.com.tr/en/meet-nusret-gokce",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Nusret Gökçe was born in a small village in Erzurum as the child of a mining worker father and a housewife mother."
+   },
+   {
+    "url": "https://nusr-et.com.tr/en/meet-nusret-gokce",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "After moving to Istanbul at the age of 3, due to financial difficulties, he left school in the sixth grade and began working as an apprentice in a butcher shop"
+   }
+  ],
+  "entityId": "nusret-gokce",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "mr-macaroni-lagos",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Skit maker",
+  "question": "Nigerian skit maker Mr Macaroni was born in Ogudu and grew up in Magodo — areas of which city?",
+  "clue": "On the Atlantic coast of south-western Nigeria.",
+  "hint": "Nigeria's largest city.",
+  "answer": {
+   "city": "Lagos",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.5775,
+   "longitude": 3.3863,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/14161693335"
+  },
+  "story": "Adebowale Adedayo — Mr Macaroni — is a comic skit maker, actor and activist. He was born in Ogudu, Lagos, and grew up in the Magodo area of the city.",
+  "sources": [
+   {
+    "url": "https://guardian.ng/saturday-magazine/celebrity/mr-macaroni-skits-is-a-new-form-of-theatre-we-have-adapted/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Adedayo was born in Ogudu, Lagos. He grew up in Magodo area of Lagos"
+   },
+   {
+    "url": "https://guardian.ng/saturday-magazine/celebrity/mr-macaroni-skits-is-a-new-form-of-theatre-we-have-adapted/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Adebowale Adedayo, popularly known as Mr. Macaroni, is comic skit maker, actor and activist."
+   }
+  ],
+  "entityId": "mr-macaroni",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "druski-atlanta",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Everywhere",
+  "question": "Sketch comic Druski, who is 'everywhere' from TikTok to national TV ads, is based in which city?",
+  "clue": "In the US South, capital of Georgia.",
+  "hint": "It hosted the 1996 Olympics.",
+  "answer": {
+   "city": "Atlanta",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 33.7545,
+   "longitude": -84.3898,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/119557"
+  },
+  "story": "Born Drew Desbordes, Druski is a sketch comic who appears everywhere from YouTube, TikTok and Instagram to national TV commercials. He lives in Atlanta.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/druski/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The sketch comic these days is everywhere: YouTube, TikTok, Instagram and on national TV starring in commercials for T-Mobile and Dunkin'."
+   },
+   {
+    "url": "https://www.forbes.com/profile/druski/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Atlanta, Georgia"
+   }
+  ],
+  "entityId": "druski",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "brittany-broski-dallas",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Kombucha girl",
+  "question": "Brittany Broski, whose reaction to kombucha became a viral meme, is a native of which Texas city?",
+  "clue": "North Texas, on the Trinity River.",
+  "hint": "Its NFL team is the Cowboys.",
+  "answer": {
+   "city": "Dallas",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.7763,
+   "longitude": -96.7969,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6571629"
+  },
+  "story": "Brittany Broski's reaction to tasting kombucha went viral as a meme, with 27 million views, and propelled the Dallas native's rise to social media stardom.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299101/brittany-broski/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The clip, which has received 27 million views to date, also propelled the Dallas native’s rise to social media stardom."
+   }
+  ],
+  "entityId": "brittany-broski",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 15."
+   ]
+  }
+ },
+ {
+  "id": "thegrefg-alhama-de-murcia",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "event_location",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Record stream",
+  "question": "TheGrefg set the Guinness record for most concurrent viewers on an individual's Twitch stream from which Spanish town?",
+  "clue": "In the Region of Murcia, southeast Spain.",
+  "hint": "Its name starts with 'Alhama'.",
+  "answer": {
+   "city": "Alhama de Murcia",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 37.8515,
+   "longitude": -1.4251,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/344992"
+  },
+  "story": "On 11 January 2021 David 'TheGrefg' Cánovas drew 2,468,668 concurrent viewers to his Twitch stream from Alhama de Murcia, Spain — a Guinness record — to reveal his own Fortnite skin.",
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "gaming-creators"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.guinnessworldrecords.com/world-records/461561-most-concurrent-viewers-for-a-twitch-stream-by-an-individual",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "was achieved by David \"TheGrefg\" Cánovas Martínez (Spain) in Alhama de Murcia, Spain, on 11 January 2021."
+   },
+   {
+    "url": "https://www.guinnessworldrecords.com/world-records/461561-most-concurrent-viewers-for-a-twitch-stream-by-an-individual",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The live stream was a means to promote TheGrefg's new Fortnite skins"
+   }
+  ],
+  "entityId": "thegrefg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "casimiro-rio-de-janeiro",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "CazéTV",
+  "question": "Casimiro Miguel, the streamer whose CazéTV channel shows live Brazilian football, is from which city?",
+  "clue": "Home of Sugarloaf Mountain.",
+  "hint": "Brazil's former capital.",
+  "answer": {
+   "city": "Rio de Janeiro",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -22.911,
+   "longitude": -43.2094,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2697338"
+  },
+  "story": "Casimiro Miguel, a streamer from Rio de Janeiro, went from viral reaction videos to building CazéTV, a YouTube channel with its own production team that broadcasts live football and has reshaped Brazilian sports broadcasting.",
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "digital-entrepreneurs"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://newsletters.brazilian.report/p/casimiro-miguel-cazetv",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "will be shown live on CazéTV, the YouTube channel of Casimiro Miguel, a 31-year-old streamer from Rio de Janeiro."
+   },
+   {
+    "url": "https://newsletters.brazilian.report/p/casimiro-miguel-cazetv",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Casimiro and CazéTV redefine sports broadcasting in Brazil"
+   }
+  ],
+  "entityId": "casimiro",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "rivers-monterrey",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Streamer of the Year",
+  "question": "Samy 'Rivers' Rivera, twice Esports Awards Streamer of the Year, was born in which Mexican city?",
+  "clue": "Capital of Nuevo León, beneath Cerro de la Silla.",
+  "hint": "Mexico's industrial northern hub.",
+  "answer": {
+   "city": "Monterrey",
+   "country": "Mexico",
+   "countryCode": "MX",
+   "latitude": 25.6802,
+   "longitude": -100.3153,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/4145210488"
+  },
+  "story": "Samantha 'Rivers' Rivera was born in Monterrey in 1998. She began streaming her video games on Twitch in 2020, became the most-watched female streamer in the world, and owns the Kings League team Pio FC.",
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "digital-entrepreneurs"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.nmas.com.mx/entretenimiento/espectaculos/quien-es-samy-rivers-edad-donde-nacio-datos-streamer-mexicana-velada-ano-6/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "La mexicana nació en Monterrey el 20 de agosto de 1998."
+   },
+   {
+    "url": "https://www.nmas.com.mx/entretenimiento/espectaculos/quien-es-samy-rivers-edad-donde-nacio-datos-streamer-mexicana-velada-ano-6/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Samantha Rivera Treviño es dueña del equipo Pio FC, que participa en la Kings League y la Queens League."
+   },
+   {
+    "url": "https://expansion.mx/tecnologia/2023/07/03/rivers-gg-velada-entre-streamers-rompen-el-molde-en-twitch",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "La streamer de Monterrey fue la creadora mujer con más espectadores durante junio en toda Latinoamérica y la número cinco a nivel mundial."
+   }
+  ],
+  "entityId": "rivers",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "westcol-medellin",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Paisa streamer",
+  "question": "Colombian streamer Westcol began uploading reaction and gameplay videos as a teenager in which city?",
+  "clue": "Capital of Antioquia, the 'City of Eternal Spring'.",
+  "hint": "Colombia's second-largest city.",
+  "answer": {
+   "city": "Medellín",
+   "country": "Colombia",
+   "countryCode": "CO",
+   "latitude": 6.2697,
+   "longitude": -75.6026,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1343264"
+  },
+  "story": "Luis Fernando 'Westcol' Villa began posting reaction and gameplay videos to YouTube more than a decade ago as a teenager in Medellín, and became one of Latin America's most influential streamers on Twitch and Kick.",
+  "sources": [
+   {
+    "url": "https://www.semana.com/gente/articulo/westcol-el-streamer-paisa-que-entrevisto-a-petro-logro-ser-tendencia-en-colombia/202659/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "comenzó a subir videos de reacciones y gameplays a YouTube hace más de 10 años, cuando era un adolescente en busca de diversión en Medellín."
+   },
+   {
+    "url": "https://www.semana.com/gente/articulo/el-es-westcol-el-streamer-mas-reconocido-de-colombia-que-se-reunio-con-gustavo-petro-en-entrevista/202651/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "El joven se ha convertido en una de las figuras más influyentes del entretenimiento digital en Latinoamérica"
+   }
+  ],
+  "entityId": "westcol",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "alana-flores-monterrey",
+  "primaryCategory": "creators",
+  "subcategory": "streamers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "La Rana",
+  "question": "Streamer Alana Flores, a fighter at Ibai's La Velada del Año, was born in which Mexican city?",
+  "clue": "Capital of Nuevo León.",
+  "hint": "Its people are called regiomontanos.",
+  "answer": {
+   "city": "Monterrey",
+   "country": "Mexico",
+   "countryCode": "MX",
+   "latitude": 25.6802,
+   "longitude": -100.3153,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/4145210488"
+  },
+  "story": "Alana Flores was born in Monterrey in 2000. She streams herself playing video games and training, fought at La Velada del Año, and leads the Kings League team Raniza FC.",
+  "secondary": [
+   {
+    "category": "creators",
+    "subcategory": "gaming-creators"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.infobae.com/mexico/2025/05/28/quien-es-alana-flores-la-influencer-regiomontana-victima-de-deepfake/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Alana Flores es una influencer mexicana originaria de Monterrey, Nuevo León"
+   },
+   {
+    "url": "https://amp.milenio.com/tecnologia/alana-flores-streamer-peleara-velada-ano",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Alana Flores es una streamer e influencer de tan solo 23 años, nació en Monterrey, Nuevo León, el 15 de diciembre del 2000."
+   },
+   {
+    "url": "https://amp.milenio.com/tecnologia/alana-flores-streamer-peleara-velada-ano",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Suele hacer transmisiones en vivo jugando videojuegos o IRL"
+   }
+  ],
+  "entityId": "alana-flores",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "theo-von-covington",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "This Past Weekend",
+  "question": "Comedian and This Past Weekend podcast host Theo Von was born in which Louisiana city north of Lake Pontchartrain?",
+  "clue": "In St. Tammany Parish, across the lake from New Orleans.",
+  "hint": "It shares its name with a Kentucky city.",
+  "answer": {
+   "city": "Covington",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 30.4754,
+   "longitude": -90.101,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/132007"
+  },
+  "story": "Theo Von was born in Covington, Louisiana, in 1980. A comedian and former reality TV star, he hosts the popular podcast This Past Weekend, where guests have included Donald Trump.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Theo-Von",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Theo Von (born March 19, 1980, Covington, Louisiana, U.S.) is an American comedian, reality television star, and podcast ho"
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299180/theo-von/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Von’s ability to be a good hang—whether interviewing President Donald Trump or socialist streamer Hasan Piker on his popular podcast, This Past Weekend"
+   }
+  ],
+  "entityId": "theo-von",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "mel-robbins-dorset",
+  "primaryCategory": "creators",
+  "subcategory": "podcasters",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Let Them",
+  "question": "Podcast host Mel Robbins is based in which small Vermont town?",
+  "clue": "In Bennington County, southern Vermont, home of the oldest US marble quarry.",
+  "hint": "Shares its name with an English county.",
+  "answer": {
+   "city": "Dorset",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 43.2398,
+   "longitude": -73.0093,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/8906727"
+  },
+  "story": "Mel Robbins launched The Mel Robbins Podcast in 2022; it averaged 1.5 million weekly downloads in its first months. The former lawyer and author of The Let Them Theory lives in Dorset, Vermont.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/mel-robbins/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Residence Dorset, Vermont"
+   },
+   {
+    "url": "https://www.forbes.com/profile/mel-robbins/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Podcast host, author, and motivational speaker Mel Robbins launched her eponymous show"
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299152/mel-robbins/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Through her chart-topping podcast, The Mel Robbins Podcast"
+   }
+  ],
+  "entityId": "mel-robbins",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "ihascupquake-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "gaming-creators",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Record holder",
+  "question": "iHasCupquake, once YouTube's most-subscribed female games broadcaster, is from which city?",
+  "clue": "Home of Hollywood.",
+  "hint": "The City of Angels.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Tiffany Herrera, aka iHasCupquake, from Los Angeles, held the Guinness record for most subscribers for a female games broadcaster on YouTube, with 5,461,793 in 2017.",
+  "sources": [
+   {
+    "url": "https://www.guinnessworldrecords.com/world-records/397619-most-popular-female-videogames-broadcaster-on-youtube",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "“iHasCupquake” – aka Tiffany Herrera from Los Angeles, USA – had 5,461,793 subscribers to her games channel as of 29 March 2017."
+   }
+  ],
+  "entityId": "ihascupquake",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "jacksepticeye-cloghan",
+  "primaryCategory": "creators",
+  "subcategory": "gaming-creators",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Top of the mornin'",
+  "question": "Irish gaming YouTuber Jacksepticeye (Sean McLoughlin) is from which village in County Offaly?",
+  "clue": "In the Irish midlands, near the River Shannon.",
+  "hint": "Its name starts with 'Clog'.",
+  "answer": {
+   "city": "Cloghan",
+   "country": "Ireland",
+   "countryCode": "IE",
+   "latitude": 53.2249,
+   "longitude": -7.8826,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/14571179"
+  },
+  "story": "Sean McLoughlin, the gaming YouTuber Jacksepticeye, is from Cloghan, County Offaly. He didn't have internet growing up, and now has tens of millions of YouTube subscribers.",
+  "sources": [
+   {
+    "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-40356542.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He wanted McLoughlin, from Cloghan, Co Offaly, to play himself in a cameo."
+   },
+   {
+    "url": "https://www.irishtimes.com/culture/tv-radio-web/jacksepticeye-the-millionaire-youtuber-from-offaly-1.4796818",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Sean McLoughlin didn’t have internet growing up. Now he has 28m YouTube subscribers"
+   }
+  ],
+  "entityId": "jacksepticeye",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "keith-lee-las-vegas",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Food critic",
+  "question": "Keith Lee, whose viral food reviews boost local restaurants, is based in which city?",
+  "clue": "In the Mojave Desert, famous for its Strip.",
+  "hint": "Sin City.",
+  "answer": {
+   "city": "Las Vegas",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 36.1674,
+   "longitude": -115.1484,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170117"
+  },
+  "story": "Former professional fighter Keith Lee is based in Las Vegas. His viral food reviews have helped hundreds of local restaurants around the US increase sales and fame.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/keith-lee/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "PROFILE Keith Lee Creator Las Vegas, Nevada"
+   },
+   {
+    "url": "https://www.forbes.com/profile/keith-lee/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Keith Lee's viral food reviews have helped hundreds of local restaurants around the country increase sales and social media fame."
+   }
+  ],
+  "entityId": "keith-lee",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "kris-collins-vancouver",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Pandemic fame",
+  "question": "Before TikTok fame, sketch comic Kris Collins was a hairdresser in which Canadian city?",
+  "clue": "On the Pacific coast of British Columbia.",
+  "hint": "It hosted the 2010 Winter Olympics.",
+  "answer": {
+   "city": "Vancouver",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 49.2609,
+   "longitude": -123.114,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1852574"
+  },
+  "story": "Kris Collins was a hairdresser in Vancouver before the pandemic. When Covid stopped work she downloaded TikTok and built a huge following with sketches based on her family.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/kris-collins/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Before the pandemic, Collins was a hairdresser in Vancouver."
+   },
+   {
+    "url": "https://www.forbes.com/profile/kris-collins/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Collins is another example of how fast someone can accumulate fame and money off TikTok."
+   }
+  ],
+  "entityId": "kris-collins",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "amelia-dimoldenberg-london",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Creators",
+  "chapter": "Chicken Shop Date",
+  "question": "Chicken Shop Date host Amelia Dimoldenberg, whose awkward celebrity interviews went viral, is based in which city?",
+  "clue": "On the River Thames.",
+  "hint": "The UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "London-based comedian Amelia Dimoldenberg launched Chicken Shop Date on YouTube in 2014. It found a wide audience years later through viral episodes with Jack Harlow and Jennifer Lawrence.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299096/amelia-dimoldenberg/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "“Everyone said no,” the 31-year-old, London-based comedian tells TIME."
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299096/amelia-dimoldenberg/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "It took another eight years for the show to find a wide audience, which it did thanks to viral episodes with rapper Jack Harlow, actor Jennifer Lawrence"
+   }
+  ],
+  "entityId": "amelia-dimoldenberg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "jake-shane-los-angeles",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Creators",
+  "chapter": "Octopus critic",
+  "question": "Jake Shane, who went viral as an octopus-only food critic, is based in which city?",
+  "clue": "Home of Hollywood.",
+  "hint": "The City of Angels.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0537,
+   "longitude": -118.2428,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Jake Shane started as an Instagram food critic who only reviewed octopus, then went viral with improv-style reenactments of pop culture moments. He is based in Los Angeles.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/jake-shane/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Residence Los Angeles, California"
+   },
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299132/jake-shane/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Shane gained traction in 2023 for his viral, improv-style reenactments of pop culture moments and historical events"
+   }
+  ],
+  "entityId": "jake-shane",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "haley-kalil-st-cloud",
+  "primaryCategory": "creators",
+  "subcategory": "viral-personalities",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Creators",
+  "chapter": "Fashion and satire",
+  "question": "Satirical creator Haley Kalil graduated from the state university in which city in her native Minnesota?",
+  "clue": "On the Mississippi, northwest of Minneapolis.",
+  "hint": "Saint ... ?",
+  "answer": {
+   "city": "St. Cloud",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 45.5616,
+   "longitude": -94.1642,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/137238"
+  },
+  "story": "Haley Kalil graduated summa cum laude from St. Cloud State University in her native Minnesota, and built a following of 23 million by blending fashion and satire.",
+  "sources": [
+   {
+    "url": "https://time.com/collections/time100-creators-2025/7299123/haley-kalil/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "who graduated summa cum laude with a degree in biomedical sciences and psychology from St. Cloud State University in her native Minnesota, has built a following of 23 million across TikTok and Instagram by blending fashion and satire."
+   }
+  ],
+  "entityId": "haley-kalil",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ }
+]

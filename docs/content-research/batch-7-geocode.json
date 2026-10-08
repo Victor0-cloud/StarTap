@@ -1,0 +1,812 @@
+{
+ "bryce-harper": {
+  "query": "Henderson, Nevada, United States",
+  "results": [
+   {
+    "lat": 36.0319602,
+    "lon": -114.9822716,
+    "type": "city",
+    "category": "boundary",
+    "name": "Henderson",
+    "display": "Henderson, Clark County, Nevada, United States",
+    "cc": "US",
+    "osm": "relation/170116"
+   }
+  ]
+ },
+ "mookie-betts": {
+  "query": "Nashville, Tennessee, United States",
+  "results": [
+   {
+    "lat": 36.1622767,
+    "lon": -86.7742984,
+    "type": "city",
+    "category": "boundary",
+    "name": "Nashville",
+    "display": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States",
+    "cc": "US",
+    "osm": "relation/197472"
+   }
+  ]
+ },
+ "freddie-freeman": {
+  "query": "Orange, Orange County, California, United States",
+  "results": [
+   {
+    "lat": 33.7872568,
+    "lon": -117.850308,
+    "type": "city",
+    "category": "boundary",
+    "name": "Orange",
+    "display": "Orange, Orange County, California, United States",
+    "cc": "US",
+    "osm": "relation/112972"
+   }
+  ]
+ },
+ "paul-skenes": {
+  "query": "Lake Forest, Orange County, California, United States",
+  "results": [
+   {
+    "lat": 33.6469261,
+    "lon": -117.6859213,
+    "type": "town",
+    "category": "boundary",
+    "name": "Lake Forest",
+    "display": "Lake Forest, Orange County, California, United States",
+    "cc": "US",
+    "osm": "relation/2310727"
+   }
+  ]
+ },
+ "vladimir-guerrero-jr": {
+  "query": "Montreal, Quebec, Canada",
+  "results": [
+   {
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "type": "city",
+    "category": "boundary",
+    "name": "Montreal",
+    "display": "Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1634158"
+   },
+   {
+    "lat": 45.5505849,
+    "lon": -73.6022317,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Montreal (administrative region)",
+    "display": "Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1571328"
+   }
+  ]
+ },
+ "jung-hoo-lee": {
+  "query": "San Francisco, California, United States",
+  "results": [
+   {
+    "lat": 37.7879363,
+    "lon": -122.4075201,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Francisco",
+    "display": "San Francisco, California, United States",
+    "cc": "US",
+    "osm": "relation/111968"
+   }
+  ]
+ },
+ "hyun-jin-ryu": {
+  "query": "Toronto, Ontario, Canada",
+  "results": [
+   {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "type": "city",
+    "category": "boundary",
+    "name": "Toronto",
+    "display": "Toronto, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/324211"
+   }
+  ]
+ },
+ "julio-rodriguez": {
+  "query": "Loma de Cabrera, Dominican Republic",
+  "results": [
+   {
+    "lat": 19.4203766,
+    "lon": -71.6131436,
+    "type": "town",
+    "category": "place",
+    "name": "Loma de Cabrera",
+    "display": "Loma de Cabrera, Dajabón, 60403, Dominican Republic",
+    "cc": "DO",
+    "osm": "node/2175013940"
+   }
+  ]
+ },
+ "fernando-tatis-jr": {
+  "query": "San Pedro de Macorís, Dominican Republic",
+  "results": [
+   {
+    "lat": 18.4617093,
+    "lon": -69.3031847,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Pedro de Macorís",
+    "display": "San Pedro de Macorís, 52606, Dominican Republic",
+    "cc": "DO",
+    "osm": "relation/7405546"
+   }
+  ]
+ },
+ "yoshinobu-yamamoto": {
+  "query": "Bizen, Okayama, Japan",
+  "results": [
+   {
+    "lat": 34.744987,
+    "lon": 134.1882633,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bizen",
+    "display": "Bizen, Okayama Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/3938913"
+   }
+  ]
+ },
+ "elly-de-la-cruz": {
+  "query": "Sabana Grande de Boyá, Monte Plata, Dominican Republic",
+  "results": [
+   {
+    "lat": 18.9474297,
+    "lon": -69.7916445,
+    "type": "town",
+    "category": "boundary",
+    "name": "Sabana Grande de Boyá",
+    "display": "Sabana Grande de Boyá, El Grillo, Monte Plata, 51804, Dominican Republic",
+    "cc": "DO",
+    "osm": "relation/7405672"
+   }
+  ]
+ },
+ "yordan-alvarez": {
+  "query": "Las Tunas, Cuba",
+  "results": [
+   {
+    "lat": 20.9612392,
+    "lon": -76.955157,
+    "type": "city",
+    "category": "boundary",
+    "name": "Las Tunas",
+    "display": "Las Tunas, Cuba",
+    "cc": "CU",
+    "osm": "relation/11346509"
+   },
+   {
+    "lat": 20.9568858,
+    "lon": -76.9537242,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Las Tunas",
+    "display": "Las Tunas, Cuba",
+    "cc": "CU",
+    "osm": "relation/5901299"
+   }
+  ]
+ },
+ "derek-jeter": {
+  "query": "Kalamazoo, Michigan, United States",
+  "results": [
+   {
+    "lat": 42.291707,
+    "lon": -85.5872286,
+    "type": "city",
+    "category": "boundary",
+    "name": "Kalamazoo",
+    "display": "Kalamazoo, Kalamazoo County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/135028"
+   },
+   {
+    "lat": 42.2494968,
+    "lon": -85.5372797,
+    "type": "county",
+    "category": "boundary",
+    "name": "Kalamazoo County",
+    "display": "Kalamazoo County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/1907317"
+   }
+  ]
+ },
+ "ken-griffey-jr": {
+  "query": "Cincinnati, Ohio, United States",
+  "results": [
+   {
+    "lat": 39.1012809,
+    "lon": -84.5127405,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cincinnati",
+    "display": "Cincinnati, Hamilton County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/183453"
+   }
+  ]
+ },
+ "hideo-nomo": {
+  "query": "Los Angeles, California, United States",
+  "results": [
+   {
+    "lat": 34.0536909,
+    "lon": -118.242766,
+    "type": "city",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "county",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "patrick-mahomes": {
+  "query": "Kansas City, Missouri, United States",
+  "results": [
+   {
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "type": "city",
+    "category": "boundary",
+    "name": "Kansas City",
+    "display": "Kansas City, Jackson County, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/141008"
+   }
+  ]
+ },
+ "josh-allen": {
+  "query": "Firebaugh, California, United States",
+  "results": [
+   {
+    "lat": 36.8588376,
+    "lon": -120.456007,
+    "type": "town",
+    "category": "boundary",
+    "name": "Firebaugh",
+    "display": "Firebaugh, Fresno County, California, United States",
+    "cc": "US",
+    "osm": "relation/8197066"
+   }
+  ]
+ },
+ "lamar-jackson": {
+  "query": "Louisville, Kentucky, United States",
+  "results": [
+   {
+    "lat": 38.2542376,
+    "lon": -85.759407,
+    "type": "city",
+    "category": "boundary",
+    "name": "Louisville",
+    "display": "Louisville, Jefferson County, Kentucky, United States",
+    "cc": "US",
+    "osm": "relation/1804307"
+   }
+  ]
+ },
+ "joe-burrow": {
+  "query": "Athens, Athens County, Ohio, United States",
+  "results": [
+   {
+    "lat": 39.3289242,
+    "lon": -82.1012479,
+    "type": "city",
+    "category": "boundary",
+    "name": "Athens",
+    "display": "Athens, Athens Township, Athens County, Ohio, 45701, United States",
+    "cc": "US",
+    "osm": "relation/182845"
+   }
+  ]
+ },
+ "jalen-hurts": {
+  "query": "Channelview, Texas, United States",
+  "results": [
+   {
+    "lat": 29.7760599,
+    "lon": -95.1146533,
+    "type": "town",
+    "category": "place",
+    "name": "Channelview",
+    "display": "Channelview, Harris County, Texas, 77530, United States",
+    "cc": "US",
+    "osm": "node/151739376"
+   }
+  ]
+ },
+ "aaron-rodgers": {
+  "query": "Berkeley, California, United States",
+  "results": [
+   {
+    "lat": 37.8708393,
+    "lon": -122.272863,
+    "type": "city",
+    "category": "boundary",
+    "name": "Berkeley",
+    "display": "Berkeley, Alameda County, California, United States",
+    "cc": "US",
+    "osm": "relation/2833528"
+   }
+  ]
+ },
+ "caleb-williams": {
+  "query": "Washington, District of Columbia, United States",
+  "results": [
+   {
+    "lat": 38.8950982,
+    "lon": -77.0363849,
+    "type": "city",
+    "category": "place",
+    "name": "Washington",
+    "display": "Washington, District of Columbia, United States",
+    "cc": "US",
+    "osm": "relation/5396194"
+   }
+  ]
+ },
+ "jayden-daniels": {
+  "query": "San Bernardino, California, United States",
+  "results": [
+   {
+    "lat": 34.1081621,
+    "lon": -117.28946,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Bernardino",
+    "display": "San Bernardino, San Bernardino County, California, United States",
+    "cc": "US",
+    "osm": "relation/253639"
+   }
+  ]
+ },
+ "tom-brady": {
+  "query": "San Mateo, San Mateo County, California, United States",
+  "results": [
+   {
+    "lat": 37.5629997,
+    "lon": -122.3253265,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Mateo",
+    "display": "San Mateo, San Mateo County, California, United States",
+    "cc": "US",
+    "osm": "relation/2835017"
+   }
+  ]
+ },
+ "peyton-manning": {
+  "query": "Indianapolis, Indiana, United States",
+  "results": [
+   {
+    "lat": 39.7683331,
+    "lon": -86.1583502,
+    "type": "city",
+    "category": "boundary",
+    "name": "Indianapolis",
+    "display": "Indianapolis, Center Township, Marion County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/18438530"
+   }
+  ]
+ },
+ "dan-marino": {
+  "query": "Miami, Florida, United States",
+  "results": [
+   {
+    "lat": 25.7741566,
+    "lon": -80.1935973,
+    "type": "city",
+    "category": "boundary",
+    "name": "Miami",
+    "display": "Miami, Miami-Dade County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/1216769"
+   }
+  ]
+ },
+ "tyreek-hill": {
+  "query": "Garden City, Finney County, Kansas, United States",
+  "results": [
+   {
+    "lat": 37.9716898,
+    "lon": -100.8726618,
+    "type": "city",
+    "category": "boundary",
+    "name": "Garden City",
+    "display": "Garden City, Finney County, Kansas, 67846, United States",
+    "cc": "US",
+    "osm": "relation/129924"
+   }
+  ]
+ },
+ "travis-kelce": {
+  "query": "Cleveland Heights, Ohio, United States",
+  "results": [
+   {
+    "lat": 41.5200518,
+    "lon": -81.556235,
+    "type": "town",
+    "category": "boundary",
+    "name": "Cleveland Heights",
+    "display": "Cleveland Heights, Cuyahoga County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182128"
+   }
+  ]
+ },
+ "justin-jefferson": {
+  "query": "St. Rose, St. Charles Parish, Louisiana, United States",
+  "results": [
+   {
+    "lat": 29.9468716,
+    "lon": -90.3231349,
+    "type": "hamlet",
+    "category": "place",
+    "name": "St. Rose",
+    "display": "St. Rose, Saint Charles Parish, Louisiana, 70087, United States",
+    "cc": "US",
+    "osm": "relation/131713"
+   }
+  ]
+ },
+ "jamarr-chase": {
+  "query": "Harvey, Jefferson Parish, Louisiana, United States",
+  "results": [
+   {
+    "lat": 29.9035387,
+    "lon": -90.0772944,
+    "type": "village",
+    "category": "place",
+    "name": "Harvey",
+    "display": "Harvey, Jefferson Parish, Louisiana, United States",
+    "cc": "US",
+    "osm": "relation/131742"
+   }
+  ]
+ },
+ "puka-nacua": {
+  "query": "Provo, Utah, United States",
+  "results": [
+   {
+    "lat": 40.2337289,
+    "lon": -111.6587085,
+    "type": "city",
+    "category": "boundary",
+    "name": "Provo",
+    "display": "Provo, Utah County, Utah, United States",
+    "cc": "US",
+    "osm": "relation/198903"
+   }
+  ]
+ },
+ "brock-bowers": {
+  "query": "Napa, California, United States",
+  "results": [
+   {
+    "lat": 38.2971367,
+    "lon": -122.2855293,
+    "type": "city",
+    "category": "boundary",
+    "name": "Napa",
+    "display": "Napa, Napa County, California, United States",
+    "cc": "US",
+    "osm": "relation/111735"
+   }
+  ]
+ },
+ "jerry-rice": {
+  "query": "Itta Bena, Mississippi, United States",
+  "results": [
+   {
+    "lat": 33.4951269,
+    "lon": -90.3229458,
+    "type": "village",
+    "category": "boundary",
+    "name": "Itta Bena",
+    "display": "Itta Bena, Leflore County, Mississippi, 38941, United States",
+    "cc": "US",
+    "osm": "relation/13578505"
+   }
+  ]
+ },
+ "rob-gronkowski": {
+  "query": "Amherst, Erie County, New York, United States",
+  "results": [
+   {
+    "lat": 42.9783924,
+    "lon": -78.7997616,
+    "type": "town",
+    "category": "boundary",
+    "name": "Town of Amherst",
+    "display": "Town of Amherst, Erie County, New York, United States",
+    "cc": "US",
+    "osm": "relation/5472915"
+   }
+  ]
+ },
+ "randy-moss": {
+  "query": "Oakland, California, United States",
+  "results": [
+   {
+    "lat": 37.8044557,
+    "lon": -122.271356,
+    "type": "city",
+    "category": "boundary",
+    "name": "Oakland",
+    "display": "Oakland, Alameda County, California, United States",
+    "cc": "US",
+    "osm": "relation/2833530"
+   }
+  ]
+ },
+ "saquon-barkley": {
+  "query": "Philadelphia, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "city",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "county",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   }
+  ]
+ },
+ "christian-mccaffrey": {
+  "query": "Castle Rock, Douglas County, Colorado, United States",
+  "results": [
+   {
+    "lat": 39.3722552,
+    "lon": -104.858682,
+    "type": "town",
+    "category": "boundary",
+    "name": "Castle Rock",
+    "display": "Castle Rock, Douglas County, Colorado, United States",
+    "cc": "US",
+    "osm": "relation/112343"
+   }
+  ]
+ },
+ "derrick-henry": {
+  "query": "Yulee, Florida, United States",
+  "results": [
+   {
+    "lat": 30.6320594,
+    "lon": -81.6012807,
+    "type": "town",
+    "category": "place",
+    "name": "Yulee",
+    "display": "Yulee, Nassau County, Florida, 32041, United States",
+    "cc": "US",
+    "osm": "relation/119079"
+   }
+  ]
+ },
+ "bijan-robinson": {
+  "query": "Tucson, Arizona, United States",
+  "results": [
+   {
+    "lat": 32.2228765,
+    "lon": -110.974847,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tucson",
+    "display": "Tucson, Pima County, Arizona, United States",
+    "cc": "US",
+    "osm": "relation/253824"
+   }
+  ]
+ },
+ "walter-payton": {
+  "query": "Jackson, Hinds County, Mississippi, United States",
+  "results": [
+   {
+    "lat": 32.2998686,
+    "lon": -90.1830408,
+    "type": "city",
+    "category": "boundary",
+    "name": "Jackson",
+    "display": "Jackson, Hinds County, Mississippi, United States",
+    "cc": "US",
+    "osm": "relation/109847"
+   }
+  ]
+ },
+ "jim-brown": {
+  "query": "Syracuse, Onondaga County, New York, United States",
+  "results": [
+   {
+    "lat": 43.0481221,
+    "lon": -76.1474244,
+    "type": "city",
+    "category": "boundary",
+    "name": "City of Syracuse",
+    "display": "City of Syracuse, Onondaga County, New York, United States",
+    "cc": "US",
+    "osm": "relation/174916"
+   }
+  ]
+ },
+ "nick-bosa": {
+  "query": "Fort Lauderdale, Florida, United States",
+  "results": [
+   {
+    "lat": 26.1223084,
+    "lon": -80.1433786,
+    "type": "city",
+    "category": "boundary",
+    "name": "Fort Lauderdale",
+    "display": "Fort Lauderdale, Broward County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/117955"
+   }
+  ]
+ },
+ "aaron-donald": {
+  "query": "Penn Hills, Allegheny County, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 40.4729398,
+    "lon": -79.8176723,
+    "type": "town",
+    "category": "boundary",
+    "name": "Penn Hills",
+    "display": "Penn Hills, Allegheny County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/187510"
+   }
+  ]
+ },
+ "micah-parsons": {
+  "query": "Harrisburg, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 40.2663107,
+    "lon": -76.8861122,
+    "type": "city",
+    "category": "boundary",
+    "name": "Harrisburg",
+    "display": "Harrisburg, Dauphin County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188218"
+   }
+  ]
+ },
+ "myles-garrett": {
+  "query": "Arlington, Tarrant County, Texas, United States",
+  "results": [
+   {
+    "lat": 32.7355816,
+    "lon": -97.1071186,
+    "type": "city",
+    "category": "boundary",
+    "name": "Arlington",
+    "display": "Arlington, Tarrant County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/115329"
+   }
+  ]
+ },
+ "tj-watt": {
+  "query": "Pewaukee, Waukesha County, Wisconsin, United States",
+  "results": [
+   {
+    "lat": 43.0846017,
+    "lon": -88.2139452,
+    "type": "town",
+    "category": "boundary",
+    "name": "City of Pewaukee",
+    "display": "City of Pewaukee, Waukesha County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/251049"
+   },
+   {
+    "lat": 43.0805651,
+    "lon": -88.2612045,
+    "type": "town",
+    "category": "boundary",
+    "name": "Village of Pewaukee",
+    "display": "Village of Pewaukee, Waukesha County, Wisconsin, 53072, United States",
+    "cc": "US",
+    "osm": "relation/251048"
+   }
+  ]
+ },
+ "lawrence-taylor": {
+  "query": "New York City, New York, United States",
+  "results": [
+   {
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "city",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/175905"
+   }
+  ]
+ },
+ "ray-lewis": {
+  "query": "Baltimore, Maryland, United States",
+  "results": [
+   {
+    "lat": 39.2908816,
+    "lon": -76.610759,
+    "type": "city",
+    "category": "boundary",
+    "name": "Baltimore",
+    "display": "Baltimore, Maryland, United States",
+    "cc": "US",
+    "osm": "relation/133345"
+   }
+  ]
+ },
+ "troy-polamalu": {
+  "query": "Winston, Douglas County, Oregon, United States",
+  "results": [
+   {
+    "lat": 43.1220119,
+    "lon": -123.413138,
+    "type": "village",
+    "category": "boundary",
+    "name": "Winston",
+    "display": "Winston, Douglas County, Oregon, 97496, United States",
+    "cc": "US",
+    "osm": "relation/186523"
+   }
+  ]
+ },
+ "deion-sanders": {
+  "query": "Atlanta, Georgia, United States",
+  "results": [
+   {
+    "lat": 33.7544657,
+    "lon": -84.3898151,
+    "type": "city",
+    "category": "boundary",
+    "name": "Atlanta",
+    "display": "Atlanta, Fulton County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/119557"
+   }
+  ]
+ }
+}

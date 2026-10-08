@@ -1,0 +1,4296 @@
+{
+ "batch": 17,
+ "researched": "2026-10-07",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "tom-hanks",
+    "name": "Tom Hanks",
+    "monogram": "TH",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "tom-hanks-concord",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Tom Hanks, Hollywood's cheerful everyman, was born in which Northern California city?",
+    "clue": "East of San Francisco Bay, in Contra Costa County.",
+    "hint": "It shares its name with a Massachusetts revolutionary battle town.",
+    "answer": {
+     "city": "Concord",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Concord, California"
+    },
+    "story": "Tom Hanks was born in Concord, California, in 1956. His cheerful everyman persona made him a natural for starring roles in many popular films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Tom-Hanks",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Tom Hanks (born July 9, 1956, Concord, California, U.S.) is an American actor whose cheerful everyman persona made him a natural for starring roles in many popular films."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "denzel-washington",
+    "name": "Denzel Washington",
+    "monogram": "DW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "denzel-washington-mount-vernon",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Denzel Washington was born in which city in Westchester County, just north of the Bronx?",
+    "clue": "It borders New York City to the north.",
+    "hint": "Its name honours George Washington's estate.",
+    "answer": {
+     "city": "Mount Vernon",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Mount Vernon, New York"
+    },
+    "story": "Denzel Washington was born in Mount Vernon, New York, in 1954, and became one of Hollywood's most celebrated actors for his engaging and powerful performances.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Denzel-Washington",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Denzel Washington (born December 28, 1954, Mount Vernon, New York, U.S.) is an American actor celebrated for his engaging and powerful performances."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "leonardo-dicaprio",
+    "name": "Leonardo DiCaprio",
+    "monogram": "LD",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "leonardo-dicaprio-los-angeles",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Leonardo DiCaprio, who began as a child actor, was born in which city?",
+    "clue": "Hollywood is one of its districts.",
+    "hint": "The City of Angels.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Los Angeles, California"
+    },
+    "story": "Leonardo DiCaprio was born in Los Angeles in 1974 and emerged in the early 1990s as a promising child actor before becoming a Hollywood leading man.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Leonardo-DiCaprio",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Leonardo DiCaprio (born November 11, 1974, Los Angeles, California, U.S.) is an American actor and producer who emerged in the early 1990s as a promising child actor and by the decade’s end had become a superstar heartthrob, most notably through his starring role in the box-office smash Titanic (1997)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "brad-pitt",
+    "name": "Brad Pitt",
+    "monogram": "BP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "brad-pitt-shawnee",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Brad Pitt was born in which Oklahoma city, named after a Native American nation?",
+    "clue": "Central Oklahoma, east of Oklahoma City.",
+    "hint": "Its name starts with 'Shaw'.",
+    "answer": {
+     "city": "Shawnee",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Shawnee, Oklahoma"
+    },
+    "story": "Brad Pitt was born in Shawnee, Oklahoma, in 1963. He became known for his portrayals of unconventional characters.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Brad-Pitt",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Brad Pitt (born December 18, 1963, Shawnee, Oklahoma, U.S.) is an American actor known for his portrayal of unconventional characters."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aamir-khan",
+    "name": "Aamir Khan",
+    "monogram": "AK",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "aamir-khan-mumbai",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Bollywood star Aamir Khan was born in which city, home of the Hindi film industry?",
+    "clue": "On India's west coast, formerly Bombay.",
+    "hint": "India's financial capital.",
+    "answer": {
+     "city": "Mumbai",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Mumbai, Maharashtra"
+    },
+    "story": "Aamir Khan was born in Bombay (now Mumbai) in 1965 and is known for his consistent performances.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aamir-Khan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Aamir Khan (born March 14, 1965, Bombay [now Mumbai], India) is an Indian film actor who is known for his consistent performances."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "salman-khan",
+    "name": "Salman Khan",
+    "monogram": "SK",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "salman-khan-indore",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Salman Khan was born in which city, the largest in Madhya Pradesh?",
+    "clue": "Central India, famous for its street food.",
+    "hint": "Its name starts with 'Ind'.",
+    "answer": {
+     "city": "Indore",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Indore, Madhya Pradesh"
+    },
+    "story": "Salman Khan was born in Indore, Madhya Pradesh, in 1965. He is an actor, film producer and TV host known for iconic roles and blockbuster hits.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Salman-Khan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Salman Khan (born December 27, 1965, Indore, Madhya Pradesh, India) is an Indian actor, film producer, and television host whose iconic roles, blockbuster hits, and mass appeal have earned him the status of a megastar in Bollywood."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aishwarya-rai",
+    "name": "Aishwarya Rai Bachchan",
+    "monogram": "AR",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "aishwarya-rai-mangaluru",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Aishwarya Rai Bachchan was born in which Karnataka port city?",
+    "clue": "On the Arabian Sea coast, south of Goa.",
+    "hint": "Now called Mangaluru.",
+    "answer": {
+     "city": "Mangaluru",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Mangaluru, Karnataka"
+    },
+    "story": "Aishwarya Rai Bachchan was born in Mangalore (now Mangaluru), Karnataka, in 1973. She is an actress and internationally acclaimed model.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aishwarya-Rai-Bachchan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Aishwarya Rai Bachchan (born November 1, 1973, Mangalore [now Mangaluru], Karnataka, India) is an Indian actress and internationally acclaimed model who has established herself as one of Bollywood’s premier stars."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hrithik-roshan",
+    "name": "Hrithik Roshan",
+    "monogram": "HR",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "hrithik-roshan-mumbai",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Hrithik Roshan, known for his dancing in Bollywood films, was born in which city?",
+    "clue": "Formerly called Bombay.",
+    "hint": "Home of Bollywood.",
+    "answer": {
+     "city": "Mumbai",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Mumbai, Maharashtra"
+    },
+    "story": "Hrithik Roshan was born in Bombay (now Mumbai) in 1974 and is known for his work in Bollywood films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Hrithik-Roshan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Hrithik Roshan (born January 10, 1974, Bombay [now Mumbai], India) is an Indian actor known for his work in Bollywood films."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dilip-kumar",
+    "name": "Dilip Kumar",
+    "monogram": "DK",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "dilip-kumar-peshawar",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Bollywood legend Dilip Kumar was born in which city, now in Pakistan?",
+    "clue": "Capital of Khyber Pakhtunkhwa, near the Khyber Pass.",
+    "hint": "Its name starts with 'Pesh'.",
+    "answer": {
+     "city": "Peshawar",
+     "country": "Pakistan",
+     "countryCode": "PK",
+     "geocode": "Peshawar, Khyber Pakhtunkhwa"
+    },
+    "story": "Dilip Kumar was born in Peshawar, British India (now in Pakistan), in 1922, and became one of the legendary stars of Hindi cinema.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dilip-Kumar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Dilip Kumar (born December 11, 1922, Peshawar, British India [now in Pakistan]—died July 7, 2021, Mumbai, India) was an Indian actor and one of the legendary stars of Bollywood."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "raj-kapoor",
+    "name": "Raj Kapoor",
+    "monogram": "RK",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "raj-kapoor-peshawar",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Actor-director Raj Kapoor, a giant of Hindi cinema, was born in 1924 in which city, now in Pakistan?",
+    "clue": "Near the Khyber Pass.",
+    "hint": "Capital of Khyber Pakhtunkhwa.",
+    "answer": {
+     "city": "Peshawar",
+     "country": "Pakistan",
+     "countryCode": "PK",
+     "geocode": "Peshawar, Khyber Pakhtunkhwa"
+    },
+    "story": "Raj Kapoor was born in Peshawar in 1924. He became a celebrated Indian actor and director whose Hindi films were popular across the world.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Raj-Kapoor",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Raj Kapoor (born December 14, 1924, Peshawar, India [now in Pakistan]—died June 2, 1988, New Delhi) was an Indian motion-picture actor and director whose Hindi-language films were popular throughout India, the Middle East, the Soviet Union, China, and Southeast Asia."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "madhubala",
+    "name": "Madhubala",
+    "monogram": "M",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "madhubala-delhi",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Madhubala, one of Bollywood's great beauties, was born in 1933 in which city?",
+    "clue": "Home of the Red Fort.",
+    "hint": "India's capital territory.",
+    "answer": {
+     "city": "Delhi",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Delhi, India"
+    },
+    "story": "Madhubala was born in Delhi in 1933 and became one of Bollywood's most celebrated actresses.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Madhubala",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Madhubala (born February 14, 1933, Delhi, British India—died February 23, 1969, Bombay [now Mumbai], Maharashtra, India) was an Indian actress and one of Bollywood’s most celebrated female stars during the 1950s and ’60s."
+     }
+    ]
+   }
+  },
+  {
+   "reverify": true,
+   "entity": {
+    "id": "priyanka-chopra",
+    "name": "Priyanka Chopra",
+    "monogram": "PC",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "priyanka-chopra-jamshedpur",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Priyanka Chopra, star of Bollywood and Hollywood, was born in which steel city?",
+    "clue": "Now in Jharkhand, founded around the Tata steelworks.",
+    "hint": "Its name starts with 'Jamshed'.",
+    "answer": {
+     "city": "Jamshedpur",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Jamshedpur, Jharkhand"
+    },
+    "story": "Priyanka Chopra was born in Jamshedpur in 1982. She is an actress, model and singer known for her work in Bollywood and Hollywood.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Priyanka-Chopra",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Priyanka Chopra Jonas (born July 18, 1982, Jamshedpur (previously part of Bihar, now in Jharkhand), India) is an Indian actress, model, and singer known for her work in Bollywood and Hollywood."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bae-yong-joon",
+    "name": "Bae Yong-joon",
+    "monogram": "BY",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "bae-yong-joon-seoul",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Bae Yong-joon, the romantic lead of globally syndicated K-dramas, was born in which city?",
+    "clue": "On the Han River.",
+    "hint": "South Korea's capital.",
+    "answer": {
+     "city": "Seoul",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Seoul, South Korea"
+    },
+    "story": "Bae Yong-joon was born in Seoul in 1972. He found fame as the romantic lead in a number of globally syndicated television dramas.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bae-Yong-Jun",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bae Yong-Jun (born August 29, 1972, Seoul, South Korea) is a South Korean actor and business executive who achieved fame as the romantic lead in a number of globally syndicated televised drama series."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "song-joong-ki",
+    "name": "Song Joong-ki",
+    "monogram": "SJ",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "song-joong-ki-daejeon",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "K-drama star Song Joong-ki was born near which central South Korean city, a science hub?",
+    "clue": "Home of the Expo '93 science park.",
+    "hint": "Its name starts with 'Dae', but it isn't Daegu.",
+    "answer": {
+     "city": "Daejeon",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Daejeon, South Korea"
+    },
+    "story": "Song Joong-ki was born near Daejeon in 1985 and established himself in the K-drama genre with Sungkyunkwan Scandal.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Song-Joong-Ki",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Song Joong-Ki (born September 19, 1985, near Daejeon, South Korea) is a South Korean actor who established himself in the so-called K-drama genre with his performance in Sungkyunkwan Scandal (2010), a television series set during the Chosŏn dynasty (1392–1910), and went on to play a variety of other roles in film and television."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "won-bin",
+    "name": "Won Bin",
+    "monogram": "WB",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "won-bin-jeongseon",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Home town",
+    "question": "K-drama star Won Bin married in a field in his home town in 2015. Which Gangwon county town is it?",
+    "clue": "In the mountains of Gangwon Province, famous for the 'Arirang' folk song.",
+    "hint": "Its name starts with 'Jeong'.",
+    "answer": {
+     "city": "Jeongseon",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Jeongseon-eup, Gangwon"
+    },
+    "story": "Won Bin, star of the hit drama Autumn in My Heart, married actress Lee Na-young in 2015 in a private ceremony in the fields of his home town, Jeongseon, in Gangwon Province.",
+    "sources": [
+     {
+      "url": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=179853",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Top stars Won Bin, 38, and Lee Na-young, 36, had an undercover wedding in Jeongseon, Gangwon Province, Saturday."
+     },
+     {
+      "url": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=179853",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "\"The wedding took place in the fields of Won Bin's home town, amid the blessings of family members,\""
+     },
+     {
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=139975",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "actor Song Seung-heon, actress Song Hye-kyo -- the two leads -- and actor Won Bin."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "son-ye-jin",
+    "name": "Son Ye-jin",
+    "monogram": "SY",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "son-ye-jin-daegu",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "School days",
+    "question": "Son Ye-jin, star of Crash Landing on You, went to high school in which city, according to an old study buddy?",
+    "clue": "South Korea's third-largest city, in the southeast.",
+    "hint": "Its name starts with 'Dae', but it isn't Daejeon.",
+    "answer": {
+     "city": "Daegu",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Daegu, South Korea"
+    },
+    "story": "Director Park Shin-woo recalled studying with Son Ye-jin in a high school study group back in Daegu, before he directed her years later.",
+    "sources": [
+     {
+      "url": "https://koreatimes.co.kr/www/news/art/2009/11/141_53971.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The director revealed that he was actually study buddies with Son back in Daegu."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "song-hye-kyo",
+    "name": "Song Hye-kyo",
+    "monogram": "SH",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "song-hye-kyo-sokcho",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Autumn in My Heart",
+    "question": "Song Hye-kyo's breakout drama Autumn in My Heart used a shop in Abai Village as her character's home. Which coastal city is it in?",
+    "clue": "On the East Sea coast of Gangwon Province, near Seoraksan.",
+    "hint": "Its name starts with 'Sok'.",
+    "answer": {
+     "city": "Sokcho",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Abai Village, Sokcho"
+    },
+    "story": "In the 2000 KBS drama Autumn in My Heart, Song Hye-kyo's character Eun-suh lives in a small store — a real shop in Abai Village, Sokcho, settled by refugees from the North during the Korean War.",
+    "sources": [
+     {
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=139975",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "actor Song Seung-heon, actress Song Hye-kyo -- the two leads -- and actor Won Bin."
+     },
+     {
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=139975",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The actual store is located in the Abai Village, a small neighborhood near Cheongchoho Lake in Cheongho-dong, Sokcho City, Gangwon-do Province."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "gong-yoo",
+    "name": "Gong Yoo",
+    "monogram": "GY",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "gong-yoo-quebec-city",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Goblin",
+    "question": "Gong Yoo's hit drama 'Goblin' filmed scenes in which Canadian provincial capital?",
+    "clue": "Its old town dates to the 17th century and is French-speaking.",
+    "hint": "It shares its name with its province.",
+    "answer": {
+     "city": "Quebec City",
+     "country": "Canada",
+     "countryCode": "CA",
+     "geocode": "Quebec City, Quebec"
+    },
+    "story": "Gong Yoo starred in the 2016 hit drama Goblin, which was partly filmed in Quebec City. The drama boosted Korean visits to Quebec by 60 percent.",
+    "sources": [
+     {
+      "url": "https://www.koreatimes.co.kr/www/nation/2024/10/113_272250.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Canadian province of Quebec has had a 60 percent increase in Korean visitors, thanks to the TV drama filmed in the provincial capital Quebec City."
+     },
+     {
+      "url": "https://www.koreatimes.co.kr/entertainment/20260108/10-iconic-hallyu-moments-turning-a-decade-old-this-year",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The drama became a global hit, turning filming locations such as Gangneung, Gangwon Province, in Korea and Quebec in Canada into major tourist attractions."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kim-go-eun",
+    "name": "Kim Go-eun",
+    "monogram": "KG",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "kim-go-eun-gangneung",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "The goblin's bride",
+    "question": "In Goblin, the first meeting of the goblin and his bride (Kim Go-eun) was filmed on Youngjin Beach in which city?",
+    "clue": "On the East Sea coast of Gangwon Province.",
+    "hint": "Its name starts with 'Gang'.",
+    "answer": {
+     "city": "Gangneung",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Gangneung, Gangwon"
+    },
+    "story": "Kim Go-eun played the goblin's bride, Ji Eun-tak, opposite Gong Yoo in Goblin. The pair's first encounter was filmed at Youngjin Beach in Gangneung.",
+    "sources": [
+     {
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=189382",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The first encounter between the goblin and his bride was filmed at Youngjin Beach in Gangneung, Gangwon-do Province"
+     },
+     {
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=144612",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Sweet Kim Go-eun as sweet Ji Eun-tak."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kim-soo-hyun",
+    "name": "Kim Soo-hyun",
+    "monogram": "KS",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "kim-soo-hyun-berlin",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Queen of Tears",
+    "question": "Kim Soo-hyun's drama Queen of Tears filmed honeymoon scenes at the Neptune Fountain and the cathedral in which capital?",
+    "clue": "On the River Spree.",
+    "hint": "Germany's capital.",
+    "answer": {
+     "city": "Berlin",
+     "country": "Germany",
+     "countryCode": "DE",
+     "geocode": "Berlin, Germany"
+    },
+    "story": "Kim Soo-hyun starred as lawyer Baek Hyun-woo in Queen of Tears (2024). Scenes were filmed in Germany, including the Neptune Fountain and Berlin Cathedral.",
+    "sources": [
+     {
+      "url": "https://www.korea.net/Events/Overseas/view?articleId=21049",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Some scenes were filmed in Germany, where the couple had their honeymoon and Hae-in received treatment for her illness."
+     },
+     {
+      "url": "https://www.korea.net/Events/Overseas/view?articleId=21049",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "These locations include the Neptune Fountain and Berlin Cathedral in Berlin"
+     },
+     {
+      "url": "https://www.korea.net/Events/Overseas/view?articleId=21049",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "“Queen of Tears” follows lawyer Baek Hyun-woo (Kim Soo-hyun)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lee-young-ae",
+    "name": "Lee Young-ae",
+    "monogram": "LY",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "lee-young-ae-yangpyeong",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Country home",
+    "question": "Lee Young-ae, star of Dae Jang Geum, showed TV guests her country house in which Gyeonggi county?",
+    "clue": "East of Seoul, where the Namhan and Bukhan rivers meet.",
+    "hint": "Its name starts with 'Yang'.",
+    "answer": {
+     "city": "Yangpyeong",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Yangpyeong-eup, Gyeonggi"
+    },
+    "story": "Lee Young-ae won fame at home and abroad in the period drama Dae Jang Geum (2003–04). In 2019 she welcomed a TV crew to her house in Yangpyeong, Gyeonggi Province.",
+    "sources": [
+     {
+      "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20191125/actress-lee-young-ae-of-dae-jang-geum-reveals-personal-life",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "visited her house in Yangpyeong, Gyeonggi Province."
+     },
+     {
+      "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20191125/actress-lee-young-ae-of-dae-jang-geum-reveals-personal-life",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "She gained enormous popularity at home and abroad through MBC's period drama “Dae Jang Geum” which aired from Sept. 15, 2003 to March 23, 2004."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "im-kwon-taek",
+    "name": "Im Kwon-taek",
+    "monogram": "IK",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "im-kwon-taek-jangseong",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Im Kwon-taek, 'the father of Korean cinema', was born in which county in South Jeolla?",
+    "clue": "North of Gwangju.",
+    "hint": "Romanized by Britannica as Jansung.",
+    "answer": {
+     "city": "Jangseong",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Jangseong-eup, Jeollanam-do"
+    },
+    "story": "Im Kwon-taek was born in 1936 in Jangseong, in the Jeolla region. He is dubbed 'the father of Korean cinema' for his long, prolific career.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Im-Kwon-Taek",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Im Kwon-Taek (born May 2, 1936, Jansung, Cholla province, Korea) is a South Korean film director, dubbed “the father of Korean cinema” because of his long prolific career and his emphasis on Korean subjects and themes."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "youn-yuh-jung",
+    "name": "Youn Yuh-jung",
+    "monogram": "YY",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "youn-yuh-jung-los-angeles",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "First Korean acting Oscar",
+    "question": "Youn Yuh-jung became the first Korean to win an acting Oscar, for Minari, at a ceremony at Union Station in which city?",
+    "clue": "Home of Hollywood.",
+    "hint": "The City of Angels.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Union Station, Los Angeles"
+    },
+    "story": "Youn Yuh-jung made history in 2021 as the first Korean to win an acting Oscar, taking best supporting actress for Minari at the ceremony held at Union Station in Los Angeles.",
+    "sources": [
+     {
+      "url": "https://www.koreatimes.co.kr/amp/entertainment/films/20210426/youn-yuh-jung-becomes-first-korean-to-win-acting-oscar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "At the Academy Awards ceremony held at Union Station in Los Angeles, Youn took home the award for best supporting actress"
+     },
+     {
+      "url": "https://www.koreatimes.co.kr/amp/entertainment/films/20210426/youn-yuh-jung-becomes-first-korean-to-win-acting-oscar",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Youn Yuh-jung made history Sunday (local time) becoming the first Korean to win an acting Oscar"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lee-chang-dong",
+    "name": "Lee Chang-dong",
+    "monogram": "LC",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "lee-chang-dong-venice",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Oasis",
+    "question": "Lee Chang-dong's Oasis won him the Best Director award in 2002 at the film festival of which Italian city?",
+    "clue": "Held each year on the Lido.",
+    "hint": "The city of canals.",
+    "answer": {
+     "city": "Venice",
+     "country": "Italy",
+     "countryCode": "IT",
+     "geocode": "Lido di Venezia, Venice"
+    },
+    "story": "Novelist turned director Lee Chang-dong premiered Oasis in competition at the 2002 Venice Film Festival, where it won the Best Director award. He later served as South Korea's minister of culture.",
+    "sources": [
+     {
+      "url": "https://www.festival-cannes.com/en/artist/chang-dong-lee",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "His third film, Oasis was premiered at competition of 2002 Venice Film Festival and won the Best Director's Award and the Marcello Mastroianni Award for leading actress."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hong-sang-soo",
+    "name": "Hong Sang-soo",
+    "monogram": "HS",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "hong-sang-soo-seoul",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Berlinale favourite Hong Sang-soo was born in, and studied in, which city?",
+    "clue": "On the Han River.",
+    "hint": "South Korea's capital.",
+    "answer": {
+     "city": "Seoul",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Seoul, South Korea"
+    },
+    "story": "Hong Sang-soo was born in Seoul in 1960 and studied at Chung-Ang University there before studying in California and Chicago. He has won several Silver Bears in Berlin.",
+    "sources": [
+     {
+      "url": "https://www.berlinale.de/en/2021/programme/202109213.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in Seoul, South Korea in 1960, he studied at the city’s Chung-Ang University"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kim-ki-duk",
+    "name": "Kim Ki-duk",
+    "monogram": "KD",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "kim-ki-duk-venice",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Golden Lion",
+    "question": "Kim Ki-duk won the Golden Lion in 2012 for Pieta at the film festival of which city?",
+    "clue": "The festival is held on the Lido.",
+    "hint": "The city of canals.",
+    "answer": {
+     "city": "Venice",
+     "country": "Italy",
+     "countryCode": "IT",
+     "geocode": "Lido di Venezia, Venice"
+    },
+    "story": "Kim Ki-duk gained an international reputation on the Venice Lido with The Isle (2000). In 2012 a jury chaired by Michael Mann gave him the Golden Lion for Pieta.",
+    "sources": [
+     {
+      "url": "https://www.labiennale.org/en/news/death-film-director-and-golden-lion-kim-ki-duk",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In 2012 the jury chaired by the American director Michael Mann awarded him the Golden Lion for the film Pieta."
+     },
+     {
+      "url": "https://www.labiennale.org/en/news/death-film-director-and-golden-lion-kim-ki-duk",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Kim gained an international reputation 20 years ago on the Lido with The Isle (Seom)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "song-kang-ho",
+    "name": "Song Kang-ho",
+    "monogram": "SK",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "song-kang-ho-locarno",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Parasite star",
+    "question": "Parasite star Song Kang-ho was honoured in 2019 at the film festival of which Swiss lakeside town?",
+    "clue": "On Lake Maggiore, in Ticino.",
+    "hint": "Famous for its open-air Piazza Grande screenings.",
+    "answer": {
+     "city": "Locarno",
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "geocode": "Locarno, Switzerland"
+    },
+    "story": "Song Kang-ho, star of Memories of Murder and Parasite, was honoured at the Locarno Film Festival in 2019, and in 2020 The New York Times named him one of the 25 greatest actors of the 21st century.",
+    "sources": [
+     {
+      "url": "https://www.festival-cannes.com/en/artist/kang-ho-song",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Awarded in 2019 at the Locarno Film Festival, he was among the New York Times \"25 Greatest Actors of the 21st Century”, in 2020."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jeon-do-yeon",
+    "name": "Jeon Do-yeon",
+    "monogram": "JD",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "jeon-do-yeon-cannes",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Secret Sunshine",
+    "question": "Jeon Do-yeon became the first Korean to win an acting award at which French film festival, in 2007?",
+    "clue": "Held each May on the Côte d'Azur.",
+    "hint": "Famous for the Palme d'Or.",
+    "answer": {
+     "city": "Cannes",
+     "country": "France",
+     "countryCode": "FR",
+     "geocode": "Cannes, France"
+    },
+    "story": "Jeon Do-yeon became the first Korean to win an acting award at Cannes, in 2007, for Lee Chang-dong's Secret Sunshine.",
+    "sources": [
+     {
+      "url": "https://www.festival-cannes.com/en/artist/do-yeon-jeon",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "First Korean ever to receive an acting award at Cannes in 2007 for her role in Lee Chang-dong’s \"Secret Sunshine\""
+     }
+    ]
+   }
+  },
+  {
+   "reverify": true,
+   "entity": {
+    "id": "bong-joon-ho",
+    "name": "Bong Joon-ho",
+    "monogram": "BJ",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "bong-joon-ho-daegu",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Parasite director Bong Joon-ho was born in which South Korean city?",
+    "clue": "South Korea's third-largest city, in the southeast.",
+    "hint": "Britannica romanizes it as Taegu.",
+    "answer": {
+     "city": "Daegu",
+     "country": "South Korea",
+     "countryCode": "KR",
+     "geocode": "Daegu, South Korea"
+    },
+    "story": "Bong Joon-ho was born in Taegu (Daegu) in 1969. He is known for meticulous directing, social critique and genre-blending films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bong-Joon-Ho",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bong Joon-Ho (born September 14, 1969, Taegu, South Korea) is a South Korean filmmaker known for the meticulous directing, social critique, blending of genres, and quick tonal shifts in his movies, many of which he also cowrote."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ousmane-sembene",
+    "name": "Ousmane Sembène",
+    "monogram": "OS",
+    "countryOfOrigin": "SN",
+    "region": "africa"
+   },
+   "question": {
+    "id": "ousmane-sembene-ziguinchor",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Ousmane Sembène, a father of African cinema, was born in which town in Senegal's Casamance region?",
+    "clue": "Near the Guinea-Bissau border, on the Casamance river.",
+    "hint": "Its name starts with 'Zig'.",
+    "answer": {
+     "city": "Ziguinchor",
+     "country": "Senegal",
+     "countryCode": "SN",
+     "geocode": "Ziguinchor, Senegal"
+    },
+    "story": "Ousmane Sembène was born in Ziguinchor, in Senegal's Casamance region, in 1923. He became a celebrated Senegalese writer and film director.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ousmane-Sembene",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ousmane Sembène (born Jan. 1, 1923, Ziguinchor-Casamance, Seneg., French West Africa—died June 9/10, 2007, Dakar, Seneg.) was a Senegalese writer and film director known for his historical and political themes. (Read Martin Scorsese’s Britannica essay on film preservation.) Sembène spent his early years as a fisherman on the"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "youssef-chahine",
+    "name": "Youssef Chahine",
+    "monogram": "YC",
+    "countryOfOrigin": "EG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "youssef-chahine-alexandria",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Egyptian director Youssef Chahine, known for his films about his home city, was born where?",
+    "clue": "Egypt's great Mediterranean port.",
+    "hint": "Founded by Alexander the Great.",
+    "answer": {
+     "city": "Alexandria",
+     "country": "Egypt",
+     "countryCode": "EG",
+     "geocode": "Alexandria, Egypt"
+    },
+    "story": "Youssef Chahine was born in Alexandria in 1926 and was best known for his series of films linked to the city. He received a lifetime achievement award at Cannes in 1997.",
+    "sources": [
+     {
+      "url": "https://www.aljazeera.com/news/2008/7/27/film-director-youssef-chahine-dies",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born a Greek Catholic Christian in Alexandria in 1926, Chahine studied acting in Pasadena, California, in the late 1940s"
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2008/7/27/film-director-youssef-chahine-dies",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The Egyptian director was best known for his series of films linked to the Mediterranean city of Alexandria"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "idrissa-ouedraogo",
+    "name": "Idrissa Ouédraogo",
+    "monogram": "IO",
+    "countryOfOrigin": "BF",
+    "region": "africa"
+   },
+   "question": {
+    "id": "idrissa-ouedraogo-banfora",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Tilaï director Idrissa Ouédraogo was born in which town in southwestern Burkina Faso?",
+    "clue": "Near the Karfiguéla waterfalls.",
+    "hint": "Its name starts with 'Ban'.",
+    "answer": {
+     "city": "Banfora",
+     "country": "Burkina Faso",
+     "countryCode": "BF",
+     "geocode": "Banfora, Burkina Faso"
+    },
+    "story": "Idrissa Ouédraogo was born in Banfora, Burkina Faso, in 1954. His film Tilaï won the Grand Prix at Cannes in 1990.",
+    "sources": [
+     {
+      "url": "https://www.ascleiden.nl/content/library-weekly/idrissa-ouedraogo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ouedraogo was born on 21 January 1954, in Banfora, Burkina Faso."
+     },
+     {
+      "url": "https://www.ascleiden.nl/content/library-weekly/idrissa-ouedraogo",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "He is best known for his feature film Tilaï, which won the Grand Prix at th"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "safi-faye",
+    "name": "Safi Faye",
+    "monogram": "SF",
+    "countryOfOrigin": "SN",
+    "region": "africa"
+   },
+   "question": {
+    "id": "safi-faye-dakar",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Safi Faye, the first sub-Saharan African woman to direct a commercially distributed feature film, was born where?",
+    "clue": "At the western tip of Africa.",
+    "hint": "Senegal's capital.",
+    "answer": {
+     "city": "Dakar",
+     "country": "Senegal",
+     "countryCode": "SN",
+     "geocode": "Dakar, Senegal"
+    },
+    "story": "Safi Faye was born in Dakar in 1943. She was the first sub-Saharan African woman to direct a commercially distributed feature film, Kaddu Beykat.",
+    "sources": [
+     {
+      "url": "https://www.ascleiden.nl/content/library-weekly/safi-faye",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "On 22 November 1943, Senegalese film director and ethnologist Safi Faye was born in Dakar."
+     },
+     {
+      "url": "https://africanfilmny.org/directors/safi-faye/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Safi Faye was born in Dakar, Senegal, in 1943."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "faten-hamama",
+    "name": "Faten Hamama",
+    "monogram": "FH",
+    "countryOfOrigin": "EG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "faten-hamama-mansoura",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Faten Hamama, 'Lady of the Arabic Screen', was born in which Nile Delta city?",
+    "clue": "On the Damietta branch of the Nile.",
+    "hint": "Its name starts with 'Man'.",
+    "answer": {
+     "city": "Mansoura",
+     "country": "Egypt",
+     "countryCode": "EG",
+     "geocode": "Mansoura, Egypt"
+    },
+    "story": "Faten Hamama was born in the Delta city of Mansoura and made her film debut at the age of seven. She was one of Egypt's most prominent actresses.",
+    "sources": [
+     {
+      "url": "https://english.ahram.org.eg/News/120567.aspx",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Hamama was born in the Delta city of Mansoura."
+     },
+     {
+      "url": "https://www.bostonglobe.com/metro/obituaries/2015/01/24/faten-hamama-actress-hailed-lady-arabic-screen/xlyeuDCxd1lOmvluNnHMvL/story.html",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Ms. Hamama was born in Mansoura, in the Nile Delta."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "abderrahmane-sissako",
+    "name": "Abderrahmane Sissako",
+    "monogram": "AS",
+    "countryOfOrigin": "MR",
+    "region": "africa"
+   },
+   "question": {
+    "id": "abderrahmane-sissako-kiffa",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Timbuktu director Abderrahmane Sissako was born in which town in southern Mauritania?",
+    "clue": "Capital of the Assaba region.",
+    "hint": "Its name starts with 'Kif'.",
+    "answer": {
+     "city": "Kiffa",
+     "country": "Mauritania",
+     "countryCode": "MR",
+     "geocode": "Kiffa, Mauritania"
+    },
+    "story": "Abderrahmane Sissako was born in Kiffa, Mauritania, in 1961 and raised in Mali, his father's homeland. His film Timbuktu competed at Cannes in 2014.",
+    "sources": [
+     {
+      "url": "https://africanfilmny.org/?p=16640",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Abderrahmane Sissako was born in Kiffa, Mauritania, in 1961 and raised in Mali, his father’s homeland."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "djibril-diop-mambety",
+    "name": "Djibril Diop Mambéty",
+    "monogram": "DM",
+    "countryOfOrigin": "SN",
+    "region": "africa"
+   },
+   "question": {
+    "id": "djibril-diop-mambety-colobane",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Touki Bouki director Djibril Diop Mambéty was born in which town near Dakar, featured in his films?",
+    "clue": "Now a district of Senegal's capital.",
+    "hint": "Its name starts with 'Colo'.",
+    "answer": {
+     "city": "Colobane",
+     "country": "Senegal",
+     "countryCode": "SN",
+     "geocode": "Colobane, Dakar"
+    },
+    "story": "Djibril Diop Mambéty was born in Colobane, near Dakar, a town that features prominently in some of his films, including his 1973 classic Touki Bouki.",
+    "sources": [
+     {
+      "url": "https://africanfilmny.org/?p=8360",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Senegalese film pioneer Djibril Diop Mambéty was born near Senegal’s capital city of Dakar in Colobane, a town featured prominently in some of his films."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "wanuri-kahiu",
+    "name": "Wanuri Kahiu",
+    "monogram": "WK",
+    "countryOfOrigin": "KE",
+    "region": "africa"
+   },
+   "question": {
+    "id": "wanuri-kahiu-nairobi",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Rafiki director Wanuri Kahiu was born in which city?",
+    "clue": "Kenya's capital.",
+    "hint": "Home of a national park inside the city.",
+    "answer": {
+     "city": "Nairobi",
+     "country": "Kenya",
+     "countryCode": "KE",
+     "geocode": "Nairobi, Kenya"
+    },
+    "story": "Wanuri Kahiu was born in Nairobi. Her film Rafiki was the first Kenyan feature invited to the Cannes Film Festival, in 2018.",
+    "sources": [
+     {
+      "url": "https://wrapwomen.thewrap.com/?p=9542",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in Nairobi, Wanuri is part of the new generation of African storytellers."
+     },
+     {
+      "url": "https://africanfilmny.org/directors/wanuri-kahiu/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "After the lift, the film was shown to a sold-out crowd at a cinema in Nairobi."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "haile-gerima",
+    "name": "Haile Gerima",
+    "monogram": "HG",
+    "countryOfOrigin": "ET",
+    "region": "africa"
+   },
+   "question": {
+    "id": "haile-gerima-gondar",
+    "primaryCategory": "screen",
+    "subcategory": "african-cinema",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Sankofa director Haile Gerima was born in 1946 in which historic Ethiopian city?",
+    "clue": "Famous for its royal castles, north of Lake Tana.",
+    "hint": "Its name starts with 'Gon'.",
+    "answer": {
+     "city": "Gondar",
+     "country": "Ethiopia",
+     "countryCode": "ET",
+     "geocode": "Gondar, Ethiopia"
+    },
+    "story": "Haile Gerima was born in Gondar, Ethiopia, in 1946 and moved to the United States to study acting and directing. He is known for Sankofa (1993).",
+    "sources": [
+     {
+      "url": "https://www.luxorafricanfilmfestival.com/en/PastEditions/2012/Tribute/Haile%20Gerima",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born on 4 March 1946, Gondor, Ethiopia, he arrived in the United States to study acting and directing"
+     },
+     {
+      "url": "https://africultures.com/personnes?no=8277",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Haile Gerima est né à Gondar, Éthiopie, le 04 mars 1946."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jennifer-aniston",
+    "name": "Jennifer Aniston",
+    "monogram": "JA",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jennifer-aniston-sherman-oaks",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Friends star Jennifer Aniston was born in which San Fernando Valley neighbourhood of Los Angeles?",
+    "clue": "In the Valley, south of the Ventura Freeway.",
+    "hint": "Its name ends in 'Oaks'.",
+    "answer": {
+     "city": "Sherman Oaks",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Sherman Oaks, Los Angeles"
+    },
+    "story": "Jennifer Aniston was born in Sherman Oaks, California, in 1969, and achieved stardom on the sitcom Friends.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jennifer-Aniston",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jennifer Aniston (born February 11, 1969, Sherman Oaks, California, U.S.) is an American actress who achieved stardom on the popular television sitcom Friends (1994–2004) and launched a successful film career that included numerous romantic comedies."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bryan-cranston",
+    "name": "Bryan Cranston",
+    "monogram": "BC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "bryan-cranston-los-angeles",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Breaking Bad star Bryan Cranston was born in which city?",
+    "clue": "Home of Hollywood.",
+    "hint": "The City of Angels.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Los Angeles, California"
+    },
+    "story": "Bryan Cranston was born in Los Angeles in 1956 and is best known for playing Walter White in Breaking Bad.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bryan-Cranston",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bryan Cranston (born March 7, 1956, Los Angeles, California, U.S.) is an American actor best known for his intense portrayal of Walter White, a chemistry teacher turned drug kingpin, in the television series Breaking Bad (2008–13)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "david-attenborough",
+    "name": "David Attenborough",
+    "monogram": "DA",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "david-attenborough-isleworth",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Broadcaster and naturalist David Attenborough was born in which west London district?",
+    "clue": "On the Thames opposite Kew Gardens.",
+    "hint": "Its name starts with 'Isle'.",
+    "answer": {
+     "city": "Isleworth",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Isleworth, London"
+    },
+    "story": "David Attenborough was born in Isleworth, London, in 1926. He is an English broadcaster, writer and naturalist noted for innovative educational television.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/David-Attenborough",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "David Attenborough (born May 8, 1926, Isleworth, London, England) is an English broadcaster, writer, and naturalist noted for his innovative educational television programs, especially the nine-part Life series."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "phoebe-waller-bridge",
+    "name": "Phoebe Waller-Bridge",
+    "monogram": "PW",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "phoebe-waller-bridge-london",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Fleabag creator Phoebe Waller-Bridge was born in which city?",
+    "clue": "On the River Thames.",
+    "hint": "The UK's capital.",
+    "answer": {
+     "city": "London",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "London, England"
+    },
+    "story": "Phoebe Waller-Bridge was born in London in 1985. Her one-woman stage show became the television series Fleabag.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Phoebe-Waller-Bridge",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Phoebe Waller-Bridge (born July 14, 1985, London, England) is an English writer, producer, and actress whose work in television and film—including Fleabag (2016−19), Killing Eve (2018−22), Solo: A Star Wars Story (2018), and No Time to Die (2021)—has established her as a comedic and dramatic powerhouse, both behind the scenes"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sofia-vergara",
+    "name": "Sofía Vergara",
+    "monogram": "SV",
+    "countryOfOrigin": "CO",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "sofia-vergara-barranquilla",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Modern Family star Sofía Vergara was born in which Colombian Caribbean city?",
+    "clue": "At the mouth of the Magdalena River.",
+    "hint": "Famous for its Carnival; Shakira's home town too.",
+    "answer": {
+     "city": "Barranquilla",
+     "country": "Colombia",
+     "countryCode": "CO",
+     "geocode": "Barranquilla, Colombia"
+    },
+    "story": "Sofía Vergara was born in Barranquilla, Colombia, in 1972, and is best known for her work on Modern Family.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sofia-Vergara",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sofía Vergara (born July 10, 1972, Barranquilla, Colombia) is a Colombian American actress perhaps best known for her work on the television show Modern Family (2009–20)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shonda-rhimes",
+    "name": "Shonda Rhimes",
+    "monogram": "SR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "shonda-rhimes-chicago",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Grey's Anatomy creator Shonda Rhimes was born in which city?",
+    "clue": "On Lake Michigan.",
+    "hint": "The Windy City.",
+    "answer": {
+     "city": "Chicago",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Chicago, Illinois"
+    },
+    "story": "Shonda Rhimes was born in Chicago in 1970 and created TV series such as Grey's Anatomy.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Shonda-Rhimes",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shonda Rhimes (born January 13, 1970, Chicago, Illinois, U.S.) is an American writer and producer who is best known for creating such popular TV series as Grey’s Anatomy (2005– ) and Scandal (2012–18)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "johnny-carson",
+    "name": "Johnny Carson",
+    "monogram": "JC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "johnny-carson-corning",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Tonight Show host Johnny Carson was born in 1925 in which small Iowa town?",
+    "clue": "Southwest Iowa, in Adams County.",
+    "hint": "Shares its name with a New York glassmaking city.",
+    "answer": {
+     "city": "Corning",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Corning, Iowa"
+    },
+    "story": "Johnny Carson was born in Corning, Iowa, in 1925 and became the defining host of The Tonight Show.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Johnny-Carson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Johnny Carson (born October 23, 1925, Corning, Iowa, U.S.—died January 23, 2005, Los Angeles, California) was an American comedian who, as host of The Tonight Show (1962–92), established the standard format for television chat shows—including the guest couch and the studio band—and came to be considered the king of late-night"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "issa-rae",
+    "name": "Issa Rae",
+    "monogram": "IR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "issa-rae-los-angeles",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Insecure creator Issa Rae was born in which city?",
+    "clue": "Home of Hollywood.",
+    "hint": "The City of Angels.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Los Angeles, California"
+    },
+    "story": "Issa Rae was born in Los Angeles in 1985 and became known through her web series The Misadventures of Awkward Black Girl.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Issa-Rae",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Issa Rae (born January 12, 1985, Los Angeles, California, U.S.) is an American writer, actress, and producer best known for her Web series The Misadventures of Awkward Black Girl (2011–13) and her HBO television series Insecure (2016–21), both of which explore the experience of being a young Black woman in America."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "millie-bobby-brown",
+    "name": "Millie Bobby Brown",
+    "monogram": "MB",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "millie-bobby-brown-marbella",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Stranger Things star Millie Bobby Brown was born in which Spanish resort city?",
+    "clue": "On the Costa del Sol.",
+    "hint": "Its name starts with 'Mar'.",
+    "answer": {
+     "city": "Marbella",
+     "country": "Spain",
+     "countryCode": "ES",
+     "geocode": "Marbella, Spain"
+    },
+    "story": "Millie Bobby Brown was born in Marbella, Spain, in 2004. In 2016 she was cast as Eleven in the Netflix series Stranger Things.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Millie-Bobby-Brown",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Millie Bobby Brown (born February 19, 2004, Marbella, Spain) is a British actor best known for portraying Eleven in the hit science-fiction–horror television series Stranger Things (2016– ), a role for which she was twice nominated for a Primetime Emmy Award for outstanding supporting actress in a drama series."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Millie-Bobby-Brown",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "In 2016 Brown was cast in a main role on the Netflix series Stranger Things."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "pedro-pascal",
+    "name": "Pedro Pascal",
+    "monogram": "PP",
+    "countryOfOrigin": "CL",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "pedro-pascal-santiago",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Narcos and Mandalorian star Pedro Pascal was born in which capital?",
+    "clue": "At the foot of the Andes.",
+    "hint": "Chile's capital.",
+    "answer": {
+     "city": "Santiago",
+     "country": "Chile",
+     "countryCode": "CL",
+     "geocode": "Santiago, Chile"
+    },
+    "story": "Pedro Pascal was born in Santiago, Chile, in 1975. He won fame through Game of Thrones and the Netflix crime series Narcos.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Pedro-Pascal",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Pedro Pascal (born April 2, 1975, Santiago, Chile) is a Chilean-born American actor who became famous with a series of hugely popular TV shows, including Narcos (2015–17), The Mandalorian (2019– ), and The Last of Us (2023– )."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Pedro-Pascal",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "More acclaim followed with the 2015 debut of the Netflix crime series Narcos."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "olivia-colman",
+    "name": "Olivia Colman",
+    "monogram": "OC",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "olivia-colman-norwich",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Olivia Colman, Elizabeth II in Netflix's The Crown, was born in which cathedral city in Norfolk?",
+    "clue": "East Anglia's largest city.",
+    "hint": "Its name starts with 'Nor'.",
+    "answer": {
+     "city": "Norwich",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Norwich, Norfolk"
+    },
+    "story": "Olivia Colman was born in Norwich in 1974. She played Elizabeth II in the third and fourth seasons of Netflix's The Crown, winning an Emmy.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Olivia-Colman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Olivia Colman (born January 30, 1974, Norwich, Norfolk, England) is a British actress who first garnered attention for her comedic work on television and who later had success in a series of dramatic roles in film and TV. She won numerous accolades, most notably an Academy Award for her performance in The Favourite (2018)."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Olivia-Colman",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Colman’s TV success continued with her portrayal of Elizabeth II in the third (2019) and fourth (2020) seasons of Netflix’s acclaimed The Crown"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "elizabeth-debicki",
+    "name": "Elizabeth Debicki",
+    "monogram": "ED",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "elizabeth-debicki-paris",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Elizabeth Debicki, Princess Diana in Netflix's The Crown, was born in which European capital?",
+    "clue": "On the Seine.",
+    "hint": "France's capital.",
+    "answer": {
+     "city": "Paris",
+     "country": "France",
+     "countryCode": "FR",
+     "geocode": "Paris, France"
+    },
+    "story": "Australian actress Elizabeth Debicki was born in Paris in 1990. She played Diana, Princess of Wales, in the final seasons of Netflix's The Crown.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Elizabeth-Debicki",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Elizabeth Debicki (born August 24, 1990, Paris, France) is an Australian screen and stage actress best known for playing Diana, princess of Wales, in the fifth and sixth seasons (2022–23) of the Netflix series The Crown (2016–23) and Jordan Baker in Baz Luhrmann’s film adaptation of F. Scott Fitzgerald’s novel The Great Gatsby"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lily-collins",
+    "name": "Lily Collins",
+    "monogram": "LC",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "lily-collins-guildford",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Emily in Paris star Lily Collins was born in which Surrey town?",
+    "clue": "County town of Surrey, south-west of London.",
+    "hint": "Its name starts with 'Guild'.",
+    "answer": {
+     "city": "Guildford",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Guildford, Surrey"
+    },
+    "story": "Lily Collins was born in Guildford, England, in 1989, and leads Netflix's romantic comedy series Emily in Paris.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lily-Collins",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Lily Collins (born March 18, 1989, Guildford, England) is a British-American actress and model known for her performance as the lead in Netflix’s popular romantic-comedy series Emily in Paris (2020– )."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "winona-ryder",
+    "name": "Winona Ryder",
+    "monogram": "WR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "winona-ryder-winona",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Stranger Things star Winona Ryder was born in a Minnesota city that shares her first name. Which?",
+    "clue": "On the Mississippi in southeastern Minnesota.",
+    "hint": "Look at her first name.",
+    "answer": {
+     "city": "Winona",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Winona, Minnesota"
+    },
+    "story": "Winona Ryder was born in Winona, Minnesota, in 1971. Her later roles include the Netflix series Stranger Things.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Winona-Ryder",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Winona Ryder (born October 29, 1971, Winona, Minnesota, U.S.) is an American actress who played prominent roles in such popular films as Beetlejuice (1988), Heathers (1988), Bram Stoker’s Dracula (1992), and The Age of Innocence (1993)."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Winona-Ryder",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "the popular science-fiction–horror series Stranger Things (2016– ), which aired on Netflix"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jason-bateman",
+    "name": "Jason Bateman",
+    "monogram": "JB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jason-bateman-rye",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Jason Bateman, whose Arrested Development was revived by Netflix, was born in which Westchester County city?",
+    "clue": "On Long Island Sound, home of Playland amusement park.",
+    "hint": "A three-letter grain.",
+    "answer": {
+     "city": "Rye",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Rye, New York"
+    },
+    "story": "Jason Bateman was born in Rye, New York, in 1969. He starred as Michael Bluth in Arrested Development, revived by Netflix in 2013.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jason-Bateman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jason Bateman (born January 14, 1969, Rye, New York, U.S.) is an American actor, director, and producer best known for playing the part of Michael Bluth, the even-keeled, sensible president and CEO of his dysfunctional family’s company, in the television comedy series Arrested Development (2003–19)."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Jason-Bateman",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "followed by a two-season reboot on Netflix in 2013 and 2018–19."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lucille-ball",
+    "name": "Lucille Ball",
+    "monogram": "LB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "lucille-ball-jamestown",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "I Love Lucy star Lucille Ball was born in which western New York city?",
+    "clue": "On Chautauqua Lake's southern end.",
+    "hint": "It shares its name with the first English colony in Virginia.",
+    "answer": {
+     "city": "Jamestown",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Jamestown, New York"
+    },
+    "story": "Lucille Ball was born in Jamestown, New York, in 1911, and became a beloved comedienne of radio, film and television.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lucille-Ball",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Lucille Ball (born August 6, 1911, Jamestown, New York, U.S.—died April 26, 1989, Los Angeles, California) was a radio and motion-picture actress and longtime comedy star of American television, best remembered for her classic television comedy series I Love Lucy."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "robin-williams",
+    "name": "Robin Williams",
+    "monogram": "RW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "robin-williams-chicago",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Comedian Robin Williams, known for manic stand-up, was born in which city?",
+    "clue": "On Lake Michigan.",
+    "hint": "The Windy City.",
+    "answer": {
+     "city": "Chicago",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Chicago, Illinois"
+    },
+    "story": "Robin Williams was born in Chicago in 1951 and became known for his manic stand-up and films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Robin-Williams",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Robin Williams (born July 21, 1951, Chicago, Illinois, U.S.—died August 11, 2014, Tiburon, California) was an American comedian and actor known for his manic stand-up routines and his diverse film performances."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "eddie-murphy",
+    "name": "Eddie Murphy",
+    "monogram": "EM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "eddie-murphy-brooklyn",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Eddie Murphy, a dominant comic voice of the 1980s, was born in which New York City borough?",
+    "clue": "Across the East River from Manhattan.",
+    "hint": "Its name starts with 'Brook'.",
+    "answer": {
+     "city": "Brooklyn",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Brooklyn, New York"
+    },
+    "story": "Eddie Murphy was born in Brooklyn in 1961 and was a dominant comedic voice in the United States during the 1980s.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Eddie-Murphy",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Eddie Murphy (born April 3, 1961, Brooklyn, New York, U.S.) is an American comedian, actor, and singer who was a dominant comedic voice in the United States during the 1980s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jim-carrey",
+    "name": "Jim Carrey",
+    "monogram": "JC",
+    "countryOfOrigin": "CA",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jim-carrey-newmarket",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Rubber-faced comic Jim Carrey was born in which Ontario town north of Toronto?",
+    "clue": "In York Region, on the Holland River.",
+    "hint": "Its name means 'new market'.",
+    "answer": {
+     "city": "Newmarket",
+     "country": "Canada",
+     "countryCode": "CA",
+     "geocode": "Newmarket, Ontario"
+    },
+    "story": "Jim Carrey was born in Newmarket, Ontario, in 1962, and established himself as a leading comedic actor.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jim-Carrey",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jim Carrey (born January 17, 1962, Newmarket, Ontario, Canada) is a Canadian American comedian who established himself as a leading comedic actor with a series of over-the-top performances and who won plaudits for his more-serious portrayals as his career progressed."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rowan-atkinson",
+    "name": "Rowan Atkinson",
+    "monogram": "RA",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "rowan-atkinson-newcastle-upon-tyne",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Mr. Bean creator Rowan Atkinson was born in which northeast English city, according to Britannica?",
+    "clue": "On the River Tyne.",
+    "hint": "Home of the Geordies.",
+    "answer": {
+     "city": "Newcastle upon Tyne",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Newcastle upon Tyne, England"
+    },
+    "story": "Rowan Atkinson was born in 1955 in Newcastle upon Tyne, England, and has delighted audiences with his comic characters.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Rowan-Atkinson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Rowan Atkinson (born January 6, 1955, Newcastle upon Tyne, England) is an English actor and comedian who has delighted television and film audiences with his comic creations Mr."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "steve-martin",
+    "name": "Steve Martin",
+    "monogram": "SM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "steve-martin-waco",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Comedian Steve Martin was born in which central Texas city?",
+    "clue": "On the Brazos River, home of Baylor University.",
+    "hint": "Its name starts with 'Wa'.",
+    "answer": {
+     "city": "Waco",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Waco, Texas"
+    },
+    "story": "Steve Martin was born in Waco, Texas, in 1945, and began his career as a stand-up comic.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Steve-Martin",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Steve Martin (born August 14, 1945, Waco, Texas, U.S.) is an American comedian, writer, and producer who began his career as a stand-up comic and eventually achieved success in motion pictures, on television, on Broadway, and in literature."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "will-ferrell",
+    "name": "Will Ferrell",
+    "monogram": "WF",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "will-ferrell-irvine",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Comedy actor Will Ferrell was born in which Orange County, California, city?",
+    "clue": "A planned city, home of a University of California campus.",
+    "hint": "Its name starts with 'Ir'.",
+    "answer": {
+     "city": "Irvine",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Irvine, California"
+    },
+    "story": "Will Ferrell was born in Irvine, California, in 1967, and became known for his impersonations and comedy films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Will-Ferrell",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Will Ferrell (born July 16, 1967, Irvine, California, U.S.) is an American comedy actor, writer, and producer known for his impersonations, notably of Alex Trebek and George W. Bush on Saturday Night Live, and for his portrayal of dim-witted but endearing characters, including Buddy in Elf (2003)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "buster-keaton",
+    "name": "Buster Keaton",
+    "monogram": "BK",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "buster-keaton-piqua",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Silent comedy star Buster Keaton was born in 1895 in which tiny Kansas town?",
+    "clue": "Woodson County, southeastern Kansas.",
+    "hint": "Its name starts with 'Piq'.",
+    "answer": {
+     "city": "Piqua",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Piqua, Kansas"
+    },
+    "story": "Buster Keaton was born in Piqua, Kansas, in 1895, and became a great film comedian and director of the silent era.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Buster-Keaton",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Buster Keaton (born October 4, 1895, Piqua, Kansas, U.S.—died February 1, 1966, Woodland Hills, California) was an American film comedian and director, known as the “Great Stone Face” of the silent screen."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cantinflas",
+    "name": "Cantinflas",
+    "monogram": "C",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "cantinflas-mexico-city",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Cantinflas, one of Latin America's most popular entertainers, was born in which city?",
+    "clue": "The capital of Mexico.",
+    "hint": "Built on a lake bed.",
+    "answer": {
+     "city": "Mexico City",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Mexico City, Mexico"
+    },
+    "story": "Cantinflas was born in Mexico City in 1911 and became one of the most popular entertainers in Latin-American history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Cantinflas",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Cantinflas (born August 12, 1911, Mexico City, Mexico—died April 20, 1993, Mexico City) was one of the most popular entertainers in the history of Latin-American cinema."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "toto",
+    "name": "Totò",
+    "monogram": "T",
+    "countryOfOrigin": "IT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "toto-naples",
+    "primaryCategory": "screen",
+    "subcategory": "comedy",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Italian comic Totò was born in 1898 in which southern city?",
+    "clue": "Beneath Mount Vesuvius.",
+    "hint": "Home of pizza.",
+    "answer": {
+     "city": "Naples",
+     "country": "Italy",
+     "countryCode": "IT",
+     "geocode": "Naples, Italy"
+    },
+    "story": "Totò was born in Naples in 1898 and became an Italian comic famous for his unsmiling, sympathetic film character.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Toto-Italian-actor",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Totò (born Nov. 7, 1898, Naples, Italy—died April 15, 1967, Rome) was an Italian comic, most popular for his film characterization of an unsmiling but sympathetic bourgeois figure, likened by international film critics to the American film comic Buster Keaton."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "arnold-schwarzenegger",
+    "name": "Arnold Schwarzenegger",
+    "monogram": "AS",
+    "countryOfOrigin": "AT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "arnold-schwarzenegger-graz",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Arnold Schwarzenegger was born in Thal, a village near which Austrian city?",
+    "clue": "Capital of Styria.",
+    "hint": "Its name starts with 'Gr'.",
+    "answer": {
+     "city": "Graz",
+     "country": "Austria",
+     "countryCode": "AT",
+     "geocode": "Graz, Austria"
+    },
+    "story": "Arnold Schwarzenegger was born in Thal, near Graz, Austria, in 1947, and rose to fame through action films before entering politics.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Arnold-Schwarzenegger",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Arnold Schwarzenegger (born July 30, 1947, Thal, near Graz, Austria) is an Austrian-born American bodybuilder, film actor, and politician who rose to fame through roles in blockbuster action movies and later served as governor of California (2003–11)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sylvester-stallone",
+    "name": "Sylvester Stallone",
+    "monogram": "SS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "sylvester-stallone-manhattan",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Rocky star Sylvester Stallone was born in which New York City borough?",
+    "clue": "The island borough.",
+    "hint": "Home of Times Square.",
+    "answer": {
+     "city": "Manhattan",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Manhattan, New York"
+    },
+    "story": "Sylvester Stallone was born in Manhattan in 1946 and rocketed to fame playing boxer Rocky Balboa.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sylvester-Stallone",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sylvester Stallone (born July 6, 1946, Manhattan, New York, U.S.) is an American actor, screenwriter, and director who rocketed to fame playing underdog boxer Rocky Balboa in the film Rocky (1976) and its sequels."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dwayne-johnson",
+    "name": "Dwayne Johnson",
+    "monogram": "DJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "dwayne-johnson-hayward",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Wrestler and action star Dwayne Johnson was born in which East Bay city?",
+    "clue": "In Alameda County, across the bay from San Francisco.",
+    "hint": "Its name starts with 'Hay'.",
+    "answer": {
+     "city": "Hayward",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Hayward, California"
+    },
+    "story": "Dwayne Johnson was born in Hayward, California, in 1972. His charisma and athleticism made him a star in wrestling and action films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dwayne-Johnson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Dwayne Johnson (born May 2, 1972, Hayward, California, U.S.) is an American professional wrestler and actor whose charisma and athleticism made him a success in both fields."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jet-li",
+    "name": "Jet Li",
+    "monogram": "JL",
+    "countryOfOrigin": "CN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "jet-li-beijing",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Martial arts star Jet Li was born in which capital?",
+    "clue": "Home of the Forbidden City.",
+    "hint": "China's capital.",
+    "answer": {
+     "city": "Beijing",
+     "country": "China",
+     "countryCode": "CN",
+     "geocode": "Beijing, China"
+    },
+    "story": "Jet Li was born in Beijing in 1963 and is noted for his superlative martial arts skills.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jet-Li",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jet Li (born April 26, 1963, Beijing, China) is a Chinese film actor noted for his superlative martial arts skills and for his portrayals of virtuous, humble heroes."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jason-statham",
+    "name": "Jason Statham",
+    "monogram": "JS",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "jason-statham-shirebrook",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Action star Jason Statham was born in which Derbyshire village?",
+    "clue": "A former coal-mining village near Mansfield.",
+    "hint": "Its name starts with 'Shire'.",
+    "answer": {
+     "city": "Shirebrook",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Shirebrook, Derbyshire"
+    },
+    "story": "Jason Statham was born in Shirebrook, Derbyshire, in 1967, and became a leading action star.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jason-Statham",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: July 26, 1967, Shirebrook, Derbyshire, England"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "keanu-reeves",
+    "name": "Keanu Reeves",
+    "monogram": "KR",
+    "countryOfOrigin": "CA",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "keanu-reeves-beirut",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Canadian action star Keanu Reeves was born in which Middle Eastern capital?",
+    "clue": "On the Mediterranean, once called the Paris of the Middle East.",
+    "hint": "Lebanon's capital.",
+    "answer": {
+     "city": "Beirut",
+     "country": "Lebanon",
+     "countryCode": "LB",
+     "geocode": "Beirut, Lebanon"
+    },
+    "story": "Keanu Reeves was born in Beirut, Lebanon, in 1964. The Canadian actor found his greatest success in comedy, science-fiction and action films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Keanu-Reeves",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Keanu Reeves (born September 2, 1964, Beirut, Lebanon) is a Canadian actor who found his greatest success in comedy, science-fiction, and action movies."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bruce-willis",
+    "name": "Bruce Willis",
+    "monogram": "BW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "bruce-willis-idar-oberstein",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Die Hard star Bruce Willis was born in which West German town famous for gemstones?",
+    "clue": "In Rhineland-Palatinate, on the Nahe river.",
+    "hint": "Its name starts with 'Idar'.",
+    "answer": {
+     "city": "Idar-Oberstein",
+     "country": "Germany",
+     "countryCode": "DE",
+     "geocode": "Idar-Oberstein, Germany"
+    },
+    "story": "Bruce Willis was born in Idar-Oberstein, West Germany, in 1955, and is best known for blockbuster action films such as the Die Hard series.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bruce-Willis",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bruce Willis (born March 19, 1955, Idar-Oberstein, West Germany) is an American actor best known for his performances in blockbuster action films, particularly the Die Hard series."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "harrison-ford",
+    "name": "Harrison Ford",
+    "monogram": "HF",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "harrison-ford-chicago",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Indiana Jones star Harrison Ford was born in which city?",
+    "clue": "On Lake Michigan.",
+    "hint": "The Windy City.",
+    "answer": {
+     "city": "Chicago",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Chicago, Illinois"
+    },
+    "story": "Harrison Ford was born in Chicago in 1942 and is best known for playing charismatic rogues in Star Wars and Indiana Jones.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Harrison-Ford",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Harrison Ford (born July 13, 1942, Chicago, Illinois, U.S.) is an American actor, perhaps best known for playing charismatic rogues in the Star Wars and Indiana Jones film franchises."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sean-connery",
+    "name": "Sean Connery",
+    "monogram": "SC",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "sean-connery-edinburgh",
+    "primaryCategory": "screen",
+    "subcategory": "action",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Sean Connery, the first screen James Bond, was born in which Scottish capital?",
+    "clue": "Home of a castle on a volcanic rock.",
+    "hint": "Scotland's capital.",
+    "answer": {
+     "city": "Edinburgh",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Edinburgh, Scotland"
+    },
+    "story": "Sean Connery was born in Edinburgh in 1930, and his James Bond spy thrillers led to a long film career.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sean-Connery",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sean Connery (born August 25, 1930, Edinburgh, Scotland—died October 31, 2020, Nassau, Bahamas) was a Scottish-born actor whose popularity in James Bond spy thrillers led to a successful decades-long film career."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "meryl-streep",
+    "name": "Meryl Streep",
+    "monogram": "MS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "meryl-streep-summit",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Meryl Streep, famed for her masterly technique and accents, was born in which New Jersey town?",
+    "clue": "In Union County, west of Newark.",
+    "hint": "Its name means the top of a hill.",
+    "answer": {
+     "city": "Summit",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Summit, New Jersey"
+    },
+    "story": "Meryl Streep was born in Summit, New Jersey, in 1949, and is known for her masterly technique and expertise with dialects.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Meryl-Streep",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Meryl Streep (born June 22, 1949, Summit, New Jersey, U.S.) is an American film actress known for her masterly technique, expertise with dialects, and subtly expressive face."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "daniel-day-lewis",
+    "name": "Daniel Day-Lewis",
+    "monogram": "DD",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "daniel-day-lewis-london",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Three-time Oscar winner Daniel Day-Lewis was born in which city?",
+    "clue": "On the Thames.",
+    "hint": "The UK's capital.",
+    "answer": {
+     "city": "London",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "London, England"
+    },
+    "story": "Daniel Day-Lewis was born in London in 1957 and is known for his on-screen intensity and exhaustive preparation for roles.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Daniel-Day-Lewis",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Daniel Day-Lewis (born April 29, 1957, London, England) is a British actor known for his on-screen intensity and for his exhaustive preparation for roles."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "viola-davis",
+    "name": "Viola Davis",
+    "monogram": "VD",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "viola-davis-st-matthews",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Viola Davis was born in which small South Carolina town named after an apostle?",
+    "clue": "In Calhoun County, central South Carolina.",
+    "hint": "Saint ... ?",
+    "answer": {
+     "city": "St. Matthews",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "St. Matthews, South Carolina"
+    },
+    "story": "Viola Davis was born in Saint Matthews, South Carolina, in 1965, and is known for her precise, controlled performances.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Viola-Davis",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Viola Davis (born August 11, 1965, Saint Matthews, South Carolina, U.S.) is an American actress known for her precise, controlled performances and her regal presence."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cate-blanchett",
+    "name": "Cate Blanchett",
+    "monogram": "CB",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "cate-blanchett-melbourne",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Cate Blanchett was born in which Australian city?",
+    "clue": "Capital of Victoria.",
+    "hint": "Australia's second-largest city.",
+    "answer": {
+     "city": "Melbourne",
+     "country": "Australia",
+     "countryCode": "AU",
+     "geocode": "Melbourne, Victoria"
+    },
+    "story": "Cate Blanchett was born in Melbourne in 1969 and is known for her multidimensional characters and wide range of roles.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Cate-Blanchett",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Cate Blanchett (born May 14, 1969, Melbourne, Victoria, Australia) is an Australian actress known for her multidimensional characters and wide range of roles."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "isabelle-huppert",
+    "name": "Isabelle Huppert",
+    "monogram": "IH",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "isabelle-huppert-paris",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "French actress Isabelle Huppert was born in which city?",
+    "clue": "On the Seine.",
+    "hint": "France's capital.",
+    "answer": {
+     "city": "Paris",
+     "country": "France",
+     "countryCode": "FR",
+     "geocode": "Paris, France"
+    },
+    "story": "Isabelle Huppert was born in Paris in 1953 and is acclaimed for her versatility and restrained portrayals.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Isabelle-Huppert",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Isabelle Huppert (born March 16, 1953, Paris, France) is a French actress who was acclaimed for her versatility and for the subtle gestures and restrained emotions of her portrayals."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "anthony-hopkins",
+    "name": "Anthony Hopkins",
+    "monogram": "AH",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "anthony-hopkins-port-talbot",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Anthony Hopkins was born in which Welsh steel town?",
+    "clue": "On Swansea Bay.",
+    "hint": "Its name starts with 'Port'.",
+    "answer": {
+     "city": "Port Talbot",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Port Talbot, Wales"
+    },
+    "story": "Anthony Hopkins was born in Port Talbot, Wales, in 1937, and is a stage and film actor of burning intensity.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Anthony-Hopkins",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Anthony Hopkins (born December 31, 1937, Port Talbot, West Glamorgan, Wales) is a Welsh stage and film actor of burning intensity, often seen at his best when playing pathetic misfits or characters on the fringes of insanity."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "javier-bardem",
+    "name": "Javier Bardem",
+    "monogram": "JB",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "javier-bardem-las-palmas",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Spanish actor Javier Bardem was born in which Canary Islands city?",
+    "clue": "Capital of Gran Canaria.",
+    "hint": "Its full name ends 'de Gran Canaria'.",
+    "answer": {
+     "city": "Las Palmas",
+     "country": "Spain",
+     "countryCode": "ES",
+     "geocode": "Las Palmas de Gran Canaria"
+    },
+    "story": "Javier Bardem was born in Las Palmas de Gran Canaria in 1969 and is a charismatic and versatile Spanish actor.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Javier-Bardem",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Javier Bardem (born March 1, 1969, Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain) is a charismatic and versatile Spanish actor who first garnered acclaim in such Spanish-language films as Jamón, jamón (1992) before breaking out as an international star in numerous English-language movies."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "morgan-freeman",
+    "name": "Morgan Freeman",
+    "monogram": "MF",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "morgan-freeman-memphis",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Morgan Freeman was born in which Tennessee city on the Mississippi?",
+    "clue": "Home of Graceland.",
+    "hint": "Named after an ancient Egyptian capital.",
+    "answer": {
+     "city": "Memphis",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Memphis, Tennessee"
+    },
+    "story": "Morgan Freeman was born in Memphis, Tennessee, in 1937. His emotional depth, subtle humour and versatility make him one of the most respected actors.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Morgan-Freeman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Morgan Freeman (born June 1, 1937, Memphis, Tennessee, U.S.) is an American actor whose emotional depth, subtle humour, and versatility make him one of the most-respected performers of his generation."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "gong-li",
+    "name": "Gong Li",
+    "monogram": "GL",
+    "countryOfOrigin": "CN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "gong-li-shenyang",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Chinese actress Gong Li, famed for Zhang Yimou's films, was born in which northeastern city?",
+    "clue": "Capital of Liaoning province, once called Mukden.",
+    "hint": "Its name starts with 'Shen'.",
+    "answer": {
+     "city": "Shenyang",
+     "country": "China",
+     "countryCode": "CN",
+     "geocode": "Shenyang, Liaoning"
+    },
+    "story": "Gong Li was born in Shenyang, Liaoning province, in 1965, and is widely associated with the films of director Zhang Yimou.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Gong-Li",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Gong Li (born December 31, 1965, Shenyang, Liaoning province, China) is a popular Chinese actress, widely associated with movies by Chinese director Zhang Yimou but perhaps best known to a broad Western audience for her role as a 1930s Japanese geisha in the film Memoirs of a Geisha (2005)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "steven-spielberg",
+    "name": "Steven Spielberg",
+    "monogram": "SS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "steven-spielberg-cincinnati",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Steven Spielberg was born in which Ohio city on the Ohio River?",
+    "clue": "Home of the Reds baseball team.",
+    "hint": "Its name honours a Roman statesman.",
+    "answer": {
+     "city": "Cincinnati",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Cincinnati, Ohio"
+    },
+    "story": "Steven Spielberg was born in Cincinnati, Ohio, in 1946, and became one of the most successful film directors and producers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Steven-Spielberg",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Steven Spielberg (born December 18, 1946, Cincinnati, Ohio, U.S.) is an American motion-picture director and producer whose diverse films—which range from science-fiction fare, including such classics as Close Encounters of the Third Kind (1977) and E.T.: The Extra-Terrestrial (1982), to historical dramas, notably Schindler’s"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "martin-scorsese",
+    "name": "Martin Scorsese",
+    "monogram": "MS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "martin-scorsese-queens",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Martin Scorsese was born in which New York City borough?",
+    "clue": "NYC's largest borough by area.",
+    "hint": "Named after an English queen consort.",
+    "answer": {
+     "city": "Queens",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Queens, New York"
+    },
+    "story": "Martin Scorsese was born in Queens, New York, in 1942, and is known for harsh, often violent depictions of American culture.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Martin-Scorsese",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Martin Scorsese (born November 17, 1942, Queens, New York, U.S.) is an American filmmaker known for his harsh, often violent depictions of American culture."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alfred-hitchcock",
+    "name": "Alfred Hitchcock",
+    "monogram": "AH",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "alfred-hitchcock-london",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "The 'Master of Suspense' Alfred Hitchcock was born in which city?",
+    "clue": "On the Thames.",
+    "hint": "The UK's capital.",
+    "answer": {
+     "city": "London",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "London, England"
+    },
+    "story": "Alfred Hitchcock was born in London in 1899 and became an English-born American director known as the master of suspense.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Alfred-Hitchcock",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Alfred Hitchcock (born August 13, 1899, London, England—died April 29, 1980, Bel Air, California, U.S.) was an English-born American motion-picture director whose suspenseful films and television programs won immense popularity and critical acclaim over a long and tremendously productive career."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "akira-kurosawa",
+    "name": "Akira Kurosawa",
+    "monogram": "AK",
+    "countryOfOrigin": "JP",
+    "region": "asia"
+   },
+   "question": {
+    "id": "akira-kurosawa-tokyo",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Akira Kurosawa, the first Japanese director to win international acclaim, was born in which city?",
+    "clue": "Japan's capital.",
+    "hint": "Formerly called Edo.",
+    "answer": {
+     "city": "Tokyo",
+     "country": "Japan",
+     "countryCode": "JP",
+     "geocode": "Tokyo, Japan"
+    },
+    "story": "Akira Kurosawa was born in Tokyo in 1910 and was the first Japanese film director to win international acclaim.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kurosawa-Akira",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Kurosawa Akira (born March 23, 1910, Tokyo, Japan—died September 6, 1998, Tokyo) was the first Japanese film director to win international acclaim, with such films as Rashomon (1950), Ikiru (1952), Seven Samurai (1954), Throne of Blood (1957), Kagemusha (1980), and Ran (1985)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "stanley-kubrick",
+    "name": "Stanley Kubrick",
+    "monogram": "SK",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "stanley-kubrick-the-bronx",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "2001 director Stanley Kubrick was born in which New York City borough?",
+    "clue": "The only NYC borough on the mainland.",
+    "hint": "Home of Yankee Stadium.",
+    "answer": {
+     "city": "The Bronx",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "The Bronx, New York"
+    },
+    "story": "Stanley Kubrick was born in the Bronx, New York, in 1928, and became one of cinema's most influential directors.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Stanley-Kubrick",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Stanley Kubrick (born July 26, 1928, Bronx, New York, U.S.—died March 7, 1999, Childwickbury Manor, near St. Albans, Hertfordshire, England) was an American motion-picture director and writer whose films are characterized by his dramatic visual style, meticulous attention to detail, and a detached, often ironic or pessimistic"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "federico-fellini",
+    "name": "Federico Fellini",
+    "monogram": "FF",
+    "countryOfOrigin": "IT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "federico-fellini-rimini",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Federico Fellini was born in which Adriatic resort city?",
+    "clue": "In Emilia-Romagna, famous for its beaches.",
+    "hint": "Its name starts with 'Rim'.",
+    "answer": {
+     "city": "Rimini",
+     "country": "Italy",
+     "countryCode": "IT",
+     "geocode": "Rimini, Italy"
+    },
+    "story": "Federico Fellini was born in Rimini in 1920 and was one of the most celebrated and singular film directors.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Federico-Fellini",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Federico Fellini (born January 20, 1920, Rimini, Italy—died October 31, 1993, Rome) was an Italian film director who was one of the most celebrated and singular filmmakers of the period after World War II. Influenced early in his career by the Neorealist movement, he developed his own distinctive methods that superimposed"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ingmar-bergman",
+    "name": "Ingmar Bergman",
+    "monogram": "IB",
+    "countryOfOrigin": "SE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "ingmar-bergman-uppsala",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Swedish director Ingmar Bergman was born in which university city?",
+    "clue": "North of Stockholm, home of Scandinavia's oldest university.",
+    "hint": "Its name starts with 'Upp'.",
+    "answer": {
+     "city": "Uppsala",
+     "country": "Sweden",
+     "countryCode": "SE",
+     "geocode": "Uppsala, Sweden"
+    },
+    "story": "Ingmar Bergman was born in Uppsala in 1918 and achieved world fame as a Swedish film writer and director.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ingmar-Bergman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ingmar Bergman (born July 14, 1918, Uppsala, Sweden—died July 30, 2007, Fårö) was a Swedish film writer and director who achieved world fame with such films as Det sjunde inseglet (1957; The Seventh Seal); Smultronstället (1957; Wild Strawberries); the trilogy Såsom i en spegel (1961; Through a Glass Darkly), Nattsvardsgästerna"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "satyajit-ray",
+    "name": "Satyajit Ray",
+    "monogram": "SR",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "satyajit-ray-kolkata",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Bengali director Satyajit Ray was born in which city?",
+    "clue": "On the Hooghly River, formerly Calcutta.",
+    "hint": "West Bengal's capital.",
+    "answer": {
+     "city": "Kolkata",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Kolkata, West Bengal"
+    },
+    "story": "Satyajit Ray was born in Calcutta (now Kolkata) in 1921 and was a Bengali director, writer and illustrator.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Satyajit-Ray",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Satyajit Ray (born May 2, 1921, Calcutta [now Kolkata], India—died April 23, 1992, Calcutta) was a Bengali motion-picture director, writer, and illustrator who brought the Indian cinema to world recognition with Pather Panchali (1955; The Song of the Road) and its two sequels, known as the Apu Trilogy."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "guillermo-del-toro",
+    "name": "Guillermo del Toro",
+    "monogram": "GT",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "guillermo-del-toro-guadalajara",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Guillermo del Toro was born in which Mexican city, home of mariachi?",
+    "clue": "Capital of Jalisco.",
+    "hint": "Its name starts with 'Guada'.",
+    "answer": {
+     "city": "Guadalajara",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Guadalajara, Jalisco"
+    },
+    "story": "Guillermo del Toro was born in Guadalajara, Mexico, in 1964, and is known for imbuing horror and fantasy films with emotion.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Guillermo-del-Toro",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Guillermo del Toro (born October 9, 1964, Guadalajara, Mexico) is a Mexican director, screenwriter, and producer who is known for imbuing horror and fantasy films with emotional and thematic complexity."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "pedro-almodovar",
+    "name": "Pedro Almodóvar",
+    "monogram": "PA",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "pedro-almodovar-calzada-de-calatrava",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Pedro Almodóvar was born in which small town in La Mancha?",
+    "clue": "In the province of Ciudad Real.",
+    "hint": "Its name starts with 'Calzada'.",
+    "answer": {
+     "city": "Calzada de Calatrava",
+     "country": "Spain",
+     "countryCode": "ES",
+     "geocode": "Calzada de Calatrava, Spain"
+    },
+    "story": "Pedro Almodóvar was born in Calzada de Calatrava, Spain, in 1949, and is known for colourful melodramatic films.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Pedro-Almodovar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Pedro Almodóvar (born September 25, 1949, Calzada de Calatrava, Spain) is a Spanish filmmaker known for colorful melodramatic films that often feature sexual themes."
+     }
+    ]
+   }
+  },
+  {
+   "reverify": true,
+   "entity": {
+    "id": "taika-waititi",
+    "name": "Taika Waititi",
+    "monogram": "TW",
+    "countryOfOrigin": "NZ",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "taika-waititi-raukokore",
+    "primaryCategory": "screen",
+    "subcategory": "directors",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Director Taika Waititi was born in which small East Cape settlement in New Zealand?",
+    "clue": "In the Bay of Plenty region, on the North Island's East Cape.",
+    "hint": "Its name starts with 'Rauk'.",
+    "answer": {
+     "city": "Raukokore",
+     "country": "New Zealand",
+     "countryCode": "NZ",
+     "geocode": "Raukokore, New Zealand"
+    },
+    "story": "Taika Waititi was born in Raukokore, New Zealand, in 1975. He is a comedian, director, writer and actor known for his eye for the absurd.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Taika-Waititi",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Taika Waititi (born August 16, 1975, Raukokore, New Zealand) is a New Zealand comedian, director, writer, and actor who is known for his anarchic sensibility and eye for the absurd as well as for a generally humane and kind worldview."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "humphrey-bogart",
+    "name": "Humphrey Bogart",
+    "monogram": "HB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "humphrey-bogart-new-york-city",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Casablanca star Humphrey Bogart was born on Christmas Day 1899 in which city?",
+    "clue": "The Big Apple.",
+    "hint": "America's largest city.",
+    "answer": {
+     "city": "New York City",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Manhattan, New York"
+    },
+    "story": "Humphrey Bogart was born in New York City on December 25, 1899, and became a preeminent motion-picture star.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Humphrey-Bogart",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Humphrey Bogart (born December 25, 1899, New York, New York, U.S.—died January 14, 1957, Hollywood, California) was an American actor who became a preeminent motion picture “tough guy” and was a top box-office attraction during the 1940s and ’50s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "clark-gable",
+    "name": "Clark Gable",
+    "monogram": "CG",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "clark-gable-cadiz",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Gone with the Wind star Clark Gable was born in which small Ohio village?",
+    "clue": "In Harrison County, eastern Ohio.",
+    "hint": "Shares its name with a Spanish port.",
+    "answer": {
+     "city": "Cadiz",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Cadiz, Ohio"
+    },
+    "story": "Clark Gable was born in Cadiz, Ohio, in 1901, and epitomized the American idea of masculinity on film.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Clark-Gable",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Clark Gable (born February 1, 1901, Cadiz, Ohio, U.S.—died November 16, 1960, Los Angeles, California) was an American film actor who epitomized the American ideal of masculinity and virility for three decades."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "james-dean",
+    "name": "James Dean",
+    "monogram": "JD",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "james-dean-marion",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Rebel Without a Cause star James Dean was born in which Indiana city?",
+    "clue": "In Grant County, north-central Indiana.",
+    "hint": "Shares its name with a famous Robin Hood character.",
+    "answer": {
+     "city": "Marion",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Marion, Indiana"
+    },
+    "story": "James Dean was born in Marion, Indiana, in 1931, and was enshrined as a symbol of youthful rebellion after his early death.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/James-Dean-American-actor",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "James Dean (born February 8, 1931, Marion, Indiana, U.S.—died September 30, 1955, near Paso Robles, California) was an American film actor who was enshrined as a symbol of the confused, restless, and idealistic youth of the 1950s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "elizabeth-taylor",
+    "name": "Elizabeth Taylor",
+    "monogram": "ET",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "elizabeth-taylor-london",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Hollywood legend Elizabeth Taylor was born in 1932 in which European city?",
+    "clue": "On the Thames.",
+    "hint": "The UK's capital.",
+    "answer": {
+     "city": "London",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "London, England"
+    },
+    "story": "Elizabeth Taylor was born in London in 1932 and became an American film actress noted for her beauty and acting.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Elizabeth-Taylor",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Elizabeth Taylor (born February 27, 1932, London, England—died March 23, 2011, Los Angeles, California, U.S.) was an American film actress who was noted for her unique beauty and her portrayals of volatile and strong-willed characters."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "katharine-hepburn",
+    "name": "Katharine Hepburn",
+    "monogram": "KH",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "katharine-hepburn-hartford",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Four-time Oscar winner Katharine Hepburn was born in which New England state capital?",
+    "clue": "On the Connecticut River, nicknamed the Insurance Capital.",
+    "hint": "Connecticut's capital.",
+    "answer": {
+     "city": "Hartford",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Hartford, Connecticut"
+    },
+    "story": "Katharine Hepburn was born in Hartford, Connecticut, in 1907, and was an indomitable American stage and film actress.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Katharine-Hepburn",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Katharine Hepburn (born May 12, 1907, Hartford, Connecticut, U.S.—died June 29, 2003, Old Saybrook, Connecticut) was an indomitable American stage and film actress, known as a spirited performer with a touch of eccentricity."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cary-grant",
+    "name": "Cary Grant",
+    "monogram": "CG",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "cary-grant-bristol",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Cary Grant was born in 1904 in which English port city?",
+    "clue": "On the River Avon in the West Country.",
+    "hint": "Home of the Clifton Suspension Bridge.",
+    "answer": {
+     "city": "Bristol",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Bristol, England"
+    },
+    "story": "Cary Grant was born in Bristol, England, in 1904, and became a British-born American film star.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Cary-Grant",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Cary Grant (born January 18, 1904, Bristol, Gloucestershire, England—died November 29, 1986, Davenport, Iowa, U.S.) was a British-born American film actor whose good looks, debonair style, and flair for romantic comedy made him one of Hollywood’s most popular and enduring stars."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "greta-garbo",
+    "name": "Greta Garbo",
+    "monogram": "GG",
+    "countryOfOrigin": "SE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "greta-garbo-stockholm",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Greta Garbo, one of the most glamorous stars of the 1920s and '30s, was born in which capital?",
+    "clue": "Built on 14 islands.",
+    "hint": "Sweden's capital.",
+    "answer": {
+     "city": "Stockholm",
+     "country": "Sweden",
+     "countryCode": "SE",
+     "geocode": "Stockholm, Sweden"
+    },
+    "story": "Greta Garbo was born in Stockholm in 1905 and became one of the most glamorous film stars of her era.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Greta-Garbo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Greta Garbo (born September 18, 1905, Stockholm, Sweden—died April 15, 1990, New York, New York, U.S.) was a Swedish American actress who was one of the most glamorous and popular motion-picture stars of the 1920s and ’30s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "omar-sharif",
+    "name": "Omar Sharif",
+    "monogram": "OS",
+    "countryOfOrigin": "EG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "omar-sharif-alexandria",
+    "primaryCategory": "screen",
+    "subcategory": "classic-icons",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Lawrence of Arabia star Omar Sharif was born in which Egyptian city?",
+    "clue": "Egypt's great Mediterranean port.",
+    "hint": "Founded by Alexander the Great.",
+    "answer": {
+     "city": "Alexandria",
+     "country": "Egypt",
+     "countryCode": "EG",
+     "geocode": "Alexandria, Egypt"
+    },
+    "story": "Omar Sharif was born in Alexandria, Egypt, in 1932, and was an Egyptian actor of international acclaim.",
+    "secondary": [
+     {
+      "category": "screen",
+      "subcategory": "african-cinema"
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Omar-Sharif",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Omar Sharif (born April 10, 1932, Alexandria, Egypt—died July 10, 2015, Cairo) was an Egyptian actor of international acclaim, known for his dashing good looks and for iconic roles in such films as Lawrence of Arabia (1962) and Doctor Zhivago (1965)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "olu-jacobs",
+    "name": "Olu Jacobs",
+    "monogram": "OJ",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "olu-jacobs-kano",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Nollywood 'godfather' Olu Jacobs was born in 1942 in which northern Nigerian city?",
+    "clue": "An ancient walled city, capital of the state of the same name.",
+    "hint": "Its name has four letters.",
+    "answer": {
+     "city": "Kano",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Kano, Nigeria"
+    },
+    "story": "Olu Jacobs was born in Kano in 1942. Trained at RADA in London, he became one of Nollywood's pioneers over a five-decade career.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2026/09/10-things-to-know-about-late-nollywood-icon-olu-jacobs/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He was born in Kano and grew up to become one of Nigeria’s most recognised actors."
+     },
+     {
+      "url": "https://www.premiumtimesng.com/entertainment/910186-obituary-olu-jacobs-the-kano-boy-who-conquered-british-stages-became-nollywood-royalty-falls-silent-at-84.html",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "OBITUARY: Olu Jacobs, the Kano boy who conquered British stages, became Nollywood royalty, falls silent at 84"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tunde-kelani",
+    "name": "Tunde Kelani",
+    "monogram": "TK",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "tunde-kelani-abeokuta",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Grandparents' compound",
+    "question": "Filmmaker Tunde Kelani grew up with his grandparents in which Ogun State city, which shaped his Yoruba films?",
+    "clue": "Beneath Olumo Rock.",
+    "hint": "Its name starts with 'Abeo'.",
+    "answer": {
+     "city": "Abeokuta",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Abeokuta, Ogun"
+    },
+    "story": "Tunde Kelani was born in Lagos but grew up with his grandparents in Abeokuta, where he took up photography. The city shaped his films steeped in Yoruba culture.",
+    "sources": [
+     {
+      "url": "https://guardian.ng/life/on-the-cover/tunde-kelani-camera-film-and-culture/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He had picked up photography during his last year in primary school in Abeokuta, where he was staying with his grandparents in a large communal compound."
+     },
+     {
+      "url": "https://guardian.ng/life/on-the-cover/tunde-kelani-camera-film-and-culture/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "However, it was Abeokuta that forged his inclination for making films that speak to the Y"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "patience-ozokwor",
+    "name": "Patience Ozokwor",
+    "monogram": "PO",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "patience-ozokwor-enugu",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Mama G",
+    "question": "Patience Ozokwor, Nollywood's 'Mama G', is based in which southeastern Nigerian city?",
+    "clue": "Nicknamed the Coal City.",
+    "hint": "Capital of the state of the same name.",
+    "answer": {
+     "city": "Enugu",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Enugu, Enugu North"
+    },
+    "story": "Patience Ozokwor, known as Mama G for her formidable mother roles, is an Enugu-based actress who has brought joy to many homes through her movies.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2019/05/patience-ozokwor-a-queen-mother-of-the-big-screen/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Enugu-based actress once defended her wicked roles in movies"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "nkem-owoh",
+    "name": "Nkem Owoh",
+    "monogram": "NO",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "nkem-owoh-udi",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Osuofia",
+    "question": "Nkem Owoh, the comic actor known as Osuofia, was born in which town in Enugu State?",
+    "clue": "West of the city of Enugu, on a hill escarpment.",
+    "hint": "A three-letter name.",
+    "answer": {
+     "city": "Udi",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Udi, Enugu"
+    },
+    "story": "Nkem Owoh, popularly known as Osuofia, was born in Udi, Enugu, in 1955, and became a household name in Nigeria.",
+    "sources": [
+     {
+      "url": "https://lifestyle.thecable.ng/nkem-osuofia-owoh-turns-70/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born on February 7, 1955, in Udi, Enugu, Osuofia has become a household name in Nigeria, synonymous with laughter and entertainment."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "pete-edochie",
+    "name": "Pete Edochie",
+    "monogram": "PE",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "pete-edochie-zaria",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "School days",
+    "question": "Pete Edochie, TV's Okonkwo in Things Fall Apart, went to St. Patrick's and St. James primary schools in which northern city?",
+    "clue": "In Kaduna State, home of Ahmadu Bello University.",
+    "hint": "Its name starts with 'Z'.",
+    "answer": {
+     "city": "Zaria",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Zaria, Kaduna"
+    },
+    "story": "Veteran actor Pete Edochie, famous for playing Okonkwo in Things Fall Apart, had his early education at St. Patrick's and St. James primary schools in Zaria, Kaduna State.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2024/03/7-things-to-know-about-veteran-nollywood-actor-pete-edochie-celebrating-77th-birthday/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Pete Edochie hails from Enugu and had his primary and secondary education at Saint Patrick’s and St. James Primary School, Zaria, Kaduna State"
+     },
+     {
+      "url": "https://www.premiumtimesng.com/entertainment/nollywood/779201-pete-edochie-78-things-fall-apart-five-other-iconic-roles-that-defined-his-illustrious-career.html",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "attended St. Patrick’s and St. James Primary Schools for his early education."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kate-henshaw",
+    "name": "Kate Henshaw",
+    "monogram": "KH",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "kate-henshaw-calabar",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Running for office",
+    "question": "Cross River-born actress Kate Henshaw ran in 2014 to represent the federal constituency of which city?",
+    "clue": "Capital of Cross River State, famous for its Christmas carnival.",
+    "hint": "Its name starts with 'Cal'.",
+    "answer": {
+     "city": "Calabar",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Calabar, Cross River"
+    },
+    "story": "Born in Cross River State, Kate Henshaw won the 2008 AMAA for best actress. In 2014 she sought the PDP ticket to represent the Calabar Municipal/Odukpani federal constituency.",
+    "sources": [
+     {
+      "url": "https://thisdaylive.com/index.php/2021/07/24/kate-henshaw-queen-of-nollywood-at-50",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "she aspired to represent the Calabar Municipal/Odukpani Federal constituency under the platform of the People Democratic Party."
+     },
+     {
+      "url": "https://thisdaylive.com/index.php/2021/07/24/kate-henshaw-queen-of-nollywood-at-50",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Born in Cross River State, the oldest of four children, Kate Henshaw was honored by the Nigerian Federal Government"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ini-edo",
+    "name": "Ini Edo",
+    "monogram": "IE",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "ini-edo-onna",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Home town",
+    "question": "Akwa Ibom-born star Ini Edo celebrated her 40th birthday with the women of her home town. Which?",
+    "clue": "In Akwa Ibom State, south of Uyo.",
+    "hint": "A four-letter name.",
+    "answer": {
+     "city": "Onna",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Onna, Akwa Ibom"
+    },
+    "story": "Akwa Ibom-born Nollywood star Ini Edo celebrated her 40th birthday in 2022 with the women of her home town, Onna, supporting 40 of them in small businesses.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2022/05/nollywood-star-ini-edo-empowers-40-ibom-women-in-small-scale-businesses/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Akwa Ibom born Nollywood star, Ini Edo, on Sunday 1st May, 2022 celebrated her 40th birthday with the Women of Onna, her home town."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "femi-adebayo",
+    "name": "Femi Adebayo",
+    "monogram": "FA",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "femi-adebayo-ilorin",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Roots",
+    "question": "Actor-director Femi Adebayo, son of Adebayo Salami, originates from which Kwara State capital?",
+    "clue": "Home of a university where he studied law.",
+    "hint": "Its name starts with 'Ilo'.",
+    "answer": {
+     "city": "Ilorin",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Ilorin, Kwara"
+    },
+    "story": "Femi Adebayo, son of veteran actor Adebayo Salami, was born in Lagos but originates from Ilorin, Kwara State, where he earned a law degree at the University of Ilorin.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2018/10/six-most-educated-nigerian-celebrities/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He was born in Lagos but originates from Ilorin, Kwara State."
+     },
+     {
+      "url": "https://www.vanguardngr.com/2018/10/six-most-educated-nigerian-celebrities/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "He is the son of the veteran actor, Adebayo Salami."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tom-cruise",
+    "name": "Tom Cruise",
+    "monogram": "TC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "tom-cruise-syracuse",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Tom Cruise, one of Hollywood's most popular leading men since the 1980s, was born in which upstate New York city?",
+    "clue": "At the north end of the Finger Lakes region, home of a big university.",
+    "hint": "Named after an ancient city in Sicily.",
+    "answer": {
+     "city": "Syracuse",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Syracuse, New York"
+    },
+    "story": "Tom Cruise was born in Syracuse, New York, in 1962, and emerged in the 1980s as one of Hollywood's most popular leading men.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Tom-Cruise",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Tom Cruise (born July 3, 1962, Syracuse, New York, U.S.) is an American actor who emerged in the 1980s as one of Hollywood’s most popular leading men."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "julia-roberts",
+    "name": "Julia Roberts",
+    "monogram": "JR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "julia-roberts-smyrna",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Pretty Woman star Julia Roberts was born in which Georgia city near Atlanta?",
+    "clue": "In Cobb County, northwest of Atlanta.",
+    "hint": "Named after an ancient city in modern Turkey.",
+    "answer": {
+     "city": "Smyrna",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Smyrna, Georgia"
+    },
+    "story": "Julia Roberts was born in Smyrna, Georgia, in 1967, and her deft performances made her one of Hollywood's highest-paid actresses.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Julia-Roberts",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Julia Roberts (born October 28, 1967, Smyrna, Georgia, U.S.) is an American actress whose deft performances in varied roles helped make her one of the highest-paid and most-influential actresses in the 1990s and early 2000s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "will-smith",
+    "name": "Will Smith",
+    "monogram": "WS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "will-smith-philadelphia",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Will Smith, the Fresh Prince who became a film star, was born in which city?",
+    "clue": "Home of the Liberty Bell.",
+    "hint": "Pennsylvania's largest city.",
+    "answer": {
+     "city": "Philadelphia",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Philadelphia, Pennsylvania"
+    },
+    "story": "Will Smith was born in Philadelphia in 1968, and his charisma and quick wit helped him move from music to film stardom.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Will-Smith",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Will Smith (born September 25, 1968, Philadelphia, Pennsylvania, U.S.) is an American actor and musician whose charisma and quick wit helped him transition from rap music to a successful career in acting."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "nicole-kidman",
+    "name": "Nicole Kidman",
+    "monogram": "NK",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "nicole-kidman-honolulu",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "Australian star Nicole Kidman was born in which US state capital?",
+    "clue": "On the island of Oahu.",
+    "hint": "Hawaii's capital.",
+    "answer": {
+     "city": "Honolulu",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Honolulu, Hawaii"
+    },
+    "story": "Nicole Kidman was born in Honolulu, Hawaii, in 1967. The American-born Australian actress is known for her range and versatility.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Nicole-Kidman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Nicole Kidman (born June 20, 1967, Honolulu, Hawaii, U.S.) is an American-born Australian actress known for her considerable range and versatility as well as for her glamorous looks and cool demeanor."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jeremy-allen-white",
+    "name": "Jeremy Allen White",
+    "monogram": "JW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jeremy-allen-white-brooklyn",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "The Bear star Jeremy Allen White was born in which New York City borough?",
+    "clue": "Across the East River from Manhattan.",
+    "hint": "Its name starts with 'Brook'.",
+    "answer": {
+     "city": "Brooklyn",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Brooklyn, New York"
+    },
+    "story": "Jeremy Allen White was born in Brooklyn in 1991. He stars as chef Carmy in The Bear, produced by FX and streamed on Hulu.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jeremy-Allen-White",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jeremy Allen White (born February 17, 1991, Brooklyn, New York, U.S.) is an American actor best known for his intense but vulnerable performances as Phillip (“Lip”) Gallagher in the Showtime series Shameless (2011–21) and as Carmen (“Carmy”) Berzatto in FX’s The Bear (2022–26)."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Jeremy-Allen-White",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "It was produced by FX and streams on Hulu."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ayo-edebiri",
+    "name": "Ayo Edebiri",
+    "monogram": "AE",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "ayo-edebiri-boston",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Screen",
+    "chapter": "Where the story began",
+    "question": "The Bear star Ayo Edebiri was born in which New England city?",
+    "clue": "Capital of Massachusetts.",
+    "hint": "Home of the 1773 Tea Party.",
+    "answer": {
+     "city": "Boston",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Boston, Massachusetts"
+    },
+    "story": "Ayo Edebiri was born in Boston in 1995. Before The Bear she wrote and acted for streaming shows including Apple TV's Dickinson and Netflix's Big Mouth.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ayo-Edebiri",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ayo Edebiri (born October 3, 1995, Boston, Massachusetts, U.S.) is an American actress, comedian, and writer whose breakthrough role was the earnest sous chef Sydney Adamu in the FX hit series The Bear (2022–26)."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Ayo-Edebiri",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Apple TV’s historical teen drama Dickinson, and Netflix’s animated show Big Mouth."
+     }
+    ]
+   }
+  }
+ ],
+ "memberships": [
+  {
+   "questionId": "lee-jung-jae-discovery",
+   "category": "screen",
+   "subcategory": "korean-film",
+   "reason": "Britannica: built an award-winning career in Korean television and film; first feature film The Young Man (1994)"
+  }
+ ]
+}

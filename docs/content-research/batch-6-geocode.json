@@ -1,0 +1,882 @@
+{
+ "stephen-curry": {
+  "query": "Davidson, Mecklenburg County, North Carolina, United States",
+  "results": [
+   {
+    "lat": 35.4992614,
+    "lon": -80.8485218,
+    "type": "town",
+    "category": "boundary",
+    "name": "Davidson",
+    "display": "Davidson, Mecklenburg County, North Carolina, United States",
+    "cc": "US",
+    "osm": "relation/179858"
+   }
+  ]
+ },
+ "kevin-durant": {
+  "query": "Oklahoma City, Oklahoma, United States",
+  "results": [
+   {
+    "lat": 35.4729886,
+    "lon": -97.5170536,
+    "type": "city",
+    "category": "boundary",
+    "name": "Oklahoma City",
+    "display": "Oklahoma City, Oklahoma County, Oklahoma, United States",
+    "cc": "US",
+    "osm": "relation/185048"
+   }
+  ]
+ },
+ "michael-jordan": {
+  "query": "Chapel Hill, North Carolina, United States",
+  "results": [
+   {
+    "lat": 35.9131542,
+    "lon": -79.05578,
+    "type": "city",
+    "category": "boundary",
+    "name": "Chapel Hill",
+    "display": "Chapel Hill, Orange County, North Carolina, United States",
+    "cc": "US",
+    "osm": "relation/179860"
+   }
+  ]
+ },
+ "kobe-bryant": {
+  "query": "Charlotte, North Carolina, United States",
+  "results": [
+   {
+    "lat": 35.2272086,
+    "lon": -80.8430827,
+    "type": "city",
+    "category": "boundary",
+    "name": "Charlotte",
+    "display": "Charlotte, Mecklenburg County, North Carolina, United States",
+    "cc": "US",
+    "osm": "relation/177415"
+   }
+  ]
+ },
+ "magic-johnson": {
+  "query": "Barcelona, Catalonia, Spain",
+  "results": [
+   {
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "type": "city",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Barcelonès, Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/347950"
+   },
+   {
+    "lat": 41.75787,
+    "lon": 2.031182,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/349035"
+   }
+  ]
+ },
+ "larry-bird": {
+  "query": "French Lick, Indiana, United States",
+  "results": [
+   {
+    "lat": 38.5502547,
+    "lon": -86.6199659,
+    "type": "village",
+    "category": "boundary",
+    "name": "French Lick",
+    "display": "French Lick, Orange County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/127283"
+   }
+  ]
+ },
+ "shaquille-oneal": {
+  "query": "Orlando, Florida, United States",
+  "results": [
+   {
+    "lat": 28.5421218,
+    "lon": -81.379045,
+    "type": "city",
+    "category": "boundary",
+    "name": "Orlando",
+    "display": "Orlando, Orange County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/1128379"
+   }
+  ]
+ },
+ "kareem-abdul-jabbar": {
+  "query": "Los Angeles, California, United States",
+  "results": [
+   {
+    "lat": 34.0536909,
+    "lon": -118.242766,
+    "type": "city",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "county",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "ja-morant": {
+  "query": "Memphis, Tennessee, United States",
+  "results": [
+   {
+    "lat": 35.146026,
+    "lon": -90.0517786,
+    "type": "city",
+    "category": "boundary",
+    "name": "Memphis",
+    "display": "Memphis, Shelby County, West Tennessee, Tennessee, United States",
+    "cc": "US",
+    "osm": "relation/197239"
+   }
+  ]
+ },
+ "damian-lillard": {
+  "query": "Ogden, Utah, United States",
+  "results": [
+   {
+    "lat": 41.2230048,
+    "lon": -111.9738429,
+    "type": "city",
+    "category": "boundary",
+    "name": "Ogden",
+    "display": "Ogden, Weber County, Utah, United States",
+    "cc": "US",
+    "osm": "relation/198889"
+   }
+  ]
+ },
+ "dirk-nowitzki": {
+  "query": "Würzburg, Germany",
+  "results": [
+   {
+    "lat": 49.7933723,
+    "lon": 9.9309779,
+    "type": "city",
+    "category": "place",
+    "name": "Würzburg",
+    "display": "Würzburg, Bavaria, 97070, Germany",
+    "cc": "DE",
+    "osm": "node/25738881"
+   }
+  ]
+ },
+ "dikembe-mutombo": {
+  "query": "Denver, Colorado, United States",
+  "results": [
+   {
+    "lat": 39.7392364,
+    "lon": -104.984862,
+    "type": "city",
+    "category": "boundary",
+    "name": "Denver",
+    "display": "Denver, Colorado, United States",
+    "cc": "US",
+    "osm": "relation/1411339"
+   }
+  ]
+ },
+ "steve-nash": {
+  "query": "Victoria, British Columbia, Canada",
+  "results": [
+   {
+    "lat": 48.4283182,
+    "lon": -123.364953,
+    "type": "city",
+    "category": "boundary",
+    "name": "Victoria",
+    "display": "Victoria, Capital Regional District, British Columbia, Canada",
+    "cc": "CA",
+    "osm": "relation/2221062"
+   }
+  ]
+ },
+ "tim-duncan": {
+  "query": "San Antonio, Texas, United States",
+  "results": [
+   {
+    "lat": 29.4246002,
+    "lon": -98.4951405,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Antonio",
+    "display": "San Antonio, Bexar County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/253556"
+   }
+  ]
+ },
+ "bill-russell": {
+  "query": "Boston, Massachusetts, United States",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "city",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   }
+  ]
+ },
+ "allen-iverson": {
+  "query": "Hampton, Virginia, United States",
+  "results": [
+   {
+    "lat": 37.0264414,
+    "lon": -76.3442846,
+    "type": "city",
+    "category": "boundary",
+    "name": "Hampton",
+    "display": "Hampton, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/3864703"
+   }
+  ]
+ },
+ "drazen-petrovic": {
+  "query": "Portland, Oregon, United States",
+  "results": [
+   {
+    "lat": 45.5202471,
+    "lon": -122.674194,
+    "type": "city",
+    "category": "boundary",
+    "name": "Portland",
+    "display": "Portland, Multnomah County, Oregon, United States",
+    "cc": "US",
+    "osm": "relation/186579"
+   }
+  ]
+ },
+ "pau-gasol": {
+  "query": "Atlanta, Georgia, United States",
+  "results": [
+   {
+    "lat": 33.7544657,
+    "lon": -84.3898151,
+    "type": "city",
+    "category": "boundary",
+    "name": "Atlanta",
+    "display": "Atlanta, Fulton County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/119557"
+   }
+  ]
+ },
+ "rudy-gobert": {
+  "query": "Cholet, Maine-et-Loire, France",
+  "results": [
+   {
+    "lat": 47.0617293,
+    "lon": -0.8801359,
+    "type": "town",
+    "category": "boundary",
+    "name": "Cholet",
+    "display": "Cholet, Maine-et-Loire, Pays de la Loire, Metropolitan France, 49300, France",
+    "cc": "FR",
+    "osm": "relation/286516"
+   },
+   {
+    "lat": 47.1873289,
+    "lon": -0.7875215,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Cholet",
+    "display": "Cholet, Maine-et-Loire, Pays de la Loire, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1658849"
+   }
+  ]
+ },
+ "patty-mills": {
+  "query": "Canberra, Australian Capital Territory, Australia",
+  "results": [
+   {
+    "lat": -35.2975906,
+    "lon": 149.1012676,
+    "type": "city",
+    "category": "place",
+    "name": "Canberra",
+    "display": "Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia",
+    "cc": "AU",
+    "osm": "node/21674637"
+   }
+  ]
+ },
+ "josh-giddey": {
+  "query": "Adelaide, South Australia, Australia",
+  "results": [
+   {
+    "lat": -34.9281805,
+    "lon": 138.5999312,
+    "type": "city",
+    "category": "place",
+    "name": "Adelaide",
+    "display": "Adelaide, South Australia, Australia",
+    "cc": "AU",
+    "osm": "relation/11381689"
+   },
+   {
+    "lat": -34.9261502,
+    "lon": 138.6006231,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Adelaide",
+    "display": "Adelaide, South Australia, 5000, Australia",
+    "cc": "AU",
+    "osm": "relation/3114051"
+   }
+  ]
+ },
+ "cooper-flagg": {
+  "query": "Newport, Penobscot County, Maine, United States",
+  "results": [
+   {
+    "lat": 44.8353424,
+    "lon": -69.2739365,
+    "type": "town",
+    "category": "boundary",
+    "name": "Newport",
+    "display": "Newport, Penobscot County, Maine, United States",
+    "cc": "US",
+    "osm": "relation/12203915"
+   }
+  ]
+ },
+ "rui-hachimura": {
+  "query": "Toyama, Toyama Prefecture, Japan",
+  "results": [
+   {
+    "lat": 36.6957569,
+    "lon": 137.2136215,
+    "type": "city",
+    "category": "boundary",
+    "name": "Toyama",
+    "display": "Toyama, Toyama Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4807827"
+   }
+  ]
+ },
+ "jamal-murray": {
+  "query": "Kitchener, Ontario, Canada",
+  "results": [
+   {
+    "lat": 43.451291,
+    "lon": -80.4927815,
+    "type": "city",
+    "category": "boundary",
+    "name": "Kitchener",
+    "display": "Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/2062153"
+   }
+  ]
+ },
+ "wilt-chamberlain": {
+  "query": "Philadelphia, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "city",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "county",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   }
+  ]
+ },
+ "diana-taurasi": {
+  "query": "Phoenix, Arizona, United States",
+  "results": [
+   {
+    "lat": 33.4484367,
+    "lon": -112.074141,
+    "type": "city",
+    "category": "boundary",
+    "name": "Phoenix",
+    "display": "Phoenix, Maricopa County, Arizona, United States",
+    "cc": "US",
+    "osm": "relation/111257"
+   }
+  ]
+ },
+ "candace-parker": {
+  "query": "Naperville, Illinois, United States",
+  "results": [
+   {
+    "lat": 41.7728699,
+    "lon": -88.1479278,
+    "type": "city",
+    "category": "boundary",
+    "name": "Naperville",
+    "display": "Naperville, Naperville Township, DuPage County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/124885"
+   }
+  ]
+ },
+ "lauren-jackson": {
+  "query": "Seattle, Washington, United States",
+  "results": [
+   {
+    "lat": 47.6038321,
+    "lon": -122.330062,
+    "type": "city",
+    "category": "boundary",
+    "name": "Seattle",
+    "display": "Seattle, King County, Washington, United States",
+    "cc": "US",
+    "osm": "relation/237385"
+   }
+  ]
+ },
+ "angel-reese": {
+  "query": "Chicago, Illinois, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "city",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "cheryl-miller": {
+  "query": "Moscow, Russia",
+  "results": [
+   {
+    "lat": 55.7505412,
+    "lon": 37.6174782,
+    "type": "city",
+    "category": "place",
+    "name": "Moscow",
+    "display": "Moscow, Central Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/2555133"
+   }
+  ]
+ },
+ "sheryl-swoopes": {
+  "query": "Houston, Texas, United States",
+  "results": [
+   {
+    "lat": 29.7589382,
+    "lon": -95.3676974,
+    "type": "city",
+    "category": "boundary",
+    "name": "Houston",
+    "display": "Houston, Harris County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/2688911"
+   },
+   {
+    "lat": 31.3378465,
+    "lon": -95.390805,
+    "type": "county",
+    "category": "boundary",
+    "name": "Houston County",
+    "display": "Houston County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1840945"
+   },
+   {
+    "lat": 37.3261588,
+    "lon": -91.955988,
+    "type": "village",
+    "category": "boundary",
+    "name": "Houston",
+    "display": "Houston, Texas County, Missouri, 65483, United States",
+    "cc": "US",
+    "osm": "relation/140698"
+   }
+  ]
+ },
+ "paige-bueckers": {
+  "query": "Hopkins, Hennepin County, Minnesota, United States",
+  "results": [
+   {
+    "lat": 44.9243986,
+    "lon": -93.4114487,
+    "type": "town",
+    "category": "boundary",
+    "name": "Hopkins",
+    "display": "Hopkins, Hennepin County, Minnesota, 55343, United States",
+    "cc": "US",
+    "osm": "relation/136696"
+   }
+  ]
+ },
+ "breanna-stewart": {
+  "query": "North Syracuse, New York, United States",
+  "results": [
+   {
+    "lat": 43.13479,
+    "lon": -76.129924,
+    "type": "town",
+    "category": "boundary",
+    "name": "Village of North Syracuse",
+    "display": "Village of North Syracuse, Town of Clay, Onondaga County, New York, 13212, United States",
+    "cc": "US",
+    "osm": "relation/175860"
+   }
+  ]
+ },
+ "napheesa-collier": {
+  "query": "O'Fallon, St. Charles County, Missouri, United States",
+  "results": [
+   {
+    "lat": 38.7902503,
+    "lon": -90.7033292,
+    "type": "city",
+    "category": "boundary",
+    "name": "O’Fallon",
+    "display": "O’Fallon, Saint Charles County, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/141529"
+   }
+  ]
+ },
+ "sue-bird": {
+  "query": "Seattle, Washington, United States",
+  "results": [
+   {
+    "lat": 47.6038321,
+    "lon": -122.330062,
+    "type": "city",
+    "category": "boundary",
+    "name": "Seattle",
+    "display": "Seattle, King County, Washington, United States",
+    "cc": "US",
+    "osm": "relation/237385"
+   }
+  ]
+ },
+ "shohei-ohtani": {
+  "query": "Oshu, Iwate, Japan",
+  "results": [
+   {
+    "lat": 39.144275,
+    "lon": 141.1392382,
+    "type": "city",
+    "category": "boundary",
+    "name": "Ōshū",
+    "display": "Ōshū, Iwate Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/963782"
+   }
+  ]
+ },
+ "ichiro-suzuki": {
+  "query": "Kasugai, Aichi, Japan",
+  "results": [
+   {
+    "lat": 35.2476278,
+    "lon": 136.9721611,
+    "type": "city",
+    "category": "boundary",
+    "name": "Kasugai",
+    "display": "Kasugai, Aichi Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4551415"
+   }
+  ]
+ },
+ "sadaharu-oh": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "roberto-clemente": {
+  "query": "Pittsburgh, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 40.4406968,
+    "lon": -80.0025666,
+    "type": "city",
+    "category": "boundary",
+    "name": "Pittsburgh",
+    "display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188553"
+   }
+  ]
+ },
+ "ivan-rodriguez": {
+  "query": "Detroit, Michigan, United States",
+  "results": [
+   {
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "type": "city",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Wayne County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134591"
+   }
+  ]
+ },
+ "pedro-martinez": {
+  "query": "Santo Domingo, Dominican Republic",
+  "results": [
+   {
+    "lat": 18.4713858,
+    "lon": -69.8918436,
+    "type": "city",
+    "category": "boundary",
+    "name": "Santo Domingo",
+    "display": "Santo Domingo, Distrito Nacional, 03201, Dominican Republic",
+    "cc": "DO",
+    "osm": "relation/7407678"
+   },
+   {
+    "lat": 18.5646971,
+    "lon": -69.8560118,
+    "type": "state",
+    "category": "boundary",
+    "name": "Santo Domingo",
+    "display": "Santo Domingo, Dominican Republic",
+    "cc": "DO",
+    "osm": "relation/3422565"
+   }
+  ]
+ },
+ "juan-soto": {
+  "query": "Washington, District of Columbia, United States",
+  "results": [
+   {
+    "lat": 38.8950982,
+    "lon": -77.0363849,
+    "type": "city",
+    "category": "place",
+    "name": "Washington",
+    "display": "Washington, District of Columbia, United States",
+    "cc": "US",
+    "osm": "relation/5396194"
+   }
+  ]
+ },
+ "ronald-acuna-jr": {
+  "query": "La Guaira, Venezuela",
+  "results": [
+   {
+    "lat": 10.6000384,
+    "lon": -66.9296405,
+    "type": "town",
+    "category": "place",
+    "name": "La Guaira",
+    "display": "La Guaira, Parroquia La Guaira, Municipio Vargas, Vargas State, 1160, Venezuela",
+    "cc": "VE",
+    "osm": "node/922792493"
+   },
+   {
+    "lat": 10.5802547,
+    "lon": -66.8603468,
+    "type": "state",
+    "category": "boundary",
+    "name": "Vargas State",
+    "display": "Vargas State, Venezuela",
+    "cc": "VE",
+    "osm": "relation/2442704"
+   }
+  ]
+ },
+ "fernando-valenzuela": {
+  "query": "Navojoa, Sonora, Mexico",
+  "results": [
+   {
+    "lat": 27.0721872,
+    "lon": -109.4438227,
+    "type": "city",
+    "category": "place",
+    "name": "Navojoa",
+    "display": "Navojoa, Sonora, 85870, Mexico",
+    "cc": "MX",
+    "osm": "node/1735301651"
+   },
+   {
+    "lat": 27.0265701,
+    "lon": -109.4022668,
+    "type": "county",
+    "category": "boundary",
+    "name": "Navojoa",
+    "display": "Navojoa, Sonora, Mexico",
+    "cc": "MX",
+    "osm": "relation/5606082"
+   }
+  ]
+ },
+ "minnie-minoso": {
+  "query": "Cleveland, Ohio, United States",
+  "results": [
+   {
+    "lat": 41.4996574,
+    "lon": -81.6936772,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cleveland",
+    "display": "Cleveland, Cuyahoga County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182130"
+   }
+  ]
+ },
+ "larry-walker": {
+  "query": "Maple Ridge, British Columbia, Canada",
+  "results": [
+   {
+    "lat": 49.2197345,
+    "lon": -122.599707,
+    "type": "city",
+    "category": "boundary",
+    "name": "Maple Ridge",
+    "display": "Maple Ridge, Metro Vancouver Regional District, British Columbia, Canada",
+    "cc": "CA",
+    "osm": "relation/2221140"
+   }
+  ]
+ },
+ "jackie-robinson": {
+  "query": "Montreal, Quebec, Canada",
+  "results": [
+   {
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "type": "city",
+    "category": "boundary",
+    "name": "Montreal",
+    "display": "Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1634158"
+   },
+   {
+    "lat": 45.5505849,
+    "lon": -73.6022317,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Montreal (administrative region)",
+    "display": "Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1571328"
+   }
+  ]
+ },
+ "aaron-judge": {
+  "query": "Fresno, California, United States",
+  "results": [
+   {
+    "lat": 36.7394421,
+    "lon": -119.78483,
+    "type": "city",
+    "category": "boundary",
+    "name": "Fresno",
+    "display": "Fresno, Fresno County, California, United States",
+    "cc": "US",
+    "osm": "relation/112443"
+   },
+   {
+    "lat": 36.6713502,
+    "lon": -119.8155355,
+    "type": "county",
+    "category": "boundary",
+    "name": "Fresno County",
+    "display": "Fresno County, California, United States",
+    "cc": "US",
+    "osm": "relation/396492"
+   }
+  ]
+ },
+ "mariano-rivera": {
+  "query": "Puerto Caimito, Panama",
+  "results": [
+   {
+    "lat": 8.8730234,
+    "lon": -79.7161814,
+    "type": "village",
+    "category": "place",
+    "name": "Puerto Caimito",
+    "display": "Puerto Caimito, La Chorrera, Panamá Oeste, 1015, Panama",
+    "cc": "PA",
+    "osm": "node/4415178264"
+   }
+  ]
+ },
+ "mike-trout": {
+  "query": "Millville, New Jersey, United States",
+  "results": [
+   {
+    "lat": 39.4020593,
+    "lon": -75.0393368,
+    "type": "town",
+    "category": "boundary",
+    "name": "Millville",
+    "display": "Millville, Cumberland County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170414"
+   },
+   {
+    "lat": 41.3131498,
+    "lon": -74.7798877,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Millville",
+    "display": "Millville, Montague Township, Sussex County, New Jersey, 07827, United States",
+    "cc": "US",
+    "osm": "node/158846351"
+   }
+  ]
+ }
+}

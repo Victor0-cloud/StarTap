@@ -1,0 +1,252 @@
+[
+ {
+  "id": "richard-branson",
+  "name": "Richard Branson",
+  "britannica": "Richard Branson"
+ },
+ {
+  "id": "sara-blakely",
+  "name": "Sara Blakely",
+  "britannica": "Sara Blakely"
+ },
+ {
+  "id": "li-ka-shing",
+  "name": "Li Ka-shing",
+  "britannica": "Li Ka-shing"
+ },
+ {
+  "id": "mukesh-ambani",
+  "name": "Mukesh Ambani",
+  "britannica": "Mukesh Ambani"
+ },
+ {
+  "id": "amancio-ortega",
+  "name": "Amancio Ortega",
+  "britannica": "Amancio Ortega"
+ },
+ {
+  "id": "ray-kroc",
+  "name": "Ray Kroc",
+  "britannica": "Ray Kroc"
+ },
+ {
+  "id": "howard-schultz",
+  "name": "Howard Schultz",
+  "britannica": "Howard Schultz"
+ },
+ {
+  "id": "arianna-huffington",
+  "name": "Arianna Huffington",
+  "britannica": "Arianna Huffington"
+ },
+ {
+  "id": "phil-knight",
+  "name": "Phil Knight",
+  "britannica": "Phil Knight Nike"
+ },
+ {
+  "id": "dhirubhai-ambani",
+  "name": "Dhirubhai Ambani",
+  "britannica": "Dhirubhai Ambani"
+ },
+ {
+  "id": "adi-dassler",
+  "name": "Adi Dassler",
+  "britannica": "Adolf Dassler"
+ },
+ {
+  "id": "milton-hershey",
+  "name": "Milton Hershey",
+  "britannica": "Milton Hershey"
+ },
+ {
+  "id": "levi-strauss",
+  "name": "Levi Strauss",
+  "britannica": "Levi Strauss"
+ },
+ {
+  "id": "strive-masiyiwa",
+  "name": "Strive Masiyiwa",
+  "britannica": "Strive Masiyiwa"
+ },
+ {
+  "id": "patrice-motsepe",
+  "name": "Patrice Motsepe",
+  "britannica": "Patrice Motsepe"
+ },
+ {
+  "id": "mike-adenuga",
+  "name": "Mike Adenuga",
+  "britannica": "Mike Adenuga"
+ },
+ {
+  "id": "folorunsho-alakija",
+  "name": "Folorunsho Alakija",
+  "britannica": "Folorunsho Alakija"
+ },
+ {
+  "id": "tony-elumelu",
+  "name": "Tony Elumelu",
+  "britannica": "Tony Elumelu"
+ },
+ {
+  "id": "nassef-sawiris",
+  "name": "Nassef Sawiris",
+  "britannica": "Nassef Sawiris"
+ },
+ {
+  "id": "mohammed-dewji",
+  "name": "Mohammed Dewji",
+  "britannica": "Mohammed Dewji"
+ },
+ {
+  "id": "johann-rupert",
+  "name": "Johann Rupert",
+  "britannica": "Johann Rupert"
+ },
+ {
+  "id": "coca-cola",
+  "name": "Coca-Cola",
+  "britannica": "Coca-Cola Company"
+ },
+ {
+  "id": "lego",
+  "name": "LEGO",
+  "britannica": "LEGO Group"
+ },
+ {
+  "id": "toyota",
+  "name": "Toyota",
+  "britannica": "Toyota Motor Corporation"
+ },
+ {
+  "id": "samsung",
+  "name": "Samsung",
+  "britannica": "Samsung Group"
+ },
+ {
+  "id": "nestle",
+  "name": "Nestlé",
+  "britannica": "Nestle SA"
+ },
+ {
+  "id": "ferrari",
+  "name": "Ferrari",
+  "britannica": "Ferrari SpA"
+ },
+ {
+  "id": "heineken",
+  "name": "Heineken",
+  "britannica": "Heineken NV"
+ },
+ {
+  "id": "nokia",
+  "name": "Nokia",
+  "britannica": "Nokia Corporation"
+ },
+ {
+  "id": "starbucks",
+  "name": "Starbucks",
+  "britannica": "Starbucks Corporation"
+ },
+ {
+  "id": "rolex",
+  "name": "Rolex",
+  "britannica": "Rolex SA watch"
+ },
+ {
+  "id": "warren-buffett",
+  "name": "Warren Buffett",
+  "britannica": "Warren Buffett"
+ },
+ {
+  "id": "george-soros",
+  "name": "George Soros",
+  "britannica": "George Soros"
+ },
+ {
+  "id": "jp-morgan",
+  "name": "J. P. Morgan",
+  "britannica": "J P Morgan financier"
+ },
+ {
+  "id": "christine-lagarde",
+  "name": "Christine Lagarde",
+  "britannica": "Christine Lagarde"
+ },
+ {
+  "id": "janet-yellen",
+  "name": "Janet Yellen",
+  "britannica": "Janet Yellen"
+ },
+ {
+  "id": "ngozi-okonjo-iweala",
+  "name": "Ngozi Okonjo-Iweala",
+  "britannica": "Ngozi Okonjo-Iweala"
+ },
+ {
+  "id": "mayer-amschel-rothschild",
+  "name": "Mayer Amschel Rothschild",
+  "britannica": "Mayer Amschel Rothschild"
+ },
+ {
+  "id": "benjamin-graham",
+  "name": "Benjamin Graham",
+  "britannica": "Benjamin Graham investor"
+ },
+ {
+  "id": "masayoshi-son",
+  "name": "Masayoshi Son",
+  "britannica": "Son Masayoshi"
+ },
+ {
+  "id": "sam-walton",
+  "name": "Sam Walton",
+  "britannica": "Sam Walton"
+ },
+ {
+  "id": "fred-smith",
+  "name": "Fred Smith",
+  "britannica": "Frederick W Smith FedEx"
+ },
+ {
+  "id": "ruth-handler",
+  "name": "Ruth Handler",
+  "britannica": "Ruth Handler"
+ },
+ {
+  "id": "thomas-j-watson",
+  "name": "Thomas J. Watson",
+  "britannica": "Thomas J Watson IBM"
+ },
+ {
+  "id": "sakichi-toyoda",
+  "name": "Sakichi Toyoda",
+  "britannica": "Toyoda Sakichi"
+ },
+ {
+  "id": "masaru-ibuka",
+  "name": "Masaru Ibuka",
+  "britannica": "Ibuka Masaru"
+ },
+ {
+  "id": "anita-roddick",
+  "name": "Anita Roddick",
+  "britannica": "Anita Roddick"
+ },
+ {
+  "id": "clarence-birdseye",
+  "name": "Clarence Birdseye",
+  "britannica": "Clarence Birdseye"
+ },
+ {
+  "id": "king-gillette",
+  "name": "King C. Gillette",
+  "britannica": "King Camp Gillette"
+ },
+ {
+  "id": "taiichi-ohno",
+  "name": "Taiichi Ohno",
+  "britannica": "Ohno Taiichi"
+ }
+]

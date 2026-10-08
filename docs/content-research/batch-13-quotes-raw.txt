@@ -1,0 +1,620 @@
+##### jeff-bezos (Jeff Bezos)
+== https://www.britannica.com/money/Jeff-Bezos [200] 7344 chars
+  • Born:January 12, 1964, Albuquerque, New Mexico, U.S.
+  • Shaw and moved to Seattle, Washington, to open a virtual bookstore.
+  • Named after the South American river, Amazon sold its first book in July 1995.
+  • Two years later Amazon registered record profits, and its revenue in the fourth quarter that year surpassed $100 billion for the first time.
+  • Aside from Amazon, Bezos founded a spaceflight company, Blue Origin, in 2000.
+  • The couple married in 1993 and relocated to Seattle the following year, where Bezos founded Amazon.com.
+##### larry-page (Larry Page)
+== https://www.britannica.com/money/Larry-Page [200] 3494 chars
+  • Born:March 26, 1973, East Lansing, Michigan, U.S.
+  • Larry Page (born March 26, 1973, East Lansing, Michigan, U.S.) is an American computer scientist and entrepreneur who, with Sergey Brin, created the online search engine Google, one of the most popular websites on the Internet.
+  • In order to further their search engine, Page and Brin raised about $1 million in outside financing from investors, family, and friends.
+  • By September 1998 the two had founded Google Inc., with Page as chief executive officer (CEO), and had established a patent for their PageRank system.
+  • The next year Google received $25 million of venture capital funding and was processing 500,000 queries per day.
+##### sergey-brin (Sergey Brin)
+== https://www.britannica.com/money/Sergey-Brin [200] 3542 chars
+  • Born:August 21, 1973, Moscow, Russia, U.S.S.R.
+  • Sergey Brin (born August 21, 1973, Moscow, Russia, U.S.S.R.) is an American computer scientist and entrepreneur who created, along with Larry Page, the online search engine Google, one of the most successful sites on the Internet.
+  • In mid-1998 Brin and Page began receiving outside financing, and they ultimately raised about $1 million from investors and from family and friends.
+  • Brin became the company’s president of technology, and by mid-1999, when Google received $25 million of venture capital funding, the search engine was processing 500,000 queries per day.
+##### mark-zuckerberg (Mark Zuckerberg)
+== https://www.britannica.com/money/Mark-Zuckerberg [200] 7961 chars
+  • When was Facebook launched?
+  • Born: May 14, 1984, White Plains, New York
+  • Mark Elliot Zuckerberg was born on May 14, 1984, in White Plains, New York, to Edward Zuckerberg, a dentist, and Karen Kempner-Zuckerberg, a psychiatrist.
+  • He grew up in nearby Dobbs Ferry with three sisters: Randi, Donna, and Arielle.
+  • On February 4, 2004, Zuckerberg and Eduardo Saverin launched thefacebook.com (renamed Facebook in 2005), a directory in which fellow Harvard students entered their own information and photos into a template that Zuckerberg had devised.
+  • In the summer of 2004, Facebook’s operations were moved to Palo Alto, California, where Zuckerberg secured seed funding from venture capitalist Peter Thiel.
+  • In May 2005, Facebook received its first major infusion of venture capital ($12.7 million).
+  • Four months later, Facebook opened to registration by high-school students.
+##### akio-morita (Akio Morita)
+== https://www.britannica.com/money/Morita-Akio [200] 4718 chars
+  • (Sony was derived from the Latin sonus, “sound.”) In 1961, under Morita’s direction, Sony became the first Japanese company to sell its shares on the New York Stock Exchange.
+  • Once Sony products began to sell well internationally, Morita opened factories in the United States and Europe in addition to those in Japan.
+  • For instance, Sony was one of the first to release videocassette recorders (VCRs) for home use, but Sony’s version, Betamax (Beta), was soon overwhelmed by the more popular VHS version; it was some time before Morita was willing to allow Sony to shift to the industry standard of VHS.
+##### geoffrey-hinton (Geoffrey Hinton)
+== https://www.britannica.com/biography/Geoffrey-Hinton [200] 10212 chars
+  • Geoffrey Hinton (born December 6, 1947, London, England) is a British-Canadian cognitive psychologist and computer scientist known as the “godfather of AI.” He revolutionized the field of artificial intelligence with his work on neural network models.
+  • Hinton was born into a family with a rich intellectual history.
+  • While a researcher there, he studied neural networks and their applications.
+  • Among his numerous awards are the Cognitive Science Society’s first-ever David E.
+  • When the female wasp returns to her burrow with food, she first deposits it on the threshold, checks for intruders inside her burrow, and only then, if the coast is clear, carries her food inside.
+##### yann-lecun (Yann LeCun)
+== https://www.britannica.com/topic/list-of-computer-scientists-2046164 [200] 8567 chars
+  • Turing Award, annual award given by the Association for Computing Machinery (ACM), a professional computing society founded in 1947, to one or more individuals “selected for contributions of a technical nature made to the computing community.” The Turing Award is often referred to as the computer science equivalent of the Nobel Prize.
+  • The first recipient of the award, in 1966, was Alan J.
+  • The first woman to win the prize was Frances E.
+  • The prize money was raised to $250,000 that year and then to $1,000,000 in 2014.
+  • 1967		British	EDSAC, the first stored-program computer
+  • 2009		American	Alto, the first personal computer
+##### yoshua-bengio (Yoshua Bengio)
+== https://www.britannica.com/topic/Turing-Award [200] 12885 chars
+  • Turing Award, annual award given by the Association for Computing Machinery (ACM), a professional computing society founded in 1947, to one or more individuals “selected for contributions of a technical nature made to the computing community.” The Turing Award is often referred to as the computer science equivalent of the Nobel Prize.
+  • The first recipient of the award, in 1966, was Alan J.
+  • The first woman to win the prize was Frances E.
+  • The prize money was raised to $250,000 that year and then to $1,000,000 in 2014.
+  • 1967		British	EDSAC, the first stored-program computer
+  • 2009		American	Alto, the first personal computer
+  • Alan Turing (born June 23, 1912, London, England—died June 7, 1954, Wilmslow, Cheshire) was a British mathematician and logician who made major contributions to mathematics, cryptanalysis, logic, philosophy, and mathematical biology and also to the new areas later named computer science, cognitive science, artificial intelligence, and artificial life.
+  • Later that year Turing moved to Princeton University to study for a Ph.D.
+  • Having returned from the United States to his fellowship at King’s College in the summer of 1938, Turing went on to join the Government Code and Cypher School, and, at the outbreak of war with Germany in September 1939, he moved to the organization’s wartime headquarters at Bletchley Park, Buckinghamshire.
+  • As early as 1932, a small team of Polish mathematician-cryptanalysts, led by Marian Rejewski, had succeeded in deducing the internal wiring of Enigma, and by 1938 Rejewski’s team had devised a code-breaking machine they called the Bomba (the Polish word for a type of ice cream).
+##### john-mccarthy (John McCarthy)
+== https://www.britannica.com/biography/John-McCarthy [200] 6624 chars
+  • John McCarthy (born September 4, 1927, Boston, Massachusetts, U.S.—died October 24, 2011, Stanford, California) was an American mathematician and computer scientist who was a pioneer in the field of artificial intelligence (AI); his main research in the field involved the formalization of commonsense knowledge.
+  • He also held professorships at Dartmouth College (1955–58); the Massachusetts Institute of Technology (1958–62), where he worked on the earliest time-sharing systems; and Stanford University (1953–55 and 1962–2000), where he founded the Stanford Artificial Intelligence Lab (SAIL), one of the leading centres for research in the field.
+  • When the female wasp returns to her burrow with food, she first deposits it on the threshold, checks for intruders inside her burrow, and only then, if the coast is clear, carries her food inside.
+##### marvin-minsky (Marvin Minsky)
+== https://www.britannica.com/biography/Marvin-Minsky [200] 8967 chars
+  • Marvin Minsky (born August 9, 1927, New York, New York, U.S.—died January 24, 2016, Boston, Massachusetts) was an American mathematician and computer scientist, one of the most famous practitioners of the science of artificial intelligence (AI).
+  • After completing research in physics, neurophysiology, and psychology, Minsky graduated with honours in mathematics in 1950.
+  • In 1951 he entered Princeton University, and in that same year he built the first neural network simulator.
+  • In 1957 Minsky moved to the Massachusetts Institute of Technology (MIT) to pursue his interest in using computers to model and understand human thought.
+  • When the female wasp returns to her burrow with food, she first deposits it on the threshold, checks for intruders inside her burrow, and only then, if the coast is clear, carries her food inside.
+##### demis-hassabis (Demis Hassabis)
+== https://www.britannica.com/biography/Demis-Hassabis [200] 11655 chars
+  • Demis Hassabis (born July 27, 1976, London, England) is an English computer scientist who was awarded the 2024 Nobel Prize in Chemistry for his work using artificial intelligence (AI) to predict protein structures.
+  • His affection for computer games inspired him to code his first game, a version of Othello, and teach himself computer programming from books.
+  • During the 1990s Hassabis studied computer science at the University of Cambridge, where he captained the college’s chess team.
+  • Hassabis founded DeepMind, an AI-based start-up company, along with New Zealand computer scientist Shane Legg and English entrepreneur Mustafa Suleyman in 2011.
+  • Proteins are large molecules that are directly involved in the chemical processes essential for life and are built up from 20 amino acids that can be combined in many different ways.
+  • In 1994 biologists John Moult and Krzysztof Fidelis founded the Critical Assessment of protein Structure Prediction (CASP) challenge to test methods for predicting protein structures.
+  • Jumper (born 1985, Little Rock, Arkansas, U.S.) is an American computer scientist who was awarded the 2024 Nobel Prize in Chemistry for his work using artificial intelligence (AI) to find the three-dimensional structure of proteins.
+  • Jumper spent his childhood and teenage years in Little Rock, Arkansas.
+  • He majored in mathematics and physics at Vanderbilt University and graduated with a bachelor’s degree in 2007.
+  • He graduated from the University of Chicago with a master’s degree (2012) and a Ph.D.
+##### fei-fei-li (Fei-Fei Li)
+== https://www.britannica.com/biography/Fei-Fei-Li [200] 10798 chars
+  • Fei-Fei Li (born July 3, 1976, Beijing, China) is a Chinese American computer scientist widely known as the “Godmother of AI” for her groundbreaking work in computer vision, which serves as a foundation for many image-recognition artificial intelligence (AI) systems.
+  • Li was born to Kuang Ying, a secondary-school teacher, and Li Sun, a computer department employee at a chemical factory.
+  • She was raised in Chengdu, in Sichuan.
+  • When the female wasp returns to her burrow with food, she first deposits it on the threshold, checks for intruders inside her burrow, and only then, if the coast is clear, carries her food inside.
+##### herbert-simon (Herbert Simon)
+== https://www.britannica.com/biography/Herbert-A-Simon [200] 3543 chars
+  • Simon (born June 15, 1916, Milwaukee, Wis., U.S.—died Feb.
+  • Simon graduated from the University of Chicago in 1936 and earned a doctorate in political science there in 1943.
+##### andrew-ng (Andrew Ng)
+== https://www.britannica.com/topic/MOOC [200] 20553 chars
+  • The term was first applied to a course offered by the University of Manitoba in 2008.
+  • MOOCs have their roots in distance learning and e-learning forms of education, which have generally coexisted comfortably alongside traditional universities to become an established part of the higher education landscape.
+  • One of the most significant early MOOCs was the “Introduction to AI” course developed by Sebastian Thrun and Peter Norvig at Stanford University in 2011, which attracted over 50,000 students in the first 2 weeks of the course being made available, and eventually totaled 160,000 students from 209 countries.
+  • As of 2017, Coursera was among the top providers of MOOCs alongside edX, founded by Harvard and Massachusetts Institute of Technology.
+  • Over time, however, debates have started to emerge as to how these courses might be monetized or at least become self-supporting.
+  • However, distance learning has become an established part of the educational world, with trends pointing to ongoing growth.
+  • A pioneer in the field is the University of Phoenix, which was founded in Arizona in 1976 and by the first decade of the 21st century had become the largest private school in the world, with more than 400,000 enrolled students.
+  • First, distance learning is by definition carried out through institutions; it is not self-study or a nonacademic learning environment.
+  • In Europe, mail-order courses had been established by the middle of the 19th century, when the Society of Modern Languages in Berlin offered correspondence courses in French, German, and English.
+  • In the United States, companies such as Strayer’s Business College of Baltimore City (now Strayer University), which was founded in Maryland in 1892 and included mail-order correspondence courses, were opened to serve the needs of business employers, especially in the training of women for secretarial duties.
+##### linus-torvalds (Linus Torvalds)
+== https://www.britannica.com/biography/Linus-Torvalds [200] 7331 chars
+  • Linus Torvalds (born December 28, 1969, Helsinki, Finland) is a Finnish computer scientist who was the principal force behind the development of the Linux operating system.
+  • In 1991 while a computer science student at the University of Helsinki (M.S., 1996), he purchased his first personal computer (PC).
+  • While still a student at the University of Helsinki, Torvalds started developing Linux to create a system similar to MINIX, a UNIX operating system.
+  • In contrast to Torvalds, Stallman and the FSF started by creating utilities for the operating system first.
+##### dennis-ritchie (Dennis Ritchie)
+== https://www.britannica.com/biography/Dennis-M-Ritchie [200] 5157 chars
+  • Ritchie (born September 9, 1941, Bronxville, Eastchester, New York, U.S.—found dead October 2011, Berkeley Heights, New Jersey) was an American computer scientist and co-winner of the 1983 A.M.
+  • In 1967 he joined Bell Labs, where he first worked on the Multics operating system (OS).
+  • It was based on CPL (Combined Programming Language), which had been first condensed into the B programming language—a stripped-down computer programming language—created in 1969–70 by Ken Thompson, an American computer scientist and a colleague of Ritchie.
+##### ken-thompson (Ken Thompson)
+== https://www.britannica.com/biography/Kenneth-Lane-Thompson [200] 5143 chars
+  • Ken Thompson (born February 4, 1943, New Orleans, Louisiana, U.S.) is an American computer scientist who was a cowinner of the 1983 A.M.
+  • After graduation, he went to work at Bell Labs, where he first worked on the Multics operating system (OS).
+  • In 1969 a team led by computer scientists Ken Thompson and Dennis Ritchie created the first version of UNIX on a PDP-7 minicomputer, which was chosen mainly because of Thompson’s familiarity with the system from his hobby work on it.
+  • This would be the first of many ports of UNIX.
+!! guido-van-rossum: no Britannica result for "Guido van Rossum"
+##### james-gosling (James Gosling)
+== https://www.britannica.com/biography/James-Marsden [200] 540 chars
+  • …between her wealthy fiancé (James Marsden) and her first love (Ryan Gosling), in the adaptation of Nicholas Sparks’s best-selling novel The Notebook.
+##### bjarne-stroustrup (Bjarne Stroustrup)
+== https://www.britannica.com/biography/Bjarne-Stroustrup [200] 655 chars
+##### margaret-hamilton (Margaret Hamilton)
+== https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist [200] 10881 chars
+  • Margaret Hamilton (born August 17, 1936, Paoli, Indiana, U.S.) is an American computer scientist who was one of the first computer software programmers; she created the term software engineer to describe her work.
+  • The couple then moved to Boston.
+  • In the early 1960s Hamilton joined MIT’s Lincoln Laboratory, where she was involved in the Semi-Automatic Ground Environment (SAGE) project, the first U.S.
+  • She cofounded the company Higher Order Software in 1976 and established Hamilton Technologies 10 years later.
+  • When was Apollo 11 launched?
+  • spaceflight during which commander Neil Armstrong and lunar module pilot Edwin (“Buzz”) Aldrin, Jr., on July 20, 1969, became the first people to land on the Moon and walk the lunar surface.
+  • Explore the timeline of the Apollo missions that led the United States to land the first humans on the Moon.
+  • The three astronauts conducted their transposition and docking maneuvers, first turning the command module, Columbia, and its attached service module around and then extracting the lunar module from its resting place above the Saturn’s third stage.
+  • Apollo 11 entered first an elliptical orbit 114 by 313 km (71 by 194 miles) and then a nearly circular orbit between 100 and 122 km (62 and 76 miles) above the surface of the Moon.
+  • Neil Armstrong Takes Humankind's First Steps on the Lunar Surface During NASA's Apollo 11 MissionPerhaps the most famous of all space films, these clips document the arrival of the first human beings on the Moon on July 20, 1969.
+##### yukihiro-matsumoto (Yukihiro Matsumoto)
+== https://www.britannica.com/biography/Matsumoto-Yukihiro [200] 313 chars
+##### vint-cerf (Vint Cerf)
+== https://www.britannica.com/biography/Vinton-Cerf [200] 5831 chars
+  • Vinton Cerf (born June 23, 1943, New Haven, Connecticut, U.S.) is an American computer scientist who is considered one of the founders, along with Robert Kahn, of the Internet.
+  • While at UCLA, Cerf worked under fellow student Stephen Crocker in the laboratory of Leonard Kleinrock on the project to write the communication protocol (Network Control Program [or Protocol]; NCP) for the ARPANET (Advanced Research Projects Agency Network; see DARPA), the first computer network based on packet switching, a heretofore untested technology.
+  • In 1972 Kahn moved to DARPA as a program manager in the Information Processing Techniques Office (IPTO), where he began to envision a network of packet-switching networks—essentially, what would become the Internet.
+  • While at MCI he led the effort to develop and deploy MCI Mail, the first commercial e-mail service that was connected to the Internet.
+##### bob-kahn (Robert Kahn)
+== https://www.britannica.com/biography/Robert-Elliot-Kahn [200] 9185 chars
+  • Robert Kahn (born December 23, 1938, Brooklyn, New York, U.S.) is an American electrical engineer, one of the principal architects, with Vinton Cerf, of the Internet.
+  • First, he was part of a group that designed the network’s Interface Message Processor, which would mediate between the network and each institution’s host computer.
+  • Second, and perhaps more important, in 1972 Kahn helped organize the first International Conference on Computer Communication, which served as the ARPANET’s public debut.
+  • Vinton Cerf (born June 23, 1943, New Haven, Connecticut, U.S.) is an American computer scientist who is considered one of the founders, along with Robert Kahn, of the Internet.
+  • While at UCLA, Cerf worked under fellow student Stephen Crocker in the laboratory of Leonard Kleinrock on the project to write the communication protocol (Network Control Program [or Protocol]; NCP) for the ARPANET (Advanced Research Projects Agency Network; see DARPA), the first computer network based on packet switching, a heretofore untested technology.
+  • In 1972 Kahn moved to DARPA as a program manager in the Information Processing Techniques Office (IPTO), where he began to envision a network of packet-switching networks—essentially, what would become the Internet.
+  • While at MCI he led the effort to develop and deploy MCI Mail, the first commercial e-mail service that was connected to the Internet.
+##### ray-tomlinson (Ray Tomlinson)
+== https://www.britannica.com/biography/Ray-Tomlinson [200] 1894 chars
+  • The institute was founded in 1824 by Stephen Van Rensselaer and Amos Eaton; Eaton, its senior professor, was a pioneer of American scientific research and education.
+  • Rensselaer was one of the first colleges in the United States specifically dedicated to the study of science and civil engineering.
+##### marc-andreessen (Marc Andreessen)
+== https://www.britannica.com/biography/Marc-Andreessen [200] 11947 chars
+  • Marc Andreessen (born July 9, 1971, Cedar Falls, Iowa, U.S.) is an American-born software engineer who played a key role in creating the Web browser Mosaic and who cofounded Netscape Communications Corporation.
+  • In April 1994 the duo founded Mosaic Communications Corporation (later rechristened Netscape Communications).
+  • It was commercially launched as Netscape Navigator and, almost overnight, became the most popular browser used on the Web, taking over 75 percent of the market share by mid-1996.
+  • The software company reported revenues totaling $55 million for the first quarter of 1996, and that same year Andreessen graced the cover of Time magazine.
+  • He then founded LoudCloud, Inc.
+  • Which major technology companies were founded in Silicon Valley?
+  • First, he selected technologies for research emphasis; given his wartime work on microwave radar, he began with microwave electronics.
+  • As more firms moved to the region, fueling demand for basic electronic components, technical skills, and business supplies, many former high-technology employees started their own companies.
+  • In 1956 William Shockley, Nobel Prize-winning coinventor of the transistor, established his new Shockley Semiconductor Laboratory in the park.
+  • (Engineers from Fairchild went on to coinvent the integrated circuit in 1958.) This was the first of many corporate fractures that shaped the American semiconductor landscape.
+##### jimmy-wales (Jimmy Wales)
+== https://www.britannica.com/money/Jimmy-Wales [200] 3430 chars
+  • Born:August 8, 1966, Huntsville, Alabama, U.S.
+  • Jimmy Wales (born August 8, 1966, Huntsville, Alabama, U.S.) is an American entrepreneur who cofounded Wikipedia, a free Internet-based encyclopaedia operating under an open-source management style.
+  • When was Jimmy Wales born?
+  • In March 2000, perhaps inspired by objectivist “openness,” he founded a free online encyclopaedia called Nupedia, which sought free contributions from scholars and other experts and subjected them to an intensive peer-review process.
+  • Sanger and Wales parted company in 2002, but they continued to dispute who first came up with the idea of using the wiki software.
+  • In 2003 Wales established the Wikimedia Foundation to oversee his expanding online enterprises.
+##### paul-baran (Paul Baran)
+== https://www.britannica.com/biography/Paul-Baran [200] 12660 chars
+  • Paul Baran (born April 29, 1926, Grodno, Poland [now Hrodna, Belarus]—died March 26, 2011, Palo Alto, California, U.S.) was an American electrical engineer, inventor of the distributed network and, contemporaneously with British computer scientist Donald Davies, of data packet switching across distributed networks.
+  • In 1928 Baran’s family moved to Philadelphia.
+  • Baran studied electrical engineering at Drexel University in Philadelphia (B.S., 1949) and engineering at the University of California, Los Angeles (M.S., 1959).
+  • Baran also founded Metricom, a wireless Internet service company, in 1986; Com21, a supplier of cable modem systems, in 1992; and GoBackTV, a company specializing in infrastructure equipment for television operators, in 2003.
+  • The idea to break up large units of data into smaller packets was first imagined by Paul Baran, an engineer at the RAND Corporation.
+  • He published his theory first in a series of RAND studies between 1960 and 1962 and then in an 11-volume analysis titled On Distributed Communications in August 1964.
+  • ARPANET as of September 1974ARPANET was the first public packet-switched network.
+  • The network started with just four nodes but boasted 57 by 1975.
+  • ARPANET was the first public packet-switched network.
+  • The first successful test occurred in October 1969, and the network was designed in the span of a year by the technology consultancy company Bolt Beranek and Newman (BBN; now Raytheon BBN), which referred to Baran’s and Davies’s concepts and designs.
+##### leonard-kleinrock (Leonard Kleinrock)
+== https://www.britannica.com/biography/Leonard-Kleinrock [200] 13199 chars
+  • How did Leonard Kleinrock's work help create the ARPANET, the first version of the internet?
+  • Leonard Kleinrock (born June 13, 1934, New York City) is an American computer scientist who developed the mathematical theory behind packet switching and who sent the first message between two computers on a network that was a precursor of the Internet.
+  • In September 1969 Kleinrock’s group connected a packet-switching computer, the Interface Message Processor (IMP), to a SDS Sigma 7 computer, which became the first node on ARPANET, which was originally planned to have four nodes.
+  • On October 29, 1969, Kleinrock and his student Charley Kline sent the first message over ARPANET to an IMP and computer at Stanford Research Institute (now SRI International) in Menlo Park, California.
+  • The message was going to be the word login; however, the connection crashed after the letter o, so the first ARPANET message was lo.
+  • Kleinrock and computer scientist Yu Cao in 2007 founded Platformation Technologies, LLC (later Platformation, Inc.), which allows grocery shoppers to compare prices between local supermarkets online.
+  • The idea to break up large units of data into smaller packets was first imagined by Paul Baran, an engineer at the RAND Corporation.
+  • He published his theory first in a series of RAND studies between 1960 and 1962 and then in an 11-volume analysis titled On Distributed Communications in August 1964.
+  • ARPANET as of September 1974ARPANET was the first public packet-switched network.
+  • The network started with just four nodes but boasted 57 by 1975.
+!! radia-perlman: no Britannica result for "Radia Perlman"
+##### donald-davies (Donald Davies)
+== https://www.britannica.com/biography/Donald-Davies [200] 10601 chars
+  • Donald Davies (born June 7, 1924, Treorchy, Glamorgan, Wales—died May 28, 2000, Esher, Surrey, England) was a British computer scientist and inventor of packet switching, along with American electrical engineer Paul Baran.
+  • Davies studied at Imperial College in London, obtaining degrees in physics (B.Sc., 1943) and mathematics (B.Sc., 1947).
+  • The idea to break up large units of data into smaller packets was first imagined by Paul Baran, an engineer at the RAND Corporation.
+  • He published his theory first in a series of RAND studies between 1960 and 1962 and then in an 11-volume analysis titled On Distributed Communications in August 1964.
+  • ARPANET as of September 1974ARPANET was the first public packet-switched network.
+  • The network started with just four nodes but boasted 57 by 1975.
+  • ARPANET was the first public packet-switched network.
+  • The first successful test occurred in October 1969, and the network was designed in the span of a year by the technology consultancy company Bolt Beranek and Newman (BBN; now Raytheon BBN), which referred to Baran’s and Davies’s concepts and designs.
+  • ARPANET was showcased in October 1972 at the first International Conference on Computer Communications (ICCC).
+  • Seeing an opportunity, BBN and Roberts founded the commercial network company Telenet that year.
+##### martin-cooper (Martin Cooper)
+== https://www.britannica.com/biography/Martin-Cooper [200] 18076 chars
+  • Martin Cooper (born December 26, 1928, Chicago, Illinois, U.S.) is an American engineer who led the team that in 1972–73 built the first mobile cell phone and made the first cell phone call.
+  • Cooper graduated from the Illinois Institute of Technology (IIT) in Chicago with a bachelor’s degree in electrical engineering (1950).
+  • At Motorola, Cooper worked on many projects involving wireless communications, such as the first radio-controlled traffic-light system, which he patented in 1960, and the first handheld police radios, which were introduced in 1967.
+  • Another weakness of the first mobile phones was that the large amount of power needed to run them could be supplied only by car batteries.
+  • To make sure that it worked before the press conference, he placed the first public cell phone call, to engineer Joel Engel, head of AT&T’s rival project, and gloated that he was calling from a portable cellular phone.
+  • In 1983, after years of further development, Motorola introduced the first portable cell phone for consumers, the DynaTAC 8000x.
+  • That same year, Cooper left Motorola and founded Cellular Business Systems, Inc.
+  • In 1986 he and his partners sold CBSI to Cincinnati Bell for $23 million, and he and his wife, Arlene Harris, founded Dyna, LLC.
+  • Dyna served as a central organization from which they launched other companies, such as ArrayComm (1996), which developed software for wireless systems, and GreatCall (2006), which provided wireless service for the Jitterbug, a cell phone with simple features meant for the elderly.
+  • The first mobile and portable subscriber units for cellular systems were large and heavy.
+##### shuji-nakamura (Shuji Nakamura)
+== https://www.britannica.com/biography/Shuji-Nakamura [200] 10125 chars
+  • Shuji Nakamura (born May 22, 1954, Ehime, Japan) is a Japanese-born American materials scientist who was awarded the 2014 Nobel Prize in Physics for inventing blue light-emitting diodes (LEDs).
+  • Nakamura solved the first problem in 1990 by growing a GaN crystal layer at low temperatures and then additional GaN layers on top of that at higher temperatures.
+  • LED displays began to be used for consumer electronic devices starting in 1968, when Hewlett-Packard (HP) introduced the first LED display.
+##### charles-kao (Charles Kao)
+== https://www.britannica.com/biography/Charles-Kao [200] 5852 chars
+  • Charles Kao (born November 4, 1933, Shanghai, China—died September 23, 2018, Hong Kong) was a physicist who was awarded the Nobel Prize for Physics in 2009 for his discovery of how light can be transmitted through fibre-optic cables.
+  • In 1970 the first practical fibre-optic cable was successfully produced, and by the end of the 20th century much of the world’s telecommunications was travelling through fibre-optic cable.
+  • He and his wife, Gwen Kao, founded the Charles K.
+##### jack-kilby (Jack Kilby)
+== https://www.britannica.com/biography/Jack-Kilby [200] 10868 chars
+  • Soon Kilby had a working postage-stamp-size prototype manufactured from germanium, and in February 1959 TI filed a patent application for this “miniaturized electronic circuit”—the world’s first integrated circuit.
+  • Many of those patents concerned improvements in IC design and manufacturing, including those for the first IC-powered experimental computer that TI built for the U.S.
+  • In 1967 he designed the first IC-based electronic calculator, the Pocketronic, gaining himself and TI the basic patent that lies at the heart of all pocket calculators.
+  • Robert Noyce (born December 12, 1927, Burlington, Iowa, U.S.—died June 3, 1990, Austin, Texas) was an American engineer and co-inventor of the integrated circuit, a system of interconnected transistors on a single silicon microchip.
+  • In 1939 the Noyce family moved to Grinnell, Iowa, where the father had accepted a position as a Congregational minister and where the son began to demonstrate the traits of an inventor and tinkerer.
+  • Shockley was recruiting researchers for Shockley Semiconductor Laboratory, a company that he had started in Palo Alto, California, to produce high-speed transistors.
+  • In 1971 Intel introduced the first microprocessor, which combined on a single silicon chip the circuitry for both information storage and information processing.
+  • Noyce became Sematech Inc.’s first president in 1988.
+##### hedy-lamarr (Hedy Lamarr)
+== https://www.britannica.com/biography/Hedy-Lamarr [200] 9286 chars
+  • Austrian-born American actress
+  • Where was Hedy Lamarr born and where did she become famous?
+  • Hedy Lamarr (born November 9, 1913/14, Vienna, Austria—died January 19, 2000, near Orlando, Florida, U.S.) was an Austrian-born American film star who was often typecast as a provocative femme fatale.
+  • Hedy LamarrAustrian-born actress Hedy Lamarr.
+  • At age 16 she enrolled in Max Reinhardt’s Berlin-based dramatic school, and within a year she made her motion picture debut in Geld auf der Strasse (1930; Money on the Street).
+  • After leaving the possessive Mandl, she went to Hollywood in 1937, where she appeared in her first English-language film, the classic romantic drama Algiers (1938).
+  • Hollywood sign First built in 1923 (a new sign was erected in 1978), the sign originally said “Hollywoodland,” but the sign fell into disrepair, and the “land” section was removed in the 1940s when the sign was refurbished.
+  • The first house in Hollywood was an adobe building (1853) on a site near Los Angeles, then a small city in the new state of California.
+  • In 1908 one of the first storytelling movies, The Count of Monte Cristo, was completed in Hollywood after its filming had begun in Chicago.
+  • In 1911 a site on Sunset Boulevard was turned into Hollywood’s first studio, and soon about 20 companies were producing films in the area.
+##### philo-farnsworth (Philo Farnsworth)
+== https://www.britannica.com/biography/Philo-Farnsworth [200] 14585 chars
+  • What was the first successful electronic television made by Farnsworth called?
+  • Philo Farnsworth (born August 19, 1906, Beaver, Utah, U.S.—died March 11, 1971, Salt Lake City, Utah) was an American inventor who developed the first all-electronic television system.
+  • Farnsworth moved to Los Angeles with his new wife, Pem Gardner, and began work.
+  • He quickly spent the original $6,000 put up by Everson and Gorrell, but Everson procured $25,000 and laboratory space from the Crocker First National Bank of San Francisco.
+  • Farnsworth made his first successful electronic television transmission on September 7, 1927, and filed a patent for his system that same year.
+  • Farnsworth continued to perfect his system and gave the first demonstration to the press in September 1928.
+  • His backers at the Crocker First National Bank were eager to be bought out by a much larger company and in 1930 made overtures to the Radio Corporation of America (RCA), which sent the head of their electronic television project, Vladimir Zworykin, to evaluate Farnsworth’s work.
+  • The years of struggle and exhausting work had taken their toll on Farnsworth, and in 1939 he moved to Maine to recover after a nervous breakdown.
+  • World War II halted television development in America, and Farnsworth founded Farnsworth Wood Products, which made ammunition boxes.
+  • In 1947 he returned to Fort Wayne, and that same year Farnsworth Television produced its first television set.
+##### john-logie-baird (John Logie Baird)
+== https://www.britannica.com/biography/John-Logie-Baird [200] 10840 chars
+  • John Logie Baird (born August 13, 1888, Helensburgh, Dunbarton, Scotland—died June 14, 1946, Bexhill-on-Sea, Sussex, England) was a Scottish engineer, the first man to televise pictures of objects in motion.
+  • His invention, known as the “Televisor,” was shown to the public on January 26, 1926, and is considered the first demonstration of television.
+  • The technical standards for modern television, both monochrome (black-and-white) and colour, were first established in the middle of the 20th century.
+  • Despite this continuous technical evolution, modern television is best understood first by learning the history and principles of monochrome television and then by extending that learning to colour.
+  • The emphasis of this article, therefore, is on first principles and major developments—basic knowledge that is needed to understand and appreciate future technological developments and enhancements.
+  • Priests in ancient Greece studied the entrails of birds, trying to see in them what the birds had seen when they flew over the horizon.
+  • The concept of scanning, which established the possibility of using only a single wire or channel for transmission of an entire image, became and remains to this day the basis of all television.
+  • As the disk rotated, the outermost hole would move across the scene, letting through light from the first “line” of the picture.
+  • This concept was eventually used by John Logie Baird in Britain (see the photograph) and Charles Francis Jenkins in the United States to build the world’s first successful televisions.
+  • In 1922 Jenkins sent a still picture by radio waves, but the first true television success, the transmission of a live human face, was achieved by Baird in 1925.
+##### james-dyson (James Dyson)
+== https://www.britannica.com/money/James-Dyson [200] 4104 chars
+  • Born:May 2, 1947, Cromer, Norfolk, England (age 79)
+  • James Dyson (born May 2, 1947, Cromer, Norfolk, England) is a British inventor, industrial designer, and entrepreneur who successfully manufactured innovative household appliances and became a determined campaigner to restore engineering and technical innovation to high esteem in British society.
+  • In 1974 Dyson founded his own company to produce the Ballbarrow, a plastic wheelbarrow-like bin that rolled on a load-spreading ball instead of a narrow wheel.
+  • In 1978 Dyson, having grown impatient with clogged air filters in his Ballbarrow factory, built a cyclone particle collector similar to devices used in larger industrial plants, such as sawmills.
+  • Adapting this solution to home vacuum cleaners, he worked for the next five years, testing more than 5,000 prototypes, before he produced a satisfactory model that swirled incoming dirty air around a cylindrical container, where the dust was separated by centrifugal force and settled by gravity while the purified air escaped out the top.
+  • In 1993 Dyson opened a plant in North Wiltshire, and within two years his Dual Cyclone model became the top-selling vacuum cleaner in Britain, despite a retail price considerably higher than that of competing brands.
+  • In 2002 the James Dyson Foundation was established with the aim of encouraging young people to enter engineering through the awarding of prizes and grants.
+##### willard-boyle (Willard Boyle)
+== https://www.britannica.com/biography/Willard-Boyle [200] 2553 chars
+  • In 1962, with American physicist Donald Nelson, he invented the first laser capable of being operated continuously—unlike previous lasers, which had been capable of operating only in short bursts.
+##### robert-noyce (Robert Noyce)
+== https://www.britannica.com/biography/Robert-Noyce [200] 5603 chars
+  • Robert Noyce (born December 12, 1927, Burlington, Iowa, U.S.—died June 3, 1990, Austin, Texas) was an American engineer and co-inventor of the integrated circuit, a system of interconnected transistors on a single silicon microchip.
+  • In 1939 the Noyce family moved to Grinnell, Iowa, where the father had accepted a position as a Congregational minister and where the son began to demonstrate the traits of an inventor and tinkerer.
+  • Shockley was recruiting researchers for Shockley Semiconductor Laboratory, a company that he had started in Palo Alto, California, to produce high-speed transistors.
+  • In 1971 Intel introduced the first microprocessor, which combined on a single silicon chip the circuitry for both information storage and information processing.
+  • Noyce became Sematech Inc.’s first president in 1988.
+##### shigeru-miyamoto (Shigeru Miyamoto)
+== https://www.britannica.com/biography/Miyamoto-Shigeru [200] 1985 chars
+  • Nintendo itself, founded in 1889, has a rich history evolving from playing card manufacturing to becoming a global leader in video game entertainment.12
+##### hideo-kojima (Hideo Kojima)
+== https://www.britannica.com/topic/Metal-Gear-Solid [200] 1887 chars
+  • In the first Metal Gear Solid, Snake is deployed to counteract Foxhound, a special forces unit turned terrorist.
+!! satoru-iwata: no Britannica result for "Iwata Satoru"
+##### hironobu-sakaguchi (Hironobu Sakaguchi)
+== https://www.britannica.com/topic/Final-Fantasy [200] 5696 chars
+  • When was Final Fantasy first released?
+  • The first game launched one of the most commercially successful video game franchises, with the main series and its spin-offs together selling more than 200 million copies worldwide as of 2025.
+  • The first task of the Warriors of Light is almost fairy-tale in tone: A former knight of Cornelia named Garland has abducted the king’s daughter, Princess Sarah, and the heroes rescue her by defeating him at a nearby ruined shrine.
+##### will-wright (Will Wright)
+== https://www.britannica.com/biography/Will-Wright [200] 1834 chars
+  • His first commercial A-life release was SimEarth (1990), a world-builder simulation for personal computers (PCs) in which players select from various landforms and climates for their planet, seed the planet with very primitive…
+##### sid-meier (Sid Meier)
+== https://www.britannica.com/biography/Sid-Meier [200] 773 chars
+##### markus-persson (Markus Persson)
+== https://www.britannica.com/topic/Minecraft-electronic-game [200] 15220 chars
+  • Swedish software programmer Markus (“Notch”) Persson began working on Minecraft in 2009, and he founded Mojang Specifications (later Mojang Studios) to handle the game’s development and release.
+  • The Dating Game: Which Came First?
+  • It was built inside Minecraft by the design studio BlockWorks.
+  • The library was opened on March 12, 2020, the World Day Against Cyber Censorship.
+  • Although his journalism is banned from circulation in Saudi Arabia, selected works are made accessible through the Uncensored Library, allowing readers in his native country and elsewhere to access texts that their own governments have sought to suppress.
+  • survival of the fittest Herbert Spencer's Principles of Biology (1864) first introduced the expression “survival of the fittest.”
+  • Darwin borrowed the term from English sociologist and philosopher Herbert Spencer, who first used it in his 1864 book Principles of Biology.
+  • British philosopher Karl Popper considered “survival of the fittest” self-evident at first; however, he changed his mind after realizing that Darwin posited variation axiomatically; that is, Darwin noted that all individuals did not start with the same set of characters (or traits).
+  • To realize this perspective, Darwin’s cousin, British scientist Francis Galton, who coined the term eugenics (derived from the Greek for “well-born”), established the Eugenics Education Society of London in 1907.
+  • In 1907 Indiana became the first U.S.
+##### toru-iwatani (Toru Iwatani)
+== https://www.britannica.com/topic/Pac-Man [200] 4126 chars
+##### alexey-pajitnov (Alexey Pajitnov)
+== https://www.britannica.com/biography/Alexey-Pajitnov [200] 629 chars
+##### ralph-baer (Ralph Baer)
+== https://www.britannica.com/biography/Ralph-Baer [200] 682 chars
+##### joseph-engelberger (Joseph Engelberger)
+== https://www.britannica.com/biography/Joseph-F-Engelberger [200] 702 chars
+  • Engelberger teamed with Devol to promote the use of robots in industry and to establish the first corporation in robotics—Unimation, Inc.
+##### george-devol (George Devol)
+== https://www.britannica.com/topic/uncanny-valley [200] 12925 chars
+  • It was installed in a General Motors factory, making it the first programmable industrial robot.
+  • Industrial robotic arms, for example, are designed for precision and strength, whereas humanoid robots are built to imitate human movement.
+  • At the same time robotics has raised significant debate: A reduction in human employment opportunities, safety concerns, and the ethical implications of autonomous systems and AI remain contentious issues.
+##### rodney-brooks (Rodney Brooks)
+== https://www.britannica.com/biography/Rodney-Allen-Brooks [200] 8727 chars
+  • Rodney Brooks (born December 30, 1954, Adelaide, South Australia, Australia) is an Australian computer scientist, artificial intelligence scientist, and designer of mobile autonomous robots.
+  • Attila the robotAttila, along with its twin, Hannibal, was built at MIT (1989–91) as part of a research project to develop autonomous robots for planetary exploration.
+  • By the time Brooks had finished his doctorate and moved to the Mobile Robotics Laboratory at the Massachusetts Institute of Technology (MIT) in 1984, he had become discouraged with AI research, especially with the field’s top-down approach to problem solving.
+  • The top-down approach, which dominated the field at that time, presupposes that a computer must first be supplied with an internal representation of the “essential” features of the world in which it operates—an immensely difficult framework problem for all but the very simplest tasks.
+  • When the female wasp returns to her burrow with food, she first deposits it on the threshold, checks for intruders inside her burrow, and only then, if the coast is clear, carries her food inside.
+##### masahiro-mori (Masahiro Mori)
+== https://www.britannica.com/topic/uncanny-valley [200 cached] 12973 chars
+  • It was installed in a General Motors factory, making it the first programmable industrial robot.
+  • Industrial robotic arms, for example, are designed for precision and strength, whereas humanoid robots are built to imitate human movement.
+  • At the same time robotics has raised significant debate: A reduction in human employment opportunities, safety concerns, and the ethical implications of autonomous systems and AI remain contentious issues.
+!! hiroshi-ishiguro: no Britannica result for "Ishiguro Hiroshi android"
+!! cynthia-breazeal: no Britannica result for "Cynthia Breazeal"
+##### isaac-asimov (Isaac Asimov)
+== https://www.britannica.com/biography/Isaac-Asimov [200] 14921 chars
+  • What was Isaac Asimov’s first job?
+  • Isaac Asimov (born January 2, 1920, Petrovichi, Russia—died April 6, 1992, New York, New York, U.S.) was an American author and biochemist, a highly successful and prolific writer of science fiction and of science books for the layperson.
+  • He grew up in Brooklyn, New York, and graduated from Columbia University in 1939.
+  • Cover of FoundationCover of the first edition of Isaac Asimov's novel Foundation (1951).
+  • He sold his first story, “Marooned off Vesta” to Amazing Stories, but he was most closely associated with Astounding Science-Fiction and its editor, John W.
+  • a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; and
+  • a robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
+  • Asimov’s first novels (Pebble in the Sky [1950], The Stars, Like Dust [1951], and The Currents of Space [1952]) were set during and before the Galactic Empire but had no relation to the Foundation series.
+  • The genre formally emerged in the West, where the social transformations wrought by the Industrial Revolution first led writers and intellectuals to extrapolate the future impact of technology.
+  • When the genre began to gel in the early 20th century, it was generally disreputable, particularly in the United States, where it first catered to a juvenile audience.
+##### karel-capek (Karel Čapek)
+== https://www.britannica.com/biography/Karel-Capek [200] 11238 chars
+  • He studied philosophy in Prague, Berlin, and Paris and in 1917 settled in Prague as a writer and journalist.
+  • The realistic novel Prvni parta (1937; The First Rescue Party) stressed the need for solidarity.
+  • The genre formally emerged in the West, where the social transformations wrought by the Industrial Revolution first led writers and intellectuals to extrapolate the future impact of technology.
+  • When the genre began to gel in the early 20th century, it was generally disreputable, particularly in the United States, where it first catered to a juvenile audience.
+  • Among the earliest examples is the 2nd-century-CE Syrian-born Greek satirist Lucian, who in Trips to the Moon describes sailing to the Moon.
+  • While many writers had depicted some future utopian “Kingdom of God” or a utopian society in some mythical land, this was the first work to postulate a utopian society on Earth in the realizable future.
+##### grey-walter (W. Grey Walter)
+== https://www.britannica.com/money/Walter-P-Chrysler [200] 8081 chars
+  • Born:April 2, 1875, Wamego, Kan., U.S.
+  • Chrysler (born April 2, 1875, Wamego, Kan., U.S.—died Aug.
+  • When he was three, his family moved to Ellis, Kan., where his father, a lifelong railroad engineer, went to work for the Kansas Pacific Railroad (later a division of the Union Pacific Railroad Company).
+  • In 1901, after an engagement of nearly five years, Chrysler married his childhood sweetheart, Della Forker, and they settled in Salt Lake City, Utah, where Chrysler was working for the Denver and Rio Grande Railway (later part of the Denver and Rio Grande Western Railroad Company).
+  • In 1908 Chrysler bought his first car, the Locomobile.
+  • The low-cost car was a hit with the public, and some 32,000 units were built and sold in a single year.
+  • In 1928 Chrysler purchased Dodge Brothers, Inc., and later that year introduced the first Plymouth model to compete with modestly priced Fords and Chevrolets.
+!! marc-raibert: no Britannica result for "Marc Raibert"
+##### wernher-von-braun (Wernher von Braun)
+== https://www.britannica.com/biography/Wernher-von-Braun [200] 21149 chars
+  • Wernher von Braun (born March 23, 1912, Wirsitz, Germany [now Wyrzysk, Poland]—died June 16, 1977, Alexandria, Virginia, U.S.) was a German engineer who played a prominent role in all aspects of rocketry and space exploration, first in Germany and after World War II in the United States.
+  • Braun was born into a prosperous aristocratic family.
+  • In 1920 his family moved to the seat of government, Berlin.
+  • In 1932 he graduated from the Technical Institute with a B.S.
+  • By December 1934 (when Germany was ruled by dictator Adolf Hitler), Braun’s group, which then included one additional engineer and three mechanics, had successfully launched two rockets that rose vertically to more than 1.5 miles (2.4 km).
+  • citizenship swearing-in ceremony at Huntsville High School, Alabama, which involved a number of German-born scientists, including Wernher von Braun, April 14, 1955.
+  • Given leave to proceed on November 8, Braun and his army group launched the first U.S.
+  • Each was launched successfully and on time and met safe-performance requirements.
+  • In 1975 he founded the National Space Institute, a private organization whose objective was to gain public support and understanding of space activities.
+  • As centuries of speculative fiction in books and more recently in films make clear, “one small step for [a] man, one giant leap for mankind” was taken by the human spirit many times and in many ways before Neil Armstrong stamped humankind’s first footprint on the Moon.
+##### sergei-korolev (Sergei Korolev)
+== https://www.britannica.com/biography/Sergei-Korolev [200] 5850 chars
+  • Yuri Gagarin and Sergei Korolev Yuri Gagarin (left), the first human to travel into space, and Sergei Korolev, Soviet rocket scientist, 1961.
+  • Sergei Korolev (born January 12, 1907 [December 30, 1906, Old Style], Zhitomir, Russia [now Zhytomyr, Ukraine]—died January 14, 1966, Moscow, Russia, U.S.S.R.) was a Soviet designer of guided missiles, rockets, and spacecraft.
+  • Bauman Higher Technical School, where he studied aeronautical engineering under the celebrated designers Nikolay Yegorovich Zhukovsky and Andrey Nikolayevich Tupolev.
+  • Tsander formed the Moscow Group for the Study of Reactive Motion, and in 1933 the group launched the Soviet Union’s first liquid-propellant rocket.
+  • In 1953 he began to develop the series of ballistic missiles that led to the Soviet Union’s first intercontinental ballistic missile.
+  • launched Sputnik 1, the first artificial satellite.
+  • placed the first animal in a spacecraft, the dog Laika aboard Sputnik 2.
+  • On February 1, 1958, the first U.S.
+  • satellite, Explorer 1, was launched.
+  • On April 9, 1959, NASA announced the first astronaut group, the Mercury 7.
+##### robert-goddard (Robert Goddard)
+== https://www.britannica.com/biography/Robert-Goddard [200] 15646 chars
+  • Robert Goddard (born October 5, 1882, Worcester, Massachusetts, U.S.—died August 10, 1945, Baltimore, Maryland) was an American professor and inventor generally acknowledged to be the father of modern rocketry.
+  • From childhood on he displayed great curiosity about physical phenomena and a bent toward inventiveness.
+  • Goddard and a liquid oxygen–gasoline rocket in its frame; the rocket was first fired on March 16, 1926, at Auburn, Massachusetts.
+  • The rocket—launched in 1926—flew for 2.5 seconds, reached an altitude of 12.5 metres (41 feet), and landed 56 metres (184 feet) away from the launch site.
+  • In his small laboratory there, he was the first to prove that thrust and consequent propulsion can take place in a vacuum, needing no air to push against.
+  • He was the first to explore mathematically the ratios of energy and thrust per weight of various fuels, including liquid oxygen and liquid hydrogen.
+  • He was also the first to develop a rocket motor using liquid fuels (liquid oxygen and gasoline), as used in the German V-2 rocket weapon 15 years later.
+  • On March 16, 1926, the world’s first flight of a liquid-propelled rocket engine took place on his Aunt Effie’s farm in Auburn, Massachusetts, achieving a brief lift-off.
+  • In the course of his experiments there he became the first to shoot a liquid-fuel rocket faster than the speed of sound (1935).
+  • He obtained the first patents of a steering apparatus for the rocket machine and of the use of “step rockets” to gain great altitudes.
+##### hermann-oberth (Hermann Oberth)
+== https://www.britannica.com/biography/Hermann-Julius-Oberth [200] 11749 chars
+  • Hermann Oberth (born June 25, 1894, Nagyszeben, Austria-Hungary [now Sibiu, Rom.]—died Dec.
+  • The son of a prosperous physician, Oberth studied medicine in Munich, but his education was interrupted by service in the Austro-Hungarian army during World War I.
+  • Oberth’s Wege zur Raumschiffahrt (1929; Ways to Spaceflight) won the first annual Robert Esnault-Pelterie–André Hirsch Prize of 10,000 francs, enabling him to finance his research on liquid-propellant rocket motors.
+  • In 1931 Oberth received a patent for a liquid-propellant rocket from the Romanian Patent Office, and the first rocket was launched on May 7, 1931, near Berlin.
+  • He spent a year in Switzerland after the war as a rocket consultant, and in 1950 he moved to Italy, where he worked on solid-propellant antiaircraft rockets for the Italian navy.
+  • Wernher von Braun (born March 23, 1912, Wirsitz, Germany [now Wyrzysk, Poland]—died June 16, 1977, Alexandria, Virginia, U.S.) was a German engineer who played a prominent role in all aspects of rocketry and space exploration, first in Germany and after World War II in the United States.
+  • Braun was born into a prosperous aristocratic family.
+  • In 1920 his family moved to the seat of government, Berlin.
+  • In 1932 he graduated from the Technical Institute with a B.S.
+  • By December 1934 (when Germany was ruled by dictator Adolf Hitler), Braun’s group, which then included one additional engineer and three mechanics, had successfully launched two rockets that rose vertically to more than 1.5 miles (2.4 km).
+##### katherine-johnson (Katherine Johnson)
+== https://www.britannica.com/biography/Katherine-Johnson [200] 9117 chars
+  • Katherine Johnson (born August 26, 1918, White Sulphur Springs, West Virginia, U.S.—died February 24, 2020, Newport News, Virginia) was an American mathematician who calculated and analyzed the flight paths of many spacecraft during her more than three decades with the U.S.
+  • Coleman’s intelligence and skill with numbers became apparent when she was a child; by the time she was 10 years old, she had started attending high school.
+  • In 1937, at age 18, Coleman graduated with highest honours from West Virginia State College (now West Virginia State University), earning bachelor’s degrees in mathematics and French.
+  • She subsequently moved to Virginia to take a teaching job.
+  • In 1939, however, she was selected to be one of the first three African American students to enroll in a graduate program at West Virginia University.
+  • She studied math there but soon left after marrying James Goble and deciding to start a family.
+  • It was the first time a woman in her division received credit as an author of a research report.
+  • In 1961 she calculated the path for Freedom 7, the spacecraft that put the first U.S astronaut in space, Alan B.
+  • Glenn subsequently made history aboard Friendship 7, becoming the first U.S.
+  • Johnson was also part of the team that calculated where and when to launch the rocket for the Apollo 11 mission of 1969, which sent the first three men to the Moon.
+##### vikram-sarabhai (Vikram Sarabhai)
+== https://www.britannica.com/biography/Vikram-Sarabhai [200] 6300 chars
+  • Vikram Sarabhai (born August 12, 1919, Ahmadabad, India—died December 30, 1971, Kovalam) was an Indian physicist and industrialist who initiated space research and helped develop nuclear power in India.
+  • Sarabhai was born into a family of industrialists.
+  • He founded the Physical Research Laboratory in Ahmadabad on his return to India.
+  • Sarabhai founded the Ahmedabad Textile Industry’s Research Association in 1947 and looked after its affairs until 1956.
+  • Indian Space Research Organisation (ISRO), Indian space agency, founded in 1969 to develop an independent Indian space program.
+  • ISRO’s first satellite, Aryabhata, was launched by the Soviet Union on April 19, 1975.
+  • Rohini, the first satellite to be placed in orbit by an Indian-made launch vehicle (the Satellite Launch Vehicle 3), was launched on July 18, 1980.
+  • ISRO has launched several space systems, including the Indian National Satellite (INSAT) system for telecommunication, television broadcasting, meteorology, and disaster warning and the Indian Remote Sensing (IRS) satellites for resource monitoring and management.
+  • The first INSAT was launched in 1988, and the program expanded to include geosynchronous satellites called GSAT.
+  • The first IRS satellite was also launched in 1988, and the program developed more-specialized satellites, including the Radar Imaging Satellite-1 (RISAT-1, launched in 2012) and the Satellite with Argos and Altika (SARAL, launched in 2013), a joint Indian-French mission that measures ocean wave heights.
+##### yuri-gagarin (Yuri Gagarin)
+== https://www.britannica.com/biography/Yuri-Gagarin [200] 4111 chars
+  • Yuri Gagarin (born March 9, 1934, near Gzhatsk, Russia, U.S.S.R.
+  • [now Gagarin, Russia]—died March 27, 1968, near Moscow) was a Soviet cosmonaut who in 1961 became the first man to travel into space.
+  • The son of a carpenter on a collective farm, Gagarin graduated as a molder from a trade school near Moscow in 1951.
+  • On completing this course, he entered the Soviet Air Force cadet school at Orenburg, from which he graduated in 1957.
+  • Gagarin’s 4 3/4-ton Vostok 1 spacecraft was launched at 9:07 AM Moscow time on April 12, 1961, orbited Earth once in 1 hour 29 minutes at a maximum altitude of 187 miles (301 km), and landed at 10:55 AM in the Soviet Union.
+  • Monuments were raised to him, and streets were renamed in his honour across the Soviet Union.
+  • Vostok, any of a series of manned Soviet spacecraft, the initial flight of which carried the first human being into space.
+  • Launched on April 12, 1961, Vostok 1, carrying cosmonaut Yury A.
+  • While the first flight lasted only 1 hour and 48 minutes, the second, Vostok 2 (Aug.
+  • The remaining Vostok missions were launched in pairs.
+##### neil-armstrong (Neil Armstrong)
+== https://www.britannica.com/biography/Neil-Armstrong [200] 13585 chars
+  • Neil Armstrong (born August 5, 1930, Wapakoneta, Ohio, U.S.—died August 25, 2012, Cincinnati, Ohio) was a U.S.
+  • astronaut, and the first person to set foot on the Moon.
+  • Neil Armstrong was the eldest of three children born to Viola Louise Engel and Stephen Koenig Armstrong, a state auditor.
+  • Neil’s passion for aviation and flight was kindled when he took his first airplane ride at age 6.
+  • Scott rendezvoused with an unmanned Agena rocket and completed the first manual space docking maneuver.
+  • Neil Armstrong Takes Humankind's First Steps on the Lunar Surface During NASA's Apollo 11 MissionPerhaps the most famous of all space films, these clips document the arrival of the first human beings on the Moon on July 20, 1969.
+  • Scroll through the timeline of the Apollo missions that led the United States to land the first humans on the Moon, and see how Armstrong fits into this storied history.
+  • When was Apollo 11 launched?
+  • spaceflight during which commander Neil Armstrong and lunar module pilot Edwin (“Buzz”) Aldrin, Jr., on July 20, 1969, became the first people to land on the Moon and walk the lunar surface.
+  • Explore the timeline of the Apollo missions that led the United States to land the first humans on the Moon.
+##### brian-chesky (Brian Chesky)
+== https://www.britannica.com/money/Airbnb [200] 9036 chars
+  • Founded in 2008 in San Francisco, it has grown into one of the world’s largest travel businesses, with more than 8 million listings in over 220 regions and countries.
+  • In 2008, the trio launched a website called AirBed & Breakfast, later shortened to Airbnb, which allowed people to rent out spare rooms, apartments, or houses to visitors.
+  • Shares were priced at $68 each and doubled on their first day of trading, giving the company a market value of more than $100 billion.
+  • Incidents involving property damage, parties that disrupted neighborhoods, and hidden cameras in rentals have raised concerns about whether Airbnb adequately screens users.
+  • After cutting costs and streamlining operations, Airbnb posted its first full-year profit in 2022.
+##### daniel-ek (Daniel Ek)
+== https://www.britannica.com/money/Daniel-Ek [200] 2720 chars
+  • Born:February 21, 1983, Stockholm, Sweden (age 43)
+  • Daniel Ek (born February 21, 1983, Stockholm, Sweden) is a Swedish entrepreneur who in 2006 cofounded Spotify, an Internet music-streaming service that provides listeners with legal, ad-supported access to millions of songs, rejecting traditional models of downloading and eliminating per-song costs.
+  • Ek grew up in Ragsved, near Stockholm, and, as a teenager, he created Web sites for businesses and ran Web hosting services out of his bedroom.
+  • He then established Spotify with Tradedoubler’s cofounder, Martin Lorentzon, and became CEO.
+  • Despite such reservations, Spotify launched in 2008 and quickly became popular with both users and investors.
+  • By 2010 venture capital money was beginning to flow in to Spotify, and some analysts estimated that the service’s potential value was as much as $4 billion.
+  • After the first day of trading, Spotify had a market value of about $27 billion.
+##### jack-dorsey (Jack Dorsey)
+== https://www.britannica.com/money/Jack-Dorsey [200] 4145 chars
+  • Born:November 19, 1976, St.
+  • Jack Dorsey (born November 19, 1976, St.
+  • In 2000 he first considered using text and instant messaging (based on the principles of dispatch software) as a way of keeping in touch with friends.
+  • On March 21, 2006, Dorsey posted the first Twitter message: “just setting up my twttr”.
+  • In that capacity, he was involved with Twitter’s initial public offering (2013), which raised $1.8 billion.
+  • It launched in 2010 and by 2012 had more than two million users.
+!! whitney-wolfe-herd: no Britannica result for "Whitney Wolfe Herd"
+!! patrick-collison: no Britannica result for "Patrick Collison"
+##### kevin-systrom (Kevin Systrom)
+== https://www.britannica.com/biography/Kevin-Systrom [200] 654 chars
+  • …launched in 2010 by cofounders Kevin Systrom and Mike Krieger, and it is now owned by Meta Platforms, Inc., the parent company of Facebook.
+##### reed-hastings (Reed Hastings)
+== https://www.britannica.com/money/Reed-Hastings [200] 3620 chars
+  • Born:October 8, 1960, Boston, Massachusetts, U.S.
+  • Reed Hastings (born October 8, 1960, Boston, Massachusetts, U.S.) is an American entrepreneur who was cofounder (1997) of Netflix, a media-streaming and video-rental company.
+  • Hastings studied mathematics at Bowdoin College in Brunswick, Maine, graduating with a bachelor’s degree in 1983.
+  • Subsequently Hastings became a software developer, and in 1991 he founded Pure Software (later Pure Atria Corporation), which he sold in 1997 for a substantial profit.
+  • He and business partner Marc Randolph (who left the company in 2004) incorporated Netflix in California in 1997 and started mail-order DVD operations in 1998.
+  • At first customers were allowed to rent each DVD for a seven-day period, but by December 1999 subscribers could pay a set monthly fee to rent an unlimited number of DVDs.
+  • Meanwhile, the company launched applications that permitted customers to access movies and TV shows through streaming downloads.
+  • Its first such offering was the episodic drama series House of Cards, which debuted in 2013.
+##### jan-koum (Jan Koum)
+== https://www.britannica.com/biography/Jan-Koum [200] 1499 chars
+!! nadiem-makarim: no Britannica result for "Nadiem Makarim"
+##### charles-babbage (Charles Babbage)
+== https://www.britannica.com/biography/Charles-Babbage [200] 8990 chars
+  • Charles Babbage (born December 26, 1791, London, England—died October 18, 1871, London) was an English mathematician and inventor who is credited with having conceived the first automatic digital computer.
+  • The idea of mechanically calculating mathematical tables first came to Babbage in 1812 or 1813.
+  • However, the full engine, designed to be room-sized, was never built, at least not by Babbage.
+  • As with the Difference Engine, the project was far more complex than anything theretofore built.
+  • The memory unit was to be large enough to hold 1,000 50-digit numbers; this was larger than the storage capacity of any computer built before 1960.
+  • In 1843 Babbage’s friend mathematician Ada Lovelace translated a French paper about the Analytical Engine and, in her own annotations, published how it could perform a sequence of calculations, the first computer program.
+  • In 1991 British scientists built Difference Engine No.
+  • 2—accurate to 31 digits—to Babbage’s specifications, and in 2000 the printer for the Difference Engine was also built.
+  • He assisted in establishing the modern postal system in England and compiled the first reliable actuarial tables.
+  • Only partially built at the time of Babbage's death in 1871, this portion contains the "mill" (functionally analogous to a modern computer's central processing unit) and a printing mechanism.
+##### ada-lovelace (Ada Lovelace)
+== https://www.britannica.com/biography/Ada-Lovelace [200] 7191 chars
+  • Ada Lovelace (born December 10, 1815, Piccadilly Terrace, Middlesex [now in London], England—died November 27, 1852, Marylebone, London) was an English mathematician, an associate of Charles Babbage, for whose prototype of a digital computer she created a program.
+  • She has been called the first computer programmer.
+  • She was educated privately by tutors and then self-educated but was helped in her advanced studies by mathematician-logician Augustus De Morgan, the first professor of mathematics at the University of London.
+  • Babbage only built a small part of the Analytical Engine, but Lovelace’s efforts have been remembered.
+  • Only partially built at the time of Babbage's death in 1871, this portion contains the "mill" (functionally analogous to a modern computer's central processing unit) and a printing mechanism.
+  • Analytical Engine, generally considered the first computer, designed and partly built by the English inventor Charles Babbage in the 19th century (he worked on it until his death in 1871).
+  • As with the Difference Engine, the project was far more complex than anything theretofore built.
+  • The store was to be large enough to hold 1,000 50-digit numbers; this was larger than the storage capacity of any computer built before 1960.
+  • For this, she has been called the first computer programmer.) Another element of programmability was to be its ability to execute instructions in other than sequential order.
+  • The Analytical Engine, although not actually completed, was the first machine that deserved to be called a computer.
+##### grace-hopper (Grace Hopper)
+== https://www.britannica.com/biography/Grace-Hopper [200] 10266 chars
+  • Grace Hopper (born December 9, 1906, New York, New York, U.S.—died January 1, 1992, Arlington, Virginia) was an American mathematician and rear admiral in the U.S.
+  • Navy who was a pioneer in developing computer technology, helping to devise UNIVAC I, the first commercial electronic computer, and naval applications for COBOL (common-business-oriented language).
+  • She became a lieutenant and was assigned to the Bureau of Ordnance’s Computation Project at Harvard University (1944), where she worked on Mark I, the first large-scale automatic calculator and a precursor of electronic computers.
+  • She wrote the first computer manual, A Manual of Operation for the Automatic Sequence Controlled Calculator (1946), which described how to operate Mark I and was the first extensive treatment of how to program a computer.
+  • In 1949 Hopper joined the Eckert-Mauchly Computer Corp., where she designed one of the first compilers, which translated a programmer’s instructions into computer codes, and coined the word compiler.
+  • In 1957 her division developed Flow-Matic, the first English-language data-processing compiler, which had many features that inspired the development of COBOL.
+  • Hopper was elected a fellow of the Institute of Electrical and Electronic Engineers (1962) and was named the first computer science Man of the Year by the Data Processing Management Association (1969).
+  • When she was awarded the National Medal of Technology in 1991, she said “If you ask me what accomplishment I’m most proud of, the answer would be all the young people I’ve trained over the years; that’s more important than writing the first compiler.” She was posthumously awarded the Presidential Medal of Freedom in 2016.
+  • They were the first high-level languages.
+  • The first important algorithmic language was FORTRAN (formula translation), designed in 1957 by an IBM team led by John Backus.
+##### john-von-neumann (John von Neumann)
+== https://www.britannica.com/biography/John-von-Neumann [200] 9073 chars
+  • John von Neumann (born December 28, 1903, Budapest, Hungary—died February 8, 1957, Washington, D.C., U.S.) was a Hungarian-born American mathematician.
+  • Von Neumann grew up in an affluent, highly assimilated Jewish family.
+  • His father, Miksa Neumann (Max Neumann), was a banker, and his mother, born Margit Kann (Margaret Kann), came from a family that had prospered selling farm equipment.
+  • Von Neumann showed signs of genius in early childhood: he could joke in Classical Greek and, for a family stunt, he could quickly memorize a page from a telephone book and recite its numbers and addresses.
+  • As a compromise, von Neumann simultaneously studied chemistry and mathematics.
+  • This neatly avoids some of the complications raised by Georg Cantor’s transfinite numbers.
+  • (Ironically, Irish-born physicist John Stewart Bell demonstrated in the mid-1960s that von Neumann’s proof was flawed; Bell then fixed the proof’s shortcomings, reaffirming von Neumann’s conclusion that hidden variables were unnecessary.
+  • In 1933 von Neumann became one of the first professors at the Institute for Advanced Study (IAS), Princeton, New Jersey.
+  • Von Neumann’s first marriage ended in a divorce after Mariette fell in love with physicist Horner Kuper.
+  • Von Neumann promptly rekindled ties with a childhood sweetheart, Klara Dan, who was herself married to someone else.
+##### konrad-zuse (Konrad Zuse)
+== https://www.britannica.com/biography/Konrad-Zuse [200] 13211 chars
+  • Konrad Zuse was a German engineer who designed and built early computers in the 1930s and 1940s.
+  • Zuse developed software for his machines, and his Z3, completed in 1941, was the first program-controlled processor.
+  • He also created Plankalkül, considered the first high-level programming language, which included procedures and structured data.
+  • Konrad Zuse developed the first real programming language, Plankalkül (“Plan Calculus”), in 1944–45.
+  • Konrad Zuse, a German engineer acting in virtual isolation from developments elsewhere, completed construction in 1941 of the first operational program-controlled calculating machine (Z3).
+  • The English inventor Charles Babbage, however, is generally credited with having conceived the first automatic digital computer.
+  • The ABC was possibly the first electronic digital computer.
+  • Atanasoff, an American mathematician and physicist, is credited with building the first electronic digital computer, which he constructed from 1939 to 1942 with the assistance of his graduate student Clifford E.
+  • Konrad Zuse, a German engineer acting in virtual isolation from developments elsewhere, completed construction in 1941 of the first operational program-controlled calculating machine (Z3).
+  • Manchester Mark IThe first stored-program digital computer, c.
+##### herman-hollerith (Herman Hollerith)
+== https://www.britannica.com/money/Herman-Hollerith [200] 2542 chars
+  • Born:February 29, 1860, Buffalo, New York, U.S.
+  • Herman Hollerith (born February 29, 1860, Buffalo, New York, U.S.—died November 17, 1929, Washington, D.C.) was an American inventor of a tabulating machine that was an important precursor of the electronic computer.
+##### claude-shannon (Claude Shannon)
+== https://www.britannica.com/biography/Claude-Shannon [200] 12812 chars
+  • Claude Shannon (born April 30, 1916, Petoskey, Michigan, U.S.—died February 24, 2001, Medford, Massachusetts) was an American mathematician and electrical engineer who laid the theoretical foundations for digital circuits and information theory, a mathematical communication model.
+  • He joined the mathematics department at Bell Labs in 1941, where he first contributed to work on antiaircraft missile control systems.
+  • In 1948 Shannon published “A Mathematical Theory of Communication,” which built on the foundations of other researchers at Bell Labs such as Harry Nyquist and R.V.L.
+  • It established the basic results of information theory in such a complete form that his framework and terminology are still used.
+  • (The paper appears to contain the first published use of the term bit to designate a single binary digit.)
+  • Morse built a telegraph line between Washington, D.C., and Baltimore, Maryland.
+  • Hartley, whose paper “Transmission of Information” (1928) established the first mathematical foundations for information theory.
+  • Shannon thus wisely realized that a useful theory of information would first have to concentrate on the problems associated with sending and receiving messages, and it would have to leave questions involving any intrinsic meaning of a message—known as the semantic problem—for later investigators.
+  • Solving the technical problem was therefore the first step in developing a reliable communication system.
+##### edsger-dijkstra (Edsger Dijkstra)
+== https://www.britannica.com/biography/Edsger-Dijkstra [200] 2837 chars
+  • Edsger Dijkstra (born May 11, 1930, Rotterdam, Netherlands—died August 6, 2002, Nuenen) was a Dutch computer scientist who developed the paradigm of structured programming for writing computer programs.
+  • Zonnefeld developed the first compiler for the ALGOL-60 programming language.
+  • He instead championed a rigorous approach in which programs were built out of modular units with clear, single entrance and exit points.
+##### gordon-moore (Gordon Moore)
+== https://www.britannica.com/biography/Gordon-Moore [200] 6843 chars
+  • Gordon Moore (born January 3, 1929, San Francisco, California, U.S.—died March 24, 2023, Waimea, Hawaii) was an American engineer and cofounder, with Robert Noyce, of Intel Corporation.
+  • Moore studied chemistry at the University of California, Berkeley (B.S., 1950), and in 1954 he received a Ph.D.
+  • In 1956 Moore returned to California to work at Shockley Semiconductor Laboratory, which William Shockley, one of the Nobel Prize-winning inventors of the transistor, had just opened in Palo Alto.
+  • When Moore and Noyce left Fairchild in 1968 to establish Intel Corporation (also located in Santa Clara), they decided to merge theory and practice by forcing research scientists and engineers to work directly on the production of chips, especially the magnetic oxide semiconductor memory chips that became Intel’s first big commercial success.

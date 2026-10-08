@@ -1,0 +1,642 @@
+{
+ "olivia-rodrigo": {
+  "query": "Temecula, California, United States",
+  "results": [
+   {
+    "lat": 33.4946353,
+    "lon": -117.147366,
+    "type": "city",
+    "category": "boundary",
+    "name": "Temecula",
+    "display": "Temecula, Riverside County, California, United States",
+    "cc": "US",
+    "osm": "relation/3866463"
+   }
+  ]
+ },
+ "billie-eilish": {
+  "query": "Los Angeles, California, United States",
+  "results": [
+   {
+    "lat": 34.0536909,
+    "lon": -118.242766,
+    "type": "city",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "county",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "tate-mcrae": {
+  "query": "Calgary, Alberta, Canada",
+  "results": [
+   {
+    "lat": 51.0456064,
+    "lon": -114.057541,
+    "type": "city",
+    "category": "boundary",
+    "name": "Calgary",
+    "display": "Calgary, Alberta, Canada",
+    "cc": "CA",
+    "osm": "relation/3227127"
+   }
+  ]
+ },
+ "doja-cat": {
+  "query": "Tarzana, Los Angeles, California, United States",
+  "results": [
+   {
+    "lat": 34.1689262,
+    "lon": -118.5365791,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Tarzana Neighborhood Council District",
+    "display": "Tarzana Neighborhood Council District, Los Angeles, Los Angeles County, California, 91356, United States",
+    "cc": "US",
+    "osm": "relation/18284560"
+   }
+  ]
+ },
+ "central-cee": {
+  "query": "Shepherd's Bush, London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5053155,
+    "lon": -0.2229856,
+    "type": "suburb",
+    "category": "place",
+    "name": "Shepherd's Bush",
+    "display": "Shepherd's Bush, London Borough of Hammersmith and Fulham, Greater London, England, W12 8AW, United Kingdom",
+    "cc": "GB",
+    "osm": "node/21662002"
+   },
+   {
+    "lat": 51.5043576,
+    "lon": -0.2183251,
+    "type": "railway",
+    "category": "railway",
+    "name": "Shepherd's Bush",
+    "display": "Shepherd's Bush, Uxbridge Road, Shepherd's Bush, London Borough of Hammersmith and Fulham, Greater London, England, W12 8ND, United Kingdom",
+    "cc": "GB",
+    "osm": "node/6410181628"
+   },
+   {
+    "lat": 51.5057781,
+    "lon": -0.2179221,
+    "type": "railway",
+    "category": "railway",
+    "name": "Shepherd's Bush",
+    "display": "Shepherd's Bush, Westfield Way, Shepherd's Bush, London Borough of Hammersmith and Fulham, Greater London, England, W12 8AY, United Kingdom",
+    "cc": "GB",
+    "osm": "node/6991125994"
+   }
+  ]
+ },
+ "rema": {
+  "query": "Benin City, Edo, Nigeria",
+  "results": [
+   {
+    "lat": 6.3330586,
+    "lon": 5.6221058,
+    "type": "city",
+    "category": "place",
+    "name": "Benin City",
+    "display": "Benin City, Oredo, Edo State, 300241, Nigeria",
+    "cc": "NG",
+    "osm": "node/2149000430"
+   }
+  ]
+ },
+ "tems": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   },
+   {
+    "lat": 6.5269033,
+    "lon": 3.5774005,
+    "type": "state",
+    "category": "boundary",
+    "name": "Lagos State",
+    "display": "Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718182"
+   }
+  ]
+ },
+ "ayra-starr": {
+  "query": "Cotonou, Benin",
+  "results": [
+   {
+    "lat": 6.3676953,
+    "lon": 2.4252507,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cotonou",
+    "display": "Cotonou, Littoral Department, Benin",
+    "cc": "BJ",
+    "osm": "relation/2851879"
+   }
+  ]
+ },
+ "peso-pluma": {
+  "query": "Zapopan, Jalisco, Mexico",
+  "results": [
+   {
+    "lat": 20.7211203,
+    "lon": -103.3913671,
+    "type": "city",
+    "category": "place",
+    "name": "Zapopan",
+    "display": "Zapopan, Región Centro, Jalisco, 45101, Mexico",
+    "cc": "MX",
+    "osm": "node/1688949658"
+   },
+   {
+    "lat": 20.7916423,
+    "lon": -103.4911036,
+    "type": "county",
+    "category": "boundary",
+    "name": "Zapopan",
+    "display": "Zapopan, Región Centro, Jalisco, Mexico",
+    "cc": "MX",
+    "osm": "relation/5606660"
+   }
+  ]
+ },
+ "karol-g": {
+  "query": "Medellín, Antioquia, Colombia",
+  "results": [
+   {
+    "lat": 6.2697324,
+    "lon": -75.6025597,
+    "type": "city",
+    "category": "boundary",
+    "name": "Medellín",
+    "display": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, 0500, Colombia",
+    "cc": "CO",
+    "osm": "relation/1343264"
+   },
+   {
+    "lat": 6.2443382,
+    "lon": -75.573553,
+    "type": "city",
+    "category": "boundary",
+    "name": "Medellín",
+    "display": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, Colombia",
+    "cc": "CO",
+    "osm": "relation/3541280"
+   }
+  ]
+ },
+ "shenseea": {
+  "query": "Mandeville, Manchester, Jamaica",
+  "results": [
+   {
+    "lat": 18.0431254,
+    "lon": -77.50741,
+    "type": "town",
+    "category": "place",
+    "name": "Mandeville",
+    "display": "Mandeville, Manchester, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/290803556"
+   }
+  ]
+ },
+ "rose": {
+  "query": "Auckland, New Zealand",
+  "results": [
+   {
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "type": "city",
+    "category": "place",
+    "name": "Auckland",
+    "display": "Auckland, Waitematā, Auckland, 1010, New Zealand",
+    "cc": "NZ",
+    "osm": "node/292806332"
+   },
+   {
+    "lat": -36.5412811,
+    "lon": 174.5506105,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Auckland",
+    "display": "Auckland, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/17000522"
+   },
+   {
+    "lat": -36.5412811,
+    "lon": 174.5506105,
+    "type": "state",
+    "category": "boundary",
+    "name": "Auckland",
+    "display": "Auckland, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/2094141"
+   }
+  ]
+ },
+ "kylian-mbappe": {
+  "query": "Bondy, Seine-Saint-Denis, France",
+  "results": [
+   {
+    "lat": 48.9031,
+    "lon": 2.48291,
+    "type": "town",
+    "category": "boundary",
+    "name": "Bondy",
+    "display": "Bondy, Bobigny, Seine-Saint-Denis, Ile-de-France, Metropolitan France, 93140, France",
+    "cc": "FR",
+    "osm": "relation/158667"
+   }
+  ]
+ },
+ "vinicius-junior": {
+  "query": "São Gonçalo, Rio de Janeiro, Brazil",
+  "results": [
+   {
+    "lat": -22.821635,
+    "lon": -42.9956797,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "São Gonçalo",
+    "display": "São Gonçalo, Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/2220792"
+   },
+   {
+    "lat": -22.8219014,
+    "lon": -43.0309252,
+    "type": "city",
+    "category": "boundary",
+    "name": "São Gonçalo",
+    "display": "São Gonçalo, Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/14174311"
+   },
+   {
+    "lat": -23.0326222,
+    "lon": -44.6175976,
+    "type": "suburb",
+    "category": "place",
+    "name": "São Gonçalo",
+    "display": "São Gonçalo, Tarituba, Paraty, Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "node/4393880914"
+   }
+  ]
+ },
+ "lamine-yamal": {
+  "query": "Esplugues de Llobregat, Barcelona, Spain",
+  "results": [
+   {
+    "lat": 41.3778094,
+    "lon": 2.0886257,
+    "type": "town",
+    "category": "boundary",
+    "name": "Esplugues de Llobregat",
+    "display": "Esplugues de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08950, Spain",
+    "cc": "ES",
+    "osm": "relation/339972"
+   }
+  ]
+ },
+ "victor-wembanyama": {
+  "query": "Le Chesnay, Yvelines, France",
+  "results": [
+   {
+    "lat": 48.8264842,
+    "lon": 2.1257808,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Le Chesnay",
+    "display": "Le Chesnay, Le Chesnay-Rocquencourt, Versailles, Yvelines, Ile-de-France, Metropolitan France, 78150, France",
+    "cc": "FR",
+    "osm": "relation/31284"
+   }
+  ]
+ },
+ "caitlin-clark": {
+  "query": "West Des Moines, Iowa, United States",
+  "results": [
+   {
+    "lat": 41.5644476,
+    "lon": -93.7594059,
+    "type": "city",
+    "category": "boundary",
+    "name": "West Des Moines",
+    "display": "West Des Moines, Polk County, Iowa, United States",
+    "cc": "US",
+    "osm": "relation/128342"
+   }
+  ]
+ },
+ "julien-alfred": {
+  "query": "Castries, Saint Lucia",
+  "results": [
+   {
+    "lat": 14.0095966,
+    "lon": -60.9902359,
+    "type": "town",
+    "category": "place",
+    "name": "Castries",
+    "display": "Castries, LC04 101, Saint Lucia",
+    "cc": "LC",
+    "osm": "node/4428259435"
+   },
+   {
+    "lat": 13.9525893,
+    "lon": -60.9878235,
+    "type": "state",
+    "category": "boundary",
+    "name": "Castries",
+    "display": "Castries, Saint Lucia",
+    "cc": "LC",
+    "osm": "relation/9304003"
+   }
+  ]
+ },
+ "oscar-piastri": {
+  "query": "Melbourne, Victoria, Australia",
+  "results": [
+   {
+    "lat": -37.8142454,
+    "lon": 144.9631732,
+    "type": "city",
+    "category": "place",
+    "name": "Melbourne",
+    "display": "Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/4246124"
+   },
+   {
+    "lat": -37.8123825,
+    "lon": 144.9482613,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Melbourne",
+    "display": "City of Melbourne, Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2404870"
+   },
+   {
+    "lat": -37.8141705,
+    "lon": 144.9655616,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Melbourne",
+    "display": "Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2383266"
+   }
+  ]
+ },
+ "charles-leclerc": {
+  "query": "Monte-Carlo, Monaco",
+  "results": [
+   {
+    "lat": 43.7402961,
+    "lon": 7.426559,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Monte-Carlo",
+    "display": "Monte-Carlo, Monaco",
+    "cc": "MC",
+    "osm": "relation/5986438"
+   }
+  ]
+ },
+ "canelo-alvarez": {
+  "query": "Tonalá, Jalisco, Mexico",
+  "results": [
+   {
+    "lat": 20.6241367,
+    "lon": -103.2421263,
+    "type": "city",
+    "category": "place",
+    "name": "Tonalá",
+    "display": "Tonalá, Región Centro, Jalisco, 44418, Mexico",
+    "cc": "MX",
+    "osm": "node/3120750874"
+   },
+   {
+    "lat": 20.6185208,
+    "lon": -103.2227359,
+    "type": "county",
+    "category": "boundary",
+    "name": "Tonalá",
+    "display": "Tonalá, Región Centro, Jalisco, Mexico",
+    "cc": "MX",
+    "osm": "relation/5606543"
+   }
+  ]
+ },
+ "francis-ngannou": {
+  "query": "Batié, Cameroon",
+  "results": [
+   {
+    "lat": 5.3134898,
+    "lon": 10.3241571,
+    "type": "town",
+    "category": "boundary",
+    "name": "Batié",
+    "display": "Batié, Hauts-Plateaux, West, Cameroon",
+    "cc": "CM",
+    "osm": "relation/3837529"
+   }
+  ]
+ },
+ "zendaya": {
+  "query": "Oakland, California, United States",
+  "results": [
+   {
+    "lat": 37.8044557,
+    "lon": -122.271356,
+    "type": "city",
+    "category": "boundary",
+    "name": "Oakland",
+    "display": "Oakland, Alameda County, California, United States",
+    "cc": "US",
+    "osm": "relation/2833530"
+   }
+  ]
+ },
+ "jenna-ortega": {
+  "query": "Bucharest, Romania",
+  "results": [
+   {
+    "lat": 44.4361414,
+    "lon": 26.102684,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bucharest",
+    "display": "Bucharest, Romania",
+    "cc": "RO",
+    "osm": "relation/377733"
+   }
+  ]
+ },
+ "timothee-chalamet": {
+  "query": "New York City, New York, United States",
+  "results": [
+   {
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "city",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/175905"
+   }
+  ]
+ },
+ "anya-taylor-joy": {
+  "query": "Miami, Florida, United States",
+  "results": [
+   {
+    "lat": 25.7741566,
+    "lon": -80.1935973,
+    "type": "city",
+    "category": "boundary",
+    "name": "Miami",
+    "display": "Miami, Miami-Dade County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/1216769"
+   }
+  ]
+ },
+ "jacob-elordi": {
+  "query": "Brisbane, Queensland, Australia",
+  "results": [
+   {
+    "lat": -27.4689623,
+    "lon": 153.0235009,
+    "type": "city",
+    "category": "place",
+    "name": "Brisbane",
+    "display": "Brisbane, Queensland, Australia",
+    "cc": "AU",
+    "osm": "relation/14027280"
+   },
+   {
+    "lat": -27.4693645,
+    "lon": 152.9687926,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Brisbane",
+    "display": "City of Brisbane, Queensland, Australia",
+    "cc": "AU",
+    "osm": "relation/11677792"
+   }
+  ]
+ },
+ "barry-keoghan": {
+  "query": "Summerhill, Dublin, Ireland",
+  "results": [
+   {
+    "lat": 53.3550434,
+    "lon": -6.2548136,
+    "type": "road",
+    "category": "highway",
+    "name": "Summerhill",
+    "display": "Summerhill, Mountjoy B Ward 1986, Dublin, County Dublin, Leinster, D01 TY46, Ireland",
+    "cc": "IE",
+    "osm": "way/1450939554"
+   },
+   {
+    "lat": 53.3545853,
+    "lon": -6.2557207,
+    "type": "road",
+    "category": "highway",
+    "name": "Summerhill",
+    "display": "Summerhill, Mountjoy A Ward 1986, Dublin, County Dublin, Leinster, D01 TY46, Ireland",
+    "cc": "IE",
+    "osm": "way/3957125"
+   },
+   {
+    "lat": 53.3560013,
+    "lon": -6.2520066,
+    "type": "road",
+    "category": "highway",
+    "name": "Summerhill",
+    "display": "Summerhill, Mountjoy A Ward 1986, Dublin, County Dublin, Leinster, D01 T6C2, Ireland",
+    "cc": "IE",
+    "osm": "way/37692199"
+   }
+  ]
+ },
+ "daniel-kaluuya": {
+  "query": "Camden Town, London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5392533,
+    "lon": -0.142757,
+    "type": "town",
+    "category": "place",
+    "name": "Camden Town",
+    "display": "Camden Town, Greater London, England, NW1 8QL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/399607277"
+   },
+   {
+    "lat": 51.5394397,
+    "lon": -0.1426957,
+    "type": "railway",
+    "category": "railway",
+    "name": "Camden Town",
+    "display": "Camden Town, Camden High Street, Primrose Hill, Chalk Farm, London Borough of Camden, Greater London, England, NW1 7HG, United Kingdom",
+    "cc": "GB",
+    "osm": "node/1670707917"
+   },
+   {
+    "lat": 51.5419498,
+    "lon": -0.1395276,
+    "type": "railway",
+    "category": "railway",
+    "name": "Camden Road",
+    "display": "Camden Road, Kentish Town, London Borough of Camden, Greater London, England, NW1 9LS, United Kingdom",
+    "cc": "GB",
+    "osm": "node/6474389245"
+   }
+  ]
+ },
+ "damson-idris": {
+  "query": "Peckham, London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.4734122,
+    "lon": -0.0699321,
+    "type": "suburb",
+    "category": "place",
+    "name": "Peckham",
+    "display": "Peckham, London Borough of Southwark, Greater London, England, SE15 5DW, United Kingdom",
+    "cc": "GB",
+    "osm": "node/207141595"
+   }
+  ]
+ }
+}

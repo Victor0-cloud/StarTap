@@ -1,0 +1,1062 @@
+{
+ "jude-bellingham": {
+  "query": "Madrid, Spain",
+  "results": [
+   {
+    "lat": 40.416782,
+    "lon": -3.703507,
+    "type": "city",
+    "category": "boundary",
+    "name": "Madrid",
+    "display": "Madrid, Community of Madrid, Spain",
+    "cc": "ES",
+    "osm": "relation/5326784"
+   }
+  ]
+ },
+ "erling-haaland": {
+  "query": "Leeds, West Yorkshire, United Kingdom",
+  "results": [
+   {
+    "lat": 53.7974185,
+    "lon": -1.5437941,
+    "type": "city",
+    "category": "place",
+    "name": "Leeds",
+    "display": "Leeds, West Yorkshire, England, LS1 6AL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/358309"
+   },
+   {
+    "lat": 53.8223975,
+    "lon": -1.507363,
+    "type": "city",
+    "category": "boundary",
+    "name": "Leeds",
+    "display": "Leeds, West Yorkshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/118362"
+   }
+  ]
+ },
+ "rodri": {
+  "query": "Madrid, Spain",
+  "results": [
+   {
+    "lat": 40.416782,
+    "lon": -3.703507,
+    "type": "city",
+    "category": "boundary",
+    "name": "Madrid",
+    "display": "Madrid, Community of Madrid, Spain",
+    "cc": "ES",
+    "osm": "relation/5326784"
+   }
+  ]
+ },
+ "harry-kane": {
+  "query": "Walthamstow, London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5844701,
+    "lon": -0.0188186,
+    "type": "town",
+    "category": "place",
+    "name": "Walthamstow",
+    "display": "Walthamstow, Greater London, England, E17 3AL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/27365050"
+   },
+   {
+    "lat": 51.5815237,
+    "lon": -0.0237594,
+    "type": "railway",
+    "category": "railway",
+    "name": "Walthamstow Queen's Road",
+    "display": "Walthamstow Queen's Road, Edinburgh Road, Leyton, London Borough of Waltham Forest, Greater London, England, E17 7QZ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/25316887"
+   }
+  ]
+ },
+ "luka-modric": {
+  "query": "Zadar, Croatia",
+  "results": [
+   {
+    "lat": 44.1168594,
+    "lon": 15.2353257,
+    "type": "city",
+    "category": "boundary",
+    "name": "Zadar",
+    "display": "Zadar, Grad Zadar, Zadar County, Croatia",
+    "cc": "HR",
+    "osm": "relation/12597837"
+   }
+  ]
+ },
+ "ousmane-dembele": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "city",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "zinedine-zidane": {
+  "query": "Cannes, Alpes-Maritimes, France",
+  "results": [
+   {
+    "lat": 43.5515198,
+    "lon": 7.0134418,
+    "type": "town",
+    "category": "boundary",
+    "name": "Cannes",
+    "display": "Cannes, Grasse, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/91734"
+   }
+  ]
+ },
+ "thierry-henry": {
+  "query": "Châtillon, Hauts-de-Seine, France",
+  "results": [
+   {
+    "lat": 48.7997756,
+    "lon": 2.2897124,
+    "type": "town",
+    "category": "boundary",
+    "name": "Châtillon",
+    "display": "Châtillon, Antony, Hauts-de-Seine, Ile-de-France, Metropolitan France, 92320, France",
+    "cc": "FR",
+    "osm": "relation/37020"
+   }
+  ]
+ },
+ "johan-cruyff": {
+  "query": "Los Angeles, California, United States",
+  "results": [
+   {
+    "lat": 34.0536909,
+    "lon": -118.242766,
+    "type": "city",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "county",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "franz-beckenbauer": {
+  "query": "Munich, Bavaria, Germany",
+  "results": [
+   {
+    "lat": 48.1371079,
+    "lon": 11.5753822,
+    "type": "city",
+    "category": "boundary",
+    "name": "Munich",
+    "display": "Munich, Bavaria, Germany",
+    "cc": "DE",
+    "osm": "relation/62428"
+   }
+  ]
+ },
+ "diego-maradona": {
+  "query": "Naples, Campania, Italy",
+  "results": [
+   {
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "type": "city",
+    "category": "boundary",
+    "name": "Naples",
+    "display": "Naples, Campania, Italy",
+    "cc": "IT",
+    "osm": "relation/40767"
+   },
+   {
+    "lat": 40.7944401,
+    "lon": 14.4635416,
+    "type": "county",
+    "category": "boundary",
+    "name": "Naples",
+    "display": "Naples, Campania, Italy",
+    "cc": "IT",
+    "osm": "relation/40600"
+   }
+  ]
+ },
+ "ronaldinho": {
+  "query": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "results": [
+   {
+    "lat": -30.0324999,
+    "lon": -51.2303767,
+    "type": "city",
+    "category": "boundary",
+    "name": "Porto Alegre",
+    "display": "Porto Alegre, Rio Grande do Sul, South Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/20676578"
+   },
+   {
+    "lat": -30.1009166,
+    "lon": -51.1887882,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Porto Alegre",
+    "display": "Porto Alegre, Rio Grande do Sul, South Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/242397"
+   },
+   {
+    "lat": -30.1009166,
+    "lon": -51.1887882,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Porto Alegre",
+    "display": "Porto Alegre, Rio Grande do Sul, South Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/7021674"
+   }
+  ]
+ },
+ "ronaldo-nazario": {
+  "query": "Itaguaí, Rio de Janeiro, Brazil",
+  "results": [
+   {
+    "lat": -22.8122697,
+    "lon": -43.823563,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Itaguaí",
+    "display": "Itaguaí, Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/2219088"
+   },
+   {
+    "lat": -22.8629597,
+    "lon": -43.775322,
+    "type": "city",
+    "category": "boundary",
+    "name": "Itaguaí",
+    "display": "Itaguaí, Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/14603909"
+   }
+  ]
+ },
+ "eusebio": {
+  "query": "Maputo, Mozambique",
+  "results": [
+   {
+    "lat": -25.966213,
+    "lon": 32.56745,
+    "type": "city",
+    "category": "boundary",
+    "name": "Maputo",
+    "display": "Maputo, Zona Sul, Mozambique",
+    "cc": "MZ",
+    "osm": "relation/3348644"
+   },
+   {
+    "lat": -25.5445167,
+    "lon": 32.4578753,
+    "type": "state",
+    "category": "boundary",
+    "name": "Maputo Province",
+    "display": "Maputo Province, Zona Sul, Mozambique",
+    "cc": "MZ",
+    "osm": "relation/2908441"
+   }
+  ]
+ },
+ "andres-iniesta": {
+  "query": "Johannesburg, Gauteng, South Africa",
+  "results": [
+   {
+    "lat": -26.205,
+    "lon": 28.049722,
+    "type": "city",
+    "category": "place",
+    "name": "Johannesburg",
+    "display": "Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",
+    "cc": "ZA",
+    "osm": "node/261833893"
+   }
+  ]
+ },
+ "aitana-bonmati": {
+  "query": "Barcelona, Catalonia, Spain",
+  "results": [
+   {
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "type": "city",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Barcelonès, Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/347950"
+   },
+   {
+    "lat": 41.75787,
+    "lon": 2.031182,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/349035"
+   }
+  ]
+ },
+ "sam-kerr": {
+  "query": "Fremantle, Western Australia, Australia",
+  "results": [
+   {
+    "lat": -32.0534086,
+    "lon": 115.7586172,
+    "type": "town",
+    "category": "boundary",
+    "name": "Fremantle",
+    "display": "Fremantle, Western Australia, 6160, Australia",
+    "cc": "AU",
+    "osm": "relation/11689400"
+   }
+  ]
+ },
+ "marta": {
+  "query": "Umeå, Västerbotten, Sweden",
+  "results": [
+   {
+    "lat": 63.8256568,
+    "lon": 20.2630745,
+    "type": "city",
+    "category": "boundary",
+    "name": "Umeå",
+    "display": "Umeå, Umeå kommun, Västerbotten County, Sweden",
+    "cc": "SE",
+    "osm": "relation/7392435"
+   },
+   {
+    "lat": 63.833333,
+    "lon": 20.283333,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Umeå kommun",
+    "display": "Umeå kommun, Västerbotten County, Sweden",
+    "cc": "SE",
+    "osm": "relation/935646"
+   }
+  ]
+ },
+ "george-weah": {
+  "query": "Monrovia, Liberia",
+  "results": [
+   {
+    "lat": 6.3203562,
+    "lon": -10.8060492,
+    "type": "city",
+    "category": "place",
+    "name": "Monrovia",
+    "display": "Monrovia, Greater Monrovia, Montserrado County, Liberia",
+    "cc": "LR",
+    "osm": "node/27564980"
+   }
+  ]
+ },
+ "samuel-etoo": {
+  "query": "Palma, Balearic Islands, Spain",
+  "results": [
+   {
+    "lat": 39.5695818,
+    "lon": 2.6500745,
+    "type": "city",
+    "category": "boundary",
+    "name": "Palma de Mallorca",
+    "display": "Palma de Mallorca, Palma, Balearic Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/341321"
+   },
+   {
+    "lat": 39.5812525,
+    "lon": 2.7092683,
+    "type": "county",
+    "category": "boundary",
+    "name": "Palma",
+    "display": "Palma, Balearic Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/2174951"
+   }
+  ]
+ },
+ "federico-valverde": {
+  "query": "Montevideo, Uruguay",
+  "results": [
+   {
+    "lat": -34.9058916,
+    "lon": -56.1913095,
+    "type": "city",
+    "category": "boundary",
+    "name": "Montevideo",
+    "display": "Montevideo, Uruguay",
+    "cc": "UY",
+    "osm": "relation/2929054"
+   },
+   {
+    "lat": -34.8652724,
+    "lon": -56.1819512,
+    "type": "state",
+    "category": "boundary",
+    "name": "Montevideo",
+    "display": "Montevideo, Uruguay",
+    "cc": "UY",
+    "osm": "relation/1634207"
+   }
+  ]
+ },
+ "lautaro-martinez": {
+  "query": "Bahía Blanca, Buenos Aires, Argentina",
+  "results": [
+   {
+    "lat": -38.7176522,
+    "lon": -62.2654871,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bahía Blanca",
+    "display": "Bahía Blanca, Cuartel I, Partido de Bahía Blanca, Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/3302861"
+   },
+   {
+    "lat": -38.9946049,
+    "lon": -61.725014,
+    "type": "bay",
+    "category": "natural",
+    "name": "Bahía Blanca",
+    "display": "Bahía Blanca, Cuartel XIII, Partido de Bahía Blanca, Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/10992702"
+   },
+   {
+    "lat": -38.7375547,
+    "lon": -62.2278415,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Bahía Blanca",
+    "display": "Bahía Blanca, Cuartel II, Partido de Bahía Blanca, Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/6415985"
+   }
+  ]
+ },
+ "phil-foden": {
+  "query": "Stockport, Greater Manchester, United Kingdom",
+  "results": [
+   {
+    "lat": 53.407901,
+    "lon": -2.160243,
+    "type": "town",
+    "category": "place",
+    "name": "Stockport",
+    "display": "Stockport, Greater Manchester, England, SK1 3FZ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/33079336"
+   },
+   {
+    "lat": 53.391126,
+    "lon": -2.1247247,
+    "type": "city",
+    "category": "boundary",
+    "name": "Stockport",
+    "display": "Stockport, Greater Manchester, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/146658"
+   }
+  ]
+ },
+ "khvicha-kvaratskhelia": {
+  "query": "Tbilisi, Georgia",
+  "results": [
+   {
+    "lat": 41.6934591,
+    "lon": 44.8014495,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tbilisi",
+    "display": "Tbilisi, Georgia",
+    "cc": "GE",
+    "osm": "relation/1996871"
+   }
+  ]
+ },
+ "son-heung-min": {
+  "query": "Hamburg, Germany",
+  "results": [
+   {
+    "lat": 53.5501721,
+    "lon": 10.0013165,
+    "type": "city",
+    "category": "boundary",
+    "name": "Hamburg",
+    "display": "Hamburg, Germany",
+    "cc": "DE",
+    "osm": "relation/62782"
+   }
+  ]
+ },
+ "alphonso-davies": {
+  "query": "Edmonton, Alberta, Canada",
+  "results": [
+   {
+    "lat": 53.5462055,
+    "lon": -113.491241,
+    "type": "city",
+    "category": "boundary",
+    "name": "Edmonton",
+    "display": "Edmonton, Alberta, Canada",
+    "cc": "CA",
+    "osm": "relation/2564500"
+   }
+  ]
+ },
+ "khadija-shaw": {
+  "query": "Spanish Town, Saint Catherine, Jamaica",
+  "results": [
+   {
+    "lat": 17.9956926,
+    "lon": -76.9540831,
+    "type": "city",
+    "category": "place",
+    "name": "Spanish Town",
+    "display": "Spanish Town, Saint Catherine, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/247716893"
+   }
+  ]
+ },
+ "kenan-yildiz": {
+  "query": "Regensburg, Bavaria, Germany",
+  "results": [
+   {
+    "lat": 49.0195333,
+    "lon": 12.0974869,
+    "type": "city",
+    "category": "boundary",
+    "name": "Regensburg",
+    "display": "Regensburg, Bavaria, Germany",
+    "cc": "DE",
+    "osm": "relation/62411"
+   }
+  ]
+ },
+ "arda-guler": {
+  "query": "Ankara, Turkey",
+  "results": [
+   {
+    "lat": 39.9207759,
+    "lon": 32.8540497,
+    "type": "city",
+    "category": "place",
+    "name": "Ankara",
+    "display": "Ankara, Çankaya, Ankara, Central Anatolia Region, 06420, Turkey",
+    "cc": "TR",
+    "osm": "node/25869410"
+   },
+   {
+    "lat": 39.7160439,
+    "lon": 32.7059948,
+    "type": "province",
+    "category": "boundary",
+    "name": "Ankara",
+    "display": "Ankara, Central Anatolia Region, Turkey",
+    "cc": "TR",
+    "osm": "relation/223422"
+   }
+  ]
+ },
+ "martin-odegaard": {
+  "query": "Drammen, Norway",
+  "results": [
+   {
+    "lat": 59.6964936,
+    "lon": 10.175642,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Drammen",
+    "display": "Drammen, Buskerud, Norway",
+    "cc": "NO",
+    "osm": "relation/10483726"
+   },
+   {
+    "lat": 59.7436802,
+    "lon": 10.2043644,
+    "type": "city",
+    "category": "place",
+    "name": "Drammen",
+    "display": "Drammen, Buskerud, 3017, Norway",
+    "cc": "NO",
+    "osm": "node/31264080"
+   }
+  ]
+ },
+ "nicolo-barella": {
+  "query": "Cagliari, Sardinia, Italy",
+  "results": [
+   {
+    "lat": 39.2171994,
+    "lon": 9.113311,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cagliari",
+    "display": "Cagliari, Casteddu/Cagliari, Sardinia, Italy",
+    "cc": "IT",
+    "osm": "relation/39837"
+   },
+   {
+    "lat": 39.3638288,
+    "lon": 9.1555067,
+    "type": "county",
+    "category": "boundary",
+    "name": "Casteddu/Cagliari",
+    "display": "Casteddu/Cagliari, Sardinia, Italy",
+    "cc": "IT",
+    "osm": "relation/276369"
+   }
+  ]
+ },
+ "hakan-calhanoglu": {
+  "query": "Mannheim, Baden-Württemberg, Germany",
+  "results": [
+   {
+    "lat": 49.4892913,
+    "lon": 8.4673098,
+    "type": "city",
+    "category": "boundary",
+    "name": "Mannheim",
+    "display": "Mannheim, Baden-Württemberg, Germany",
+    "cc": "DE",
+    "osm": "relation/62691"
+   }
+  ]
+ },
+ "pedri": {
+  "query": "Tegueste, Santa Cruz de Tenerife, Spain",
+  "results": [
+   {
+    "lat": 28.5180023,
+    "lon": -16.3357755,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tegueste",
+    "display": "Tegueste, Santa Cruz de Tenerife, Canary Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/340753"
+   },
+   {
+    "lat": 28.5232609,
+    "lon": -16.3407638,
+    "type": "town",
+    "category": "place",
+    "name": "Tegueste",
+    "display": "Tegueste, Santa Cruz de Tenerife, Canary Islands, 38280, Spain",
+    "cc": "ES",
+    "osm": "node/282200277"
+   }
+  ]
+ },
+ "virgil-van-dijk": {
+  "query": "Breda, North Brabant, Netherlands",
+  "results": [
+   {
+    "lat": 51.5887845,
+    "lon": 4.7760237,
+    "type": "city",
+    "category": "boundary",
+    "name": "Breda",
+    "display": "Breda, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/2712700"
+   },
+   {
+    "lat": 51.5643776,
+    "lon": 4.7802673,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Breda",
+    "display": "Breda, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/297129"
+   }
+  ]
+ },
+ "cole-palmer": {
+  "query": "Manchester, Greater Manchester, United Kingdom",
+  "results": [
+   {
+    "lat": 53.4424618,
+    "lon": -2.2324547,
+    "type": "city",
+    "category": "boundary",
+    "name": "Manchester",
+    "display": "Manchester, Greater Manchester, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/146656"
+   },
+   {
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "type": "city",
+    "category": "place",
+    "name": "Manchester",
+    "display": "Manchester, Lancashire, Greater Manchester, England, M60 2WN, United Kingdom",
+    "cc": "GB",
+    "osm": "node/294001443"
+   }
+  ]
+ },
+ "bukayo-saka": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "city",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "city",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "takefusa-kubo": {
+  "query": "Kawasaki, Kanagawa, Japan",
+  "results": [
+   {
+    "lat": 35.5306639,
+    "lon": 139.7037668,
+    "type": "city",
+    "category": "boundary",
+    "name": "Kawasaki",
+    "display": "Kawasaki, Kanagawa Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/2689476"
+   }
+  ]
+ },
+ "ada-hegerberg": {
+  "query": "Molde, Møre og Romsdal, Norway",
+  "results": [
+   {
+    "lat": 62.6016257,
+    "lon": 8.1386208,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Molde",
+    "display": "Molde, Møre og Romsdal, Norway",
+    "cc": "NO",
+    "osm": "relation/10148086"
+   },
+   {
+    "lat": 62.7377152,
+    "lon": 7.1590014,
+    "type": "town",
+    "category": "place",
+    "name": "Molde",
+    "display": "Molde, Møre og Romsdal, 6413, Norway",
+    "cc": "NO",
+    "osm": "node/31264116"
+   }
+  ]
+ },
+ "achraf-hakimi": {
+  "query": "Madrid, Spain",
+  "results": [
+   {
+    "lat": 40.416782,
+    "lon": -3.703507,
+    "type": "city",
+    "category": "boundary",
+    "name": "Madrid",
+    "display": "Madrid, Community of Madrid, Spain",
+    "cc": "ES",
+    "osm": "relation/5326784"
+   }
+  ]
+ },
+ "christian-pulisic": {
+  "query": "Hershey, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 40.2850285,
+    "lon": -76.6534662,
+    "type": "census",
+    "category": "boundary",
+    "name": "Hershey",
+    "display": "Hershey, Derry Township, Dauphin County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188234"
+   },
+   {
+    "lat": 40.2854881,
+    "lon": -76.6506001,
+    "type": "town",
+    "category": "place",
+    "name": "Hershey",
+    "display": "Hershey, Derry Township, Dauphin County, Pennsylvania, 17036, United States",
+    "cc": "US",
+    "osm": "node/25930002"
+   }
+  ]
+ },
+ "yassine-bounou": {
+  "query": "Montreal, Quebec, Canada",
+  "results": [
+   {
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "type": "city",
+    "category": "boundary",
+    "name": "Montreal",
+    "display": "Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1634158"
+   },
+   {
+    "lat": 45.5505849,
+    "lon": -73.6022317,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Montreal (administrative region)",
+    "display": "Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1571328"
+   }
+  ]
+ },
+ "antoine-griezmann": {
+  "query": "Mâcon, Saône-et-Loire, France",
+  "results": [
+   {
+    "lat": 46.3036683,
+    "lon": 4.8322266,
+    "type": "town",
+    "category": "boundary",
+    "name": "Mâcon",
+    "display": "Mâcon, Saône-et-Loire, Bourgogne – Franche-Comté, Metropolitan France, 71000, France",
+    "cc": "FR",
+    "osm": "relation/912201"
+   },
+   {
+    "lat": 46.4058376,
+    "lon": 4.6518766,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Mâcon",
+    "display": "Mâcon, Saône-et-Loire, Bourgogne – Franche-Comté, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/3363317"
+   }
+  ]
+ },
+ "neymar": {
+  "query": "Mogi das Cruzes, São Paulo, Brazil",
+  "results": [
+   {
+    "lat": -23.5234284,
+    "lon": -46.1926671,
+    "type": "city",
+    "category": "boundary",
+    "name": "Mogi das Cruzes",
+    "display": "Mogi das Cruzes, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/298415"
+   },
+   {
+    "lat": -23.4849285,
+    "lon": -46.2241073,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Mogi das Cruzes",
+    "display": "Mogi das Cruzes, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/5349675"
+   }
+  ]
+ },
+ "michael-essien": {
+  "query": "Accra, Ghana",
+  "results": [
+   {
+    "lat": 5.5571096,
+    "lon": -0.2012376,
+    "type": "city",
+    "category": "boundary",
+    "name": "Accra",
+    "display": "Accra, Korle-Klottey Municipal District, Greater Accra Region, Ghana",
+    "cc": "GH",
+    "osm": "relation/12803764"
+   }
+  ]
+ },
+ "roger-milla": {
+  "query": "Yaoundé, Cameroon",
+  "results": [
+   {
+    "lat": 3.8689867,
+    "lon": 11.5213344,
+    "type": "city",
+    "category": "boundary",
+    "name": "Yaoundé",
+    "display": "Yaoundé, Mfoundi, Centre, Cameroon",
+    "cc": "CM",
+    "osm": "relation/2746229"
+   }
+  ]
+ },
+ "birgit-prinz": {
+  "query": "Frankfurt am Main, Hesse, Germany",
+  "results": [
+   {
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "type": "city",
+    "category": "boundary",
+    "name": "Frankfurt",
+    "display": "Frankfurt, Hesse, Germany",
+    "cc": "DE",
+    "osm": "relation/62400"
+   }
+  ]
+ },
+ "david-beckham": {
+  "query": "Leytonstone, London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5683955,
+    "lon": 0.0111704,
+    "type": "suburb",
+    "category": "place",
+    "name": "Leytonstone",
+    "display": "Leytonstone, London Borough of Waltham Forest, Greater London, England, E11 3AA, United Kingdom",
+    "cc": "GB",
+    "osm": "node/27365049"
+   }
+  ]
+ },
+ "ferenc-puskas": {
+  "query": "Budapest, Hungary",
+  "results": [
+   {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "type": "city",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/1244004"
+   },
+   {
+    "lat": 47.481849,
+    "lon": 19.1449053,
+    "type": "county",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/37244"
+   }
+  ]
+ },
+ "wayne-rooney": {
+  "query": "Manchester, England, United Kingdom",
+  "results": [
+   {
+    "lat": 53.4424618,
+    "lon": -2.2324547,
+    "type": "city",
+    "category": "boundary",
+    "name": "Manchester",
+    "display": "Manchester, Greater Manchester, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/146656"
+   },
+   {
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "type": "city",
+    "category": "place",
+    "name": "Manchester",
+    "display": "Manchester, Greater Manchester, England, M60 2UH, United Kingdom",
+    "cc": "GB",
+    "osm": "node/294001443"
+   }
+  ]
+ },
+ "xavi": {
+  "query": "Terrassa, Barcelona, Spain",
+  "results": [
+   {
+    "lat": 41.5629623,
+    "lon": 2.0100492,
+    "type": "city",
+    "category": "boundary",
+    "name": "Terrassa",
+    "display": "Terrassa, Vallès Occidental, Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/342210"
+   }
+  ]
+ }
+}

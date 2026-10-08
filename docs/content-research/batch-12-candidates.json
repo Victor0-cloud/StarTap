@@ -1,0 +1,462 @@
+[
+ {
+  "id": "abraham-lincoln",
+  "name": "Abraham Lincoln",
+  "britannica": "Abraham Lincoln president of United States"
+ },
+ {
+  "id": "winston-churchill",
+  "name": "Winston Churchill",
+  "britannica": "Winston Churchill"
+ },
+ {
+  "id": "joan-of-arc",
+  "name": "Joan of Arc",
+  "britannica": "Saint Joan of Arc"
+ },
+ {
+  "id": "simon-bolivar",
+  "name": "Simón Bolívar",
+  "britannica": "Simon Bolivar"
+ },
+ {
+  "id": "kwame-nkrumah",
+  "name": "Kwame Nkrumah",
+  "britannica": "Kwame Nkrumah"
+ },
+ {
+  "id": "ataturk",
+  "name": "Mustafa Kemal Atatürk",
+  "britannica": "Kemal Ataturk"
+ },
+ {
+  "id": "george-washington",
+  "name": "George Washington",
+  "britannica": "George Washington president"
+ },
+ {
+  "id": "bruce-lee",
+  "name": "Bruce Lee",
+  "britannica": "Bruce Lee actor"
+ },
+ {
+  "id": "marilyn-monroe",
+  "name": "Marilyn Monroe",
+  "britannica": "Marilyn Monroe"
+ },
+ {
+  "id": "princess-diana",
+  "name": "Diana, Princess of Wales",
+  "britannica": "Diana princess of Wales"
+ },
+ {
+  "id": "charlie-chaplin",
+  "name": "Charlie Chaplin",
+  "britannica": "Charlie Chaplin"
+ },
+ {
+  "id": "mother-teresa",
+  "name": "Mother Teresa",
+  "britannica": "Mother Teresa"
+ },
+ {
+  "id": "florence-nightingale",
+  "name": "Florence Nightingale",
+  "britannica": "Florence Nightingale"
+ },
+ {
+  "id": "albert-schweitzer",
+  "name": "Albert Schweitzer",
+  "britannica": "Albert Schweitzer"
+ },
+ {
+  "id": "henry-dunant",
+  "name": "Henry Dunant",
+  "britannica": "Henri Dunant"
+ },
+ {
+  "id": "desmond-tutu",
+  "name": "Desmond Tutu",
+  "britannica": "Desmond Tutu"
+ },
+ {
+  "id": "abdul-sattar-edhi",
+  "name": "Abdul Sattar Edhi",
+  "britannica": "Abdul Sattar Edhi"
+ },
+ {
+  "id": "raoul-wallenberg",
+  "name": "Raoul Wallenberg",
+  "britannica": "Raoul Wallenberg"
+ },
+ {
+  "id": "clara-barton",
+  "name": "Clara Barton",
+  "britannica": "Clara Barton"
+ },
+ {
+  "id": "marco-polo",
+  "name": "Marco Polo",
+  "britannica": "Marco Polo"
+ },
+ {
+  "id": "ibn-battuta",
+  "name": "Ibn Battuta",
+  "britannica": "Ibn Battuta"
+ },
+ {
+  "id": "zheng-he",
+  "name": "Zheng He",
+  "britannica": "Zheng He"
+ },
+ {
+  "id": "christopher-columbus",
+  "name": "Christopher Columbus",
+  "britannica": "Christopher Columbus"
+ },
+ {
+  "id": "ferdinand-magellan",
+  "name": "Ferdinand Magellan",
+  "britannica": "Ferdinand Magellan"
+ },
+ {
+  "id": "vasco-da-gama",
+  "name": "Vasco da Gama",
+  "britannica": "Vasco da Gama"
+ },
+ {
+  "id": "roald-amundsen",
+  "name": "Roald Amundsen",
+  "britannica": "Roald Amundsen"
+ },
+ {
+  "id": "edmund-hillary",
+  "name": "Edmund Hillary",
+  "britannica": "Edmund Hillary"
+ },
+ {
+  "id": "james-cook",
+  "name": "James Cook",
+  "britannica": "James Cook"
+ },
+ {
+  "id": "ernest-shackleton",
+  "name": "Ernest Shackleton",
+  "britannica": "Ernest Shackleton"
+ },
+ {
+  "id": "thomas-edison",
+  "name": "Thomas Edison",
+  "britannica": "Thomas Edison"
+ },
+ {
+  "id": "nikola-tesla",
+  "name": "Nikola Tesla",
+  "britannica": "Nikola Tesla"
+ },
+ {
+  "id": "alexander-graham-bell",
+  "name": "Alexander Graham Bell",
+  "britannica": "Alexander Graham Bell"
+ },
+ {
+  "id": "johannes-gutenberg",
+  "name": "Johannes Gutenberg",
+  "britannica": "Johannes Gutenberg"
+ },
+ {
+  "id": "guglielmo-marconi",
+  "name": "Guglielmo Marconi",
+  "britannica": "Guglielmo Marconi"
+ },
+ {
+  "id": "karl-benz",
+  "name": "Karl Benz",
+  "britannica": "Karl Benz"
+ },
+ {
+  "id": "louis-braille",
+  "name": "Louis Braille",
+  "britannica": "Louis Braille"
+ },
+ {
+  "id": "james-watt",
+  "name": "James Watt",
+  "britannica": "James Watt inventor"
+ },
+ {
+  "id": "orville-wright",
+  "name": "Orville Wright",
+  "britannica": "Orville Wright"
+ },
+ {
+  "id": "isaac-newton",
+  "name": "Isaac Newton",
+  "britannica": "Isaac Newton"
+ },
+ {
+  "id": "galileo-galilei",
+  "name": "Galileo Galilei",
+  "britannica": "Galileo"
+ },
+ {
+  "id": "charles-darwin",
+  "name": "Charles Darwin",
+  "britannica": "Charles Darwin"
+ },
+ {
+  "id": "nicolaus-copernicus",
+  "name": "Nicolaus Copernicus",
+  "britannica": "Nicolaus Copernicus"
+ },
+ {
+  "id": "louis-pasteur",
+  "name": "Louis Pasteur",
+  "britannica": "Louis Pasteur"
+ },
+ {
+  "id": "cv-raman",
+  "name": "C. V. Raman",
+  "britannica": "C V Raman"
+ },
+ {
+  "id": "tu-youyou",
+  "name": "Tu Youyou",
+  "britannica": "Tu Youyou"
+ },
+ {
+  "id": "rosalind-franklin",
+  "name": "Rosalind Franklin",
+  "britannica": "Rosalind Franklin"
+ },
+ {
+  "id": "william-shakespeare",
+  "name": "William Shakespeare",
+  "britannica": "William Shakespeare"
+ },
+ {
+  "id": "leo-tolstoy",
+  "name": "Leo Tolstoy",
+  "britannica": "Leo Tolstoy"
+ },
+ {
+  "id": "gabriel-garcia-marquez",
+  "name": "Gabriel García Márquez",
+  "britannica": "Gabriel Garcia Marquez"
+ },
+ {
+  "id": "wole-soyinka",
+  "name": "Wole Soyinka",
+  "britannica": "Wole Soyinka"
+ },
+ {
+  "id": "toni-morrison",
+  "name": "Toni Morrison",
+  "britannica": "Toni Morrison"
+ },
+ {
+  "id": "jane-austen",
+  "name": "Jane Austen",
+  "britannica": "Jane Austen"
+ },
+ {
+  "id": "rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "britannica": "Rabindranath Tagore"
+ },
+ {
+  "id": "miguel-de-cervantes",
+  "name": "Miguel de Cervantes",
+  "britannica": "Miguel de Cervantes"
+ },
+ {
+  "id": "leonardo-da-vinci",
+  "name": "Leonardo da Vinci",
+  "britannica": "Leonardo da Vinci"
+ },
+ {
+  "id": "pablo-picasso",
+  "name": "Pablo Picasso",
+  "britannica": "Pablo Picasso"
+ },
+ {
+  "id": "vincent-van-gogh",
+  "name": "Vincent van Gogh",
+  "britannica": "Vincent van Gogh"
+ },
+ {
+  "id": "michelangelo",
+  "name": "Michelangelo",
+  "britannica": "Michelangelo"
+ },
+ {
+  "id": "claude-monet",
+  "name": "Claude Monet",
+  "britannica": "Claude Monet"
+ },
+ {
+  "id": "hokusai",
+  "name": "Katsushika Hokusai",
+  "britannica": "Hokusai"
+ },
+ {
+  "id": "salvador-dali",
+  "name": "Salvador Dalí",
+  "britannica": "Salvador Dali"
+ },
+ {
+  "id": "ben-enwonwu",
+  "name": "Ben Enwonwu",
+  "britannica": "Ben Enwonwu"
+ },
+ {
+  "id": "diego-rivera",
+  "name": "Diego Rivera",
+  "britannica": "Diego Rivera"
+ },
+ {
+  "id": "audrey-hepburn",
+  "name": "Audrey Hepburn",
+  "britannica": "Audrey Hepburn"
+ },
+ {
+  "id": "twiggy",
+  "name": "Twiggy",
+  "britannica": "Twiggy model"
+ },
+ {
+  "id": "jacqueline-kennedy-onassis",
+  "name": "Jacqueline Kennedy Onassis",
+  "britannica": "Jacqueline Kennedy Onassis"
+ },
+ {
+  "id": "josephine-baker",
+  "name": "Josephine Baker",
+  "britannica": "Josephine Baker"
+ },
+ {
+  "id": "iris-apfel",
+  "name": "Iris Apfel",
+  "britannica": "Iris Apfel"
+ },
+ {
+  "id": "frank-lloyd-wright",
+  "name": "Frank Lloyd Wright",
+  "britannica": "Frank Lloyd Wright"
+ },
+ {
+  "id": "le-corbusier",
+  "name": "Le Corbusier",
+  "britannica": "Le Corbusier"
+ },
+ {
+  "id": "antoni-gaudi",
+  "name": "Antoni Gaudí",
+  "britannica": "Antoni Gaudi"
+ },
+ {
+  "id": "im-pei",
+  "name": "I. M. Pei",
+  "britannica": "I M Pei"
+ },
+ {
+  "id": "oscar-niemeyer",
+  "name": "Oscar Niemeyer",
+  "britannica": "Oscar Niemeyer"
+ },
+ {
+  "id": "tadao-ando",
+  "name": "Tadao Ando",
+  "britannica": "Tadao Ando"
+ },
+ {
+  "id": "norman-foster",
+  "name": "Norman Foster",
+  "britannica": "Norman Foster architect"
+ },
+ {
+  "id": "frank-gehry",
+  "name": "Frank Gehry",
+  "britannica": "Frank Gehry"
+ },
+ {
+  "id": "francis-kere",
+  "name": "Francis Kéré",
+  "britannica": "Diebedo Francis Kere"
+ },
+ {
+  "id": "henry-ford",
+  "name": "Henry Ford",
+  "britannica": "Henry Ford"
+ },
+ {
+  "id": "andrew-carnegie",
+  "name": "Andrew Carnegie",
+  "britannica": "Andrew Carnegie"
+ },
+ {
+  "id": "john-d-rockefeller",
+  "name": "John D. Rockefeller",
+  "britannica": "John D Rockefeller"
+ },
+ {
+  "id": "walt-disney",
+  "name": "Walt Disney",
+  "britannica": "Walt Disney"
+ },
+ {
+  "id": "konosuke-matsushita",
+  "name": "Konosuke Matsushita",
+  "britannica": "Matsushita Konosuke"
+ },
+ {
+  "id": "soichiro-honda",
+  "name": "Soichiro Honda",
+  "britannica": "Honda Soichiro"
+ },
+ {
+  "id": "ingvar-kamprad",
+  "name": "Ingvar Kamprad",
+  "britannica": "Ingvar Kamprad"
+ },
+ {
+  "id": "greta-thunberg",
+  "name": "Greta Thunberg",
+  "britannica": "Greta Thunberg"
+ },
+ {
+  "id": "rosa-parks",
+  "name": "Rosa Parks",
+  "britannica": "Rosa Parks"
+ },
+ {
+  "id": "ellen-johnson-sirleaf",
+  "name": "Ellen Johnson Sirleaf",
+  "britannica": "Ellen Johnson Sirleaf"
+ },
+ {
+  "id": "muhammad-yunus",
+  "name": "Muhammad Yunus",
+  "britannica": "Muhammad Yunus"
+ },
+ {
+  "id": "kofi-annan",
+  "name": "Kofi Annan",
+  "britannica": "Kofi Annan"
+ },
+ {
+  "id": "emmeline-pankhurst",
+  "name": "Emmeline Pankhurst",
+  "britannica": "Emmeline Pankhurst"
+ },
+ {
+  "id": "cesar-chavez",
+  "name": "Cesar Chavez",
+  "britannica": "Cesar Chavez"
+ },
+ {
+  "id": "nadia-murad",
+  "name": "Nadia Murad",
+  "britannica": "Nadia Murad"
+ }
+]

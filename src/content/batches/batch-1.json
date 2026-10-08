@@ -1,0 +1,1262 @@
+{
+ "batch": 1,
+ "researched": "2026-09-30",
+ "coordinateSource": "OpenStreetMap Nominatim (ODbL), looked up 2026-09-30; raw records in docs/content-research/batch-1-geocode.json",
+ "entries": [
+  {
+   "entity": {
+    "id": "olivia-rodrigo",
+    "name": "Olivia Rodrigo",
+    "monogram": "OR",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "olivia-rodrigo-hometown",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Hometown roots",
+    "question": "In which Southern California city did Olivia Rodrigo grow up?",
+    "clue": "Look in Southern California, inland between Los Angeles and San Diego.",
+    "hint": "The city is in Riverside County, close to the San Diego County line.",
+    "answer": {
+     "city": "Temecula, California",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Olivia Rodrigo was born in nearby Murrieta and grew up in Temecula, California. She first gained popularity acting in High School Musical: The Musical: The Series before her music career took off.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Olivia-Rodrigo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Olivia Rodrigo (born February 20, 2003, Murrieta, California, U.S.) … Rodrigo grew up in Temecula, California."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "billie-eilish",
+    "name": "Billie Eilish",
+    "monogram": "BE",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "billie-eilish-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which city was Billie Eilish born?",
+    "clue": "Start on the Pacific coast of the United States.",
+    "hint": "Think of California's largest city.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Billie Eilish was born in Los Angeles, where she sang as a child with the Los Angeles Children's Chorus. She first gained recognition in 2015 with the song \"Ocean Eyes\".",
+    "trivia": "In 2020 she became the youngest person ever to win the Grammy for album of the year.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Billie-Eilish",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Billie Eilish (born December 18, 2001, Los Angeles, California, U.S.) first gained recognition in 2015 for the song “Ocean Eyes” and became, in 2020, the youngest person ever to win a Grammy for album of the year."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "In 2020 she became the youngest person ever to win the Grammy for album of the year.",
+     "sourceUrl": "https://www.britannica.com/biography/Billie-Eilish",
+     "sourceName": "Britannica",
+     "quote": "Billie Eilish (born December 18, 2001, Los Angeles, California, U.S.) first gained recognition in 2015 for the song “Ocean Eyes” and became, in 2020, the youngest person ever to win a Grammy for album of the year."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "tate-mcrae",
+    "name": "Tate McRae",
+    "monogram": "TM",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "tate-mcrae-hometown",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "easy",
+    "displayCategory": "Music",
+    "chapter": "Hometown roots",
+    "question": "In which Canadian city was Tate McRae born and raised?",
+    "clue": "Look in western Canada, on the prairies east of the Rocky Mountains.",
+    "hint": "It is the largest city in Alberta.",
+    "answer": {
+     "city": "Calgary",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Tate McRae was born in Calgary, Alberta, and grew up there. Her song \"Calgary\" is about her hometown.",
+    "trivia": "She lived in Oman between the ages of four and seven.",
+    "sources": [
+     {
+      "url": "https://www.capitalfm.com/news/music/tate-mcrae/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She was born in Calgary, Alberta, and grew up there as you'll know from her song 'Calgary'. She also lived in Oman between the ages of 4 and 7."
+     }
+    ],
+    "triviaCard": {
+     "type": "world_connection",
+     "text": "She lived in Oman between the ages of four and seven.",
+     "sourceUrl": "https://www.capitalfm.com/news/music/tate-mcrae/",
+     "sourceName": "Capital FM",
+     "quote": "She was born in Calgary, Alberta, and grew up there as you'll know from her song 'Calgary'. She also lived in Oman between the ages of 4 and 7."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "doja-cat",
+    "name": "Doja Cat",
+    "monogram": "DC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "doja-cat-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Los Angeles neighbourhood was Doja Cat born?",
+    "clue": "Look in Southern California, in the San Fernando Valley.",
+    "hint": "The neighbourhood is in the southwestern San Fernando Valley, inside the city of Los Angeles.",
+    "answer": {
+     "city": "Tarzana, Los Angeles",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Doja Cat was born Amala Zandile Dlamini in Tarzana, California, a neighbourhood of Los Angeles. Her father is the South African actor Dumisani Dlamini.",
+    "sources": [
+     {
+      "url": "https://www.allmusic.com/artist/doja-cat-mn0003341964/biography",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Doja Cat was born Amala Zandile Dlamini in 1995 in Tarzana, California, the daughter of South African actor Dumisani Dlamini and painter Deborah Elizabeth Sawyer."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "central-cee",
+    "name": "Central Cee",
+    "monogram": "CC",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "central-cee-hometown",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Hometown roots",
+    "question": "Which west London area did Central Cee grow up near?",
+    "clue": "Look in west London.",
+    "hint": "The area is in the London Borough of Hammersmith and Fulham.",
+    "answer": {
+     "city": "Shepherd's Bush, London",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Central Cee was born in Ladbroke Grove and grew up near Shepherd's Bush. Growing up in west London, he was exposed to reggae, jazz, dancehall and rap.",
+    "sources": [
+     {
+      "url": "https://www.hellorayo.co.uk/kiss/entertainment/music/central-cee-facts",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Central Cee was born in Ladbroke Grove and grew up near Shepherd's Bush. Growing up in West London he was exposed to a wide range of Black genres of music, such as reggae, jazz, dancehall and rap."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rema",
+    "name": "Rema",
+    "monogram": "R",
+    "countryOfOrigin": "NG",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rema-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "Which Nigerian city is Rema's birthplace?",
+    "clue": "Look in southern Nigeria, west of the Niger River.",
+    "hint": "It is the capital of Edo State.",
+    "answer": {
+     "city": "Benin City",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Rema was born Divine Ikubor in Benin City, the capital of Edo State. After a freestyle video went viral, D'Prince brought him from Benin City to Lagos and introduced him to the Mavin Records family.",
+    "sources": [
+     {
+      "url": "https://www.mavinrecords.com/rema-profile/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The 20-year-old was born in the ancient Southern city of Benin, Edo State."
+     },
+     {
+      "url": "https://www.thefader.com/2019/06/24/rema-dumebi-interview",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "D’Prince himself who then brought Rema out from Benin City to Lagos and introduced him to the Mavin Records family … in Benin City, the capital of Edo State"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tems",
+    "name": "Tems",
+    "monogram": "T",
+    "countryOfOrigin": "NG",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "tems-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Nigerian city was Tems born?",
+    "clue": "Look on the Atlantic coast of West Africa.",
+    "hint": "It is Nigeria's largest city, not far from the border with Benin.",
+    "answer": {
+     "city": "Lagos",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Tems was born Temilade Openiyi in Lagos and spent part of her childhood in the UK. She nurtured her talent in a local choir, learning to play piano and writing her own songs.",
+    "sources": [
+     {
+      "url": "https://www.allmusic.com/artist/tems-mn0004125084/biography",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born June 11, 1995 in Lagos, Nigeria … Temilade Openiyi spent part of her childhood in the U.K. … She nurtured her musical talent in a local choir, learning to play piano and eventually writing her own songs"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ayra-starr",
+    "name": "Ayra Starr",
+    "monogram": "AS",
+    "countryOfOrigin": "NG",
+    "region": "africa",
+    "originNote": "Nigerian singer born in the Benin Republic and raised between Cotonou and Lagos (Mavin Records); origin provisional.",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ayra-starr-hometown",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Hometown roots",
+    "question": "In which beach city in the Benin Republic was Ayra Starr partly raised?",
+    "clue": "Look on the coast of West Africa, just west of Nigeria.",
+    "hint": "It is Benin's largest city.",
+    "answer": {
+     "city": "Cotonou",
+     "country": "Benin",
+     "countryCode": "BJ"
+    },
+    "story": "Born in the Benin Republic, Ayra Starr was raised between the beach city of Cotonou and Lagos. Her sound draws on influences such as classic Yoruba and Beninese music.",
+    "sources": [
+     {
+      "url": "https://www.mavinrecords.com/ayra-starr-profile/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Benin Republic, the 18-year-old was raised between the beach city of Cotonou and the cultural hub of Lagos. … drawing influences like classic Yoruba and Beninese music"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "peso-pluma",
+    "name": "Peso Pluma",
+    "monogram": "PP",
+    "countryOfOrigin": "MX",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "peso-pluma-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "latin",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Mexican municipality was Peso Pluma born?",
+    "clue": "Look in western Mexico.",
+    "hint": "It is part of the Guadalajara metropolitan area, in Jalisco.",
+    "answer": {
+     "city": "Zapopan, Jalisco",
+     "country": "Mexico",
+     "countryCode": "MX"
+    },
+    "story": "Peso Pluma was born Hassan Emilio Kabande Laija on 15 June 1999 in Zapopan, Jalisco, and grew up in a hard-working household there.",
+    "trivia": "His stage name nods to his slim build: \"pluma\" means feather.",
+    "sources": [
+     {
+      "url": "https://www.elespectador.com/revista-vea/famosos/peso-pluma-su-historia-en-mexico-papas-familia-y-como-empezo-en-la-musica/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Hassan Emilio Kabande Laija nació el 15 de junio de 1999 en el municipio de Zapopan, Jalisco … Su nombre artístico surge de una combinación entre su contextura delgada (“pluma”) … creció en un hogar trabajador en Zapopan"
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "His stage name nods to his slim build: \"pluma\" means feather.",
+     "sourceUrl": "https://www.elespectador.com/revista-vea/famosos/peso-pluma-su-historia-en-mexico-papas-familia-y-como-empezo-en-la-musica/",
+     "sourceName": "El Espectador",
+     "quote": "Hassan Emilio Kabande Laija nació el 15 de junio de 1999 en el municipio de Zapopan, Jalisco … Su nombre artístico surge de una combinación entre su contextura delgada (“pluma”) … creció en un hogar trabajador en Zapopan"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "karol-g",
+    "name": "Karol G",
+    "monogram": "KG",
+    "countryOfOrigin": "CO",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "karol-g-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "latin",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Colombian city was Karol G born?",
+    "clue": "Look in northwestern Colombia, in the Andes.",
+    "hint": "It is the capital of Antioquia.",
+    "answer": {
+     "city": "Medellín",
+     "country": "Colombia",
+     "countryCode": "CO"
+    },
+    "story": "Karol G was born Carolina Giraldo in Medellín, Colombia, in 1991. Her father, a working musician, influenced her interest in music from a young age.",
+    "sources": [
+     {
+      "url": "https://www.allmusic.com/artist/karol-g-mn0003495582/biography",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born February 14, 1991 in Medellín, Colombia … Karol G was interested in music from a young age, influenced by her father, a working musician."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shenseea",
+    "name": "Shenseea",
+    "monogram": "S",
+    "countryOfOrigin": "JM",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "shenseea-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Jamaican town was Shenseea born?",
+    "clue": "Look in central Jamaica, inland from the south coast.",
+    "hint": "It is the capital of Manchester parish.",
+    "answer": {
+     "city": "Mandeville",
+     "country": "Jamaica",
+     "countryCode": "JM"
+    },
+    "story": "Shenseea was born Chinsea Lee at Mandeville Hospital in the parish of Manchester. At about the age of three she moved to Kingston, where her path to stardom began.",
+    "sources": [
+     {
+      "url": "https://www.jamaicaobserver.com/allwoman/2021/07/18/shenseea-up-close-and-personal/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shenseea (given name Chinsea Lee) … born in Mandeville and raised in St Elizabeth before moving to Kingston at an early age."
+     },
+     {
+      "url": "https://www.reggaeville.com/artist-details/shenseea/about/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "born Chinsea Lee at Mandeville Hospital in the parish of Manchester. At about the age of three, Chinsea moved to Kingston"
+     }
+    ],
+    "notes": [
+     "AllMusic's info panel also gives Mandeville, but its biography text says Kingston; three sources agree on Mandeville."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rose",
+    "name": "Rosé",
+    "monogram": "R",
+    "countryOfOrigin": "NZ",
+    "region": "oceania",
+    "originNote": "Born in Auckland and raised in Melbourne; career in South Korea with BLACKPINK. Origin/region provisional.",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rose-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "k-pop",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which city was BLACKPINK's Rosé born?",
+    "clue": "She was raised in Australia, but her birthplace is across the Tasman Sea.",
+    "hint": "It is New Zealand's largest city.",
+    "answer": {
+     "city": "Auckland",
+     "country": "New Zealand",
+     "countryCode": "NZ"
+    },
+    "story": "Rosé was born Roseanne Park in Auckland, New Zealand, and raised in Melbourne, Australia, where she grew up surrounded by music.",
+    "trivia": "She studied at Canterbury Girls' Secondary College in Melbourne before auditioning for YG Entertainment.",
+    "sources": [
+     {
+      "url": "https://www.hollywoodreporter.com/music/music-features/rose-interview-fame-music-blackpink-1236388288/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born Roseanne Park in Auckland, New Zealand, and raised in Melbourne, she grew up surrounded by music."
+     },
+     {
+      "url": "https://studyinternational.com/news/rose-blackpinks-school-australia/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Rose studied law at the Canterbury Girls’ Secondary College in Melbourne before she attended an audition in Australia for South Korean record label YG Entertainment"
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "She studied at Canterbury Girls' Secondary College in Melbourne before auditioning for YG Entertainment.",
+     "sourceUrl": "https://studyinternational.com/news/rose-blackpinks-school-australia/",
+     "sourceName": "Study International",
+     "quote": "Rose studied law at the Canterbury Girls’ Secondary College in Melbourne before she attended an audition in Australia for South Korean record label YG Entertainment"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "kylian-mbappe",
+    "name": "Kylian Mbappé",
+    "monogram": "KM",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kylian-mbappe-first-club",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Before the breakthrough",
+    "question": "In which Paris suburb did Kylian Mbappé sign his first football licence, aged six?",
+    "clue": "Look just east of Paris.",
+    "hint": "The town is in the Seine-Saint-Denis department.",
+    "answer": {
+     "city": "Bondy",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Kylian Mbappé signed his first football licence at AS Bondy, in Seine-Saint-Denis, when he was six.",
+    "sources": [
+     {
+      "url": "https://www.franceinfo.fr/sports/foot/coupe-du-monde/tu-te-rends-compte-mbappe-il-etait-chez-nous-l-as-bondy-fier-d-avoir-son-ambassadeur-a-la-coupe-du-monde_2836283.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "C'est là que l'attaquant des Bleus, Kylian Mbappé, a signé sa première licence à 6 ans."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "vinicius-junior",
+    "name": "Vinícius Jr.",
+    "monogram": "VJ",
+    "countryOfOrigin": "BR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "vinicius-junior-first-school",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Before the breakthrough",
+    "question": "In which city near Rio de Janeiro did Vinícius Jr. take his first kicks at a Flamengo football school?",
+    "clue": "Look on Brazil's southeastern coast, across the bay from Rio de Janeiro.",
+    "hint": "The city is on the eastern side of Guanabara Bay, next to Niterói.",
+    "answer": {
+     "city": "São Gonçalo",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Vinícius Jr. took his first kicks at a Flamengo football school in São Gonçalo, in the state of Rio de Janeiro.",
+    "sources": [
+     {
+      "url": "https://www.espn.com.br/futebol/artigo/_/id/6456560/dono-de-escolinha-do-flamengo-que-descobriu-vinicius-jr-diz-era-pobre-mas-me-pagava-com-sua-felicidade",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Foi numa escolinha em São Gonçalo, no Rio de Janeiro, que Vinicius Jr. deu os primeiros chutes"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lamine-yamal",
+    "name": "Lamine Yamal",
+    "monogram": "LY",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lamine-yamal-birthplace",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which town near Barcelona was Lamine Yamal born?",
+    "clue": "Look on Spain's Mediterranean coast, in Catalonia.",
+    "hint": "The town is just west of Barcelona, in the Baix Llobregat area.",
+    "answer": {
+     "city": "Esplugues de Llobregat",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Lamine Yamal was born on 13 July 2007 in Esplugues de Llobregat. He joined FC Barcelona's academy at the age of seven from local club CF La Torreta.",
+    "sources": [
+     {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/129404/lamine-yamal-nasraoui-ebana",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth: Esplugues de Llobregat, Spain · Date of birth: 13/07/2007 · arrived at FC Barcelona at the age of 7 from his local club CF La Torreta"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "victor-wembanyama",
+    "name": "Victor Wembanyama",
+    "monogram": "VW",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "victor-wembanyama-birthplace",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which French town was Victor Wembanyama born?",
+    "clue": "Look just west of Paris.",
+    "hint": "The town borders Versailles, in the Yvelines department.",
+    "answer": {
+     "city": "Le Chesnay",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Victor Wembanyama was born in Le Chesnay, France. By the age of seven he had begun training with the local club Entente Le Chesnay–Versailles.",
+    "trivia": "When the San Antonio Spurs drafted him first overall in 2023, he became the second European player picked number one in the NBA draft.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Victor-Wembanyama",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: January 4, 2004, Le Chesnay, France … By age seven, Victor had begun training with local basketball club Entente Le Chesnay–Versailles (ELCV). … he became the second European player to be picked number one overall in the NBA draft"
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "When the San Antonio Spurs drafted him first overall in 2023, he became the second European player picked number one in the NBA draft.",
+     "sourceUrl": "https://www.britannica.com/biography/Victor-Wembanyama",
+     "sourceName": "Britannica",
+     "quote": "Born: January 4, 2004, Le Chesnay, France … By age seven, Victor had begun training with local basketball club Entente Le Chesnay–Versailles (ELCV). … he became the second European player to be picked number one overall in the NBA draft"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "caitlin-clark",
+    "name": "Caitlin Clark",
+    "monogram": "CC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "caitlin-clark-hometown",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Hometown roots",
+    "question": "Which Iowa city is Caitlin Clark's hometown?",
+    "clue": "Look in the US Midwest, in the middle of Iowa.",
+    "hint": "It is a suburb just west of Iowa's state capital.",
+    "answer": {
+     "city": "West Des Moines, Iowa",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Caitlin Clark's hometown is West Des Moines, Iowa. Her rise began at Dowling Catholic High School before she starred for the University of Iowa.",
+    "sources": [
+     {
+      "url": "https://www.teamusa.com/profiles/caitlin-clark",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Hometown West Des Moines, IA Education University of Iowa"
+     },
+     {
+      "url": "https://www.axios.com/local/des-moines/2023/03/31/caitlin-clark-final-four-iowa-des-moines",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The West Des Moines native got her start here, and her rocketship to athletic fame became apparent during her time at Dowling Catholic High School."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "julien-alfred",
+    "name": "Julien Alfred",
+    "monogram": "JA",
+    "countryOfOrigin": "LC",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "julien-alfred-birthplace",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Athletics",
+    "chapter": "Where the story began",
+    "question": "In which Saint Lucian city was Julien Alfred born?",
+    "clue": "Look in the eastern Caribbean, among the Windward Islands.",
+    "hint": "It is Saint Lucia's capital, on the island's northwest coast.",
+    "answer": {
+     "city": "Castries",
+     "country": "Saint Lucia",
+     "countryCode": "LC"
+    },
+    "story": "Julien Alfred was born in Ciceron, Castries. Residents of Monkey Town, the Ciceron community where she grew up, have called for it to be renamed \"Julien Alfred Avenue\" in her honour.",
+    "trivia": "Her 100m gold at Paris 2024 was Saint Lucia's first Olympic medal.",
+    "sources": [
+     {
+      "url": "https://www.olympedia.org/athletes/2505468",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born 10 June 2001 in Ciceron, Castries (LCA)"
+     },
+     {
+      "url": "https://stluciatimes.com/166105/2024/09/monkey-town-residents-want-change-to-julien-alfred-avenue/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Residents of Monkey Town in Ciceron, Castries, are calling for their community’s name to be officially changed to “Julien Alfred Avenue”"
+     },
+     {
+      "url": "https://www.nbcolympics.com/news/julien-alfred-topples-shacarri-richardson-win-100m-gold-st-lucias-first-olympic-medal",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Julien Alfred topples Sha'Carri Richardson to win 100m gold, St. Lucia's first Olympic medal"
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Her 100m gold at Paris 2024 was Saint Lucia's first Olympic medal.",
+     "sourceUrl": "https://www.nbcolympics.com/news/julien-alfred-topples-shacarri-richardson-win-100m-gold-st-lucias-first-olympic-medal",
+     "sourceName": "NBC Olympics",
+     "quote": "Julien Alfred topples Sha'Carri Richardson to win 100m gold, St. Lucia's first Olympic medal"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "oscar-piastri",
+    "name": "Oscar Piastri",
+    "monogram": "OP",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "oscar-piastri-birthplace",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "In which Australian city was Oscar Piastri born?",
+    "clue": "Look in southeastern Australia.",
+    "hint": "It is the capital of Victoria.",
+    "answer": {
+     "city": "Melbourne",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Oscar Piastri was born in Melbourne, Victoria, on 6 April 2001.",
+    "trivia": "\"I like cars, I like racing, but I think the competition side of things is probably the number one thing,\" he says.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/drivers/oscar-piastri",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Date of Birth: 06/04/2001 · Place of Birth: Melbourne, Victoria"
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "\"I like cars, I like racing, but I think the competition side of things is probably the number one thing,\" he says.",
+     "sourceUrl": "https://www.formula1.com/en/drivers/oscar-piastri",
+     "sourceName": "Formula1.com",
+     "quote": "Date of Birth: 06/04/2001 · Place of Birth: Melbourne, Victoria"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "charles-leclerc",
+    "name": "Charles Leclerc",
+    "monogram": "CL",
+    "countryOfOrigin": "MC",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "charles-leclerc-birthplace",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Where was Ferrari driver Charles Leclerc born?",
+    "clue": "Look on the French Riviera.",
+    "hint": "It is a tiny principality on the Mediterranean, close to the Italian border.",
+    "answer": {
+     "city": "Monte Carlo",
+     "country": "Monaco",
+     "countryCode": "MC"
+    },
+    "story": "Charles Leclerc was born in Monte Carlo, Monaco. He dominated GP3 and Formula 2 before joining Ferrari in 2019.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/drivers/charles-leclerc",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Place of Birth: Monte Carlo, Monaco … His journey to Ferrari involved dominating GP3 and Formula 2 before joining the Scuderia in 2019"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "canelo-alvarez",
+    "name": "Canelo Álvarez",
+    "monogram": "CA",
+    "countryOfOrigin": "MX",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "canelo-alvarez-first-win",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Boxing",
+    "chapter": "The first big win",
+    "question": "In which city near Guadalajara did Canelo Álvarez win his first professional fight?",
+    "clue": "Look in western Mexico, in Jalisco.",
+    "hint": "The city borders Guadalajara to the east.",
+    "answer": {
+     "city": "Tonalá, Jalisco",
+     "country": "Mexico",
+     "countryCode": "MX"
+    },
+    "story": "Canelo Álvarez grew up near Guadalajara, where he and his siblings helped their parents' paleta business. He won his first professional fight at the Arena Chololo Larios in Tonalá, Jalisco, with a fourth-round TKO.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Canelo-Alvarez",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Growing up near Guadalajara, Álvarez and his siblings often helped out their parents’ paleta … He won his first match, at the Arena Chololo Larios in Tonalá, Jalisco, with a technical knockout (TKO) in the fourth round."
+     }
+    ],
+    "notes": [
+     "Britannica gives his birthplace as San Agustín, Jalisco; several localities share that name, so the question uses the unambiguous Tonalá venue instead."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "francis-ngannou",
+    "name": "Francis Ngannou",
+    "monogram": "FN",
+    "countryOfOrigin": "CM",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "francis-ngannou-hometown",
+    "primaryCategory": "sports",
+    "subcategory": "mma",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "MMA",
+    "chapter": "Hometown roots",
+    "question": "Which village in Cameroon is Francis Ngannou's hometown?",
+    "clue": "Look in the highlands of western Cameroon.",
+    "hint": "It is in Cameroon's West Region, in the Hauts-Plateaux department.",
+    "answer": {
+     "city": "Batié",
+     "country": "Cameroon",
+     "countryCode": "CM"
+    },
+    "story": "Francis Ngannou's tiny hometown of Batié was sometimes called \"The Sand Village\". He arrived in France in 2013 and was homeless before a chance encounter at an MMA gym in Paris changed his life.",
+    "sources": [
+     {
+      "url": "https://bleacherreport.com/articles/2746156-from-homeless-to-ufcs-next-big-thing-francis-ngannous-amazing-journey",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "His tiny hometown of Batie was sometimes called \"The Sand Village\" … Born in Cameroon, Ngannou arrived in France in 2013 looking for a different life, but soon found himself homeless. From the streets of Paris to a chance encounter at an MMA gym"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "zendaya",
+    "name": "Zendaya",
+    "monogram": "Z",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "zendaya-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Film",
+    "chapter": "Where the story began",
+    "question": "In which California city was Zendaya born?",
+    "clue": "Look in the San Francisco Bay Area.",
+    "hint": "The city is on the east side of the bay, across from San Francisco.",
+    "answer": {
+     "city": "Oakland, California",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Zendaya was born in Oakland, California, and began performing there at a young age, dancing with the hip-hop troupe Future Shock Oakland.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Zendaya",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Zendaya (born September 1, 1996, Oakland, California, U.S.) … She began performing in Oakland, California, at a young age … dancing with Future Shock Oakland, a hip-hop dance troupe."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jenna-ortega",
+    "name": "Jenna Ortega",
+    "monogram": "JO",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jenna-ortega-wednesday",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Television",
+    "chapter": "A moment on the map",
+    "question": "In which European capital was most of Netflix's Wednesday, starring Jenna Ortega, filmed?",
+    "clue": "Look in Eastern Europe, north of the Danube.",
+    "hint": "It is the capital of Romania.",
+    "answer": {
+     "city": "Bucharest",
+     "country": "Romania",
+     "countryCode": "RO"
+    },
+    "story": "Tim Burton's Wednesday, starring Jenna Ortega, was filmed primarily in Romania. Most locations were in Bucharest, and several of its sets stand at the Buftea Studios just outside the city.",
+    "sources": [
+     {
+      "url": "https://www.romania-insider.com/netflix-set-visit-feb-2023",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Wednesday, directed by Tim Burton and starring Jenna Ortega, was filmed in several locations in Romania. Most of them are in Bucharest … Wednesday was primarily filmed in the country."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "timothee-chalamet",
+    "name": "Timothée Chalamet",
+    "monogram": "TC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "timothee-chalamet-hometown",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Film",
+    "chapter": "Where the story began",
+    "question": "In which city was Timothée Chalamet born and raised?",
+    "clue": "Look on the US East Coast.",
+    "hint": "He grew up in Manhattan.",
+    "answer": {
+     "city": "New York City",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Timothée Chalamet was born in New York City and raised in Manhattan, where he attended LaGuardia High School of Music & Art and Performing Arts.",
+    "trivia": "He grew up speaking French fluently and spent summers outside Lyon, France.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Timothee-Chalamet",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Timothée Chalamet (born December 27, 1995, New York City, New York, U.S.) … Chalamet was raised in Manhattan … He grew up speaking French fluently and spent summers outside Lyon, France."
+     }
+    ],
+    "triviaCard": {
+     "type": "world_connection",
+     "text": "He grew up speaking French fluently and spent summers outside Lyon, France.",
+     "sourceUrl": "https://www.britannica.com/biography/Timothee-Chalamet",
+     "sourceName": "Britannica",
+     "quote": "Timothée Chalamet (born December 27, 1995, New York City, New York, U.S.) … Chalamet was raised in Manhattan … He grew up speaking French fluently and spent summers outside Lyon, France."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "anya-taylor-joy",
+    "name": "Anya Taylor-Joy",
+    "monogram": "ATJ",
+    "countryOfOrigin": "AR",
+    "region": "latin-america",
+    "originNote": "Born in Miami, raised in Argentina until six, then London (Marie Claire interview). Origin/region provisional.",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "anya-taylor-joy-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "streaming-stars",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Television",
+    "chapter": "Where the story began",
+    "question": "Before growing up in Argentina and London, where was Anya Taylor-Joy born?",
+    "clue": "Look in the southeastern United States.",
+    "hint": "The city is in southeastern Florida.",
+    "answer": {
+     "city": "Miami, Florida",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "\"I was born in Miami but we moved straight away to Argentina where most of my family still lives, and I was there until I was six, and then we moved to England,\" Anya Taylor-Joy told Marie Claire.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Anya-Taylor-Joy",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: April 16, 1996, Miami, Florida, U.S. … Soon after Taylor-Joy was born, the family moved to Argentina."
+     },
+     {
+      "url": "https://www.marieclaire.co.uk/entertainment/anya-taylor-joy-466264",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "I was born in Miami but we moved straight away to Argentina where most of my family still lives, and I was there until I was six, and then we moved to England"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jacob-elordi",
+    "name": "Jacob Elordi",
+    "monogram": "JE",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jacob-elordi-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Television",
+    "chapter": "Where the story began",
+    "question": "In which Australian city was Jacob Elordi born?",
+    "clue": "Look on Australia's east coast.",
+    "hint": "It is the capital of Queensland.",
+    "answer": {
+     "city": "Brisbane",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Jacob Elordi was born in Brisbane, Queensland, where his family lived. He gained overnight fame in Netflix's The Kissing Booth (2018) and cemented his stardom with HBO's Euphoria.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jacob-Elordi",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jacob Elordi (born June 26, 1997, Brisbane, Queensland, Australia) … gained overnight fame for his work in the Netflix romantic comedy The Kissing Booth (2018) and cemented his stardom with the HBO drama series Euphoria"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "barry-keoghan",
+    "name": "Barry Keoghan",
+    "monogram": "BK",
+    "countryOfOrigin": "IE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "barry-keoghan-hometown",
+    "primaryCategory": "screen",
+    "subcategory": "drama",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Film",
+    "chapter": "Hometown roots",
+    "question": "In which Dublin neighbourhood was Barry Keoghan raised?",
+    "clue": "Look in Ireland's capital.",
+    "hint": "The neighbourhood is in Dublin's north inner city.",
+    "answer": {
+     "city": "Summerhill, Dublin",
+     "country": "Ireland",
+     "countryCode": "IE"
+    },
+    "story": "Barry Keoghan was raised in Dublin's Summerhill. As a teenager he answered a casting call posted in a Summerhill shop window and landed a small part in Between the Canals (2011).",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Barry-Keoghan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Keoghan was raised in the hardscrabble Dublin neighborhood of Summerhill. When Keoghan was a teenager, he answered a public casting call posted in a Summerhill shop window and was hired for a small part in the film Between the Canals (2011)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "daniel-kaluuya",
+    "name": "Daniel Kaluuya",
+    "monogram": "DK",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "daniel-kaluuya-hometown",
+    "primaryCategory": "screen",
+    "subcategory": "hollywood",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Film",
+    "chapter": "Hometown roots",
+    "question": "In which London area did Daniel Kaluuya grow up?",
+    "clue": "Look in north London.",
+    "hint": "The area lies just north of central London, beside Regent's Park.",
+    "answer": {
+     "city": "Camden, London",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Daniel Kaluuya was born in London to Ugandan parents and grew up on a council estate in Camden, living with his mother.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Daniel-Kaluuya",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Kaluuya was born in London to Ugandan parents, and he grew up in a council estate (public housing project) in Camden living with his mother."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "damson-idris",
+    "name": "Damson Idris",
+    "monogram": "DI",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "damson-idris-hometown",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Television",
+    "chapter": "Hometown roots",
+    "question": "Which south London area is Damson Idris from?",
+    "clue": "Look in south-east London.",
+    "hint": "The area is in the London Borough of Southwark.",
+    "answer": {
+     "city": "Peckham, London",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Damson Idris is a British actor from Peckham, London. His big break came in 2017 with the role of Franklin Saint in Snowfall.",
+    "sources": [
+     {
+      "url": "https://www.capitalxtra.com/news/damson-idris-age-net-worth/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Damson is a British-born actor from Peckham, London. … getting his big break in 2017 with the iconic role of Franklin Saint in Snowfall"
+     }
+    ]
+   }
+  }
+ ]
+}

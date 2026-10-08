@@ -1,0 +1,3494 @@
+[
+ {
+  "id": "coco-chanel-deauville",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Before the breakthrough",
+  "question": "In which Normandy resort town did Coco Chanel open a boutique in 1912, two years after her first Paris shop?",
+  "clue": "Look on France's English Channel coast.",
+  "hint": "The resort is on the Côte Fleurie, across the Seine estuary from Le Havre.",
+  "answer": {
+   "city": "Deauville",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 49.3595,
+   "longitude": 0.0747,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/135589"
+  },
+  "story": "Born Gabrielle Chanel in Saumur, Coco Chanel opened a tiny millinery shop at 21 rue Cambon, Paris, in 1910. Two years later she established a boutique in Deauville, a resort town in Normandy, and went on to rule Parisian haute couture for almost six decades.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Coco-Chanel",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Coco Chanel (born August 19, 1883, Saumur, France …) was a French fashion designer who ruled Parisian haute couture for almost six decades. … she opened Chanel Modes, a tiny millinery shop at 21 rue Cambon, Paris, in 1910. Two years later she established a boutique in Deauville, a resort town in the Normandy region of France."
+   }
+  ],
+  "entityId": "coco-chanel",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3.",
+    "Batch 12: also in icons/fashion-icons — defined modern womenswear; a defining 20th-century style icon",
+    "Batch 12: also in icons/business-icons — founded the Chanel fashion house"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "fashion-icons"
+   },
+   {
+    "category": "icons",
+    "subcategory": "business-icons"
+   }
+  ]
+ },
+ {
+  "id": "virgil-abloh-birthplace",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "In which Illinois city was Off-White founder Virgil Abloh born?",
+  "clue": "Look in northern Illinois.",
+  "hint": "The city is northwest of Chicago, near the Wisconsin border.",
+  "answer": {
+   "city": "Rockford, Illinois",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.2714,
+   "longitude": -89.094,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/127020"
+  },
+  "story": "Virgil Abloh was born in Rockford, Illinois, to Ghanaian immigrant parents. Trained in civil engineering and architecture, he founded the label Off-White and became creative director of Louis Vuitton menswear.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Virgil-Abloh",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: September 30, 1980, Rockford, Illinois, U.S. … best known as the founder of the fashion label Off-White and the creative director of Louis Vuitton menswear. … Abloh was born to Ghanaian immigrant parents … a degree in civil engineering … a master’s degree in architecture"
+   }
+  ],
+  "entityId": "virgil-abloh",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "adut-akech-adelaide",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Before the breakthrough",
+  "question": "In which Australian city did model Adut Akech finish high school before her runway debut?",
+  "clue": "Look on Australia's southern coast.",
+  "hint": "It is the capital of South Australia.",
+  "answer": {
+   "city": "Adelaide",
+   "country": "Australia",
+   "countryCode": "AU",
+   "latitude": -34.9282,
+   "longitude": 138.5999,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/11381689"
+  },
+  "story": "Adut Akech was born in a refugee camp in South Sudan, grew up in Kenya's Kakuma refugee camp, and moved to Adelaide with her mother and five siblings. Months after graduating from high school in Adelaide, she made her runway debut for Saint Laurent.",
+  "sources": [
+   {
+    "url": "https://www.cnn.com/style/article/adut-akech-model-profile/index.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in a refugee camp in South Sudan amid ongoing conflict with the north, Akech grew up in Kenya’s Kakuma refugee camp, before moving to Adelaide with her mother and five siblings. … mere months after graduating from high school in Adelaide, Australia, that she made her runway debut, walking as an exclusive in the Saint Laurent Spring-Summer 2017 show."
+   }
+  ],
+  "entityId": "adut-akech",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "iman-discovery",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "The turning point",
+  "question": "In which city was Iman spotted by photographer Peter Beard while she was a university student?",
+  "clue": "Look in East Africa.",
+  "hint": "It is Kenya's capital.",
+  "answer": {
+   "city": "Nairobi",
+   "country": "Kenya",
+   "countryCode": "KE",
+   "latitude": -1.289,
+   "longitude": 36.8173,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9185096"
+  },
+  "story": "Iman was born in Mogadishu, Somalia, in 1955. In 1973, as an 18-year-old political science student at the University of Nairobi, she was seen on a Nairobi street by photographer Peter Beard, who launched her modelling career.",
+  "sources": [
+   {
+    "url": "https://www.biography.com/celebrities/iman",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Iman Mohamed Abdulmajid was born on July 25, 1955, in Mogadishu, Somalia. … By 1973, Iman was 18 and a student of political science at the University of Nairobi. Photographer Peter Beard, a well-known figure in the fashion world, saw her one day on a street in Nairobi"
+   }
+  ],
+  "entityId": "iman",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3.",
+    "Batch 12: also in icons/fashion-icons — pioneering supermodel and style icon"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "fashion-icons"
+   }
+  ]
+ },
+ {
+  "id": "elie-saab-birthplace",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "In which Lebanese coastal town was designer Elie Saab born?",
+  "clue": "Look on the eastern Mediterranean coast, south of Beirut.",
+  "hint": "The town lies between Beirut and Sidon.",
+  "answer": {
+   "city": "Damour",
+   "country": "Lebanon",
+   "countryCode": "LB",
+   "latitude": 33.7308,
+   "longitude": 35.4555,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/6452190034"
+  },
+  "story": "Elie Saab was born in Damour, Lebanon, in 1964. A self-taught talent, he opened his first couture atelier in Beirut in 1982.",
+  "sources": [
+   {
+    "url": "https://www.fashiontrustarabia.com/editions/elie-saab",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in 1964 in Damour, Lebanon, Elie Saab is a self-taught fashion talent. In 1982, he opened his first couture atelier in Beirut"
+   }
+  ],
+  "entityId": "elie-saab",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "naomi-campbell-london",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Naomi Campbell, one of the elite supermodels of the 1980s and '90s, was born in which city?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Naomi Campbell was born in London in 1970 and grew up there and in Rome. One of the elite supermodels of the 1980s and '90s, she became the first Black model on the cover of many luxury fashion magazines, including British and French Vogue.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Naomi-Campbell",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Naomi Campbell (born May 22, 1970, London, England) is a British fashion model and actress best known as one of the elite “supermodels” who dominated the fashion industry in the 1980s and ’90s."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Naomi-Campbell",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She was the first Black model to appear on the cover of many luxury fashion magazines."
+   }
+  ],
+  "entityId": "naomi-campbell",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "kate-moss-croydon",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "The anti-supermodel",
+  "question": "Kate Moss, whose natural look defined 1990s fashion, grew up in which London borough?",
+  "clue": "South London, a large borough with its own tram network.",
+  "hint": "Its name starts with 'Croy'.",
+  "answer": {
+   "city": "Croydon",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.3737,
+   "longitude": -0.1003,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/21262496"
+  },
+  "story": "Kate Moss grew up in the London borough of Croydon. Her waifish figure and seemingly effortless personal style challenged the polished glamour of earlier runway stars, and she became known as the 'anti-supermodel' of the minimalist 1990s.",
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "fashion-icons"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Kate-Moss",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Moss grew up in the London borough of Croydon."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Kate-Moss",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kate Moss (born January 16, 1974, London, England) is a British fashion model whose waifish figure, understated beauty, and seemingly effortless personal style challenged the polished glamor associated with earlier runway stars and became closely identified with the more natural, minimalist look of the 1990s."
+   }
+  ],
+  "entityId": "kate-moss",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "cindy-crawford-dekalb",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Valedictorian to supermodel",
+  "question": "Cindy Crawford, among the first 'supermodels', grew up in which Illinois city near Chicago?",
+  "clue": "Northern Illinois, home of a state university.",
+  "hint": "Its name starts with 'De'.",
+  "answer": {
+   "city": "DeKalb",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.9299,
+   "longitude": -88.7502,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/13498248"
+  },
+  "story": "Cindy Crawford grew up in DeKalb, Illinois, where she graduated as class valedictorian in 1984 before turning to modelling. She became one of the first supermodels and is considered the first model to branch out into many industries.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Cindy-Crawford",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Crawford grew up in DeKalb, Illinois, near Chicago, where her father worked as an electrician and her mother was employed as a bank teller."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cindy-Crawford",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Cindy Crawford (born February 20, 1966, DeKalb, Illinois, U.S.) is an American fashion model and television personality who first gained fame in the 1980s and was among the first “supermodels.”"
+   }
+  ],
+  "entityId": "cindy-crawford",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "tyra-banks-inglewood",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "The new Naomi",
+  "question": "Supermodel Tyra Banks was born and raised in which suburb of Los Angeles?",
+  "clue": "Next to LAX airport.",
+  "hint": "Its name starts with 'Ingle'.",
+  "answer": {
+   "city": "Inglewood",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 33.9562,
+   "longitude": -118.3531,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/112090"
+  },
+  "story": "Tyra Banks was born and raised in Inglewood, a suburb of Los Angeles. She walked a record 25 shows in her first season and became the first African American woman on the cover of GQ and the Sports Illustrated swimsuit issue.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Tyra-Banks",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Banks was raised in Inglewood, a suburb of Los Angeles, where she attended a local all-girls Catholic school."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Tyra-Banks",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Banks walked a record 25 shows in her first season"
+   }
+  ],
+  "entityId": "tyra-banks",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "gisele-bundchen-horizontina",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Small-town start",
+  "question": "Supermodel Gisele Bündchen was raised in which small rural town in southern Brazil?",
+  "clue": "Rio Grande do Sul, near the Argentine border.",
+  "hint": "Its name contains the word 'horizon'.",
+  "answer": {
+   "city": "Horizontina",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -27.6279,
+   "longitude": -54.309,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/242370"
+  },
+  "story": "Gisele Bündchen was born and raised in Horizontina, a small rural town in southern Brazil, with her five sisters. She moved to New York City to model, and her fame was heralded as the return of the 'supermodel'.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Gisele-Bundchen",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Bündchen was raised in the city of Horizontina—a small rural town in southern Brazil—with her five sisters, one of whom is her fraternal twin."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Gisele-Bundchen",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Gisele Bündchen (born July 20, 1980, Horizontina, Rio Grande do Sul, Brazil) is a Brazilian model who first gained fame in the late 1990s and who later became a “supermodel,”"
+   }
+  ],
+  "entityId": "gisele-bundchen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "heidi-klum-bergisch-gladbach",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Supermodel and Project Runway host Heidi Klum was born in which German town near Cologne?",
+  "clue": "North Rhine-Westphalia, east of Cologne.",
+  "hint": "Its name starts with 'Bergisch'.",
+  "answer": {
+   "city": "Bergisch Gladbach",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 50.9929,
+   "longitude": 7.1277,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/173103"
+  },
+  "story": "Heidi Klum was born in Bergisch Gladbach, in North Rhine-Westphalia, in 1973. She launched her modelling career in New York City in 1993 and went on to host Germany's Next Topmodel and Project Runway.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Heidi-Klum",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Heidi Klum (born June 1, 1973, Bergisch Gladbach, North Rhine–Westphalia, West Germany) is a German American supermodel, television personality, and businesswoman who hosted Germany’s Next Topmodel and Project Runway."
+   }
+  ],
+  "entityId": "heidi-klum",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "linda-evangelista-st-catharines",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Supermodel Linda Evangelista was born in which Ontario city near Niagara Falls?",
+  "clue": "On Lake Ontario, in the Niagara region.",
+  "hint": "It's named after a saint.",
+  "answer": {
+   "city": "St. Catharines",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 43.158,
+   "longitude": -79.2441,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2387995"
+  },
+  "story": "Linda Evangelista was born in St. Catharines, Ontario, to working-class Italian immigrants. She became one of the original supermodels, best known as a face of Revlon and the Versace fashion house.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Linda-Evangelista",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Linda Evangelista (born May 10, 1965, St. Catharines, Ontario, Canada) is a Canadian fashion model perhaps best known as a face of the cosmetics company Revlon and of the Versace fashion house."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Linda-Evangelista",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Evangelista was born to working-class Italian immigrants."
+   }
+  ],
+  "entityId": "linda-evangelista",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "christy-turlington-walnut-creek",
+  "primaryCategory": "fashion",
+  "subcategory": "supermodels",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Supermodel Christy Turlington, a face of Maybelline and Calvin Klein, was born in which East Bay city?",
+  "clue": "Contra Costa County, east of Oakland.",
+  "hint": "It's named after a nut tree.",
+  "answer": {
+   "city": "Walnut Creek",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.9021,
+   "longitude": -122.0619,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3705576"
+  },
+  "story": "Christy Turlington was born in Walnut Creek, California, and raised in nearby Danville. At 18 she moved to New York City to model, becoming a face of Maybelline and Calvin Klein, and she later founded Every Mother Counts.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Christy-Turlington",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Christy Turlington (born January 2, 1969, Walnut Creek, California, U.S.) is an American fashion model best known as a face of the cosmetics company Maybelline and the Calvin Klein fashion house."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Christy-Turlington",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "At age 18 she moved to New York City to pursue a professional modeling career."
+   }
+  ],
+  "entityId": "christy-turlington",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "yves-saint-laurent-oran",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Yves Saint Laurent, creator of the women's tuxedo 'Le Smoking', was born in which North African port city?",
+  "clue": "On Algeria's Mediterranean coast, west of Algiers.",
+  "hint": "Albert Camus set The Plague there.",
+  "answer": {
+   "city": "Oran",
+   "country": "Algeria",
+   "countryCode": "DZ",
+   "latitude": 35.7044,
+   "longitude": -0.6503,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1259562"
+  },
+  "story": "Yves Saint Laurent was born in Oran, Algeria, in 1936. He rose to head designer of the House of Dior at a young age, then founded his own couture house, introducing the women's tuxedo suit 'Le Smoking'.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Yves-Saint-Laurent-French-designer",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Yves Saint Laurent (born August 1, 1936, Oran, Algeria—died June 1, 2008, Paris, France) was a French fashion designer widely regarded as one of the most influential figures in 20th-century fashion."
+   }
+  ],
+  "entityId": "yves-saint-laurent",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "christian-dior-granville",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Christian Dior, whose 'New Look' ruled postwar fashion, was born in which Normandy seaside town?",
+  "clue": "On the Cotentin peninsula, facing Mont-Saint-Michel bay.",
+  "hint": "Its name starts with 'Gran'.",
+  "answer": {
+   "city": "Granville",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8376,
+   "longitude": -1.5959,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1019742"
+  },
+  "story": "Christian Dior was born in Granville, Normandy, in 1905. Backed by textile magnate Marcel Boussac, he founded his own fashion house in 1946, and his New Look dominated fashion in the decade after World War II.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Christian-Dior-French-designer",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Christian Dior (born January 21, 1905, Granville, France—died October 24, 1957, Montecatini, Italy) was a French fashion designer whose New Look—characterized by ultrafeminine and highly sculptured clothing—dominated fashion in the decade following World War II."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Christian-Dior-French-designer",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Backed by French entrepreneur and textile manufacturer Marcel Boussac, Dior founded his own fashion house in 1946."
+   }
+  ],
+  "entityId": "christian-dior",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "giorgio-armani-piacenza",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Giorgio Armani, master of relaxed luxury tailoring, was born in which northern Italian city on the Po?",
+  "clue": "Emilia-Romagna, near the border with Lombardy.",
+  "hint": "Its name starts with 'Pia'.",
+  "answer": {
+   "city": "Piacenza",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 44.8476,
+   "longitude": 9.6665,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/43332"
+  },
+  "story": "Giorgio Armani was born in Piacenza in 1934. In 1975, with his partner Sergio Galeotti, he launched his own ready-to-wear label, and he said of his style: 'I was the first to soften the image of men, and harden the image of women.'",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Giorgio-Armani",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Giorgio Armani (born July 11, 1934, Piacenza, Italy—died September 4, 2025, Milan) was an Italian fashion designer"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Giorgio-Armani",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1975, with the help of his friend and business partner Sergio Galeotti, Armani launched his own label of ready-to-wear for men and women."
+   }
+  ],
+  "entityId": "giorgio-armani",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "karl-lagerfeld-hamburg",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Karl Lagerfeld, the creative force behind Chanel's modern revival, was born in which German port city?",
+  "clue": "On the Elbe, Germany's second-largest city.",
+  "hint": "It shares its name with a famous sandwich.",
+  "answer": {
+   "city": "Hamburg",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 53.5502,
+   "longitude": 10.0013,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62782"
+  },
+  "story": "Karl Lagerfeld was born in Hamburg and moved to Paris in 1952. From 1983 he led Chanel, reviving the house founded by Coco Chanel, and he launched his own label in 1984.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Karl Lagerfeld (born September 10, 1933?, Hamburg, Germany—died February 19, 2019, Paris, France) was a German fashion designer and photographer best known as the creative power behind the modern revival of Chanel"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Lagerfeld moved to Paris in 1952."
+   }
+  ],
+  "entityId": "karl-lagerfeld",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "vivienne-westwood-glossop",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Punk-era designer Vivienne Westwood was born in which Derbyshire town on the edge of the Peak District?",
+  "clue": "In the High Peak, east of Manchester.",
+  "hint": "Its name starts with 'Gloss'.",
+  "answer": {
+   "city": "Glossop",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 53.4434,
+   "longitude": -1.9499,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/26419849"
+  },
+  "story": "Vivienne Westwood was born in Glossop, Derbyshire, in 1941. Known for provocative clothing, she staged her first ready-to-wear collection, Pirates, with Malcolm McLaren in 1981 and built her own fashion empire.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Vivienne-Westwood",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Vivienne Westwood (born April 8, 1941, Glossop, Derbyshire, England—died December 29, 2022, London) was a British fashion designer known for her provocative clothing."
+   }
+  ],
+  "entityId": "vivienne-westwood",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "issey-miyake-hiroshima",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Issey Miyake, who blended Eastern and Western design, was born in which Japanese city?",
+  "clue": "On the delta of the Ōta River, in western Honshu.",
+  "hint": "It has a famous Peace Memorial Park.",
+  "answer": {
+   "city": "Hiroshima",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 34.3917,
+   "longitude": 132.4518,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4097196"
+  },
+  "story": "Issey Miyake was born in Hiroshima in 1938. After studying in Tokyo and Paris, he became known for combining Eastern and Western elements, and in 2006 was the first fashion designer to receive the Kyoto Prize.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Issey-Miyake",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Issey Miyake (born April 22, 1938, Hiroshima, Japan—died August 5, 2022, Tokyo) was a Japanese fashion designer who was known for combining Eastern and Western elements in his work."
+   }
+  ],
+  "entityId": "issey-miyake",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "oscar-de-la-renta-santo-domingo",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Oscar de la Renta, designer to first ladies and red-carpet stars, was born in which Caribbean capital?",
+  "clue": "The oldest European-founded city in the Americas.",
+  "hint": "It's the capital of the Dominican Republic.",
+  "answer": {
+   "city": "Santo Domingo",
+   "country": "Dominican Republic",
+   "countryCode": "DO",
+   "latitude": 18.4714,
+   "longitude": -69.8918,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7407678"
+  },
+  "story": "Oscar de la Renta was born in Santo Domingo in 1932. After working in Paris, he moved to New York and founded his own company in 1965, dressing first ladies from Jacqueline Kennedy Onassis to Michelle Obama.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Oscar-de-la-Renta",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: July 22, 1932, Santo Domingo, Dominican Republic"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Oscar-de-la-Renta",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1965 he established his own eponymous company in New York."
+   }
+  ],
+  "entityId": "oscar-de-la-renta",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "alexander-mcqueen-london",
+  "primaryCategory": "fashion",
+  "subcategory": "designers",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Fashion",
+  "chapter": "East End roots",
+  "question": "Alexander McQueen, famed for shocking catwalk shows and precise tailoring, grew up in which city's East End?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Alexander McQueen grew up in London's East End, the youngest of six children of a taxi driver. Known for precise tailoring and shocking shows, he was named British Designer of the Year in 1996 and became head designer at Givenchy.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Alexander-McQueen",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "McQueen grew up in London’s East End; he was the youngest of six children of a father who was a taxicab driver and a mother who was a social studies teacher and genealogist."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Alexander-McQueen",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1996 he was named British Designer of the Year"
+   }
+  ],
+  "entityId": "alexander-mcqueen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "estee-lauder-new-york",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Estée Lauder, who cofounded a cosmetics giant in 1946, was born in which US city?",
+  "clue": "On the Hudson River, the largest US city.",
+  "hint": "The Big Apple.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7135,
+   "longitude": -73.8283,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691819"
+  },
+  "story": "Estée Lauder was born in New York and learned her first marketing lessons in her father's hardware store. In 1946 she and her husband founded Estée Lauder, Inc., which grew into a large fragrance and cosmetics company.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Estee-Lauder",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Estée Lauder (born July 1, 1908?, New York, New York, U.S.—died April 24, 2004, New York) was an American businesswoman who cofounded (1946) Estée Lauder, Inc., a large fragrance and cosmetics company."
+   }
+  ],
+  "entityId": "estee-lauder",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "helena-rubinstein-melbourne",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "The first shop",
+  "question": "Cosmetics pioneer Helena Rubinstein opened her first small shop selling creams in which Australian city?",
+  "clue": "On Port Phillip Bay, capital of Victoria.",
+  "hint": "It's Australia's second-largest city.",
+  "answer": {
+   "city": "Melbourne",
+   "country": "Australia",
+   "countryCode": "AU",
+   "latitude": -37.8142,
+   "longitude": 144.9632,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4246124"
+  },
+  "story": "On a visit to relatives in Australia in the 1890s, Helena Rubinstein saw a lack of skin-care products and opened a small shop in Melbourne. She went on to open salons in London, Paris and New York and built Helena Rubinstein, Inc.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Helena-Rubinstein",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "There, the lack of cosmetics, particularly skin-care products, prompted her to open a small shop in Melbourne to sell creams and the like, which at first she imported from Europe and later began manufacturing herself."
+   },
+   {
+    "url": "https://www.britannica.com/money/Helena-Rubinstein",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She founded Helena Rubinstein, Inc., a leading manufacturer and distributor of women’s cosmetics."
+   }
+  ],
+  "entityId": "helena-rubinstein",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "elizabeth-arden-woodbridge",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Elizabeth Arden, founder of a cosmetics line and salon chain, was born in which Ontario community north of Toronto?",
+  "clue": "Now part of the city of Vaughan.",
+  "hint": "Its name ends in 'bridge'.",
+  "answer": {
+   "city": "Woodbridge",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 43.7849,
+   "longitude": -79.5924,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/430535636"
+  },
+  "story": "Born Florence Nightingale Graham in Woodbridge, Ontario, in 1884, Elizabeth Arden built a successful cosmetics line and a chain of beauty salons and spas, opening a Paris salon in 1922.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Elizabeth-Arden-American-businesswoman",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born:Dec. 31, 1884, Woodbridge, Ont., Can."
+   },
+   {
+    "url": "https://www.britannica.com/money/Elizabeth-Arden-American-businesswoman",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "18, 1966, New York, N.Y., U.S.) was a Canadian-born American businesswoman who developed a successful line of cosmetics and a chain of beauty salons and spas."
+   }
+  ],
+  "entityId": "elizabeth-arden",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "madam-cj-walker-pittsburgh",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Lelia College",
+  "question": "Haircare pioneer Madam C. J. Walker opened her Lelia College of Beauty Culture in 1908 in which city?",
+  "clue": "Where the Allegheny and Monongahela rivers meet.",
+  "hint": "The Steel City.",
+  "answer": {
+   "city": "Pittsburgh",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.4407,
+   "longitude": -80.0026,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/188553"
+  },
+  "story": "Madam C. J. Walker, one of the first African American female millionaires, trained agents across the US before settling in Pittsburgh in 1908, where she opened the Lelia College of Beauty Culture, named for her daughter.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Madam-C-J-Walker",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1908, after two years of training Walker agents and “beauty culturists” throughout the southern and eastern United States, Walker and her husband settled in Pittsburgh, where she opened the Lelia College of Beauty Culture, a school named for her daughter."
+   },
+   {
+    "url": "https://www.britannica.com/money/Madam-C-J-Walker",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was an American businesswoman and philanthropist who was one of the first African American female millionaires in the United States."
+   }
+  ],
+  "entityId": "madam-cj-walker",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "charles-revson-boston",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Charles Revson, who started Revlon with $300, was born in which New England city?",
+  "clue": "Capital of Massachusetts.",
+  "hint": "Home of the 1773 Tea Party.",
+  "answer": {
+   "city": "Boston",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3588,
+   "longitude": -71.0578,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2315704"
+  },
+  "story": "Charles Revson was born in Boston in 1906. During the Great Depression he started Revlon with his brother Joseph and chemist Charles Lachman on $300 of capital, and he was the first to introduce matching lipsticks and nail polishes.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Charles-H-Revson",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Charles H. Revson (born Oct. 11, 1906, Boston—died Aug. 24, 1975, New York City) was an American businessman"
+   },
+   {
+    "url": "https://www.britannica.com/money/Charles-H-Revson",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Revson was also the first to introduce matching lipsticks and polishes."
+   }
+  ],
+  "entityId": "charles-revson",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "huda-kattan-dubai",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Huda Beauty",
+  "question": "Makeup artist Huda Kattan built her Huda Beauty company in which Gulf city?",
+  "clue": "In the United Arab Emirates, home of the Burj Khalifa.",
+  "hint": "It isn't the UAE capital, but it is its biggest city.",
+  "answer": {
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "countryCode": "AE",
+   "latitude": 25.0743,
+   "longitude": 55.1886,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4479752"
+  },
+  "story": "Huda Kattan, born and raised in Oklahoma, quit finance to become a makeup artist and started Huda Beauty with her sisters in 2013. Her Dubai-based company later launched the fragrance brand Kayali.",
+  "secondary": [
+   {
+    "category": "fashion",
+    "subcategory": "makeup-icons"
+   },
+   {
+    "category": "creators",
+    "subcategory": "digital-entrepreneurs"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/huda-kattan/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Her Dubai-based startup launched its second brand, a fragrance company called Kayali (means \"my imagination\" in Arabic) in 2018."
+   },
+   {
+    "url": "https://www.forbes.com/profile/huda-kattan/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kattan started Huda Beauty with her two sisters in 2013 when she couldn't find false eyelashes to buy."
+   },
+   {
+    "url": "https://www.forbes.com/profile/huda-kattan/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kattan was born and raised in Oklahoma and is the daughter of immigrants from Iraq."
+   },
+   {
+    "url": "https://www.forbes.com/profile/huda-kattan/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Miserable in her finance job, Huda Kattan quit to become a makeup artist and then launched a blog in 2010."
+   }
+  ],
+  "entityId": "huda-kattan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16.",
+    "Batch 18: also in creators/digital-entrepreneurs — Forbes: launched a beauty blog in 2010, then built Huda Beauty and Kayali from her online following"
+   ]
+  }
+ },
+ {
+  "id": "anastasia-soare-beverly-hills",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "The brow queen",
+  "question": "Brow expert Anastasia Soare named her beauty brand after which Los Angeles-area city?",
+  "clue": "Home of 90210.",
+  "hint": "Famous for Rodeo Drive.",
+  "answer": {
+   "city": "Beverly Hills",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0697,
+   "longitude": -118.3963,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3503615"
+  },
+  "story": "Born in Romania, Anastasia Soare immigrated to Los Angeles in 1989 and worked in a beauty salon. In 2000 she launched a line of eyebrow products called Anastasia Beverly Hills, which grew into a billion-dollar business.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/anastasia-soare/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Three years later, she struck out on her own, and in 2000, she launched a line of eyebrow products under the name Anastasia Beverly Hills."
+   },
+   {
+    "url": "https://www.forbes.com/profile/anastasia-soare/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Born in Romania, she immigrated to Los Angeles in 1989 and got a job in a beauty salon."
+   }
+  ],
+  "entityId": "anastasia-soare",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "lisa-price-brooklyn",
+  "primaryCategory": "fashion",
+  "subcategory": "beauty-entrepreneurs",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Kitchen start-up",
+  "question": "Lisa Price founded the Carol's Daughter beauty line in 1993 in her kitchen in which New York City borough?",
+  "clue": "Across the East River from Manhattan, reached by a famous bridge.",
+  "hint": "Its name starts with 'Brook'.",
+  "answer": {
+   "city": "Brooklyn",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.6526,
+   "longitude": -73.9497,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691750"
+  },
+  "story": "Lisa Price founded Carol's Daughter, a line of beauty products named for her mother, Carol, in her kitchen in Brooklyn in 1993.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/lisa-price/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Price founded Carol's Daughter line of beauty products, named for her mother, Carol, in her kitchen in Brooklyn, NY, in 1993."
+   }
+  ],
+  "entityId": "lisa-price",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "max-factor-lodz",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Max Factor, 'the dean of Hollywood makeup experts', was born in which Polish textile city?",
+  "clue": "Central Poland, once called the 'Polish Manchester'.",
+  "hint": "Its name has a slashed L.",
+  "answer": {
+   "city": "Łódź",
+   "country": "Poland",
+   "countryCode": "PL",
+   "latitude": 51.7687,
+   "longitude": 19.457,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2413295"
+  },
+  "story": "Max Factor was born in Łódź, then in the Russian Empire, and emigrated to the United States in 1904. In 1910 he created the first makeup designed expressly for motion pictures, becoming the dean of Hollywood makeup.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Max-Factor",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Max Factor (born 1877, Łódź, Poland, Russian Empire—died August 30, 1938, Beverly Hills, California, U.S.) was the dean of Hollywood makeup experts."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Max-Factor",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1910 Factor created the first makeup designed expressly for motion pictures."
+   }
+  ],
+  "entityId": "max-factor",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "bobbi-brown-montclair",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Home town",
+  "question": "Makeup artist Bobbi Brown opened a boutique hotel, The George, in her hometown — which New Jersey town?",
+  "clue": "Essex County, a short train ride from Manhattan.",
+  "hint": "Its name starts with 'Mont'.",
+  "answer": {
+   "city": "Montclair",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.8164,
+   "longitude": -74.2211,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170783"
+  },
+  "story": "Makeup artist Bobbi Brown launched her eponymous cosmetics brand in 1991 and sold it to Estée Lauder. In 2018 she and her husband opened a boutique hotel, The George, in her hometown of Montclair, New Jersey.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/bobbi-brown/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 2018, with her husband Steven Plofker, Brown opened a boutique hotel called The George in her hometown, Montclair, New Jersey."
+   },
+   {
+    "url": "https://www.forbes.com/profile/bobbi-brown/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Makeup artist-entrepreneur Brown launched her eponymous cosmetics brand in 1991, which she sold to Estee Lauder in 1995 for a reported $74.5 million."
+   }
+  ],
+  "entityId": "bobbi-brown",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "pat-mcgrath-northampton",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Born and raised",
+  "question": "Makeup artist Pat McGrath, founder of Pat McGrath Labs, was born and raised in which English town?",
+  "clue": "In the East Midlands, historically famous for shoemaking.",
+  "hint": "Its name starts with 'North'.",
+  "answer": {
+   "city": "Northampton",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.2343,
+   "longitude": -0.9028,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/394021"
+  },
+  "story": "Pat McGrath was born and raised in Northampton and credits her late mother for her love of style. Called the most powerful person in fashion by Ebony, she founded Pat McGrath Labs in 2015, which grew to a $1 billion valuation.",
+  "sources": [
+   {
+    "url": "https://londondesignfestival.com/stories/in-conversation-with-pat-mcgrath-dbe/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born and raised in Northampton, McGrath credits her late mother, a devout Jehovah's Witness, for her love and appreciation of style."
+   },
+   {
+    "url": "https://www.forbes.com/profile/pat-mcgrath/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "McGrath is the founder and namesake of the beauty products company Pat McGrath Labs, which launched in 2015 and quickly grew to become valued at $1 billion."
+   }
+  ],
+  "entityId": "pat-mcgrath",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "charlotte-tilbury-ibiza",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Island childhood",
+  "question": "Makeup artist Charlotte Tilbury spent her early childhood on which Mediterranean island before boarding school in England?",
+  "clue": "One of Spain's Balearic Islands, famous for clubbing.",
+  "hint": "Its name starts with 'I'.",
+  "answer": {
+   "city": "Ibiza",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 38.9744,
+   "longitude": 1.4197,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6076060"
+  },
+  "story": "Charlotte Tilbury moved from Ibiza when she was 9 and discovered the power of cosmetics at boarding school in England. She trained in London and launched her own makeup line at Selfridges in 2013.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/charlotte-tilbury",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Having moved from Ibiza when she was 9 years old, Tilbury discovered the power of cosmetics while at boarding school in England."
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/charlotte-tilbury",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In summer 2013, Tilbury launched her own eponymous line of cosmetics at London's Selfridges."
+   }
+  ],
+  "entityId": "charlotte-tilbury",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "isamaya-ffrench-cambridge",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "University town",
+  "question": "Avant-garde makeup artist Isamaya Ffrench grew up in which English university city?",
+  "clue": "On the River Cam.",
+  "hint": "Oxford's great rival.",
+  "answer": {
+   "city": "Cambridge",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.1976,
+   "longitude": 0.1392,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/295355"
+  },
+  "story": "Isamaya Ffrench grew up in Cambridge and moved to London at 18 to study 3D design. She became one of fashion's most sought-after makeup artists and in 2019 was named Christian Louboutin Beauté's global makeup ambassador.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/isamaya-ffrench",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ffrench grew up in Cambridge and relocated to London at age 18 to study 3D design at the Chelsea College of Arts"
+   }
+  ],
+  "entityId": "isamaya-ffrench",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "peter-philips-antwerp",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Art school",
+  "question": "Dior makeup director Peter Philips studied at the Royal Academy of Fine Arts in which Belgian city?",
+  "clue": "A Flemish port famous for diamonds.",
+  "hint": "Rubens lived there.",
+  "answer": {
+   "city": "Antwerp",
+   "country": "Belgium",
+   "countryCode": "BE",
+   "latitude": 51.2211,
+   "longitude": 4.3997,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/59518"
+  },
+  "story": "Belgian makeup artist Peter Philips studied at the Royal Academy of Fine Arts in Antwerp. He was a makeup artist at Chanel before becoming Christian Dior's creative and image director for makeup in 2014.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/peter-philips",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Education Royal Academy of Fine Arts Antwerp"
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/peter-philips",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Chanel Makeup Artist 2008 - 2013"
+   }
+  ],
+  "entityId": "peter-philips",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "lucia-pieroni-new-york",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "The big break",
+  "question": "British makeup artist Lucia Pieroni moved in 1995 to which city, which she says 'gave me my big break'?",
+  "clue": "On the Hudson, home of Vogue's US office.",
+  "hint": "The Big Apple.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.758,
+   "longitude": -73.9855,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/8398124"
+  },
+  "story": "Lucia Pieroni moved to New York in 1995 to further her career, and says the city gave her her big break. She has created campaign makeup for Calvin Klein, Givenchy, Versace, Armani and others.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/lucia-pieroni",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1995, Pieroni moved to New York to benefit her career, “New York really gave me my big break,"
+   }
+  ],
+  "entityId": "lucia-pieroni",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "shu-uemura-hollywood",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Hollywood acclaim",
+  "question": "Japanese makeup artist Shu Uemura won acclaim in which film capital before building a global cosmetics brand?",
+  "clue": "A district of Los Angeles with a famous hillside sign.",
+  "hint": "America's film capital.",
+  "answer": {
+   "city": "Hollywood",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.098,
+   "longitude": -118.3295,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/1830231415"
+  },
+  "story": "Shu Uemura was a Japanese makeup artist who won acclaim in Hollywood, then built an international cosmetics brand under his own name. He died in Tokyo in 2007, aged 79.",
+  "sources": [
+   {
+    "url": "https://www.nysun.com/article/obituaries-shu-uemura-79-cosmetics-entrepreneur",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Shu Uemura, a Japanese makeup artist who won acclaim in Hollywood and built an international cosmetics brand under his name, died in Tokyo on December 29."
+   }
+  ],
+  "entityId": "shu-uemura",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "mario-dedivanovic-bronx",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "It all started",
+  "question": "Makeup artist Mario Dedivanovic, founder of Makeup by Mario, was born and raised in which New York City borough?",
+  "clue": "The only NYC borough on the mainland.",
+  "hint": "Home of Yankee Stadium.",
+  "answer": {
+   "city": "The Bronx",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.8467,
+   "longitude": -73.8786,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691916"
+  },
+  "story": "Mario Dedivanovic was born and raised in the Bronx by Albanian immigrant parents from Montenegro. He found his calling at a Sephora counter after high school, and later launched Makeup by Mario at Sephora in 2020.",
+  "sources": [
+   {
+    "url": "https://www.makeupbymario.com/pages/story",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The youngest of four, Mario was born and raised in the Bronx by his parents—Albanian immigrants from Montenegro."
+   },
+   {
+    "url": "https://www.whowhatwear.com/who-what-wear-podcast-mario-dedivanovic",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "I was born and raised in the Bronx, a child of Albanian immigrant parents from Montenegro."
+   }
+  ],
+  "entityId": "mario-dedivanovic",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "val-garland-bristol",
+  "primaryCategory": "fashion",
+  "subcategory": "makeup-icons",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Punk beginnings",
+  "question": "Before makeup, Val Garland worked as a punk-styled teenage hairdresser in which English city?",
+  "clue": "In the West Country, famous for the Clifton Suspension Bridge.",
+  "hint": "Its name starts with 'Bris'.",
+  "answer": {
+   "city": "Bristol",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.443,
+   "longitude": -2.5817,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/57539"
+  },
+  "story": "As a teenager Val Garland worked as a hairdresser in Bristol with a punk style. After running a salon in Australia, she moved to London in 1994 to take up makeup and began a long partnership with Alexander McQueen.",
+  "sources": [
+   {
+    "url": "https://refinery29.com/2018/01/187043/val-garland-makeup-artist-interview",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Working as a hairdresser in Bristol, England in her teens, she had an idiosyncratic, punk-y style, vibrantly colored hair, and heavy makeup"
+   },
+   {
+    "url": "https://refinery29.com/2018/01/187043/val-garland-makeup-artist-interview",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Garland sold the salon and moved to London in 1994"
+   }
+  ],
+  "entityId": "val-garland",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "law-roach-chicago",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Deliciously Vintage",
+  "question": "'Image architect' Law Roach began his career at his vintage boutique in the Pilsen neighbourhood of which city?",
+  "clue": "On Lake Michigan, the Windy City.",
+  "hint": "Home of the Bulls.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.857,
+   "longitude": -87.6619,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/153715851"
+  },
+  "story": "Law Roach began at his Deliciously Vintage boutique in Chicago's Pilsen neighbourhood; a 2009 visit from Kanye West launched his styling career. He moved to Los Angeles, where Zendaya became his first major client.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/law-roach",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Roach began his career at his now-defunct Deliciously Vintage boutique in Chicago’s Pilsen neighbourhood."
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/law-roach",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 2017, he became the first African American stylist to cover The Hollywood Reporter’s ‘Stylist & Stars’ issue."
+   }
+  ],
+  "entityId": "law-roach",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "carine-roitfeld-paris",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Fashion",
+  "chapter": "Paris-raised",
+  "question": "Stylist and editor Carine Roitfeld, who styled Tom Ford's landmark Gucci campaigns, was raised in which city?",
+  "clue": "On the Seine.",
+  "hint": "France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8589,
+   "longitude": 2.32,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7444"
+  },
+  "story": "Paris-raised Carine Roitfeld began as a model and spent 15 years as a writer and stylist at French Elle. With Mario Testino she helped Tom Ford revive Gucci, styling its landmark campaigns and runway shows.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/carine-roitfeld",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The self-taught, Paris-raised daughter of a Russian film producer began her career as a model."
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/carine-roitfeld",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She found her niche in publishing, and went on to work as a writer and stylist for French Elle where she spent 15 years."
+   }
+  ],
+  "entityId": "carine-roitfeld",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "grace-coddington-london",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Swinging sixties",
+  "question": "Before she became Vogue's legendary creative director, Grace Coddington began as a model in which city's swinging sixties?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Grace Coddington began as a model in London's swinging sixties after winning a Vogue modelling competition. She later became one of fashion's most influential stylists at British and American Vogue.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/grace-coddington",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Coddington began her career as a model in London’s swinging sixties."
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/grace-coddington",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Having won a Vogue modelling competition she was featured in the magazine’s “young ideas” section."
+   }
+  ],
+  "entityId": "grace-coddington",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "edward-enninful-london",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Scouted on the train",
+  "question": "Ghanaian-born stylist Edward Enninful moved as a child to which city, where he was scouted as a model at 16?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Born in Ghana, Edward Enninful moved to London with his family as a child. Scouted as a model at 16, he assisted stylists on shoots and became fashion director of i-D at 18 — the youngest ever at a major title.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/edward-enninful",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "After moving to London with his parents and six siblings at a young age, Enninful was scouted as a model on the train at 16 and briefly modelled for Arena and i-D magazines before assisting stylists Simon Foxton and Beth Summers on fashion shoots."
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/edward-enninful",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Ghanaian-born Enninful began his career as fashion director of British youth culture magazine i-D at age 18"
+   }
+  ],
+  "entityId": "edward-enninful",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "alastair-mckimm-belfast",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Stylist and former i-D editor-in-chief Alastair McKimm was born in which city?",
+  "clue": "Northern Ireland's capital, where the Titanic was built.",
+  "hint": "On the River Lagan.",
+  "answer": {
+   "city": "Belfast",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 54.5964,
+   "longitude": -5.9302,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/19414244"
+  },
+  "story": "Alastair McKimm was born in Belfast, studied fashion design in Nottingham and moved to London, where he assisted Edward Enninful at i-D. Known for crafting clean, precise looks, he became i-D's global editor-in-chief.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/alastair-mckimm",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in Belfast, McKimm studied fashion design at Nottingham Art School and moved to London after graduation."
+   }
+  ],
+  "entityId": "alastair-mckimm",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "isabella-blow-london",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Where the story began",
+  "question": "Stylist Isabella Blow, who discovered Alexander McQueen, was born in 1958 in which city?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Isabella Blow was born Isabella Delves Broughton in London in 1958. A stylist and muse, she bought Alexander McQueen's entire graduate collection and helped launch models Stella Tennant and Sophie Dahl.",
+  "sources": [
+   {
+    "url": "https://www.inquirer.com/philly/obituaries/20070510_Isabella_Blow___British_fashion_stylist__48.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born Isabella Delves Broughton in London in 1958, she moved to New York in 1979 to study ancient Chinese art at Columbia University."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Alexander-McQueen",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Blow bought McQueen’s entire first collection."
+   }
+  ],
+  "entityId": "isabella-blow",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "patricia-field-queens",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Queens kid",
+  "question": "Sex and the City costume designer and stylist Patricia Field grew up in which New York City borough, along with Manhattan?",
+  "clue": "NYC's largest borough by area, home of JFK airport.",
+  "hint": "It's named after a royal consort.",
+  "answer": {
+   "city": "Queens",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7135,
+   "longitude": -73.8283,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691819"
+  },
+  "story": "Patricia Field grew up in Queens and Manhattan, the daughter of immigrant dry-cleaners. A retailer, fashion stylist and costume designer, she became famous for dressing the women of Sex and the City.",
+  "sources": [
+   {
+    "url": "https://vmagazine.com/article/heroes-patricia-field/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Field’s book gives readers a front-row seat to her journey from a tomboyish Queens kid coveting designer duds to a rebellious fashionista and eventually a household name."
+   },
+   {
+    "url": "https://passportmagazine.com/fashion-arbiter-and-visionary-patricia-field/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Growing up as a native New Yorker, in Queens and Manhattan, Field’s parents, who were Greek and Armenian immigrants, owned a dry cleaner."
+   }
+  ],
+  "entityId": "patricia-field",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "jason-bolden-st-louis",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Born and raised",
+  "question": "Celebrity stylist and interior designer Jason Bolden was born and raised in which Missouri city?",
+  "clue": "On the Mississippi, home of the Gateway Arch.",
+  "hint": "Named after a French king.",
+  "answer": {
+   "city": "St. Louis",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 38.6254,
+   "longitude": -90.19,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1180533"
+  },
+  "story": "Jason Bolden was born and raised in St. Louis, Missouri, and began in luxury retail at houses like Chloé, Oscar de la Renta and Gucci before opening a vintage store in New York's SoHo and becoming a celebrity stylist.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/jason-bolden",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born and raised in St. Louis, Missouri, Jason began his career working in retail for luxury ready-to-wear houses including Chloe, Oscar de la Renta and Gucci."
+   }
+  ],
+  "entityId": "jason-bolden",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "mel-ottenberg-washington",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Fashion",
+  "chapter": "Rihanna's stylist",
+  "question": "Mel Ottenberg, Rihanna's stylist from 2011 to 2018 and later Interview's editor, grew up in which city?",
+  "clue": "On the Potomac River.",
+  "hint": "The US capital.",
+  "answer": {
+   "city": "Washington, D.C.",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 38.8951,
+   "longitude": -77.0364,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5396194"
+  },
+  "story": "Mel Ottenberg grew up in Washington, D.C., and has worked as a stylist for almost two decades, including as Rihanna's stylist. He later became editor-in-chief of Interview Magazine.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/mel-ottenberg",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Having grown up in Washington, D.C., and now living in New York, Ottenberg has worked as a stylist for almost two decades — and as Rihanna’s stylist."
+   }
+  ],
+  "entityId": "mel-ottenberg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "kate-young-new-york",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "In demand",
+  "question": "Kate Young, stylist to Margot Robbie, Dakota Johnson and Selena Gomez, is based in which city?",
+  "clue": "Where she began as Anna Wintour's assistant at American Vogue.",
+  "hint": "The Big Apple.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.758,
+   "longitude": -73.9855,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/8398124"
+  },
+  "story": "New York-based Kate Young began as Anna Wintour's assistant at American Vogue in 1997 and rose through its styling department. She is now one of the most in-demand stylists in Hollywood and fashion.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/kate-young",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "New York-based Kate Young is one of the most in-demand stylists in Hollywood and fashion, with a roster filled with It girls and superstars alike who are beloved by the fashion industry, including Dakota Johnson, Sienna Miller, Margot Robbie and Selena Gomez ."
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/kate-young",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "began her career as American Vogue editor-in-chief Anna Wintour ’s assistant in 1997."
+   }
+  ],
+  "entityId": "kate-young",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "harry-lambert-london",
+  "primaryCategory": "fashion",
+  "subcategory": "stylists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion",
+  "chapter": "Styling Harry Styles",
+  "question": "Harry Lambert, stylist to Harry Styles, Emma Corrin and Josh O'Connor, is based in which city?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Harry Lambert began styling Harry Styles in 2014, then dressed The Crown's Emma Corrin and Josh O'Connor. Now based in London, he contributes to Dazed, Interview and W.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/community/people/harry-lambert",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Now based in London, Lambert has contributed to Dazed, Interview, W and Arena Homme +"
+   },
+   {
+    "url": "https://www.businessoffashion.com/community/people/harry-lambert",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "started working with pop-sensation Styles in 2014, then The Crown’s Emma Corrin in 2020 and her co-star Josh O’Connor in 2021."
+   }
+  ],
+  "entityId": "harry-lambert",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "gucci-florence",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Leather and luggage",
+  "question": "The luxury house Gucci, founded in 1921 as a leather goods and luggage shop, is based in which Italian city?",
+  "clue": "Tuscany's capital, on the Arno.",
+  "hint": "Home of Michelangelo's David.",
+  "answer": {
+   "city": "Florence",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 43.7698,
+   "longitude": 11.2556,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/42602"
+  },
+  "story": "Guccio Gucci, who had worked as a bellboy at the Savoy Hotel in London, opened his first shop on Florence's Via della Vigna Nuova in 1921. Gucci is still a luxury fashion house based in Florence.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/Gucci",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Gucci, luxury fashion house based in Florence."
+   },
+   {
+    "url": "https://www.britannica.com/topic/Gucci",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1921 Gucci opened his first retail location on Florence’s Via della Vigna Nuova, where he began selling his leather goods and luggage."
+   }
+  ],
+  "entityId": "gucci",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "fendi-rome",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Fur and leather",
+  "question": "The Italian luxury house Fendi, known for fur and leather goods, was founded in which city?",
+  "clue": "The Eternal City.",
+  "hint": "Italy's capital.",
+  "answer": {
+   "city": "Rome",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 41.8933,
+   "longitude": 12.4829,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/41485"
+  },
+  "story": "Fendi grew from a small fur and leather shop opened by Adele Casagrande in Rome in 1918, and the house was founded in Rome in 1925. In 1965 the Fendi sisters brought in Karl Lagerfeld as artistic director.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/Fendi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Fendi, Italian luxury fashion house founded in Rome in 1925 and known for its fur, leather goods, and fashion."
+   },
+   {
+    "url": "https://www.britannica.com/topic/Fendi",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1965 the Fendi sisters brought on Lagerfeld as Fendi’s first artistic director in order to modernize the fur line."
+   }
+  ],
+  "entityId": "fendi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "burberry-basingstoke",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Weatherproof",
+  "question": "Thomas Burberry opened his first shop in 1856 in which then-rural English town southwest of London?",
+  "clue": "In Hampshire, on the M3 motorway.",
+  "hint": "Its name starts with 'Basing'.",
+  "answer": {
+   "city": "Basingstoke",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.2628,
+   "longitude": -1.0862,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/21349688"
+  },
+  "story": "Thomas Burberry, a cloth merchant's apprentice, opened his own shop in Basingstoke in 1856. The firm's weather-resistant clothing became popular with explorers and military personnel.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/Burberry",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Thomas Burberry, a cloth merchant’s apprentice, established his own shop in 1856 in Basingstoke, England, then a rural town located southwest of London."
+   },
+   {
+    "url": "https://www.britannica.com/topic/Burberry",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Founded in 1856 by Thomas Burberry, the company initially specialized in weather-resistant clothing that became popular with explorers and military personnel."
+   }
+  ],
+  "entityId": "burberry",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "dolce-gabbana-milan",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Real Women",
+  "question": "Domenico Dolce and Stefano Gabbana founded their luxury fashion house in 1985 in which city?",
+  "clue": "Capital of Lombardy.",
+  "hint": "Home of La Scala.",
+  "answer": {
+   "city": "Milan",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 45.4642,
+   "longitude": 9.1896,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44915"
+  },
+  "story": "Dolce & Gabbana was founded in Milan in 1985 by Sicilian-raised Domenico Dolce and Milan-born Stefano Gabbana. Its designs are known for figure-hugging silhouettes, vibrant prints and lavish embellishment.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/Dolce-and-Gabbana",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Dolce & Gabbana, Italian luxury fashion house founded in 1985 in Milan by Domenico Dolce"
+   }
+  ],
+  "entityId": "dolce-gabbana",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "louis-vuitton-paris",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "easy",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Trunk maker",
+  "question": "Box maker Louis Vuitton founded his luxury trunk and luggage brand in 1854 with a workshop in which city?",
+  "clue": "Near the Place Vendôme.",
+  "hint": "France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8675,
+   "longitude": 2.3294,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/54175774"
+  },
+  "story": "Louis Vuitton, born in the village of Anchay in eastern France, founded his brand of luxury trunks and luggage in 1854, opening his own workshop in Paris near the Place Vendôme.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Louis-Vuitton-entrepreneur",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "was a French box maker and entrepreneur who founded his namesake brand of luxury trunks and luggage in 1854."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Louis-Vuitton-entrepreneur",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He opened his own workshop in Paris near the Place Vendôme, where many fashion houses and jewelry firms were located."
+   }
+  ],
+  "entityId": "louis-vuitton",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "balenciaga-san-sebastian",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Fashion Houses",
+  "chapter": "The first atelier",
+  "question": "Cristóbal Balenciaga had his own dressmaking house by age 20 in which fashionable Spanish resort?",
+  "clue": "In the Basque Country, on La Concha bay.",
+  "hint": "In Basque it's Donostia.",
+  "answer": {
+   "city": "San Sebastián",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 43.3224,
+   "longitude": -1.9839,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/346465"
+  },
+  "story": "Inspired by a trip to Paris at 15, Cristóbal Balenciaga had his own dressmaking establishment in the summer resort of San Sebastián by age 20. He moved to Paris in 1937 when the Spanish Civil War disrupted his business.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Cristobal-Balenciaga",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "His first trip to Paris at 15 inspired him to become a couturier, and by age 20 he had his own dressmaking establishment at the fashionable summer resort of San Sebastián in Spain."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cristobal-Balenciaga",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1937, when the Spanish Civil War disrupted his business, he moved to Paris."
+   }
+  ],
+  "entityId": "balenciaga",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "valentino-rome",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Valentino red",
+  "question": "Valentino Garavani presented his first collection in 1959 in his own salon on Via Condotti — in which city?",
+  "clue": "Via Condotti runs from the Spanish Steps.",
+  "hint": "Italy's capital.",
+  "answer": {
+   "city": "Rome",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 41.905,
+   "longitude": 12.4801,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/23337313"
+  },
+  "story": "Valentino Garavani studied fashion in Paris, then returned to Rome in 1959 and presented his first collection in his own salon on Via Condotti. His house became known for its signature 'Valentino red'.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Valentino",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1959 Valentino returned to Rome and, with the financial backing of his father, presented his first collection in his own salon on Via Condotti."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Valentino",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was an Italian fashion designer known for garments in his trademark “Valentino red” (rosso Valentino) and whose style was described as jet-set chic."
+   }
+  ],
+  "entityId": "valentino",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "versace-milan",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Rock-concert runways",
+  "question": "Gianni Versace staged his rock-concert-style shows at his lavish design headquarters in which city?",
+  "clue": "Italy's fashion capital, in Lombardy.",
+  "hint": "Home of the Duomo cathedral.",
+  "answer": {
+   "city": "Milan",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 45.4642,
+   "longitude": 9.1896,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44915"
+  },
+  "story": "Gianni Versace moved to Milan in 1972 and founded his own company, Gianni Versace SpA, in 1978. He staged his seasonal shows like rock concerts at his lavish design headquarters in Milan.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Gianni-Versace",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Versace staged his seasonal fashion shows like rock concerts at his lavish design headquarters in Milan"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Gianni-Versace",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1978 Versace established his own company, Gianni Versace SpA, with backing by the Italian fashion family Girombelli."
+   }
+  ],
+  "entityId": "versace",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "schiaparelli-paris",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Surreal couture",
+  "question": "Italian-born Elsa Schiaparelli settled in the late 1920s in which city, where she opened her couture house?",
+  "clue": "The capital of haute couture, on the Seine.",
+  "hint": "France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8675,
+   "longitude": 2.3294,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/54175774"
+  },
+  "story": "Italian-born Elsa Schiaparelli settled in Paris in the late 1920s and opened her couture house there. It became one of the important couture houses of the era.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Elsa-Schiaparelli",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Then in the late 1920s she settled in Paris, where she opened her couture house."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Elsa-Schiaparelli",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was an Italian-born fashion designer who established an important couture house in Paris."
+   }
+  ],
+  "entityId": "schiaparelli",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "comme-des-garcons-tokyo",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-houses",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Fashion Houses",
+  "chapter": "Avant-garde",
+  "question": "Comme des Garçons founder Rei Kawakubo was born in, and studied at Keio University in, which city?",
+  "clue": "Japan's capital.",
+  "hint": "Home of Shibuya Crossing.",
+  "answer": {
+   "city": "Tokyo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.6769,
+   "longitude": 139.7639,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1543125"
+  },
+  "story": "Rei Kawakubo was born in Tokyo and studied fine arts at Keio University there. A self-taught designer, she founded the avant-garde label Comme des Garçons in 1969.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Rei-Kawakubo",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Rei Kawakubo (born October 11, 1942, Tokyo, Japan) is a self-taught Japanese fashion designer known for her avant-garde clothing designs and her high-fashion label, Comme des Garçons (CDG), founded in 1969."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Rei-Kawakubo",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kawakubo studied fine arts and aesthetics at Keio University in Tokyo, graduating in 1964."
+   }
+  ],
+  "entityId": "comme-des-garcons",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "cfda-fashion-week-city",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "event_location",
+  "difficulty": "easy",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Big four",
+  "question": "The CFDA coordinates the fashion week that grew from a 1943 'Press Week'. In which city is it held?",
+  "clue": "The first shows were at the Pierre and Plaza hotels.",
+  "hint": "The Big Apple.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.758,
+   "longitude": -73.9855,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/8398124"
+  },
+  "story": "In 1943, with Paris fashion cut off by the war, publicist Eleanor Lambert staged a Press Week in New York. It became New York Fashion Week, and the Council of Fashion Designers of America, which Lambert founded in 1962, coordinates it today.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Today the Council of Fashion Designers of America, a nonprofit trade association founded by Lambert in 1962, serves as the official scheduling and coordinating body for NYFW."
+   },
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The event, combined with American postwar prosperity, helped New York City become a fashion capital in its own right."
+   }
+  ],
+  "entityId": "cfda",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "british-fashion-council-city",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "event_location",
+  "difficulty": "easy",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Big four",
+  "question": "In 1984 the new British Fashion Council launched the youngest of the 'big four' fashion weeks. In which city?",
+  "clue": "A capital on the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "London Fashion Week, the youngest of the big four, began under the newly formed British Fashion Council in 1984. It was the first to brand its event a 'Fashion Week', and its first lineup included Vivienne Westwood and John Galliano.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "London Fashion Week, the youngest of the big four fashion weeks, began under the direction of the newly formed British Fashion Council in 1984."
+   },
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The best-known fashion weeks take place twice a year in the “big four” fashion capitals: New York City, London, Milan, and Paris (usually in that order)."
+   }
+  ],
+  "entityId": "british-fashion-council",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "camera-nazionale-della-moda-city",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Big four",
+  "question": "Italy's National Chamber of Fashion was set up in 1958 to stage twice-yearly shows in which city?",
+  "clue": "Armani and Versace later set up their houses there.",
+  "hint": "Capital of Lombardy.",
+  "answer": {
+   "city": "Milan",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 45.4642,
+   "longitude": 9.1896,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44915"
+  },
+  "story": "The National Chamber of Italian Fashion was established in Milan in 1958 to stage twice-yearly shows. As Vogue Italia, Giorgio Armani and Gianni Versace settled there, Milan became Italy's international fashion capital.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1958 the National Chamber of Italian Fashion (Camera Nazionale della Moda Italiana) was established in Milan and began staging biannual fashion shows"
+   },
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "gradually making Milan Italy’s international fashion capital."
+   }
+  ],
+  "entityId": "camera-nazionale-della-moda",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "federation-haute-couture-city",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "event_location",
+  "difficulty": "easy",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Big four",
+  "question": "The Fédération de la Haute Couture et de la Mode runs Haute Couture Week and the fashion week of which city?",
+  "clue": "Home of the house of Worth, founded 1858.",
+  "hint": "France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8589,
+   "longitude": 2.32,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7444"
+  },
+  "story": "The Federation of Haute Couture and Fashion represents leading French and international houses. It organizes Paris Fashion Week and Haute Couture Week, helping keep Paris a global fashion capital.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "it now represents leading French and international fashion houses and organizes Paris Fashion Week and Haute Couture Week"
+   },
+   {
+    "url": "https://www.britannica.com/topic/fashion-week",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Paris After the war Paris was quick to reestablish itself as a fashion powerhouse."
+   }
+  ],
+  "entityId": "federation-haute-couture",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "omoyemi-akerele-fashion-week-city",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Africa's runway",
+  "question": "Omoyemi Akerele founded Nigeria's flagship fashion week, launched in 2011, in which city?",
+  "clue": "Nigeria's biggest city, on a lagoon.",
+  "hint": "It was Nigeria's capital until 1991.",
+  "answer": {
+   "city": "Lagos",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.4551,
+   "longitude": 3.3942,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565124"
+  },
+  "story": "Omoyemi Akerele launched Lagos Fashion Week in 2011, first known as Lagos Fashion and Design Week. It has become Nigeria's flagship fashion event and a showcase for African designers.",
+  "sources": [
+   {
+    "url": "https://www.businessoffashion.com/articles/global-markets/africas-powerhouse-is-rewriting-the-fashion-week-playbook",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "As Lagos Fashion Week kicks off, founder Omoyemi Akerele looks back at ten years of shows and reveals how Nigeria’s flagship fashion event could adopt a pan-African strategy in the decade ahead."
+   },
+   {
+    "url": "https://www.businessoffashion.com/articles/global-markets/africas-powerhouse-is-rewriting-the-fashion-week-playbook",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "A few years before Lagos Fashion Week launched in 2011"
+   }
+  ],
+  "entityId": "omoyemi-akerele",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "royal-academy-fashion-department-city",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "famous_place",
+  "difficulty": "hard",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "The Six",
+  "question": "In 1986 six graduates of a Royal Academy of Fine Arts fashion department, including Dries Van Noten, put their city on the fashion map. Which city?",
+  "clue": "A Flemish port on the Scheldt, famous for diamonds.",
+  "hint": "Rubens lived there.",
+  "answer": {
+   "city": "Antwerp",
+   "country": "Belgium",
+   "countryCode": "BE",
+   "latitude": 51.2211,
+   "longitude": 4.3997,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/59518"
+  },
+  "story": "Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dries Van Noten, Dirk Van Saene and Marina Yee studied fashion at Antwerp's Royal Academy of Fine Arts. In 1986 they put Antwerp on the fashion map as the 'Antwerp Six'.",
+  "sources": [
+   {
+    "url": "https://fashionexhibitionmaking.arts.ac.uk/the-antwerp-six/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "It began with their study at the fashion department at the Royal Academy of Fine Arts in Antwerp and resulted in six highly influential solo careers."
+   },
+   {
+    "url": "https://fashionexhibitionmaking.arts.ac.uk/the-antwerp-six/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1986, Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dries Van Noten, Dirk Van Saene and Marina Yee put Antwerp on the fashion map"
+   }
+  ],
+  "entityId": "royal-academy-fashion-department",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "avenue-montaigne-paris",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "famous_place",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Haute couture",
+  "question": "Haute couture is concentrated on the Avenue Montaigne and the Rue du Faubourg Saint-Honoré — in which city?",
+  "clue": "Near the Champs-Élysées.",
+  "hint": "France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8677,
+   "longitude": 2.3076,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/362231936"
+  },
+  "story": "Paris is still home to many typically Parisian trades: haute couture on the Avenue Montaigne and the Rue du Faubourg Saint-Honoré, clothing in the Sentier quarter, and jewellery around the Place Vendôme.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/place/Paris/The-Halles",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "haute couture, notably on the avenue Montaigne and the rue du Faubourg Saint-Honoré"
+   }
+  ],
+  "entityId": "avenue-montaigne",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "ginza-tokyo",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "famous_place",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Silver guild",
+  "question": "Ginza, named after a silver mint and one of the world's best-known shopping districts, is in which city?",
+  "clue": "Near the Imperial Palace grounds.",
+  "hint": "Japan's capital.",
+  "answer": {
+   "city": "Tokyo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.672,
+   "longitude": 139.7647,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4859036"
+  },
+  "story": "Ginza takes its name from a silver mint moved there in 1612. Today it is Tokyo's most glamorous shopping district and one of the best known in the world.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/place/Ginza-Japan",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "It is the most glamorous shopping district in Tokyo and one of the best-known in the world."
+   },
+   {
+    "url": "https://www.britannica.com/place/Ginza-Japan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The name comes from the words gin meaning “silver” and za meaning “guild”"
+   }
+  ],
+  "entityId": "ginza",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "rodeo-drive-beverly-hills",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "famous_place",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Most exclusive",
+  "question": "Rodeo Drive, home of the most exclusive boutiques in its city, runs through which California city?",
+  "clue": "Surrounded by Los Angeles, famous for its 90210 ZIP code.",
+  "hint": "The 'Hills' city.",
+  "answer": {
+   "city": "Beverly Hills",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0676,
+   "longitude": -118.4014,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/601412033"
+  },
+  "story": "Beverly Hills' flatlands hold many chic shops, boutiques and department stores, and the most exclusive are on Rodeo Drive and the newer Two Rodeo Drive.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/place/Beverly-Hills",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The most exclusive of these are on the old Rodeo Drive and the newer Two Rodeo Drive, a multilevel shopping street in mock Mediterranean style."
+   }
+  ],
+  "entityId": "rodeo-drive",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ },
+ {
+  "id": "savile-row-london",
+  "primaryCategory": "fashion",
+  "subcategory": "fashion-capitals",
+  "questionType": "famous_place",
+  "difficulty": "medium",
+  "displayCategory": "Fashion Capitals",
+  "chapter": "Bespoke",
+  "question": "Savile Row, where eminent tailors make some of the world's finest men's clothing, is in which city?",
+  "clue": "In Mayfair, near Regent Street.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5107,
+   "longitude": -0.1402,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/18791974"
+  },
+  "story": "Savile Row runs off London's Mayfair shopping district, where eminent tailors make some of the world's finest men's clothing.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/place/Mayfair-neighborhood-London",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "northward branches extend along Sackville Street and Savile Row, where eminent tailors make some of the world’s finest men’s clothing."
+   }
+  ],
+  "entityId": "savile-row",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 16."
+   ]
+  }
+ }
+]

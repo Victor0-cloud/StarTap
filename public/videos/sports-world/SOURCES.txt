@@ -1,0 +1,5 @@
+Sports World cinematic: original StarTap game cinematic supplied by the project owner (copied unchanged, not re-encoded;
+720x1280, 7 s, H.264 + AAC). Ending reads "SPORTS WORLD / EVERY GAME. ONE WORLD."
+sports_world_intro.mp4 <- C:\Projects\StarTap\assets\videos\sports_world\Athlete_morphs_through_four_sports_20261004072552.mp4
+Not packaged: the byte-identical copies in assets\videos\sports_world\videos\ and Downloads.
+Sports have no per-sport clips; each sport uses a still poster (public/images/sports-world/).

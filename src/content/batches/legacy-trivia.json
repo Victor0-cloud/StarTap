@@ -1,0 +1,295 @@
+{
+ "reviewed": "2026-10-01",
+ "method": "Each legacy trivia line was checked against its question's existing sources (rendered in a browser). Verified lines became short trivia cards that keep the original meaning and quote the supporting sentence. Lines that could not be verified, or rest on a weak source, are marked needs_review and hidden.",
+ "cards": {
+  "adele-brit-school": [
+   "before_the_fame",
+   "Just four months after graduating, 18-year-old Adele signed her first record deal.",
+   "https://www.biography.com/musicians/adele",
+   "Biography.com",
+   "In November 2006, just four months after graduation, the 18-year-old signed a record deal."
+  ],
+  "agnetha-faltskog-expanded": [
+   "before_the_fame",
+   "Before ABBA, Agnetha Fältskog was already a successful solo singer, with her first single out in 1967.",
+   "https://abbasite.com/story/",
+   "ABBA (official)",
+   "Agnetha Fältskog (born 1950) had been a successful solo singer since releasing her first single in 1967."
+  ],
+  "bad-bunny-global": [
+   "before_the_fame",
+   "In 2016, Bad Bunny quit his supermarket job and left a note behind.",
+   "https://apnews.com/article/7e33e7b35e07afe7fd33b0b8c54fed6b",
+   "AP News",
+   "In 2016, Benito Antonio Martínez Ocasio quit that job, leaving Vélez a note."
+  ],
+  "beyonce-global": [
+   "wow_fact",
+   "Beyoncé credited daughter Blue Ivy as a writer on \"Brown Skin Girl\", and it won Blue Ivy a Grammy at just 9 years old.",
+   "https://www.womenshistory.org/education-resources/biographies/beyonce-knowles-carter",
+   "National Women's History Museum",
+   "Beyoncé credited Blue Ivy in the writing of “Brown Skin Girls,” a song celebrating young Black girls that would win Blue Ivy a GRAMMY at only 9 years old."
+  ],
+  "bjork-global": [
+   "star_secret",
+   "Björk's 1993 album, aptly named Debut, was her first solo album as an adult.",
+   "https://www.biography.com/musicians/bjork",
+   "Biography.com",
+   "In 1993, Björk released her first solo album as an adult, aptly named Debut, which featured two Top 20 singles"
+  ],
+  "bob-marley-global": [
+   "record_breaker",
+   "In 1999, Time named Bob Marley's Exodus the Album of the Century.",
+   "https://www.bobmarley.com/history/",
+   "Bob Marley (official)",
+   "in December 1999, his 1977 album “Exodus” was named Album of the Century by Time Magazine"
+  ],
+  "bong-joon-ho-global": [
+   "big_moment",
+   "After Cannes, Bong Joon-ho also won the Oscar for Best Director in 2020.",
+   "https://www.festival-cannes.com/en/press/press-releases/parasite-the-2019-palme-d-or-winner-triumphs-at-the-oscars-2020/",
+   "Festival de Cannes",
+   "Bong Joon-ho receiving the Oscar for best director from Spike Lee"
+  ],
+  "burna-boy-stadium": [
+   "big_moment",
+   "Apple Music Live streamed Burna Boy's 2023 London Stadium show to fans around the world.",
+   "https://www.london-stadium.com/news/2023/november/burna-boy-announces-his-return-to-london-stadium-on-29-june-2024.html",
+   "London Stadium",
+   "Apple Music Live exclusively streamed Burna Boy’s 2023 London Stadium show as part of their live performance series, with fans from around the world coming together to watch"
+  ],
+  "celine-dion-global": [
+   "world_connection",
+   "In 1982, a young Céline Dion won gold at the Yamaha World Popular Song Festival in Tokyo.",
+   "https://www.celinedion.com/about/biography/",
+   "Céline Dion (official)",
+   "In 1982, Celine won the gold medal at the 13th Yamaha World Popular Song Festival in Tokyo."
+  ],
+  "charlize-theron-global": [
+   "before_the_fame",
+   "Charlize Theron began ballet lessons when she was six.",
+   "https://www.biography.com/actors/charlize-theron",
+   "Biography.com",
+   "To foster her artistic leanings, Theron began ballet lessons at age six."
+  ],
+  "cristiano-ronaldo-global": [
+   "record_breaker",
+   "No one in Real Madrid's history has scored as many goals as Cristiano Ronaldo, who won four Champions League titles there.",
+   "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro",
+   "Real Madrid",
+   "Nobody throughout the club's history has scored as many goals as the Portuguese attacker, who boasts an impressive trophy haul as a Real Madrid player: four Champions League crowns"
+  ],
+  "david-rudisha-expanded": [
+   "record_breaker",
+   "Rudisha's 1:40.91 beat his own record from Rieti by just a tenth of a second.",
+   "https://worldathletics.org/news/feature/rudisha-produces-a-moment-for-which-the-games",
+   "World Athletics",
+   "The 23-year-old clocked 1:40.91, improving his two year-old record from Rieti by one tenth of a second."
+  ],
+  "diljit-dosanjh-expanded": [
+   "record_breaker",
+   "Diljit Dosanjh became the first Punjabi singer to perform at Coachella.",
+   "https://indianexpress.com/article/entertainment/music/diljit-dosanjh-coachella-stage-by-storm-performs-punjabi-songs-as-fans-call-it-a-historic-moment-watch-8559167/",
+   "The Indian Express",
+   "Diljit Dosanjh left his fans rejoicing as he became the first Punjabi singer to perform at the Coachella Valley Music & Arts Festival."
+  ],
+  "eliud-kipchoge-global": [
+   "record_breaker",
+   "Eliud Kipchoge became the first person to run a marathon in under two hours, finishing in 1:59:40.2.",
+   "https://www.ineos159challenge.com/",
+   "INEOS 1:59 Challenge",
+   "Kipchoge, following a perfectly executed strategy devised by Sir Dave Brailsford and the INEOS 1:59 Performance Team, became the first person to achieve the barrier-breaking sub-two-hour marathon, finishing in a remarkable time of 1:59:40.2."
+  ],
+  "freddie-mercury-global": [
+   "world_connection",
+   "Freddie Mercury's mother made sure he took piano lessons at St Peter's boarding school in Bombay.",
+   "https://freddiemercury.com/bio/",
+   "Freddie Mercury (official)",
+   "His beloved mother, Jer Bulsara, nurtured the young Farrokh’s interest in music, making sure he took piano lessons at St Peter’s boarding school in Bombay."
+  ],
+  "hayao-miyazaki-global": [
+   "landmark_moment",
+   "The Ghibli Museum screens original short films in its own cinema, the Saturn Theater.",
+   "https://www.ghibli-museum.jp/en/",
+   "Ghibli Museum",
+   "Original Short Films The films are shown at \"Saturn Theater\"."
+  ],
+  "hugh-jackman-drama-school": [
+   "before_the_fame",
+   "Long before Wolverine, Hugh Jackman took up acting as a hobby while at Knox Grammar school.",
+   "https://www.portrait.gov.au/people/hugh-jackman-1968",
+   "National Portrait Gallery, Australia",
+   "Best known for his role as Wolverine in the X-Men movies, Jackman was born to British parents in Sydney and took up acting as a hobby while a student at Knox Grammar in the 1980s."
+  ],
+  "jackie-chan-opera-training": [
+   "before_the_fame",
+   "At just seven, Jackie Chan began ten years of Peking Opera training at the China Drama Academy.",
+   "https://www.oscars.org/governors-awards/2016/jackie-chan",
+   "Academy of Motion Picture Arts and Sciences",
+   "At the age of 7, Jackie was enrolled in the China Drama Academy where he spent the next 10 years training in the art of Peking Opera."
+  ],
+  "kylie-minogue-global": [
+   "star_secret",
+   "Kylie Minogue grew up in a Melbourne showbiz family, and her younger sister Dannii was a TV star on Young Talent Time.",
+   "https://australian.museum/publications/200-treasures/100-people/kylie-minogue/",
+   "Australian Museum",
+   "She came from a Melbourne showbiz family; her younger sister Dannii was a television star on Young Talent Time."
+  ],
+  "li-na-global": [
+   "record_breaker",
+   "Li Na had never won a title on clay before her 2011 French Open triumph.",
+   "https://www.wtatennis.com/news/1675765/li-na-becomes-asias-first-grand-slam-champion-in-historic-2011-triumph",
+   "WTA",
+   "although Li had never won a clay court title she put together a statement run to the Roland Garros final"
+  ],
+  "lisa-global": [
+   "culture_spotlight",
+   "Thailand's tourism authority planned to promote more of the old streets around Yaowarat, including Talat Noi.",
+   "https://thailand.prd.go.th/en/content/category/detail/id/52/iid/302274",
+   "Thailand Public Relations Department",
+   "In response, the Tourism Authority of Thailand (TAT) is planning to extend its promotional efforts beyond Yaowarat to include nearby neighborhoods such as Sampheng market, Talat Noi, Song Wat road, and Wang Burapha."
+  ],
+  "lorde-global": [
+   "star_secret",
+   "Lorde's birth name is Ella Marija Lani Yelich-O'Connor.",
+   "https://www.biography.com/musicians/lorde",
+   "Biography.com",
+   "REAL NAME: Ella Marija Lani Yelich-O’Connor"
+  ],
+  "lupita-nyong-o-global": [
+   "big_moment",
+   "Lupita Nyong'o starred in the box-office-shattering superhero film Black Panther (2018).",
+   "https://africanfilmny.org/directors/lupita-nyongo/",
+   "African Film Festival New York",
+   "She also starred in the box office-shattering superhero flick Black Panther (2018)."
+  ],
+  "messi-youth-club": [
+   "before_the_fame",
+   "As a young boy, Messi tagged along when his two older brothers played football with friends, unfazed by the bigger boys.",
+   "https://www.biography.com/athletes/lionel-messi",
+   "Biography.com",
+   "As a young boy, Messi tagged along when his two older brothers played soccer with their friends, unintimidated by the bigger boys."
+  ],
+  "michelle-yeoh-global": [
+   "world_connection",
+   "At 15, Michelle Yeoh moved to England to train in ballet at London's Royal Academy of Dance.",
+   "https://www.biography.com/actor/michelle-yeoh",
+   "Biography.com",
+   "Yeoh moved to England at age 15 to continue her ballet training at London’s Royal Academy of Dance"
+  ],
+  "nadia-comaneci-global": [
+   "record_breaker",
+   "At just 14, Nadia Comăneci scored the first perfect 10 in Olympic gymnastics, on the uneven bars in the team event.",
+   "https://olympic.ca/games/1976-montreal/",
+   "Olympic Canada",
+   "The darling of the Games was 14-year-old Romanian gymnast Nadia Comaneci who was awarded the first ever perfect score of 10.0 for her uneven bars performance in the team event."
+  ],
+  "pele-expanded": [
+   "before_the_fame",
+   "Former Brazil striker Waldemar de Brito discovered the young Pelé while coaching the small club Bauru.",
+   "https://inside.fifa.com/es/tournaments/mens/worldcup/1970mexico/news/feliz-80o-cumpleanos-o-rei",
+   "FIFA",
+   "Waldemar de Brito, ex delantero de la selección de Brasil, entrenaba al ya desaparecido Bauru, un club modesto del estado de São Paulo, cuando descubrió que tenía a un prodigio en su plantilla."
+  ],
+  "psy-global": [
+   "landmark_moment",
+   "Gangnam Station and the streets around it are among the busiest parts of Seoul.",
+   "https://english.seoul.go.kr/gangnam-station/",
+   "Seoul Metropolitan Government",
+   "Gangnam station and its surrounding areas are one of the busiest parts of Seoul."
+  ],
+  "rafael-nadal-global": [
+   "star_secret",
+   "A 16-year-old Nadal should have debuted at Roland-Garros in 2003, but an elbow injury in practice kept him out.",
+   "https://www.atptour.com/en/news/nadal-remember-paris-deuce-roland-garros-2005-michael-chang",
+   "ATP Tour",
+   "A 16-year-old Rafael Nadal should have made his Grand Slam debut at Roland Garros in 2003, only to suffer an elbow injury during practice leading up to the event."
+  ],
+  "rebeca-andrade-expanded": [
+   "big_moment",
+   "Rebeca Andrade's 14.166 on floor at Paris 2024 beat Simone Biles to Olympic gold.",
+   "https://www.cob.org.br/comunicacao/noticias/na-ultima-danca-rebeca-andrade-e-ouro-no-solo-e-se-isola-como-maior-medalhista-do-brasil-em-jogos-olimpicos-1",
+   "Brazilian Olympic Committee",
+   "Rebeca Andrade embalou a Arena Bercy e deixou Simone Biles para trás para fechar a campanha nos Jogos Olímpicos Paris 2024 com um espetacular ouro no solo, com nota 14.166."
+  ],
+  "rihanna-island-origins": [
+   "before_the_fame",
+   "At just 16, Rihanna left Barbados for Connecticut to record a demo with producer Evan Rogers.",
+   "https://www.biography.com/musicians/rihanna",
+   "Biography.com",
+   "when Rihanna was only 16 years old, she left Barbados to move in with Rogers and his wife in Connecticut and work on recording a demo album."
+  ],
+  "sadio-mane-expanded": [
+   "record_breaker",
+   "Sadio Mané's Southampton hat-trick took just two minutes and 56 seconds, writing him into Premier League history.",
+   "https://www.premierleague.com/en/news/2300191/black-history-month-heroes-sadio-mane",
+   "Premier League",
+   "In only two minutes and 56 seconds, Sadio Mane wrote himself into the Premier League history books with an incredible hat-trick for Southampton in May 2015."
+  ],
+  "shakira-origins-giving-back": [
+   "big_moment",
+   "Shakira has been a UNICEF Goodwill Ambassador since 2003.",
+   "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+   "UNICEF",
+   "Shakira Mebarak UNICEF Goodwill Ambassador since 2003"
+  ],
+  "trevor-noah-global": [
+   "star_secret",
+   "With a Black mother and a white Swiss father, Trevor Noah was, as his bestselling memoir puts it, Born a Crime.",
+   "https://www.biography.com/movies-tv/trevor-noah-childhood-apartheid",
+   "Biography.com",
+   "With a Black mother and white Swiss father, he was, as he wrote in his bestselling 2016 autobiography, born a crime."
+  ],
+  "tyla-expanded": [
+   "big_moment",
+   "Tyla's hit \"Water\" won the Grammy for Best African Music Performance at the 2024 awards.",
+   "https://www.grammy.com/artists/tyla/54172/",
+   "Recording Academy (Grammy.com)",
+   "Tyla 66th Annual Grammy Awards Best African Music Performance - Winner Water."
+  ],
+  "youssou-n-dour-global": [
+   "big_moment",
+   "Youssou N'Dour was appointed a UNICEF Goodwill Ambassador in 1991.",
+   "https://www.unicef.org/goodwill-ambassadors/youssou-ndour",
+   "UNICEF",
+   "Youssou was appointed UNICEF Goodwill Ambassador in 1991."
+  ],
+  "yuzuru-hanyu-global": [
+   "record_breaker",
+   "In Sochi, Yuzuru Hanyu became the first Japanese man to win Olympic figure skating gold, and Japan's first title of those Games.",
+   "https://www.olympics.com.au/news/hanyu-takes-figure-skating-gold/",
+   "Australian Olympic Committee",
+   "Yuzuru Hanyu became the first Japanese man to win an Olympic figure skating gold in Sochi on Friday, as the teenager also claimed Japan's first title of the 2014 Winter Games."
+  ]
+ },
+ "needsReview": {
+  "a-r-rahman-global": "Only source is a weak profile page (Masterworks Broadway); Academy Award count not confirmed there.",
+  "aitana-expanded": "\"Youngest finalist\" not found in the source.",
+  "angelique-kidjo-global": "\"Brothers had their own orchestra\" not found in the source.",
+  "anggun-expanded": "Only source is Wikipedia.",
+  "deepika-padukone-global": "Source is a video page; claim not verifiable from text.",
+  "didier-drogba-expanded": "Source pages did not load; claim not verified.",
+  "dua-lipa-global": "\"Stayed with a family friend\" not found in the source.",
+  "jung-kook-expanded": "Only source is Wikipedia.",
+  "miriam-makeba-global": "2009 concert-hall naming not found in the source page.",
+  "mohamed-salah-global": "\"Five appearances\" not found in the source.",
+  "manny-pacquiao-global": "\"Stopped the champion in the eighth round\" not found in the source.",
+  "naomi-osaka-first-title": "Score and ages not found in the source text.",
+  "novak-djokovic-global": "Age at the title not found in the source.",
+  "omar-sy-expanded": "Only source is Wikipedia.",
+  "ons-jabeur-expanded": "Final score not found in the source text.",
+  "p-v-sindhu-expanded": "Source page returned no text.",
+  "penelope-cruz-global": "Only source is Wikipedia.",
+  "priyanka-chopra-global": "Source blocked (403); claim not verified.",
+  "roger-federer-global": "Age at the title not found in the source.",
+  "sachin-tendulkar-global": "Final opponent not found in the source.",
+  "salma-hayek-global": "Source did not load; claim not verified.",
+  "serena-first-slam": "\"16 of the final 17 points\" not found in the source.",
+  "shah-rukh-khan-theatre": "Barry John's nationality not stated in the sources.",
+  "simone-biles-global": "Floor gold not found in the source.",
+  "taika-waititi-global": "Source did not load; claim not verified.",
+  "tarkan-expanded": "Only source is Wikipedia.",
+  "taylor-swift-global": "Garth Brooks / Keith Urban claim not found in the source.",
+  "usain-bolt-global": "Stadium claim not found in the source text."
+ }
+}

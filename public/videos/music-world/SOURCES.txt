@@ -1,0 +1,32 @@
+Music World cinematics: original StarTap game cinematics supplied by the project owner in
+C:\Projects\StarTap\assets\videos\music_world\ (copied unchanged, not re-encoded; 720x1280, 24 fps, 6 s, H.264 + AAC).
+music_world_intro.mp4      <- music_world_intro_v1.mp4.mp4
+global_pop_intro.mp4       <- Pop_performer_singing_on_stage_20261003125046.mp4
+sounds_of_africa_intro.mp4 <- Performer_singing_on_stage_20261003130503.mp4
+rnb_hiphop_intro.mp4       <- Performer_singing_into_microphone_20261003142827.mp4
+latin_caribbean_intro.mp4  <- Performers_playing_guitar_on_stage_20261003143758.mp4
+kpop_intro.mp4             <- Group_performing_K-Pop_game_cine..._20261003145618.mp4
+music_world_complete.mp4   <- Game_victory_cinematic_for_StarTap_20261003150505.mp4
+Not packaged: Camera_descending_into_fantasy_city_20261003121857.mp4 (older city-only intro, superseded).
+
+Added 4 October 2026 (copied unchanged from C:\Users\USER\Downloads; 720x1280, 24 fps, H.264 + AAC):
+hiphop_rap_intro.mp4           <- Artist_rapping_into_microphone_20261004022804.mp4  (Hip-Hop & Rap; Adventure Level 3)
+                                  CONTENT_TEXT_MISMATCH: the baked ending reads "R&B & HIP-HOP" and "LEVEL 3".
+soul_legends_80s_90s_intro.mp4 <- Singer_performing_on_stage_20261004052637.mp4      (80s/90s Soul Legends; 10 s)
+                                  Not packaged: Singer_performing_on_stage_20261004052258.mp4 (byte-identical duplicate).
+                                  Placeholder slot: an approved final Soul Legends cut (original song) can replace this
+                                  file under the same name without any routing or category change.
+amapiano_intro.mp4             <- Singer_performing_on_stage_20261004052717.mp4      (Amapiano)
+reggae_dancehall_intro.mp4     <- Singer_performing_on_sunset_stage_20261004052648.mp4 (Reggae & Dancehall)
+african_music_legends_intro.mp4 <- Musician_singing_into_microphone_20261004021520.mp4 (African Music Legends)
+country_music_intro.mp4        <- Country_singer_playing_acoustic_..._20261004030257.mp4 (Country Music)
+rock_music_intro.mp4           <- Rock_band_performing_in_arena_20261004024232.mp4    (Rock Music)
+rnb_hiphop_intro.mp4 is kept for the modern R&B genre (unchanged clip).
+
+Added 4 October 2026 (copied unchanged, not re-encoded; 720x1280, H.264 + AAC):
+electronic_dj_intro.mp4        <- C:\Users\USER\Downloads\Female_DJ_performing_at_console_20261004081245.mp4 (Electronic / DJ; 6 s)
+                                  CONTENT_TEXT_MISMATCH: baked signage reads "DJ PERFORMANCE" / "ENTER THE SOUND" (plus garbled
+                                  "BRKING" and "Panner DJ" console text); it never says "Electronic / DJ".
+global_music_icons_intro.mp4   <- assets\videos\music_world\Performers_showcasing_global_mus..._20261004083330.mp4 (Global Music Icons; 8 s)
+                                  Ending reads "GLOBAL MUSIC ICONS / ONE WORLD. MANY VOICES." (matches).
+Not packaged: the identical copy of the Global Music Icons clip in Downloads.

@@ -1,0 +1,1147 @@
+{
+ "mansa-musa": {
+  "query": "Timbuktu, Mali",
+  "results": [
+   {
+    "lat": 16.7719091,
+    "lon": -3.0087272,
+    "type": "city",
+    "category": "place",
+    "name": "Timbuktu",
+    "display": "Timbuktu, Tombouctou Cercle, Timbuktu, Mali",
+    "cc": "ML",
+    "osm": "node/89381749"
+   },
+   {
+    "lat": 16.2097171,
+    "lon": -3.0281184,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Timbuktu",
+    "display": "Timbuktu, Mali",
+    "cc": "ML",
+    "osm": "relation/2096902"
+   }
+  ]
+ },
+ "haile-selassie": {
+  "query": "Harar, Ethiopia",
+  "results": [
+   {
+    "lat": 9.3118304,
+    "lon": 42.1284009,
+    "type": "city",
+    "category": "place",
+    "name": "Harar",
+    "display": "Harar, Hareri, Harar, 3200, Ethiopia",
+    "cc": "ET",
+    "osm": "node/298296166"
+   },
+   {
+    "lat": 9.2905517,
+    "lon": 42.1885672,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Harar",
+    "display": "Harar, Ethiopia",
+    "cc": "ET",
+    "osm": "relation/1707700"
+   }
+  ]
+ },
+ "menelik-ii": {
+  "query": "Addis Ababa, Ethiopia",
+  "results": [
+   {
+    "lat": 9,
+    "lon": 38.75,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Addis Ababa",
+    "display": "Addis Ababa, Ethiopia",
+    "cc": "ET",
+    "osm": "relation/1707699"
+   },
+   {
+    "lat": 9.0358119,
+    "lon": 38.7524315,
+    "type": "city",
+    "category": "place",
+    "name": "Addis Ababa",
+    "display": "Addis Ababa, Arada, Addis Ababa, 3578, Ethiopia",
+    "cc": "ET",
+    "osm": "node/27565076"
+   },
+   {
+    "lat": 8.9650995,
+    "lon": 38.776238,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Addis Ababa",
+    "display": "Addis Ababa, Ethiopia",
+    "cc": "ET",
+    "osm": "relation/13422232"
+   }
+  ]
+ },
+ "moshoeshoe-i": {
+  "query": "Thaba-Bosiu, Lesotho",
+  "results": [
+   {
+    "lat": -29.3562652,
+    "lon": 27.669794,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "Thaba-Bosiu",
+    "display": "Thaba-Bosiu, B31, Boiketlo (Thaba-Bosiu), Ha Mathula, Thaba Bosiu, Maseru District, Lesotho",
+    "cc": "LS",
+    "osm": "way/1202576922"
+   },
+   {
+    "lat": -29.3542933,
+    "lon": 27.6712024,
+    "type": "peak",
+    "category": "natural",
+    "name": "Thaba-Bosiu",
+    "display": "Thaba-Bosiu, Ha Khoabane (Thaba-Bosiu), Maseru District, Lesotho",
+    "cc": "LS",
+    "osm": "node/11148549053"
+   },
+   {
+    "lat": -29.7452737,
+    "lon": 28.4846949,
+    "type": "peak",
+    "category": "natural",
+    "name": "Thaba-Bosiu",
+    "display": "Thaba-Bosiu, Matsoeteng, Thaba-Tseka District, Lesotho",
+    "cc": "LS",
+    "osm": "node/10894280078"
+   }
+  ]
+ },
+ "osei-tutu": {
+  "query": "Kumasi, Ghana",
+  "results": [
+   {
+    "lat": 6.6985605,
+    "lon": -1.6233086,
+    "type": "city",
+    "category": "place",
+    "name": "Kumasi",
+    "display": "Kumasi, Kumasi Metropolitan District, Ashanti Region, AK-010-1295, Ghana",
+    "cc": "GH",
+    "osm": "node/261702404"
+   }
+  ]
+ },
+ "cetshwayo": {
+  "query": "Ulundi, South Africa",
+  "results": [
+   {
+    "lat": -28.2919443,
+    "lon": 31.4294444,
+    "type": "town",
+    "category": "place",
+    "name": "Ulundi",
+    "display": "Ulundi, Ulundi Local Municipality, Zululand District Municipality, KwaZulu-Natal, 3838, South Africa",
+    "cc": "ZA",
+    "osm": "node/262722327"
+   }
+  ]
+ },
+ "askia-muhammad": {
+  "query": "Gao, Mali",
+  "results": [
+   {
+    "lat": 16.2788129,
+    "lon": -0.0412392,
+    "type": "city",
+    "category": "place",
+    "name": "Gao",
+    "display": "Gao, Gao Cercle, Gao, Mali",
+    "cc": "ML",
+    "osm": "node/89918976"
+   },
+   {
+    "lat": 17.00244,
+    "lon": -0.0991154,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Gao",
+    "display": "Gao, Mali",
+    "cc": "ML",
+    "osm": "relation/2096895"
+   }
+  ]
+ },
+ "khama-iii": {
+  "query": "Serowe, Botswana",
+  "results": [
+   {
+    "lat": -22.39776,
+    "lon": 26.703289,
+    "type": "city",
+    "category": "place",
+    "name": "Serowe",
+    "display": "Serowe, Central District, Botswana",
+    "cc": "BW",
+    "osm": "way/133578644"
+   }
+  ]
+ },
+ "queen-victoria": {
+  "query": "Kensington Palace, London",
+  "results": [
+   {
+    "lat": 51.5050865,
+    "lon": -0.1876275,
+    "type": "yes",
+    "category": "building",
+    "name": "Kensington Palace",
+    "display": "Kensington Palace, Palace Avenue, South Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 4PX, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/904705"
+   }
+  ]
+ },
+ "henry-viii": {
+  "query": "Greenwich, London",
+  "results": [
+   {
+    "lat": 51.4820845,
+    "lon": -0.0045417,
+    "type": "town",
+    "category": "place",
+    "name": "Greenwich",
+    "display": "Greenwich, Greater London, England, SE10 9HF, United Kingdom",
+    "cc": "GB",
+    "osm": "node/27365302"
+   },
+   {
+    "lat": 51.4686257,
+    "lon": 0.0488306,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Royal Borough of Greenwich",
+    "display": "Royal Borough of Greenwich, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51902"
+   }
+  ]
+ },
+ "elizabeth-i": {
+  "query": "Richmond, London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.4405529,
+    "lon": -0.3076394,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "London Borough of Richmond upon Thames",
+    "display": "London Borough of Richmond upon Thames, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/151795"
+   },
+   {
+    "lat": 51.4613531,
+    "lon": -0.3032767,
+    "type": "town",
+    "category": "place",
+    "name": "Richmond",
+    "display": "Richmond, Greater London, England, TW9 1DY, United Kingdom",
+    "cc": "GB",
+    "osm": "node/21099164"
+   },
+   {
+    "lat": 51.4632072,
+    "lon": -0.3004127,
+    "type": "station",
+    "category": "railway",
+    "name": "Richmond",
+    "display": "Richmond, Lichfield Gardens, North Sheen, London Borough of Richmond upon Thames, Greater London, England, TW9 1UD, United Kingdom",
+    "cc": "GB",
+    "osm": "node/6438780655"
+   }
+  ]
+ },
+ "louis-xiv": {
+  "query": "Saint-Germain-en-Laye, France",
+  "results": [
+   {
+    "lat": 48.9312511,
+    "lon": 2.0912611,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint-Germain-en-Laye",
+    "display": "Saint-Germain-en-Laye, Yvelines, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/9165902"
+   },
+   {
+    "lat": 48.8990413,
+    "lon": 2.0942792,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint-Germain-en-Laye",
+    "display": "Saint-Germain-en-Laye, Yvelines, Ile-de-France, Metropolitan France, 78100, France",
+    "cc": "FR",
+    "osm": "relation/75454"
+   },
+   {
+    "lat": 48.9261456,
+    "lon": 2.0614744,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint-Germain-en-Laye",
+    "display": "Saint-Germain-en-Laye, Yvelines, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641158"
+   }
+  ]
+ },
+ "catherine-the-great": {
+  "query": "Szczecin, Poland",
+  "results": [
+   {
+    "lat": 53.4298114,
+    "lon": 14.5928676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Szczecin",
+    "display": "Szczecin, West Pomeranian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/342935"
+   },
+   {
+    "lat": 53.4301818,
+    "lon": 14.5509623,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Szczecin",
+    "display": "Szczecin, West Pomeranian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/404940"
+   },
+   {
+    "lat": 51.9201258,
+    "lon": 19.7175755,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Szczecin",
+    "display": "Szczecin, gmina Dmosin, Brzeziny County, Łódź Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/12571978"
+   }
+  ]
+ },
+ "peter-the-great": {
+  "query": "Saint Petersburg, Russia",
+  "results": [
+   {
+    "lat": 59.9606739,
+    "lon": 30.1586551,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Petersburg",
+    "display": "Saint Petersburg, Northwestern Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/337422"
+   },
+   {
+    "lat": 59.938732,
+    "lon": 30.316229,
+    "type": "city",
+    "category": "place",
+    "name": "Saint Petersburg",
+    "display": "Saint Petersburg, Northwestern Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/421007"
+   }
+  ]
+ },
+ "marie-antoinette": {
+  "query": "Vienna, Austria",
+  "results": [
+   {
+    "lat": 48.2083537,
+    "lon": 16.3725042,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vienna",
+    "display": "Vienna, Austria",
+    "cc": "AT",
+    "osm": "relation/109166"
+   }
+  ]
+ },
+ "charlemagne": {
+  "query": "Aachen, Germany",
+  "results": [
+   {
+    "lat": 50.776351,
+    "lon": 6.083862,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Aachen",
+    "display": "Aachen, Aachen (district), North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/62564"
+   },
+   {
+    "lat": 50.7611222,
+    "lon": 6.2055544,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Aachen (district)",
+    "display": "Aachen (district), North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/62665"
+   }
+  ]
+ },
+ "isabella-i-castile": {
+  "query": "Granada, Spain",
+  "results": [
+   {
+    "lat": 37.1734995,
+    "lon": -3.5995337,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Granada",
+    "display": "Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",
+    "cc": "ES",
+    "osm": "relation/344685"
+   },
+   {
+    "lat": 37.388831,
+    "lon": -3.2393184,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Granada",
+    "display": "Granada, Andalusia, Spain",
+    "cc": "ES",
+    "osm": "relation/349026"
+   }
+  ]
+ },
+ "ludwig-ii-bavaria": {
+  "query": "Füssen, Germany",
+  "results": [
+   {
+    "lat": 47.5675998,
+    "lon": 10.6993217,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Füssen",
+    "display": "Füssen, Landkreis Ostallgäu, Bavaria, 87629, Germany",
+    "cc": "DE",
+    "osm": "relation/448298"
+   }
+  ]
+ },
+ "akbar": {
+  "query": "Umerkot, Pakistan",
+  "results": [
+   {
+    "lat": 25.3655302,
+    "lon": 69.7401257,
+    "type": "city",
+    "category": "place",
+    "name": "Umerkot",
+    "display": "Umerkot, Umerkot Taluka, Umerkot District, Mirpur Khas Division, Sindh, Pakistan",
+    "cc": "PK",
+    "osm": "node/767462154"
+   },
+   {
+    "lat": 25.3413056,
+    "lon": 69.7539624,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Umerkot District",
+    "display": "Umerkot District, Mirpur Khas Division, Sindh, Pakistan",
+    "cc": "PK",
+    "osm": "relation/16384940"
+   }
+  ]
+ },
+ "suleiman-the-magnificent": {
+  "query": "Manisa, Turkey",
+  "results": [
+   {
+    "lat": 38.8574402,
+    "lon": 28.0565711,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manisa",
+    "display": "Manisa, Aegean Region, Turkey",
+    "cc": "TR",
+    "osm": "relation/223168"
+   },
+   {
+    "lat": 38.6125793,
+    "lon": 27.4333969,
+    "type": "city",
+    "category": "place",
+    "name": "Manisa",
+    "display": "Manisa, Şehzadeler, Manisa, Aegean Region, 45020, Turkey",
+    "cc": "TR",
+    "osm": "node/25869819"
+   }
+  ]
+ },
+ "shah-jahan": {
+  "query": "Agra, India",
+  "results": [
+   {
+    "lat": 27.1752554,
+    "lon": 78.0098161,
+    "type": "city",
+    "category": "place",
+    "name": "Agra",
+    "display": "Agra, Uttar Pradesh, 280001, India",
+    "cc": "IN",
+    "osm": "node/567267943"
+   },
+   {
+    "lat": 27.0755504,
+    "lon": 77.8753832,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Agra",
+    "display": "Agra, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/1958554"
+   },
+   {
+    "lat": 27.170812,
+    "lon": 78.0419362,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Agra",
+    "display": "Agra, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/10001144"
+   }
+  ]
+ },
+ "liliuokalani": {
+  "query": "Honolulu, United States",
+  "results": [
+   {
+    "lat": 21.304547,
+    "lon": -157.855676,
+    "type": "city",
+    "category": "place",
+    "name": "Honolulu",
+    "display": "Honolulu, Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/119231"
+   },
+   {
+    "lat": 21.468151,
+    "lon": -157.960511,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Honolulu County",
+    "display": "Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/3861844"
+   },
+   {
+    "lat": 21.418555,
+    "lon": -157.804184,
+    "type": "census",
+    "category": "boundary",
+    "name": "Kaneohe",
+    "display": "Kaneohe, Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/119237"
+   }
+  ]
+ },
+ "sejong-the-great": {
+  "query": "Seoul, South Korea",
+  "results": [
+   {
+    "lat": 37.5666791,
+    "lon": 126.9782914,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seoul",
+    "display": "Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297418"
+   }
+  ]
+ },
+ "moctezuma-ii": {
+  "query": "Mexico City, Mexico",
+  "results": [
+   {
+    "lat": 19.3207722,
+    "lon": -99.1514678,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mexico City",
+    "display": "Mexico City, Mexico",
+    "cc": "MX",
+    "osm": "relation/1376330"
+   },
+   {
+    "lat": 19.4326296,
+    "lon": -99.1331785,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mexico City",
+    "display": "Mexico City, Cuauhtémoc, Mexico City, Mexico",
+    "cc": "MX",
+    "osm": "relation/17483459"
+   }
+  ]
+ },
+ "atahualpa": {
+  "query": "Quito, Ecuador",
+  "results": [
+   {
+    "lat": -0.2201641,
+    "lon": -78.5123274,
+    "type": "city",
+    "category": "place",
+    "name": "Quito",
+    "display": "Quito, Quito Canton, Pichincha, 170130, Ecuador",
+    "cc": "EC",
+    "osm": "node/58950371"
+   },
+   {
+    "lat": -0.1692388,
+    "lon": -78.5043144,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Quito Canton",
+    "display": "Quito Canton, Pichincha, Ecuador",
+    "cc": "EC",
+    "osm": "relation/113714"
+   }
+  ]
+ },
+ "pachacuti": {
+  "query": "Cusco, Peru",
+  "results": [
+   {
+    "lat": -13.5170887,
+    "lon": -71.9785356,
+    "type": "city",
+    "category": "place",
+    "name": "Cuzco",
+    "display": "Cuzco, Distrito de Cusco, Province of Cusco, Cusco, 08001, Peru",
+    "cc": "PE",
+    "osm": "node/59115290"
+   },
+   {
+    "lat": -12.5,
+    "lon": -72.5,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cusco",
+    "display": "Cusco, Peru",
+    "cc": "PE",
+    "osm": "relation/1923695"
+   },
+   {
+    "lat": -13.5542811,
+    "lon": -71.9906371,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Province of Cusco",
+    "display": "Province of Cusco, Cusco, Peru",
+    "cc": "PE",
+    "osm": "relation/1923702"
+   }
+  ]
+ },
+ "emperor-meiji": {
+  "query": "Kyoto, Japan",
+  "results": [
+   {
+    "lat": 35.0115754,
+    "lon": 135.7681441,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kyoto",
+    "display": "Kyoto, Kyoto Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/357794"
+   }
+  ]
+ },
+ "lakshmi-bai": {
+  "query": "Jhansi, India",
+  "results": [
+   {
+    "lat": 25.529855,
+    "lon": 78.6527802,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jhansi",
+    "display": "Jhansi, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/1959122"
+   },
+   {
+    "lat": 25.4502464,
+    "lon": 78.5800085,
+    "type": "residential",
+    "category": "landuse",
+    "name": "Jhansi",
+    "display": "Jhansi, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/9078467"
+   },
+   {
+    "lat": 25.3548646,
+    "lon": 78.4256442,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jhansi",
+    "display": "Jhansi, Uttar Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/10015936"
+   }
+  ]
+ },
+ "cleopatra": {
+  "query": "Alexandria, Egypt",
+  "results": [
+   {
+    "lat": 31.1991806,
+    "lon": 29.8951716,
+    "type": "city",
+    "category": "place",
+    "name": "Alexandria",
+    "display": "Alexandria, 21519, Egypt",
+    "cc": "EG",
+    "osm": "node/27565020"
+   },
+   {
+    "lat": 30.9432983,
+    "lon": 29.765645,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Alexandria",
+    "display": "Alexandria, Egypt",
+    "cc": "EG",
+    "osm": "relation/3061846"
+   }
+  ]
+ },
+ "tutankhamun": {
+  "query": "Luxor, Egypt",
+  "results": [
+   {
+    "lat": 25.702096,
+    "lon": 32.647186,
+    "type": "city",
+    "category": "place",
+    "name": "Luxor",
+    "display": "Luxor, 85951, Egypt",
+    "cc": "EG",
+    "osm": "node/1667671370"
+   },
+   {
+    "lat": 25.4927944,
+    "lon": 32.8803724,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Luxor",
+    "display": "Luxor, Egypt",
+    "cc": "EG",
+    "osm": "relation/3726211"
+   }
+  ]
+ },
+ "ramesses-ii": {
+  "query": "Abu Simbel, Egypt",
+  "results": [
+   {
+    "lat": 22.3371195,
+    "lon": 31.6257973,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "Abu Simbel Temples",
+    "display": "Abu Simbel Temples, Al Maabd Street, Abu Simbel City, Aswan, 81525, Egypt",
+    "cc": "EG",
+    "osm": "way/594065767"
+   },
+   {
+    "lat": 22.3609634,
+    "lon": 31.6179114,
+    "type": "city",
+    "category": "place",
+    "name": "Abu Simbel City",
+    "display": "Abu Simbel City, Aswan, 81525, Egypt",
+    "cc": "EG",
+    "osm": "way/245291783"
+   },
+   {
+    "lat": 30.975248,
+    "lon": 29.8371427,
+    "type": "village",
+    "category": "place",
+    "name": "Abu Simbel",
+    "display": "Abu Simbel, Alexandria, 23726, Egypt",
+    "cc": "EG",
+    "osm": "node/2726682865"
+   }
+  ]
+ },
+ "khufu": {
+  "query": "Giza, Egypt",
+  "results": [
+   {
+    "lat": 29.9870753,
+    "lon": 31.2118063,
+    "type": "city",
+    "category": "place",
+    "name": "Giza",
+    "display": "Giza, Aj Jiza, 12524, Egypt",
+    "cc": "EG",
+    "osm": "node/27565120"
+   },
+   {
+    "lat": 29.0540358,
+    "lon": 29.4190807,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Aj Jiza",
+    "display": "Aj Jiza, Egypt",
+    "cc": "EG",
+    "osm": "relation/3824206"
+   }
+  ]
+ },
+ "qin-shi-huang": {
+  "query": "Xianyang, China",
+  "results": [
+   {
+    "lat": 34.3323227,
+    "lon": 108.7128495,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Xianyang",
+    "display": "Xianyang, Shaanxi, China",
+    "cc": "CN",
+    "osm": "relation/3221020"
+   }
+  ]
+ },
+ "cyrus-the-great": {
+  "query": "Pasargadae, Iran",
+  "results": [
+   {
+    "lat": 30.2016523,
+    "lon": 53.1786632,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "Pasargadae",
+    "display": "Pasargadae, شهید شهوند, ابوالوردی, دهستان ابوالوردی, بخش پاسارگاد, Pasargad County, Fars Province, Iran",
+    "cc": "IR",
+    "osm": "way/203395269"
+   }
+  ]
+ },
+ "alexander-the-great": {
+  "query": "Pella, Central Macedonia, Greece",
+  "results": [
+   {
+    "lat": 40.7604079,
+    "lon": 22.5271118,
+    "type": "town",
+    "category": "place",
+    "name": "Pella",
+    "display": "Pella, Pella Municipality, Pella Regional Unit, Central Macedonia, Macedonia and Thrace, 580 05, Greece",
+    "cc": "GR",
+    "osm": "node/296269474"
+   },
+   {
+    "lat": 40.9050497,
+    "lon": 22.097048,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pella Regional Unit",
+    "display": "Pella Regional Unit, Central Macedonia, Macedonia and Thrace, Greece",
+    "cc": "GR",
+    "osm": "relation/956817"
+   }
+  ]
+ },
+ "hammurabi": {
+  "query": "Babylon, Babil, Iraq",
+  "results": [
+   {
+    "lat": 32.5447132,
+    "lon": 44.4318143,
+    "type": "protected_area",
+    "category": "boundary",
+    "name": "Babylon",
+    "display": "Babylon, Qaryat Annan, Al-Hillah Central Subdistrict, Al-Hillah District, Babil Governorate, Iraq",
+    "cc": "IQ",
+    "osm": "way/961272499"
+   },
+   {
+    "lat": 32.5377918,
+    "lon": 44.4270029,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "Babylon city",
+    "display": "Babylon city, Hillah - Baghdad Road, Al Hillah, Al-Hillah Central Subdistrict, Al-Hillah District, Babil Governorate, 51001, Iraq",
+    "cc": "IQ",
+    "osm": "way/1230319334"
+   }
+  ]
+ },
+ "ashoka": {
+  "query": "Patna, India",
+  "results": [
+   {
+    "lat": 25.6093239,
+    "lon": 85.1235252,
+    "type": "city",
+    "category": "place",
+    "name": "Patna",
+    "display": "Patna, Patna Rural, Patna, Bihar, India",
+    "cc": "IN",
+    "osm": "way/383774533"
+   },
+   {
+    "lat": 25.4680538,
+    "lon": 85.1952852,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Patna",
+    "display": "Patna, Bihar, India",
+    "cc": "IN",
+    "osm": "relation/1960296"
+   },
+   {
+    "lat": 25.416667,
+    "lon": 85.166667,
+    "type": "county",
+    "category": "place",
+    "name": "Patna",
+    "display": "Patna, Bihar, India",
+    "cc": "IN",
+    "osm": "node/316417101"
+   }
+  ]
+ },
+ "darius-i": {
+  "query": "Persepolis, Iran",
+  "results": [
+   {
+    "lat": 29.9351669,
+    "lon": 52.8904041,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "Persepolis",
+    "display": "Persepolis, پلکان شمالی آپادانا, حومه شهر مرودشت, Central District Marvdasht County, Marvdasht County, Fars Province, 73711-14175, Iran",
+    "cc": "IR",
+    "osm": "way/95531795"
+   },
+   {
+    "lat": 29.9348867,
+    "lon": 52.8904838,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Persepolis",
+    "display": "Persepolis, Central District Marvdasht County, Marvdasht County, Fars Province, Iran",
+    "cc": "IR",
+    "osm": "relation/15392218"
+   }
+  ]
+ },
+ "charles-iii": {
+  "query": "Buckingham Palace, London",
+  "results": [
+   {
+    "lat": 51.5008349,
+    "lon": -0.1430045,
+    "type": "castle",
+    "category": "historic",
+    "name": "Buckingham Palace",
+    "display": "Buckingham Palace, Ambassador's Court, Victoria, City of Westminster, Greater London, England, SW1A 1AA, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/5208404"
+   }
+  ]
+ },
+ "felipe-vi": {
+  "query": "Madrid, Spain",
+  "results": [
+   {
+    "lat": 40.416782,
+    "lon": -3.703507,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Madrid",
+    "display": "Madrid, Community of Madrid, Spain",
+    "cc": "ES",
+    "osm": "relation/5326784"
+   }
+  ]
+ },
+ "mswati-iii": {
+  "query": "Manzini, Eswatini",
+  "results": [
+   {
+    "lat": -26.4976444,
+    "lon": 31.3750815,
+    "type": "city",
+    "category": "place",
+    "name": "Manzini",
+    "display": "Manzini, Inkhundla Manzini, Manzini Region, M100, Eswatini",
+    "cc": "SZ",
+    "osm": "node/243838438"
+   },
+   {
+    "lat": -26.525625,
+    "lon": 31.1896149,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manzini Region",
+    "display": "Manzini Region, Eswatini",
+    "cc": "SZ",
+    "osm": "relation/1253032"
+   }
+  ]
+ },
+ "naruhito": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "maha-vajiralongkorn": {
+  "query": "Bangkok, Thailand",
+  "results": [
+   {
+    "lat": 13.7524938,
+    "lon": 100.4935089,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bangkok",
+    "display": "Bangkok, Thailand",
+    "cc": "TH",
+    "osm": "relation/92277"
+   }
+  ]
+ },
+ "mohammed-vi": {
+  "query": "Rabat, Morocco",
+  "results": [
+   {
+    "lat": 34.0218454,
+    "lon": -6.8408929,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rabat",
+    "display": "Rabat, باشوية الرباط, Rabat Prefecture, Rabat-Salé-Kénitra, Morocco",
+    "cc": "MA",
+    "osm": "relation/2799215"
+   }
+  ]
+ },
+ "abdullah-ii": {
+  "query": "Amman, Jordan",
+  "results": [
+   {
+    "lat": 31.9515694,
+    "lon": 35.9239625,
+    "type": "city",
+    "category": "place",
+    "name": "Amman",
+    "display": "Amman, Amman Sub-District, Amman Qasabah District, Amman, 11110, Jordan",
+    "cc": "JO",
+    "osm": "node/1643504896"
+   },
+   {
+    "lat": 31.6300869,
+    "lon": 36.2519843,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Amman",
+    "display": "Amman, Jordan",
+    "cc": "JO",
+    "osm": "relation/2926344"
+   }
+  ]
+ },
+ "margrethe-ii": {
+  "query": "Copenhagen, Denmark",
+  "results": [
+   {
+    "lat": 55.6867243,
+    "lon": 12.5700724,
+    "type": "city",
+    "category": "place",
+    "name": "Copenhagen",
+    "display": "Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",
+    "cc": "DK",
+    "osm": "node/13707878"
+   },
+   {
+    "lat": 43.893439,
+    "lon": -75.673828,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Village of Copenhagen",
+    "display": "Village of Copenhagen, Town of Denmark, Lewis County, New York, United States",
+    "cc": "US",
+    "osm": "relation/175928"
+   }
+  ]
+ },
+ "willem-alexander": {
+  "query": "Utrecht, Netherlands",
+  "results": [
+   {
+    "lat": 52.0907006,
+    "lon": 5.1215634,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Utrecht",
+    "display": "Utrecht, Netherlands",
+    "cc": "NL",
+    "osm": "relation/419203"
+   },
+   {
+    "lat": 52.0809856,
+    "lon": 5.127684,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Utrecht",
+    "display": "Utrecht, Netherlands",
+    "cc": "NL",
+    "osm": "relation/1433619"
+   },
+   {
+    "lat": 52.0485887,
+    "lon": 5.1784277,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Utrecht",
+    "display": "Utrecht, Netherlands",
+    "cc": "NL",
+    "osm": "relation/47667"
+   }
+  ]
+ }
+}

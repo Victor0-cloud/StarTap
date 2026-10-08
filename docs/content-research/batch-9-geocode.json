@@ -1,0 +1,32 @@
+{
+ "lionel-richie": {
+  "query": "Joliet, Will County, Illinois, United States",
+  "results": [
+   {
+    "lat": 41.5263603,
+    "lon": -88.0840212,
+    "type": "city",
+    "category": "boundary",
+    "name": "Joliet",
+    "display": "Joliet, Will County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/124820"
+   }
+  ]
+ },
+ "anita-baker": {
+  "query": "Detroit, Michigan, United States",
+  "results": [
+   {
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "type": "city",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Wayne County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134591"
+   }
+  ]
+ }
+}

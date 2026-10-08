@@ -1,0 +1,1897 @@
+{
+ "batch": 7,
+ "researched": "2026-10-03",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "bryce-harper",
+    "name": "Bryce Harper",
+    "monogram": "BH",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "bryce-harper-henderson",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Junior-college year",
+    "question": "At which Nevada city's junior college did Bryce Harper play before the 2010 MLB draft?",
+    "clue": "Look in the Las Vegas Valley, just southeast of the Strip.",
+    "hint": "It's Nevada's second-largest city.",
+    "answer": {
+     "city": "Henderson",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Bryce Harper played at the College of Southern Nevada in Henderson before the Washington Nationals drafted him first overall in 2010.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bryce-Harper",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "College: College of Southern Nevada (Henderson, NV)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mookie-betts",
+    "name": "Mookie Betts",
+    "monogram": "MB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mookie-betts-nashville",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "Growing up",
+    "question": "In which Tennessee city did Mookie Betts play basketball, baseball — and bowling — in high school?",
+    "clue": "Look in central Tennessee.",
+    "hint": "It's the capital of Tennessee and the home of country music.",
+    "answer": {
+     "city": "Nashville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Mookie Betts went to John Overton High School in Nashville, where he played basketball and baseball and bowled. He has won World Series titles with Boston and Los Angeles.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mookie-Betts",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "While attending John Overton High School in Nashville, he was on the basketball, baseball, and bowling teams."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "In high school in Nashville, Betts was on the bowling team as well as the baseball and basketball teams.",
+     "sourceUrl": "https://www.britannica.com/biography/Mookie-Betts",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "While attending John Overton High School in Nashville, he was on the basketball, baseball, and bowling teams."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "freddie-freeman",
+    "name": "Freddie Freeman",
+    "monogram": "FF",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "freddie-freeman-orange",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "High-school star",
+    "question": "In which Orange County city did Freddie Freeman star at El Modena High School?",
+    "clue": "Look in Southern California, near Anaheim.",
+    "hint": "The city shares its name with its county — and a fruit.",
+    "answer": {
+     "city": "Orange",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Freddie Freeman starred for El Modena High School in Orange, California, before the Atlanta Braves drafted him in 2007.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Freddie-Freeman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Freeman attended El Modena High School in Orange, California, where he was a star on the varsity baseball team."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "paul-skenes",
+    "name": "Paul Skenes",
+    "monogram": "PS",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "paul-skenes-lake-forest",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "High-school years",
+    "question": "In which Orange County city did Paul Skenes play at El Toro High School?",
+    "clue": "Look in Southern California, in the Saddleback Valley.",
+    "hint": "It's named after a lake and a forest.",
+    "answer": {
+     "city": "Lake Forest",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Paul Skenes played at El Toro High School in Lake Forest, California, a school known for producing big leaguers. The Pirates made him the No. 1 pick in 2023.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Paul-Skenes",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Skenes played at El Toro High School in Lake Forest, which is known for producing big leaguers including Nolan Arenado and Matt Chapman."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "vladimir-guerrero-jr",
+    "name": "Vladimir Guerrero Jr.",
+    "monogram": "VG",
+    "countryOfOrigin": "DO",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "vladimir-guerrero-jr-montreal",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "Born abroad",
+    "question": "Blue Jays slugger Vladimir Guerrero Jr. was born in which Canadian city?",
+    "clue": "Look in Quebec, on the St. Lawrence River.",
+    "hint": "It's where his Hall of Fame father was playing for the Expos.",
+    "answer": {
+     "city": "Montreal",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Vladimir Guerrero Jr. was born in Montreal on 16 March 1999, the son of Hall of Famer Vladimir Guerrero. He made his MLB debut in 2019.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/player/665489",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born: 3/16/1999 in Montreal, QC, Canada Debut: 4/26/2019"
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "Vladimir Guerrero Jr. was born in Montreal, Canada, not the Dominican Republic.",
+     "sourceUrl": "https://www.mlb.com/player/665489",
+     "sourceName": "mlb.com",
+     "quote": "Born: 3/16/1999 in Montreal, QC, Canada Debut: 4/26/2019"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "jung-hoo-lee",
+    "name": "Jung Hoo Lee",
+    "monogram": "JH",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jung-hoo-lee-san-francisco",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "The big move",
+    "question": "Which Bay Area city's MLB team signed Korean star Jung Hoo Lee to a six-year deal in 2023?",
+    "clue": "Look on California's coast, by the Golden Gate.",
+    "hint": "Its team is the Giants.",
+    "answer": {
+     "city": "San Francisco",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "In December 2023 the San Francisco Giants signed Korean outfielder Jung Hoo Lee, a KBO star with the Kiwoom Heroes, to a six-year, $113 million contract.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/press-release/sf-2024-lee-signing",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "SAN FRANCISCO, Calif. – The Giants and outfielder Jung Hoo Lee have agreed to terms on a six-year Major League contract worth $113 million, which includes an opt-out following the 2027 season."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hyun-jin-ryu",
+    "name": "Hyun Jin Ryu",
+    "monogram": "HJ",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "hyun-jin-ryu-toronto",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "A new country",
+    "question": "In which Canadian city was Korean pitcher Hyun Jin Ryu introduced as the Blue Jays' new ace in 2019?",
+    "clue": "Look on the north shore of Lake Ontario.",
+    "hint": "It's Canada's biggest city.",
+    "answer": {
+     "city": "Toronto",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Hyun Jin Ryu, born in Incheon, South Korea, was introduced at Rogers Centre in 2019 as a Toronto Blue Jay after leading the Majors in ERA.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/news/hyun-jin-ryu-introduced-by-blue-jays",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hyun-Jin Ryu took center stage at Rogers Centre on Friday for the first time as a member of the Toronto Blue Jays"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "julio-rodriguez",
+    "name": "Julio Rodríguez",
+    "monogram": "JR",
+    "countryOfOrigin": "DO",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "julio-rodriguez-loma-de-cabrera",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Dominican town near the Haitian border was Julio Rodríguez born?",
+    "clue": "Look in the northwest of the Dominican Republic.",
+    "hint": "Its name starts with \"Loma\".",
+    "answer": {
+     "city": "Loma de Cabrera",
+     "country": "Dominican Republic",
+     "countryCode": "DO"
+    },
+    "story": "Julio Rodríguez was born on 29 December 2000 in Loma de Cabrera, Dominican Republic. He debuted for the Seattle Mariners in 2022.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/player/677594",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born: 12/29/2000 in Loma de Cabrera, Dominican Republic Debut: 4/08/2022"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "fernando-tatis-jr",
+    "name": "Fernando Tatís Jr.",
+    "monogram": "FT",
+    "countryOfOrigin": "DO",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "fernando-tatis-jr-san-pedro-de-macoris",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Dominican city, famed for producing shortstops, was Fernando Tatís Jr. born?",
+    "clue": "Look on the Dominican Republic's southern coast, east of Santo Domingo.",
+    "hint": "Its name starts with \"San Pedro\".",
+    "answer": {
+     "city": "San Pedro de Macorís",
+     "country": "Dominican Republic",
+     "countryCode": "DO"
+    },
+    "story": "Fernando Tatís Jr., son of Fernando Tatís, was born on 2 January 1999 in San Pedro de Macorís. He made his MLB debut in 2019.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/player/665487",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born: 1/02/1999 in San Pedro De Macoris, Dominican Republic Debut: 3/28/2019"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yoshinobu-yamamoto",
+    "name": "Yoshinobu Yamamoto",
+    "monogram": "YY",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "yoshinobu-yamamoto-bizen",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Okayama Prefecture city was Dodgers pitcher Yoshinobu Yamamoto born?",
+    "clue": "Look in western Japan, on the Seto Inland Sea.",
+    "hint": "It's famous for Bizen-ware pottery.",
+    "answer": {
+     "city": "Bizen",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Yoshinobu Yamamoto was born on 17 August 1998 in Bizen, Japan. He debuted in MLB in 2024 and won the World Series with the Dodgers in 2024 and 2025.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/player/808967",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born: 8/17/1998 in Bizen, Japan Debut: 3/21/2024"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "elly-de-la-cruz",
+    "name": "Elly De La Cruz",
+    "monogram": "ED",
+    "countryOfOrigin": "DO",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "elly-de-la-cruz-sabana-grande-de-boya",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Dominican town was Reds speedster Elly De La Cruz born?",
+    "clue": "Look in the Monte Plata province of the Dominican Republic.",
+    "hint": "Its name starts with \"Sabana Grande\".",
+    "answer": {
+     "city": "Sabana Grande de Boyá",
+     "country": "Dominican Republic",
+     "countryCode": "DO"
+    },
+    "story": "Elly De La Cruz was born on 11 January 2002 in Sabana Grande de Boyá, Dominican Republic. He debuted for Cincinnati in 2023.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/player/682829",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born: 1/11/2002 in Sabana Grande de Boya, Dominican Republic Debut: 6/06/2023"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yordan-alvarez",
+    "name": "Yordan Álvarez",
+    "monogram": "YÁ",
+    "countryOfOrigin": "CU",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "yordan-alvarez-las-tunas",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Baseball",
+    "chapter": "Where the story began",
+    "question": "In which Cuban city was Astros slugger Yordan Álvarez born?",
+    "clue": "Look in eastern Cuba.",
+    "hint": "Its name means \"the tunas\" — the prickly-pear cactus.",
+    "answer": {
+     "city": "Las Tunas",
+     "country": "Cuba",
+     "countryCode": "CU"
+    },
+    "story": "Yordan Álvarez was born on 27 June 1997 in Las Tunas, Cuba. He debuted for the Houston Astros in 2019.",
+    "sources": [
+     {
+      "url": "https://www.mlb.com/player/670541",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born: 6/27/1997 in Las Tunas, Cuba Debut: 6/09/2019"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "derek-jeter",
+    "name": "Derek Jeter",
+    "monogram": "DJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "derek-jeter-kalamazoo",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "Growing up",
+    "question": "In which Michigan city was Yankees captain Derek Jeter raised?",
+    "clue": "Look in southwest Michigan, between Detroit and Chicago.",
+    "hint": "Its name comes from a Potawatomi word and famously inspired a Glenn Miller song.",
+    "answer": {
+     "city": "Kalamazoo",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Derek Jeter was born in Pequannock, New Jersey, and raised in Kalamazoo, Michigan, where he starred in high school baseball.",
+    "sources": [
+     {
+      "url": "https://baseballhall.org/hall-of-famers/jeter-derek",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born June 26, 1974, in Pequannock, N.J., and raised in Kalamazoo, Mich., Jeter starred on the diamond in high school and earned a full ride to play baseball at the University of Michigan."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ken-griffey-jr",
+    "name": "Ken Griffey Jr.",
+    "monogram": "KG",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "ken-griffey-jr-cincinnati",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "Coming home",
+    "question": "In 2000 Ken Griffey Jr. was traded to the city he considered his hometown — which one?",
+    "clue": "Look on the Ohio River, in southwest Ohio.",
+    "hint": "Its team is the Reds.",
+    "answer": {
+     "city": "Cincinnati",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "In February 2000 Ken Griffey Jr. was traded to Cincinnati, which he considered his hometown and where his father worked as a coach.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ken-Griffey-Jr",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In February 2000 he was traded to Cincinnati, which he considered his hometown and where his father worked as a coach."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hideo-nomo",
+    "name": "Hideo Nomo",
+    "monogram": "HN",
+    "countryOfOrigin": "JP",
+    "region": "asia"
+   },
+   "question": {
+    "id": "hideo-nomo-los-angeles",
+    "primaryCategory": "sports",
+    "subcategory": "baseball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Baseball",
+    "chapter": "The return",
+    "question": "In 2002 Japan's Hideo Nomo returned to pitch for which city's MLB team, winning 16 games?",
+    "clue": "Look in Southern California.",
+    "hint": "Its team is the Dodgers.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Hideo Nomo, born in Osaka, returned to the Los Angeles Dodgers in 2002 and went 16–6 in his first season back.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Hideo-Nomo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In 2002 Nomo returned to pitch for Los Angeles and compiled a record of 16 wins and 6 losses in his first season back with the Dodgers."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "patrick-mahomes",
+    "name": "Patrick Mahomes",
+    "monogram": "PM",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "patrick-mahomes-kansas-city",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "American Football",
+    "chapter": "The dynasty",
+    "question": "Which Missouri city's team did Patrick Mahomes lead to three Super Bowl wins, being named MVP of all three?",
+    "clue": "Look on the Missouri River, on the state line with Kansas.",
+    "hint": "Its team is the Chiefs.",
+    "answer": {
+     "city": "Kansas City",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Patrick Mahomes was NFL MVP in his second season, then led the Kansas City Chiefs to Super Bowl wins in 2020, 2023 and 2024, earning MVP each time.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Patrick-Mahomes",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In his second season as a professional (2018), he was named the NFL’s most valuable player (MVP), and he later led the Kansas City Chiefs to victory in Super Bowls LIV (2020), LVII (2023), and LVIII (2024); he was named MVP of all three games."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Mahomes was named Super Bowl MVP in all three of his Super Bowl wins.",
+     "sourceUrl": "https://www.britannica.com/biography/Patrick-Mahomes",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "In his second season as a professional (2018), he was named the NFL’s most valuable player (MVP), and he later led the Kansas City Chiefs to victory in Super Bowls LIV (2020), LVII (2023), and LVIII (2024); he was named MVP of all three games."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "josh-allen",
+    "name": "Josh Allen",
+    "monogram": "JA",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "josh-allen-firebaugh",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which small California farm town is Bills quarterback Josh Allen's hometown?",
+    "clue": "Look in California's San Joaquin Valley, west of Fresno.",
+    "hint": "Its name starts with \"Fire\".",
+    "answer": {
+     "city": "Firebaugh",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Josh Allen is from Firebaugh, California. He played at the University of Wyoming before the Buffalo Bills drafted him.",
+    "sources": [
+     {
+      "url": "https://gowyo.com/sports/football/roster/josh-allen/9857",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Josh Allen QB Position Graduate Student Class Firebaugh, Calif. Hometown"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lamar-jackson",
+    "name": "Lamar Jackson",
+    "monogram": "LJ",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lamar-jackson-louisville",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "College years",
+    "question": "In which Kentucky city did Lamar Jackson's sophomore season make college football history?",
+    "clue": "Look on the Ohio River, in Kentucky.",
+    "hint": "It's famous for the Kentucky Derby.",
+    "answer": {
+     "city": "Louisville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "As a sophomore at the University of Louisville, Lamar Jackson won the Heisman Trophy. He later became a unanimous NFL MVP with the Baltimore Ravens.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lamar-Jackson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jackson’s sophomore campaign at Louisville vaulted him into college football history."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "joe-burrow",
+    "name": "Joe Burrow",
+    "monogram": "JB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "joe-burrow-athens",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "In which Ohio college town did Joe Burrow grow up?",
+    "clue": "Look in southeast Ohio, home of Ohio University.",
+    "hint": "It shares its name with Greece's capital.",
+    "answer": {
+     "city": "Athens",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Joe Burrow grew up in Athens, Ohio, where his father coached at Ohio University. He won the Heisman at LSU and was the No. 1 pick in 2020.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Joe-Burrow",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Burrow grew up in Athens, Ohio."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jalen-hurts",
+    "name": "Jalen Hurts",
+    "monogram": "JH",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jalen-hurts-channelview",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "At which Texas town's high school, where his father coached, did Jalen Hurts play football?",
+    "clue": "Look just east of Houston, on the ship channel.",
+    "hint": "Its name includes \"view\".",
+    "answer": {
+     "city": "Channelview",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Jalen Hurts played at Channelview High School in Texas, where his father coached. He later led the Philadelphia Eagles to victory in Super Bowl LIX.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jalen-Hurts",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Early life Jalen Alexander Hurts is the second child of Pamela (née Dewalt) Hurts, a special education teacher and department chairperson, and Averion Hurts, Sr., a high-school football coach at Channelview (Texas) High School, where Hurts attended school and played football."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aaron-rodgers",
+    "name": "Aaron Rodgers",
+    "monogram": "AR",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aaron-rodgers-berkeley",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "College years",
+    "question": "To which Bay Area university city did Aaron Rodgers transfer in 2003?",
+    "clue": "Look on the east side of San Francisco Bay.",
+    "hint": "Its university's teams are the Golden Bears.",
+    "answer": {
+     "city": "Berkeley",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Aaron Rodgers played a year at Butte College before transferring to the University of California, Berkeley, in 2003. He later won a Super Bowl with Green Bay.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aaron-Rodgers",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He played for a year at Butte College, a community college in nearby Oroville, before transferring in 2003 to the University of California, Berkeley."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "caleb-williams",
+    "name": "Caleb Williams",
+    "monogram": "CW",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "caleb-williams-washington",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which city is Heisman winner Caleb Williams's hometown?",
+    "clue": "Look on the Potomac River.",
+    "hint": "It's the US capital.",
+    "answer": {
+     "city": "Washington",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Caleb Williams is from Washington, D.C., and attended Gonzaga College High School before starring at Oklahoma and USC.",
+    "sources": [
+     {
+      "url": "https://usctrojans.com/sports/football/roster/caleb-williams/15820",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Washington, D.C. High School: Gonzaga College HS / Oklahoma"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jayden-daniels",
+    "name": "Jayden Daniels",
+    "monogram": "JD",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jayden-daniels-san-bernardino",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which Inland Empire city is LSU Heisman winner Jayden Daniels's hometown?",
+    "clue": "Look in Southern California, east of Los Angeles.",
+    "hint": "Its name honours Saint Bernardino.",
+    "answer": {
+     "city": "San Bernardino",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Jayden Daniels is from San Bernardino, California, and played at Cajon High School before Arizona State and LSU.",
+    "sources": [
+     {
+      "url": "https://lsusports.net/sports/fb/roster/player/jayden-daniels",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "HOMETOWN San Bernardino, Calif. HIGH SCHOOL Cajon HS"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tom-brady",
+    "name": "Tom Brady",
+    "monogram": "TB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "tom-brady-san-mateo",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Where the story began",
+    "question": "In which Bay Area city was seven-time Super Bowl champion Tom Brady born?",
+    "clue": "Look on the San Francisco Peninsula.",
+    "hint": "It's named after Saint Matthew.",
+    "answer": {
+     "city": "San Mateo",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Tom Brady was born on 3 August 1977 in San Mateo, California. He won a record seven Super Bowls and was named Super Bowl MVP five times.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Tom-Brady",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Tom Brady (born August 3, 1977, San Mateo, California, U.S.) is a former football quarterback who led his teams to a record seven Super Bowl victories (2002, 2004, 2005, 2015, 2017, 2019, and 2021) and was named the game’s Most Valuable Player (MVP) five times (2002, 2004, 2015, 2017, and 2021)."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Tom Brady won a record seven Super Bowls.",
+     "sourceUrl": "https://www.britannica.com/biography/Tom-Brady",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Tom Brady (born August 3, 1977, San Mateo, California, U.S.) is a former football quarterback who led his teams to a record seven Super Bowl victories (2002, 2004, 2005, 2015, 2017, 2019, and 2021) and was named the game’s Most Valuable Player (MVP) five times (2002, 2004, 2015, 2017, and 2021)."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "peyton-manning",
+    "name": "Peyton Manning",
+    "monogram": "PM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "peyton-manning-indianapolis",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "The first title",
+    "question": "With which Indiana city's team did Peyton Manning win his first Super Bowl?",
+    "clue": "Look in central Indiana.",
+    "hint": "It's Indiana's capital; its team is the Colts.",
+    "answer": {
+     "city": "Indianapolis",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Peyton Manning won Super Bowls as quarterback of the Indianapolis Colts in 2007 and the Denver Broncos in 2016.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Peyton-Manning",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He won Super Bowls as the quarterback of the Indianapolis Colts (2007) and the Denver Broncos (2016)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dan-marino",
+    "name": "Dan Marino",
+    "monogram": "DM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "dan-marino-miami",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Draft day",
+    "question": "Which Florida city's team picked Dan Marino near the end of the first round in 1983?",
+    "clue": "Look at Florida's southeastern tip.",
+    "hint": "Its team is the Dolphins.",
+    "answer": {
+     "city": "Miami",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Dan Marino slipped to late in the first round of the 1983 draft, where the Miami Dolphins took him. In 1984 he became the first quarterback to pass for more than 5,000 yards in a season.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dan-Marino",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "After a disappointing senior season by Marino’s standards, his professional stock dropped, and he was chosen by the Miami Dolphins toward the end of the first round of the 1983 NFL draft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tyreek-hill",
+    "name": "Tyreek Hill",
+    "monogram": "TH",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "tyreek-hill-garden-city",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "College years",
+    "question": "At which Kansas town's community college did speedster Tyreek Hill play football?",
+    "clue": "Look in southwest Kansas.",
+    "hint": "The college shares the town's name, which includes \"Garden\".",
+    "answer": {
+     "city": "Garden City",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Tyreek Hill played at Garden City Community College before Oklahoma State and West Alabama. He won Super Bowl LIV with Kansas City.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Tyreek-Hill",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He later attended Garden City Community College and was on the school’s football team."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "travis-kelce",
+    "name": "Travis Kelce",
+    "monogram": "TK",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "travis-kelce-cleveland-heights",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "In which Cleveland suburb did the Kelce family, including Travis and Jason, live?",
+    "clue": "Look in northeast Ohio, east of Cleveland.",
+    "hint": "Its name ends in \"Heights\".",
+    "answer": {
+     "city": "Cleveland Heights",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Travis Kelce's family, including his elder brother Jason, lived in Cleveland Heights, Ohio. He became a record-setting tight end with three Super Bowl wins.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Travis-Kelce",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Early years and collegiate career Kelce was born to Ed and Donna Kelce, and the family—which includes elder brother Jason Kelce, also an NFL player—lived in Cleveland Heights, Ohio."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "justin-jefferson",
+    "name": "Justin Jefferson",
+    "monogram": "JJ",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "justin-jefferson-st-rose",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which small Louisiana town upriver from New Orleans is Justin Jefferson's hometown?",
+    "clue": "Look in St. Charles Parish, on the Mississippi.",
+    "hint": "It's named after a saint and a flower.",
+    "answer": {
+     "city": "St. Rose",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Justin Jefferson is from St. Rose, Louisiana, and played at Destrehan High School before LSU.",
+    "sources": [
+     {
+      "url": "https://lsusports.net/sports/fb/roster/player/justin-jefferson",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "HOMETOWN St. Rose, La. HIGH SCHOOL Destrehan HS"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jamarr-chase",
+    "name": "Ja'Marr Chase",
+    "monogram": "JC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jamarr-chase-harvey",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which West Bank town near New Orleans is Ja'Marr Chase's hometown?",
+    "clue": "Look across the Mississippi from New Orleans.",
+    "hint": "It's a common first name — think of the invisible rabbit in a classic film.",
+    "answer": {
+     "city": "Harvey",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Ja'Marr Chase is from Harvey, Louisiana, and played at Archbishop Rummel High School before LSU.",
+    "sources": [
+     {
+      "url": "https://lsusports.net/sports/fb/roster/player/jamarr-chase",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "HOMETOWN Harvey, La. HIGH SCHOOL Archbishop Rummel HS"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "puka-nacua",
+    "name": "Puka Nacua",
+    "monogram": "PN",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "puka-nacua-provo",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which Utah city, home of BYU, is Puka Nacua's hometown?",
+    "clue": "Look in Utah Valley, south of Salt Lake City.",
+    "hint": "It's named after a fur trapper.",
+    "answer": {
+     "city": "Provo",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Puka Nacua is from Provo, Utah, and played for BYU after Washington. The Los Angeles Rams drafted him in the fifth round.",
+    "sources": [
+     {
+      "url": "https://byucougars.com/sports/football/roster/player/puka-nacua",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown Provo Previous School Washington Province Utah"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "brock-bowers",
+    "name": "Brock Bowers",
+    "monogram": "BB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "brock-bowers-napa",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which California wine-country city is tight end Brock Bowers's hometown?",
+    "clue": "Look north of San Francisco Bay.",
+    "hint": "It gives its name to a famous wine valley.",
+    "answer": {
+     "city": "Napa",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Brock Bowers is from Napa, California. At Georgia he won the John Mackey Award twice.",
+    "sources": [
+     {
+      "url": "https://georgiadogs.com/sports/football/roster/brock-bowers/7345",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Napa, Calif. High School: Napa"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jerry-rice",
+    "name": "Jerry Rice",
+    "monogram": "JR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jerry-rice-itta-bena",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "College years",
+    "question": "In which small Mississippi town did Jerry Rice play college football at Mississippi Valley State?",
+    "clue": "Look in the Mississippi Delta.",
+    "hint": "Its name is two short words starting with \"It\".",
+    "answer": {
+     "city": "Itta Bena",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Jerry Rice played at Mississippi Valley State University in Itta Bena, setting 18 records. He became the NFL's career leader in touchdowns, catches and receiving yards.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jerry-Rice",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He attended Mississippi Valley State University in Itta Bena on a football scholarship."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rob-gronkowski",
+    "name": "Rob Gronkowski",
+    "monogram": "RG",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "rob-gronkowski-amherst",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Where the story began",
+    "question": "In which Buffalo suburb was tight end Rob Gronkowski born?",
+    "clue": "Look in western New York, near Buffalo.",
+    "hint": "It shares its name with a famous Massachusetts college town.",
+    "answer": {
+     "city": "Amherst",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Rob Gronkowski was born in Amherst, New York. He was one of Tom Brady's favourite targets with New England and Tampa Bay, winning four Super Bowls.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Rob-Gronkowski",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Rob Gronkowski (born May 14, 1989, Amherst, New York, U.S.) is a former NFL tight end who was one of quarterback Tom Brady’s favorite receiving targets—first with the New England Patriots and later with the Tampa Bay Buccaneers."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "randy-moss",
+    "name": "Randy Moss",
+    "monogram": "RM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "randy-moss-oakland",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "The Raiders years",
+    "question": "In which California city did Randy Moss spend two quiet seasons with the Raiders before his 2007 trade?",
+    "clue": "Look on the east side of San Francisco Bay.",
+    "hint": "It's across the bay from San Francisco.",
+    "answer": {
+     "city": "Oakland",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Randy Moss scored only 11 touchdowns in two seasons with the Raiders in Oakland, then was traded to New England in 2007.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Randy-Moss",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "His two years in Oakland were unproductive by his standards: Moss scored only 11 total touchdowns in his two seasons with the Raiders, and he was traded to the New England Patriots in 2007."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "saquon-barkley",
+    "name": "Saquon Barkley",
+    "monogram": "SB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "saquon-barkley-philadelphia",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "American Football",
+    "chapter": "The championship city",
+    "question": "Which city's team did Saquon Barkley help win the Super Bowl in 2025?",
+    "clue": "Look in Pennsylvania, on the Delaware River.",
+    "hint": "Its team is the Eagles.",
+    "answer": {
+     "city": "Philadelphia",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Saquon Barkley ran for more than 2,000 yards in his first season with the Philadelphia Eagles and helped them win the Super Bowl in 2025.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Saquon-Barkley",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Saquon Barkley is a Pro Bowl running back for the Philadelphia Eagles who helped lead the team to a Super Bowl title in 2025."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "christian-mccaffrey",
+    "name": "Christian McCaffrey",
+    "monogram": "CM",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "christian-mccaffrey-castle-rock",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which Colorado town between Denver and Colorado Springs is Christian McCaffrey's hometown?",
+    "clue": "Look in Douglas County, Colorado.",
+    "hint": "It's named after a rock formation.",
+    "answer": {
+     "city": "Castle Rock",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Christian McCaffrey is from Castle Rock, Colorado. At Stanford he set the Rose Bowl record for all-purpose yards.",
+    "sources": [
+     {
+      "url": "https://gostanford.com/sports/football/roster/player/christian-mccaffrey",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "HOMETOWN CASTLE ROCK, COLO."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "derrick-henry",
+    "name": "Derrick Henry",
+    "monogram": "DH",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "derrick-henry-yulee",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which small Florida town near Jacksonville is Heisman winner Derrick Henry's hometown?",
+    "clue": "Look in Nassau County, Florida's northeast corner.",
+    "hint": "Its name is two syllables and starts with \"Yu\".",
+    "answer": {
+     "city": "Yulee",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Derrick Henry is from Yulee, Florida, where he broke the national high school rushing record. He won the Heisman Trophy at Alabama.",
+    "sources": [
+     {
+      "url": "https://rolltide.com/sports/football/roster/derrick-henry/4710",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Yulee, Fla. High School: Yulee"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bijan-robinson",
+    "name": "Bijan Robinson",
+    "monogram": "BR",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "bijan-robinson-tucson",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which Arizona desert city is running back Bijan Robinson's hometown?",
+    "clue": "Look in southern Arizona.",
+    "hint": "It's Arizona's second-largest city.",
+    "answer": {
+     "city": "Tucson",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Bijan Robinson is from Tucson, Arizona, and left high school as Arizona's all-time touchdown leader before starring at Texas.",
+    "sources": [
+     {
+      "url": "https://texassports.com/sports/football/roster/bijan-robinson/9979",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Tucson, Ariz."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "walter-payton",
+    "name": "Walter Payton",
+    "monogram": "WP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "walter-payton-jackson",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "College years",
+    "question": "In which Mississippi capital did Walter Payton play college football?",
+    "clue": "Look in central Mississippi.",
+    "hint": "His university, Jackson State, is named after it.",
+    "answer": {
+     "city": "Jackson",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Walter \"Sweetness\" Payton played at Jackson State University in Mississippi, then was drafted fourth overall by the Chicago Bears in 1975.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Walter-Payton",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Payton played football in high school and at Jackson State University in Mississippi."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jim-brown",
+    "name": "Jim Brown",
+    "monogram": "JB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jim-brown-syracuse",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "College years",
+    "question": "In which New York city did Jim Brown star in five sports at university?",
+    "clue": "Look in central New York state.",
+    "hint": "Its university's teams are the Orange.",
+    "answer": {
+     "city": "Syracuse",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Jim Brown excelled in basketball, baseball, track, lacrosse and football at Syracuse University, then led the NFL in rushing in eight of his nine seasons.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jim-Brown",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In high school and at Syracuse University in New York, Brown displayed exceptional all-around athletic ability, excelling in basketball, baseball, track, and lacrosse as well as football."
+     }
+    ],
+    "triviaCard": {
+     "type": "wow_fact",
+     "text": "At Syracuse, Jim Brown excelled in basketball, baseball, track and lacrosse as well as football.",
+     "sourceUrl": "https://www.britannica.com/biography/Jim-Brown",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "In high school and at Syracuse University in New York, Brown displayed exceptional all-around athletic ability, excelling in basketball, baseball, track, and lacrosse as well as football."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "nick-bosa",
+    "name": "Nick Bosa",
+    "monogram": "NB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "nick-bosa-fort-lauderdale",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "High-school years",
+    "question": "In which Florida city did Nick Bosa play at St. Thomas Aquinas High School?",
+    "clue": "Look on Florida's Atlantic coast, north of Miami.",
+    "hint": "It's famous for its canals and beaches.",
+    "answer": {
+     "city": "Fort Lauderdale",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Nick Bosa played at St. Thomas Aquinas High School in Fort Lauderdale, then Ohio State, before the 49ers drafted him second overall in 2019.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Nick-Bosa",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Thomas Aquinas High School in Fort Lauderdale, Florida."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aaron-donald",
+    "name": "Aaron Donald",
+    "monogram": "AD",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aaron-donald-penn-hills",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "High-school years",
+    "question": "At which high school outside Pittsburgh did Aaron Donald's coach ask permission to coach him hard?",
+    "clue": "Look just east of Pittsburgh, Pennsylvania.",
+    "hint": "Its name includes \"Hills\".",
+    "answer": {
+     "city": "Penn Hills",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Aaron Donald played high school football at Penn Hills, outside Pittsburgh, then starred at the University of Pittsburgh before winning three Defensive Player of the Year awards with the Rams.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aaron-Donald",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Donald’s high school coach at Penn Hills, outside Pittsburgh, once approached Archie, Sr., and told him that while Donald was gifted, he wanted permission to coach him hard to ensure he reached his full potential."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "micah-parsons",
+    "name": "Micah Parsons",
+    "monogram": "MP",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "micah-parsons-harrisburg",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which Pennsylvania state capital is Micah Parsons's hometown?",
+    "clue": "Look on the Susquehanna River.",
+    "hint": "It's Pennsylvania's capital — not Philadelphia or Pittsburgh.",
+    "answer": {
+     "city": "Harrisburg",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Micah Parsons is from Harrisburg, Pennsylvania, and played at Harrisburg High School before Penn State.",
+    "sources": [
+     {
+      "url": "https://gopsusports.com/sports/football/roster/player/micah-parsons",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown Harrisburg, Pa. High School Harrisburg"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "myles-garrett",
+    "name": "Myles Garrett",
+    "monogram": "MG",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "myles-garrett-arlington",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "High-school years",
+    "question": "In which Texas city between Dallas and Fort Worth did Myles Garrett play high-school football?",
+    "clue": "Look in the Dallas–Fort Worth metroplex.",
+    "hint": "It's home to the Cowboys' stadium.",
+    "answer": {
+     "city": "Arlington",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Myles Garrett played at Martin High School in Arlington, Texas, then Texas A&M. He was named NFL Defensive Player of the Year.",
+    "sources": [
+     {
+      "url": "https://12thman.com/sports/football/roster/player/myles-garrett",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Coached by Bob Wager at Martin HS in Arlington, Texas"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tj-watt",
+    "name": "T.J. Watt",
+    "monogram": "TJ",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "tj-watt-pewaukee",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "Growing up",
+    "question": "Which Wisconsin village near Milwaukee is T.J. Watt's hometown?",
+    "clue": "Look in Waukesha County, west of Milwaukee.",
+    "hint": "Its name starts with \"Pewau\".",
+    "answer": {
+     "city": "Pewaukee",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "T.J. Watt is from Pewaukee, Wisconsin, and played at Pewaukee High School before the University of Wisconsin.",
+    "sources": [
+     {
+      "url": "https://uwbadgers.com/sports/football/roster/t-j--watt/4043",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Hometown: Pewaukee, Wis. High School: Pewaukee"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lawrence-taylor",
+    "name": "Lawrence Taylor",
+    "monogram": "LT",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "lawrence-taylor-new-york",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "The Giants years",
+    "question": "With which city's NFL team did Lawrence Taylor win Super Bowls after the 1986 and 1990 seasons?",
+    "clue": "Look on America's East Coast, at the mouth of the Hudson.",
+    "hint": "Its team here is the Giants.",
+    "answer": {
+     "city": "New York",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Lawrence Taylor won Super Bowls with the New York Giants after the 1986 and 1990 seasons, and was the NFL's MVP in 1986.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lawrence-Taylor",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "As a member of the New York Giants of the National Football League (NFL), he won Super Bowl championships following the 1986 and 1990 seasons."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ray-lewis",
+    "name": "Ray Lewis",
+    "monogram": "RL",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "ray-lewis-baltimore",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Draft day",
+    "question": "Which Maryland city's team drafted linebacker Ray Lewis 26th in 1996?",
+    "clue": "Look on Chesapeake Bay.",
+    "hint": "Its team is the Ravens.",
+    "answer": {
+     "city": "Baltimore",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Ray Lewis was drafted 26th overall by the Baltimore Ravens in 1996 and became one of the greatest linebackers in NFL history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ray-Lewis",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He was selected by the Baltimore Ravens with the 26th overall selection of the 1996 NFL draft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "troy-polamalu",
+    "name": "Troy Polamalu",
+    "monogram": "TP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "troy-polamalu-winston",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "American Football",
+    "chapter": "High-school years",
+    "question": "In which small Oregon town did Troy Polamalu attend Douglas High School?",
+    "clue": "Look in southwest Oregon, near Roseburg.",
+    "hint": "It shares its name with a famous British wartime prime minister.",
+    "answer": {
+     "city": "Winston",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Troy Polamalu attended Douglas High School in Winston, Oregon, then USC. He won two Super Bowls with Pittsburgh.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Troy-Polamalu",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He attended Douglas High School in Winston, Oregon."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "deion-sanders",
+    "name": "Deion Sanders",
+    "monogram": "DS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "deion-sanders-atlanta",
+    "primaryCategory": "sports",
+    "subcategory": "american-football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "American Football",
+    "chapter": "Draft day",
+    "question": "Which Georgia city's NFL team drafted Deion Sanders fifth overall in 1989?",
+    "clue": "Look in northern Georgia.",
+    "hint": "Its team is the Falcons — and he also played for its baseball team.",
+    "answer": {
+     "city": "Atlanta",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Deion Sanders was drafted fifth overall by the Atlanta Falcons in 1989. He is the only person to have played in both a Super Bowl and a World Series.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Deion-Sanders",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "NFL teams were not put off by his cocky persona, however, and Sanders was selected by the Atlanta Falcons with the fifth selection of the 1989 NFL draft."
+     }
+    ]
+   }
+  }
+ ]
+}

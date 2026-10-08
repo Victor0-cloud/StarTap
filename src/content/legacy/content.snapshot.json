@@ -1,0 +1,3213 @@
+{
+ "note": "Full playable question objects per edition (as DailyGame passed them to PlayGame) from the original code. Regenerate only for a deliberate content edit.",
+ "editions": {
+  "origins-v1": [
+   {
+    "id": "adele-birthplace",
+    "imageUrl": "/stars/adele.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/adele.jpg",
+     "title": "Adele.jpg",
+     "author": "Mpawsey",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Adele.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Adele",
+    "monogram": "A",
+    "question": "In which city was Adele born?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/adele",
+    "clue": "Look for a capital city in Europe.",
+    "hint": "The city is the capital of the United Kingdom.",
+    "story": "Adele was born in London. This round measures your guess against the city centre, rather than a specific hospital or neighbourhood.",
+    "media": {
+     "listenUrl": "https://adele.lnk.to/30outnow",
+     "listenLabel": "30 · choose a music service",
+     "watchUrl": "https://www.youtube.com/watch?v=jDvYDzFOK9A",
+     "watchLabel": "I Drink Wine · official video",
+     "discoverUrl": "https://www.adele.com/",
+     "discoverLabel": "Adele's official website",
+     "sourceName": "Adele / Sony Music · links from adele.com"
+    }
+   },
+   {
+    "id": "naomi-osaka-birthplace",
+    "starName": "Naomi Osaka",
+    "monogram": "NO",
+    "category": "Tennis",
+    "question": "In which city was Naomi Osaka born?",
+    "answerCity": "Osaka",
+    "answerCountry": "Japan",
+    "answerCoordinates": {
+     "latitude": 34.6937,
+     "longitude": 135.5023
+    },
+    "clue": "Her name is a clue. Look in East Asia.",
+    "hint": "Find Japan, southwest of Tokyo.",
+    "story": "Naomi Osaka was born in Osaka, Japan, and moved to the United States when she was three.",
+    "sourceUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+     "discoverLabel": "Official WTA player profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "burna-boy-birthplace",
+    "imageUrl": "/stars/burna-boy.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/burna-boy.jpg",
+     "title": "Burna Boy",
+     "author": "Ameyaw Debrah",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burna_Boy.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Burna_Boy.jpg/500px-Burna_Boy.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Burna Boy",
+    "question": "Where was Burna Boy born?",
+    "answerCity": "Port Harcourt",
+    "answerCountry": "Nigeria",
+    "answerCoordinates": {
+     "latitude": 4.8156,
+     "longitude": 7.0498
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.umusicpub.com/si/Artists/B/Burna-Boy.aspx",
+    "monogram": "BB",
+    "clue": "Start your search in West Africa.",
+    "hint": "Look in southern Nigeria.",
+    "story": "Burna Boy was born in Port Harcourt, Nigeria. His birth name is Damini Ogulu."
+   },
+   {
+    "id": "hugh-jackman-birthplace",
+    "starName": "Hugh Jackman",
+    "monogram": "HJ",
+    "category": "Film",
+    "question": "In which city was Hugh Jackman born?",
+    "answerCity": "Sydney",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -33.8688,
+     "longitude": 151.2093
+    },
+    "clue": "The Wolverine actor was born in Oceania.",
+    "hint": "Look on Australia's southeastern coast.",
+    "story": "Hugh Jackman was born in Sydney to British parents. He took up acting as a hobby while at school.",
+    "sourceUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+    "media": {
+     "discoverUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+     "discoverLabel": "Explore Hugh's profile",
+     "sourceName": "National Portrait Gallery, Australia"
+    }
+   },
+   {
+    "id": "messi-birthplace",
+    "imageUrl": "/stars/messi.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/messi.jpg",
+     "title": "Lionel Messi close-up.jpg",
+     "author": "Fanny Schertzer; existing crop by CHUCAO",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Lionel Messi",
+    "monogram": "LM",
+    "question": "Where was Lionel Messi born?",
+    "answerCity": "Rosario",
+    "answerCountry": "Argentina",
+    "answerCoordinates": {
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    "category": "Football",
+    "sourceUrl": "https://www.biography.com/athletes/lionel-messi",
+    "clue": "His birthplace is in South America.",
+    "hint": "Look in Argentina, northwest of Buenos Aires.",
+    "story": "Lionel Messi was born in Rosario, Argentina. He joined the youth system of local club Newell's Old Boys at age eight.",
+    "media": {
+     "discoverUrl": "https://www.biography.com/athletes/lionel-messi",
+     "discoverLabel": "Read Messi's biography",
+     "sourceName": "Biography.com"
+    }
+   },
+   {
+    "id": "jackie-chan-birthplace",
+    "starName": "Jackie Chan",
+    "monogram": "JC",
+    "category": "Film",
+    "question": "Where was Jackie Chan born?",
+    "answerCity": "Hong Kong",
+    "answerCountry": "China",
+    "answerCoordinates": {
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    "clue": "This action star's story begins on the coast of East Asia.",
+    "hint": "Look for Hong Kong on China's southern coast.",
+    "story": "Jackie Chan was born in Hong Kong in 1954. The city is the starting point of his story, long before his international movie career.",
+    "sourceUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+    "media": {
+     "discoverUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+     "discoverLabel": "Academy honoree profile",
+     "sourceName": "Academy of Motion Picture Arts and Sciences"
+    }
+   },
+   {
+    "id": "rihanna-birthplace",
+    "imageUrl": "/stars/rihanna.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/rihanna.jpg",
+     "title": "Rihanna Met Gala 2017.jpg",
+     "author": "Danilo Lauria",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2017.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Rihanna_Met_Gala_2017.jpg/500px-Rihanna_Met_Gala_2017.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Rihanna",
+    "question": "Where was Rihanna born?",
+    "answerCity": "St. Michael",
+    "answerCountry": "Barbados",
+    "answerCoordinates": {
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/rihanna",
+    "monogram": "R",
+    "clue": "Her story starts on a Caribbean island.",
+    "hint": "Look for Barbados, east of the main Caribbean island chain.",
+    "story": "Rihanna was born in St. Michael, Barbados. As a teenager, she auditioned for producer Evan Rogers while he was visiting the island.",
+    "media": {
+     "watchUrl": "https://www.rihannanow.com/videos/",
+     "watchLabel": "Official video collection",
+     "discoverUrl": "https://www.biography.com/musicians/rihanna",
+     "discoverLabel": "Read Rihanna's biography",
+     "sourceName": "Rihanna / Roc Nation; Biography.com"
+    }
+   },
+   {
+    "id": "serena-williams-birthplace",
+    "starName": "Serena Williams",
+    "monogram": "SW",
+    "category": "Tennis",
+    "question": "In which city was Serena Williams born?",
+    "answerCity": "Saginaw, Michigan",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 43.4195,
+     "longitude": -83.9508
+    },
+    "clue": "Look in North America, near the Great Lakes.",
+    "hint": "Her birthplace is in Michigan, USA.",
+    "story": "Serena Williams was born in Saginaw, Michigan. Her birthplace is in the Great Lakes region of the United States.",
+    "sourceUrl": "https://www.wtatennis.com/legends/230234/serena-williams",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/legends/230234/serena-williams",
+     "discoverLabel": "Official WTA legend profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "shah-rukh-khan-birthplace",
+    "starName": "Shah Rukh Khan",
+    "monogram": "SRK",
+    "category": "Film",
+    "question": "In which city was Shah Rukh Khan born?",
+    "answerCity": "New Delhi",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    "clue": "Look for a capital city in South Asia.",
+    "hint": "Find India's capital.",
+    "story": "Shah Rukh Khan was born in New Delhi and spent his childhood there. Mumbai came later in his story.",
+    "sourceUrl": "https://www.eoimadrid.gov.in/archives/IP_Eng_Jan-Mar.pdf"
+   },
+   {
+    "id": "shakira-birthplace",
+    "imageUrl": "/stars/shakira.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/shakira.jpg",
+     "title": "Shakira - Glastonbury Festival 2010.jpg",
+     "author": "jaswooduk",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakira_-_Glastonbury_Festival_2010.jpg",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shakira_-_Glastonbury_Festival_2010.jpg/500px-Shakira_-_Glastonbury_Festival_2010.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Shakira",
+    "monogram": "S",
+    "question": "Where was Shakira born?",
+    "answerCity": "Barranquilla",
+    "answerCountry": "Colombia",
+    "answerCoordinates": {
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/shakira",
+    "clue": "Look toward northern South America.",
+    "hint": "Her birthplace is in Colombia.",
+    "story": "Shakira was born in Barranquilla, Colombia. Her full name is Shakira Isabel Mebarak Ripoll.",
+    "media": {
+     "discoverUrl": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+     "discoverLabel": "Her work with UNICEF",
+     "sourceName": "UNICEF"
+    }
+   }
+  ],
+  "stories-v2": [
+   {
+    "id": "adele-brit-school",
+    "imageUrl": "/stars/adele.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/adele.jpg",
+     "title": "Adele.jpg",
+     "author": "Mpawsey",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Adele.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Adele",
+    "monogram": "A",
+    "question": "In which city did Adele study at the BRIT School?",
+    "answerCity": "London (Croydon)",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/adele",
+    "clue": "Think of a European capital with a famous performing-arts school in its south.",
+    "hint": "The school is in Croydon, in south London.",
+    "story": "At the BRIT School, Adele recorded three songs for a class project. The demo reached MySpace, where XL Recordings heard it and contacted her. A classroom assignment had become an introduction to a record label.",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "A school project with a much bigger audience",
+    "trivia": "She signed her record deal in 2006, just four months after graduating.",
+    "extraSource": "https://www.brit.croydon.sch.uk/page/?pid=110",
+    "media": {
+     "listenUrl": "https://adele.lnk.to/30outnow",
+     "listenLabel": "30 · choose a music service",
+     "watchUrl": "https://www.youtube.com/watch?v=jDvYDzFOK9A",
+     "watchLabel": "I Drink Wine · official video",
+     "discoverUrl": "https://www.adele.com/",
+     "discoverLabel": "Adele's official website",
+     "sourceName": "Adele / Sony Music · links from adele.com"
+    }
+   },
+   {
+    "id": "naomi-osaka-first-title",
+    "starName": "Naomi Osaka",
+    "monogram": "NO",
+    "category": "Tennis",
+    "question": "Where did Naomi Osaka win her first WTA title in 2018?",
+    "answerCity": "Indian Wells, California",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 33.7176,
+     "longitude": -116.3545
+    },
+    "clue": "This breakthrough happened in the California desert.",
+    "hint": "Look inland from Los Angeles, near Palm Springs.",
+    "story": "At 20, Naomi Osaka reached the Indian Wells final and beat Daria Kasatkina in straight sets. This was her first WTA title, earned on one of the tour's biggest stages.",
+    "sourceUrl": "https://www.wtatennis.com/news/1443720/osaka-conquers-kasatkina-to-win-first-title-in-indian-wells",
+    "chapter": "The first big win",
+    "storyTitle": "A breakthrough in the desert",
+    "trivia": "Both finalists were 20 years old. Osaka won 6–3, 6–2.",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+     "discoverLabel": "Official WTA player profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "burna-boy-stadium",
+    "imageUrl": "/stars/burna-boy.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/burna-boy.jpg",
+     "title": "Burna Boy",
+     "author": "Ameyaw Debrah",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burna_Boy.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Burna_Boy.jpg/500px-Burna_Boy.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Burna Boy",
+    "question": "In which city did Burna Boy headline a UK stadium for the first time in June 2023?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.london-stadium.com/news/2023/november/burna-boy-announces-his-return-to-london-stadium-on-29-june-2024.html",
+    "monogram": "BB",
+    "clue": "Think of a European capital on the River Thames.",
+    "hint": "Find the capital of the United Kingdom.",
+    "story": "Burna Boy's sold-out June 2023 show at London Stadium made him the first African artist to headline a UK stadium. Guests included Stormzy, Dave, J Hus and Popcaan, turning the night into a meeting of musical scenes.",
+    "chapter": "A landmark performance",
+    "storyTitle": "From local beginnings to a stadium stage",
+    "trivia": "Apple Music Live streamed the show, taking that London performance to fans elsewhere."
+   },
+   {
+    "id": "hugh-jackman-drama-school",
+    "starName": "Hugh Jackman",
+    "monogram": "HJ",
+    "category": "Film",
+    "question": "In which city did Hugh Jackman train at the Western Australian Academy of Performing Arts?",
+    "answerCity": "Perth",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -31.9523,
+     "longitude": 115.8613
+    },
+    "clue": "The school's name points to the western side of Australia.",
+    "hint": "Look for Western Australia's capital on the southwest coast.",
+    "story": "Hugh Jackman turned down a part in Neighbours so he could keep developing his acting at Perth's Western Australian Academy of Performing Arts. Before Wolverine, there was a decision to spend more time learning.",
+    "sourceUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+    "chapter": "The turning point",
+    "storyTitle": "He chose the classroom over a TV role",
+    "trivia": "Jackman had already taken up acting as a hobby while he was at school.",
+    "media": {
+     "discoverUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+     "discoverLabel": "Explore Hugh's profile",
+     "sourceName": "National Portrait Gallery, Australia"
+    }
+   },
+   {
+    "id": "messi-youth-club",
+    "imageUrl": "/stars/messi.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/messi.jpg",
+     "title": "Lionel Messi close-up.jpg",
+     "author": "Fanny Schertzer; existing crop by CHUCAO",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Lionel Messi",
+    "monogram": "LM",
+    "question": "In which city did young Lionel Messi join Newell's Old Boys?",
+    "answerCity": "Rosario",
+    "answerCountry": "Argentina",
+    "answerCoordinates": {
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    "category": "Football",
+    "sourceUrl": "https://www.biography.com/athletes/lionel-messi",
+    "clue": "Start in South America, in the country Messi represents.",
+    "hint": "Look in Argentina, northwest of Buenos Aires.",
+    "story": "Messi joined the youth system of Newell's Old Boys in Rosario at eight. His football story began with a local club, long before the international career that made his name familiar around the world.",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "The local team before the world stage",
+    "trivia": "As a young boy, he tagged along when his older brothers played football with their friends.",
+    "media": {
+     "discoverUrl": "https://www.biography.com/athletes/lionel-messi",
+     "discoverLabel": "Read Messi's biography",
+     "sourceName": "Biography.com"
+    }
+   },
+   {
+    "id": "jackie-chan-opera-training",
+    "starName": "Jackie Chan",
+    "monogram": "JC",
+    "category": "Film",
+    "question": "In which city did Jackie Chan train at the China Drama Academy?",
+    "answerCity": "Hong Kong",
+    "answerCountry": "China",
+    "answerCoordinates": {
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    "clue": "This coastal East Asian city became famous for its action cinema.",
+    "hint": "Look for Hong Kong on China's southern coast.",
+    "story": "Jackie Chan entered the China Drama Academy at seven and spent a decade training in Peking Opera. When he left at 17, graduates were turning to film stunt work as opera's popularity declined.",
+    "sourceUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+    "chapter": "An unexpected beginning",
+    "storyTitle": "The action star who trained for opera",
+    "trivia": "His decade of opera training began when he was just seven years old.",
+    "extraSource": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+    "media": {
+     "discoverUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+     "discoverLabel": "Academy honoree profile",
+     "sourceName": "Academy of Motion Picture Arts and Sciences"
+    }
+   },
+   {
+    "id": "rihanna-island-origins",
+    "imageUrl": "/stars/rihanna.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/rihanna.jpg",
+     "title": "Rihanna Met Gala 2017.jpg",
+     "author": "Danilo Lauria",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2017.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Rihanna_Met_Gala_2017.jpg/500px-Rihanna_Met_Gala_2017.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Rihanna",
+    "question": "In which parish of Barbados was Rihanna born?",
+    "answerCity": "St. Michael",
+    "answerCountry": "Barbados",
+    "answerCoordinates": {
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/rihanna",
+    "monogram": "R",
+    "clue": "Find the small Caribbean island east of the main island chain.",
+    "hint": "Aim near Bridgetown on the island's southwest side.",
+    "story": "Rihanna formed a singing group with two classmates. They auditioned for producer Evan Rogers while he was visiting Barbados, and her voice caught his attention. The island was both her birthplace and the setting for an early career opportunity.",
+    "chapter": "Where the story began",
+    "storyTitle": "An audition while a producer was on holiday",
+    "trivia": "By 16, she had moved to Connecticut to work on a demo recording with Rogers.",
+    "media": {
+     "watchUrl": "https://www.rihannanow.com/videos/",
+     "watchLabel": "Official video collection",
+     "discoverUrl": "https://www.biography.com/musicians/rihanna",
+     "discoverLabel": "Read Rihanna's biography",
+     "sourceName": "Rihanna / Roc Nation; Biography.com"
+    }
+   },
+   {
+    "id": "serena-first-slam",
+    "starName": "Serena Williams",
+    "monogram": "SW",
+    "category": "Tennis",
+    "question": "In which city did Serena Williams win her first Grand Slam singles title in 1999?",
+    "answerCity": "New York City",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 40.7128,
+     "longitude": -74.006
+    },
+    "clue": "This city hosts the US Open in Queens.",
+    "hint": "Look for New York City on the northeastern US coast.",
+    "story": "Serena Williams won the 1999 US Open at 17. Earlier in the tournament, she had trailed Kim Clijsters 3–5 in the deciding set before fighting back. Her first major title followed a match she had come close to losing.",
+    "sourceUrl": "https://www.usopen.org/en_US/news/articles/2017-04-21/us_open_moments_sept_4_1999.html",
+    "chapter": "The first big win",
+    "storyTitle": "Seventeen, and already a Grand Slam champion",
+    "trivia": "In that comeback against Clijsters, she won 16 of the final 17 points.",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/legends/230234/serena-williams",
+     "discoverLabel": "Official WTA legend profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "shah-rukh-khan-theatre",
+    "starName": "Shah Rukh Khan",
+    "monogram": "SRK",
+    "category": "Film",
+    "question": "In which city did Shah Rukh Khan develop his acting with Barry John's Theatre Action Group?",
+    "answerCity": "New Delhi",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    "clue": "His early theatre chapter was in a South Asian capital.",
+    "hint": "Find India's capital, north of Mumbai.",
+    "story": "Before his film career, Shah Rukh Khan put his energy into acting with Barry John's Theatre Action Group in Delhi. His early path included theatre and television, rather than an immediate leap into movie stardom.",
+    "sourceUrl": "https://www.fandango.com/people/shah-rukh-khan-347789/biography",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "Before the film sets, there was theatre",
+    "trivia": "Barry John was a British theatre director working in India.",
+    "extraSource": "https://bjas.in/team_member/barry-john/"
+   },
+   {
+    "id": "shakira-origins-giving-back",
+    "imageUrl": "/stars/shakira.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/shakira.jpg",
+     "title": "Shakira - Glastonbury Festival 2010.jpg",
+     "author": "jaswooduk",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakira_-_Glastonbury_Festival_2010.jpg",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shakira_-_Glastonbury_Festival_2010.jpg/500px-Shakira_-_Glastonbury_Festival_2010.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Shakira",
+    "monogram": "S",
+    "question": "Which Colombian city is Shakira's birthplace?",
+    "answerCity": "Barranquilla",
+    "answerCountry": "Colombia",
+    "answerCoordinates": {
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/shakira",
+    "clue": "Look toward Colombia's Caribbean coast.",
+    "hint": "The city is northeast of Cartagena, near the mouth of the Magdalena River.",
+    "story": "Shakira was born in Barranquilla, Colombia. Alongside her music career, she founded the Pies Descalzos Foundation, which supports education for children in Colombia. Her connection to the country extends beyond the stage.",
+    "chapter": "Where the story began",
+    "storyTitle": "A music career with an education mission",
+    "trivia": "She became a UNICEF Goodwill Ambassador in 2003.",
+    "extraSource": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+    "media": {
+     "discoverUrl": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+     "discoverLabel": "Her work with UNICEF",
+     "sourceName": "UNICEF"
+    }
+   }
+  ],
+  "global-v3": [
+   {
+    "id": "adele-brit-school",
+    "imageUrl": "/stars/adele.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/adele.jpg",
+     "title": "Adele.jpg",
+     "author": "Mpawsey",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Adele.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Adele",
+    "monogram": "A",
+    "question": "In which city did Adele study at the BRIT School?",
+    "answerCity": "London (Croydon)",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/adele",
+    "clue": "Think of a European capital with a famous performing-arts school in its south.",
+    "hint": "The school is in Croydon, in south London.",
+    "story": "At the BRIT School, Adele recorded three songs for a class project. The demo reached MySpace, where XL Recordings heard it and contacted her. A classroom assignment had become an introduction to a record label.",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "A school project with a much bigger audience",
+    "trivia": "She signed her record deal in 2006, just four months after graduating.",
+    "extraSource": "https://www.brit.croydon.sch.uk/page/?pid=110",
+    "media": {
+     "listenUrl": "https://adele.lnk.to/30outnow",
+     "listenLabel": "30 · choose a music service",
+     "watchUrl": "https://www.youtube.com/watch?v=jDvYDzFOK9A",
+     "watchLabel": "I Drink Wine · official video",
+     "discoverUrl": "https://www.adele.com/",
+     "discoverLabel": "Adele's official website",
+     "sourceName": "Adele / Sony Music · links from adele.com"
+    }
+   },
+   {
+    "id": "nadia-comaneci-global",
+    "starName": "Nadia Comăneci",
+    "category": "Gymnastics",
+    "question": "Where did Nadia Comăneci earn Olympic gymnastics' first perfect ten in 1976?",
+    "answerCity": "Montréal",
+    "answerCountry": "Canada",
+    "answerCoordinates": {
+     "latitude": 45.5019,
+     "longitude": -73.5674
+    },
+    "clue": "This Canadian city hosted the 1976 Summer Olympics.",
+    "hint": "Look in Quebec, along the St. Lawrence River.",
+    "storyTitle": "A perfect moment",
+    "story": "At fourteen, Romania's Nadia Comăneci earned the first perfect 10 in Olympic gymnastics. The moment happened on the uneven bars in Montréal, making one routine part of Olympic history.",
+    "trivia": "That first perfect score came during the team competition.",
+    "sourceUrl": "https://olympic.ca/games/1976-montreal/",
+    "chapter": "A moment on the map",
+    "monogram": "NC"
+   },
+   {
+    "id": "bong-joon-ho-global",
+    "starName": "Bong Joon-ho",
+    "category": "Film",
+    "question": "In which French city did Bong Joon-ho's Parasite win the Palme d'Or in 2019?",
+    "answerCity": "Cannes",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 43.5528,
+     "longitude": 7.0174
+    },
+    "clue": "Look along France's Mediterranean coast.",
+    "hint": "Find Cannes, southwest of Nice.",
+    "storyTitle": "A festival turning point",
+    "story": "Parasite won the Palme d'Or at the 2019 Cannes Film Festival. The award placed Bong Joon-ho's film at the centre of an international cinema celebration.",
+    "trivia": "The film went on to win Best Director at the 2020 Oscars.",
+    "sourceUrl": "https://www.festival-cannes.com/en/press/press-releases/parasite-the-2019-palme-d-or-winner-triumphs-at-the-oscars-2020/",
+    "chapter": "A moment on the map",
+    "monogram": "BJh"
+   },
+   {
+    "id": "naomi-osaka-first-title",
+    "starName": "Naomi Osaka",
+    "monogram": "NO",
+    "category": "Tennis",
+    "question": "Where did Naomi Osaka win her first WTA title in 2018?",
+    "answerCity": "Indian Wells, California",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 33.7176,
+     "longitude": -116.3545
+    },
+    "clue": "This breakthrough happened in the California desert.",
+    "hint": "Look inland from Los Angeles, near Palm Springs.",
+    "story": "At 20, Naomi Osaka reached the Indian Wells final and beat Daria Kasatkina in straight sets. This was her first WTA title, earned on one of the tour's biggest stages.",
+    "sourceUrl": "https://www.wtatennis.com/news/1443720/osaka-conquers-kasatkina-to-win-first-title-in-indian-wells",
+    "chapter": "The first big win",
+    "storyTitle": "A breakthrough in the desert",
+    "trivia": "Both finalists were 20 years old. Osaka won 6–3, 6–2.",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+     "discoverLabel": "Official WTA player profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "miriam-makeba-global",
+    "starName": "Miriam Makeba",
+    "category": "Music",
+    "question": "Which South African city was Miriam Makeba's birthplace and an early centre of her jazz career?",
+    "answerCity": "Johannesburg",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    "clue": "Look inland in southern Africa.",
+    "hint": "Find Johannesburg in northeastern South Africa.",
+    "storyTitle": "A voice from Sophiatown",
+    "story": "Miriam Makeba was born in Johannesburg and became a professional jazz singer in the 1950s. The city's Sophiatown nightclubs were part of her early musical world.",
+    "trivia": "The University of South Africa named a concert hall after her in 2009.",
+    "sourceUrl": "https://www.unisa.ac.za/sites/corporate/default/Unisa-History-and-Memory-Project/Personalities/All-personalities/Miriam-Makeba",
+    "chapter": "A moment on the map",
+    "monogram": "MM"
+   },
+   {
+    "id": "hayao-miyazaki-global",
+    "starName": "Hayao Miyazaki",
+    "category": "Film",
+    "question": "Where in the Tokyo area is the Ghibli Museum, associated with Hayao Miyazaki's animation world?",
+    "answerCity": "Mitaka, Tokyo",
+    "answerCountry": "Japan",
+    "answerCoordinates": {
+     "latitude": 35.6835,
+     "longitude": 139.5596
+    },
+    "clue": "Look in Japan's capital region.",
+    "hint": "Aim west of central Tokyo, in Mitaka.",
+    "storyTitle": "An animation world you can visit",
+    "story": "The Ghibli Museum in Mitaka gives visitors a place to explore animation beyond a cinema screen. It has exhibition spaces, a reading room and a theatre showing original short films.",
+    "trivia": "Its short-film theatre is called the Saturn Theater.",
+    "sourceUrl": "https://www.ghibli-museum.jp/en/",
+    "chapter": "A moment on the map",
+    "monogram": "HM",
+    "extraSource": "https://www.ghibli-museum.jp/en/kind/"
+   },
+   {
+    "id": "burna-boy-stadium",
+    "imageUrl": "/stars/burna-boy.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/burna-boy.jpg",
+     "title": "Burna Boy",
+     "author": "Ameyaw Debrah",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burna_Boy.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Burna_Boy.jpg/500px-Burna_Boy.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Burna Boy",
+    "question": "In which city did Burna Boy headline a UK stadium for the first time in June 2023?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.london-stadium.com/news/2023/november/burna-boy-announces-his-return-to-london-stadium-on-29-june-2024.html",
+    "monogram": "BB",
+    "clue": "Think of a European capital on the River Thames.",
+    "hint": "Find the capital of the United Kingdom.",
+    "story": "Burna Boy's sold-out June 2023 show at London Stadium made him the first African artist to headline a UK stadium. Guests included Stormzy, Dave, J Hus and Popcaan, turning the night into a meeting of musical scenes.",
+    "chapter": "A landmark performance",
+    "storyTitle": "From local beginnings to a stadium stage",
+    "trivia": "Apple Music Live streamed the show, taking that London performance to fans elsewhere."
+   },
+   {
+    "id": "angelique-kidjo-global",
+    "starName": "Angélique Kidjo",
+    "category": "Music",
+    "question": "In which Beninese town was Angélique Kidjo born?",
+    "answerCity": "Ouidah",
+    "answerCountry": "Benin",
+    "answerCoordinates": {
+     "latitude": 6.3631,
+     "longitude": 2.0851
+    },
+    "clue": "Look along the coast of West Africa.",
+    "hint": "Find southern Benin, west of Cotonou.",
+    "storyTitle": "A creative household",
+    "story": "Angélique Kidjo was born in Ouidah, Benin. Her early surroundings were full of music and performance: her mother was a choreographer and her father played the banjo.",
+    "trivia": "Her brothers had their own orchestra.",
+    "sourceUrl": "https://universalmusic.fr/artistes/20000043083",
+    "chapter": "A moment on the map",
+    "monogram": "AK"
+   },
+   {
+    "id": "lupita-nyong-o-global",
+    "starName": "Lupita Nyong'o",
+    "category": "Film",
+    "question": "In which city was Kenyan-Mexican actor Lupita Nyong'o born?",
+    "answerCity": "Mexico City",
+    "answerCountry": "Mexico",
+    "answerCoordinates": {
+     "latitude": 19.4326,
+     "longitude": -99.1332
+    },
+    "clue": "Her birthplace is in North America, not East Africa.",
+    "hint": "Find Mexico's capital.",
+    "storyTitle": "A story across continents",
+    "story": "Lupita Nyong'o was born in Mexico City and raised in Kenya. Her path connects both places, a reminder that the country associated with a star may not tell you where their story began.",
+    "trivia": "She plays Nakia in Black Panther.",
+    "sourceUrl": "https://www.disneylatino.com/novedades/quien-es-lupita-nyongo-la-actriz-que-interpreta-a-nakia-en-pantera-negra",
+    "chapter": "A moment on the map",
+    "monogram": "LN",
+    "extraSource": "https://africanfilmny.org/directors/lupita-nyongo/"
+   },
+   {
+    "id": "hugh-jackman-drama-school",
+    "starName": "Hugh Jackman",
+    "monogram": "HJ",
+    "category": "Film",
+    "question": "In which city did Hugh Jackman train at the Western Australian Academy of Performing Arts?",
+    "answerCity": "Perth",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -31.9523,
+     "longitude": 115.8613
+    },
+    "clue": "The school's name points to the western side of Australia.",
+    "hint": "Look for Western Australia's capital on the southwest coast.",
+    "story": "Hugh Jackman turned down a part in Neighbours so he could keep developing his acting at Perth's Western Australian Academy of Performing Arts. Before Wolverine, there was a decision to spend more time learning.",
+    "sourceUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+    "chapter": "The turning point",
+    "storyTitle": "He chose the classroom over a TV role",
+    "trivia": "Jackman had already taken up acting as a hobby while he was at school.",
+    "media": {
+     "discoverUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+     "discoverLabel": "Explore Hugh's profile",
+     "sourceName": "National Portrait Gallery, Australia"
+    }
+   },
+   {
+    "id": "youssou-n-dour-global",
+    "starName": "Youssou N'Dour",
+    "category": "Music",
+    "question": "Which Senegalese capital gives its name to Youssou N'Dour's band Super Étoile de Dakar?",
+    "answerCity": "Dakar",
+    "answerCountry": "Senegal",
+    "answerCoordinates": {
+     "latitude": 14.7167,
+     "longitude": -17.4677
+    },
+    "clue": "Look at Africa's western Atlantic edge.",
+    "hint": "Find Senegal's coastal capital.",
+    "storyTitle": "A city carried in a band's name",
+    "story": "Youssou N'Dour's Étoile de Dakar became Super Étoile de Dakar in 1981. His music carried a connection to Senegal to audiences far beyond the city in the band's name.",
+    "trivia": "He became a UNICEF Goodwill Ambassador in 1991.",
+    "sourceUrl": "https://www.unicef.org/goodwill-ambassadors/youssou-ndour",
+    "chapter": "A moment on the map",
+    "monogram": "YN",
+    "media": {
+     "discoverUrl": "https://www.unicef.org/goodwill-ambassadors/youssou-ndour",
+     "discoverLabel": "His work with UNICEF",
+     "sourceName": "UNICEF"
+    }
+   },
+   {
+    "id": "charlize-theron-global",
+    "starName": "Charlize Theron",
+    "category": "Film",
+    "question": "Which South African town is Charlize Theron's birthplace?",
+    "answerCity": "Benoni",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.1885,
+     "longitude": 28.3208
+    },
+    "clue": "Look near Johannesburg in southern Africa.",
+    "hint": "Aim east of Johannesburg.",
+    "storyTitle": "Dance before the screen",
+    "story": "Charlize Theron was born in Benoni, South Africa. Her early artistic training was in ballet, long before the film performances that brought her international recognition.",
+    "trivia": "She began ballet lessons at six.",
+    "sourceUrl": "https://www.biography.com/actors/charlize-theron",
+    "chapter": "A moment on the map",
+    "monogram": "CT"
+   },
+   {
+    "id": "messi-youth-club",
+    "imageUrl": "/stars/messi.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/messi.jpg",
+     "title": "Lionel Messi close-up.jpg",
+     "author": "Fanny Schertzer; existing crop by CHUCAO",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Lionel Messi",
+    "monogram": "LM",
+    "question": "In which city did young Lionel Messi join Newell's Old Boys?",
+    "answerCity": "Rosario",
+    "answerCountry": "Argentina",
+    "answerCoordinates": {
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    "category": "Football",
+    "sourceUrl": "https://www.biography.com/athletes/lionel-messi",
+    "clue": "Start in South America, in the country Messi represents.",
+    "hint": "Look in Argentina, northwest of Buenos Aires.",
+    "story": "Messi joined the youth system of Newell's Old Boys in Rosario at eight. His football story began with a local club, long before the international career that made his name familiar around the world.",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "The local team before the world stage",
+    "trivia": "As a young boy, he tagged along when his older brothers played football with their friends.",
+    "media": {
+     "discoverUrl": "https://www.biography.com/athletes/lionel-messi",
+     "discoverLabel": "Read Messi's biography",
+     "sourceName": "Biography.com"
+    }
+   },
+   {
+    "id": "manny-pacquiao-global",
+    "starName": "Manny Pacquiao",
+    "category": "Boxing",
+    "question": "In which Thai district did Manny Pacquiao win his first world title in 1998?",
+    "answerCity": "Phutthamonthon",
+    "answerCountry": "Thailand",
+    "answerCoordinates": {
+     "latitude": 13.8019,
+     "longitude": 100.2972
+    },
+    "clue": "This breakthrough happened near Thailand's capital.",
+    "hint": "Aim just west of Bangkok.",
+    "storyTitle": "A first championship away from home",
+    "story": "Manny Pacquiao defeated Chatchai Sasakul at the Tonsuk College Grounds in Phutthamonthon. The Filipino boxer won the WBC flyweight championship, the first world title of his career.",
+    "trivia": "He stopped the defending champion in the eighth round.",
+    "sourceUrl": "https://wbcboxing.com/en/a-day-like-today-manny-pacquiao-conquered-his-first-world-crown/",
+    "chapter": "A moment on the map",
+    "monogram": "MP"
+   },
+   {
+    "id": "trevor-noah-global",
+    "starName": "Trevor Noah",
+    "category": "Comedy",
+    "question": "Which South African city shaped Trevor Noah's childhood?",
+    "answerCity": "Johannesburg",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    "clue": "Look inland, near South Africa's northeastern region.",
+    "hint": "Find Johannesburg, which includes Soweto.",
+    "storyTitle": "The place behind the perspective",
+    "story": "Trevor Noah grew up in Johannesburg under apartheid. That upbringing became part of the perspective he brought to comedy and his writing about childhood.",
+    "trivia": "His memoir is titled Born a Crime.",
+    "sourceUrl": "https://www.biography.com/movies-tv/trevor-noah-childhood-apartheid",
+    "chapter": "A moment on the map",
+    "monogram": "TN"
+   },
+   {
+    "id": "jackie-chan-opera-training",
+    "starName": "Jackie Chan",
+    "monogram": "JC",
+    "category": "Film",
+    "question": "In which city did Jackie Chan train at the China Drama Academy?",
+    "answerCity": "Hong Kong",
+    "answerCountry": "China",
+    "answerCoordinates": {
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    "clue": "This coastal East Asian city became famous for its action cinema.",
+    "hint": "Look for Hong Kong on China's southern coast.",
+    "story": "Jackie Chan entered the China Drama Academy at seven and spent a decade training in Peking Opera. When he left at 17, graduates were turning to film stunt work as opera's popularity declined.",
+    "sourceUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+    "chapter": "An unexpected beginning",
+    "storyTitle": "The action star who trained for opera",
+    "trivia": "His decade of opera training began when he was just seven years old.",
+    "extraSource": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+    "media": {
+     "discoverUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+     "discoverLabel": "Academy honoree profile",
+     "sourceName": "Academy of Motion Picture Arts and Sciences"
+    }
+   },
+   {
+    "id": "sachin-tendulkar-global",
+    "starName": "Sachin Tendulkar",
+    "category": "Cricket",
+    "question": "In which city did Sachin Tendulkar celebrate India's 2011 Cricket World Cup final victory?",
+    "answerCity": "Mumbai",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 19.076,
+     "longitude": 72.8777
+    },
+    "clue": "Look on India's west coast.",
+    "hint": "Find Mumbai, home of Wankhede Stadium.",
+    "storyTitle": "A trophy at home",
+    "story": "Sachin Tendulkar's long pursuit of a World Cup ended with India's 2011 victory in Mumbai. After five previous tournament appearances, he celebrated the championship at his home ground.",
+    "trivia": "India beat Sri Lanka in the final.",
+    "sourceUrl": "https://www.bcci.tv/news/article/i-continued-to-chase-my-dream-sachin",
+    "chapter": "A moment on the map",
+    "monogram": "ST"
+   },
+   {
+    "id": "dua-lipa-global",
+    "starName": "Dua Lipa",
+    "category": "Music",
+    "question": "To which city did Dua Lipa return at fifteen to pursue music?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "She moved back from Pristina to a European capital.",
+    "hint": "Find London.",
+    "storyTitle": "A teenage decision",
+    "story": "After living with her family in Pristina, Dua Lipa returned to London at fifteen to pursue music. The move brought her back to the city where she was born.",
+    "trivia": "She initially stayed with a family friend.",
+    "sourceUrl": "https://www.biography.com/musicians/dua-lipa",
+    "chapter": "A moment on the map",
+    "monogram": "DL"
+   },
+   {
+    "id": "rihanna-island-origins",
+    "imageUrl": "/stars/rihanna.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/rihanna.jpg",
+     "title": "Rihanna Met Gala 2017.jpg",
+     "author": "Danilo Lauria",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2017.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Rihanna_Met_Gala_2017.jpg/500px-Rihanna_Met_Gala_2017.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Rihanna",
+    "question": "In which parish of Barbados was Rihanna born?",
+    "answerCity": "St. Michael",
+    "answerCountry": "Barbados",
+    "answerCoordinates": {
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/rihanna",
+    "monogram": "R",
+    "clue": "Find the small Caribbean island east of the main island chain.",
+    "hint": "Aim near Bridgetown on the island's southwest side.",
+    "story": "Rihanna formed a singing group with two classmates. They auditioned for producer Evan Rogers while he was visiting Barbados, and her voice caught his attention. The island was both her birthplace and the setting for an early career opportunity.",
+    "chapter": "Where the story began",
+    "storyTitle": "An audition while a producer was on holiday",
+    "trivia": "By 16, she had moved to Connecticut to work on a demo recording with Rogers.",
+    "media": {
+     "watchUrl": "https://www.rihannanow.com/videos/",
+     "watchLabel": "Official video collection",
+     "discoverUrl": "https://www.biography.com/musicians/rihanna",
+     "discoverLabel": "Read Rihanna's biography",
+     "sourceName": "Rihanna / Roc Nation; Biography.com"
+    }
+   },
+   {
+    "id": "yuzuru-hanyu-global",
+    "starName": "Yuzuru Hanyu",
+    "category": "Figure skating",
+    "question": "In which city did Yuzuru Hanyu win Olympic gold in 2014?",
+    "answerCity": "Sochi",
+    "answerCountry": "Russia",
+    "answerCoordinates": {
+     "latitude": 43.6028,
+     "longitude": 39.7342
+    },
+    "clue": "Look for the Russian Winter Olympic host on the Black Sea.",
+    "hint": "Find Sochi near Russia's southwestern coast.",
+    "storyTitle": "A first for Japan",
+    "story": "Yuzuru Hanyu won men's figure-skating gold at Sochi in 2014. The teenage skater became the first Japanese man to win Olympic gold in the event.",
+    "trivia": "It was Japan's first gold medal of those Winter Games.",
+    "sourceUrl": "https://www.olympics.com.au/news/hanyu-takes-figure-skating-gold/",
+    "chapter": "A moment on the map",
+    "monogram": "YH"
+   },
+   {
+    "id": "freddie-mercury-global",
+    "starName": "Freddie Mercury",
+    "category": "Music",
+    "question": "Which city on Zanzibar was Freddie Mercury born in?",
+    "answerCity": "Stone Town, Zanzibar City",
+    "answerCountry": "Tanzania",
+    "answerCoordinates": {
+     "latitude": -6.1659,
+     "longitude": 39.2026
+    },
+    "clue": "Look off the coast of Tanzania in the Indian Ocean.",
+    "hint": "Aim for Zanzibar City on the island's western shore.",
+    "storyTitle": "Before the name Mercury",
+    "story": "Freddie Mercury was born Farrokh Bulsara on Zanzibar. His path later led through school in India and life in England, crossing cultures before Queen became famous.",
+    "trivia": "His mother encouraged his interest in music and piano lessons.",
+    "sourceUrl": "https://freddiemercury.com/bio/",
+    "chapter": "A moment on the map",
+    "monogram": "FM",
+    "extraSource": "https://freddiemercurymuseum.com/the-museum/",
+    "media": {
+     "discoverUrl": "https://freddiemercury.com/bio/",
+     "discoverLabel": "Official biography",
+     "sourceName": "Freddie Mercury · official website"
+    }
+   },
+   {
+    "id": "serena-first-slam",
+    "starName": "Serena Williams",
+    "monogram": "SW",
+    "category": "Tennis",
+    "question": "In which city did Serena Williams win her first Grand Slam singles title in 1999?",
+    "answerCity": "New York City",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 40.7128,
+     "longitude": -74.006
+    },
+    "clue": "This city hosts the US Open in Queens.",
+    "hint": "Look for New York City on the northeastern US coast.",
+    "story": "Serena Williams won the 1999 US Open at 17. Earlier in the tournament, she had trailed Kim Clijsters 3–5 in the deciding set before fighting back. Her first major title followed a match she had come close to losing.",
+    "sourceUrl": "https://www.usopen.org/en_US/news/articles/2017-04-21/us_open_moments_sept_4_1999.html",
+    "chapter": "The first big win",
+    "storyTitle": "Seventeen, and already a Grand Slam champion",
+    "trivia": "In that comeback against Clijsters, she won 16 of the final 17 points.",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/legends/230234/serena-williams",
+     "discoverLabel": "Official WTA legend profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "roger-federer-global",
+    "starName": "Roger Federer",
+    "category": "Tennis",
+    "question": "In which city did Roger Federer win his first Wimbledon singles title in 2003?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "The tournament takes place in a European capital.",
+    "hint": "Find London in southeastern England.",
+    "storyTitle": "The first major",
+    "story": "Roger Federer's first Grand Slam singles title came on Wimbledon's grass courts in 2003. London became the setting for the opening major victory of his career.",
+    "trivia": "He was twenty-one when he won that title.",
+    "sourceUrl": "https://www.atptour.com/-/media/files/media-guide/2022/2022-atp-media-guide-rankings-stats-results-12-january.pdf",
+    "chapter": "A moment on the map",
+    "monogram": "RF"
+   },
+   {
+    "id": "bob-marley-global",
+    "starName": "Bob Marley",
+    "category": "Music",
+    "question": "In which Jamaican village was Bob Marley born?",
+    "answerCity": "Nine Mile",
+    "answerCountry": "Jamaica",
+    "answerCoordinates": {
+     "latitude": 18.2975,
+     "longitude": -77.2786
+    },
+    "clue": "Look inland in the northern half of Jamaica.",
+    "hint": "Aim south of the north-coast town of Runaway Bay.",
+    "storyTitle": "A village behind a worldwide voice",
+    "story": "Bob Marley was born in Nine Mile in Jamaica's St. Ann parish. The rural community's storytelling traditions form part of the background to a musician whose work travelled around the world.",
+    "trivia": "Marley's Exodus was named album of the century by Time in 1999.",
+    "sourceUrl": "https://www.bobmarley.com/history/",
+    "chapter": "A moment on the map",
+    "monogram": "BM",
+    "media": {
+     "discoverUrl": "https://www.bobmarley.com/history/",
+     "discoverLabel": "His life and legacy",
+     "sourceName": "Bob Marley · official website"
+    }
+   },
+   {
+    "id": "shah-rukh-khan-theatre",
+    "starName": "Shah Rukh Khan",
+    "monogram": "SRK",
+    "category": "Film",
+    "question": "In which city did Shah Rukh Khan develop his acting with Barry John's Theatre Action Group?",
+    "answerCity": "New Delhi",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    "clue": "His early theatre chapter was in a South Asian capital.",
+    "hint": "Find India's capital, north of Mumbai.",
+    "story": "Before his film career, Shah Rukh Khan put his energy into acting with Barry John's Theatre Action Group in Delhi. His early path included theatre and television, rather than an immediate leap into movie stardom.",
+    "sourceUrl": "https://www.fandango.com/people/shah-rukh-khan-347789/biography",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "Before the film sets, there was theatre",
+    "trivia": "Barry John was a British theatre director working in India.",
+    "extraSource": "https://bjas.in/team_member/barry-john/"
+   },
+   {
+    "id": "rafael-nadal-global",
+    "starName": "Rafael Nadal",
+    "category": "Tennis",
+    "question": "In which city did Rafael Nadal win his first Roland-Garros title in 2005?",
+    "answerCity": "Paris",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    "clue": "Look for a European capital famous for a clay-court major.",
+    "hint": "Find the capital of France.",
+    "storyTitle": "A teenager on the clay",
+    "story": "Rafael Nadal won his first Roland-Garros trophy in Paris at nineteen. It was his first appearance at the tournament, an unusually strong introduction to a Grand Slam stage.",
+    "trivia": "An elbow injury had prevented his planned Roland-Garros debut in 2003.",
+    "sourceUrl": "https://www.atptour.com/en/news/nadal-remember-paris-deuce-roland-garros-2005-michael-chang",
+    "chapter": "A moment on the map",
+    "monogram": "RN"
+   },
+   {
+    "id": "bjork-global",
+    "starName": "Björk",
+    "category": "Music",
+    "question": "Which northern capital is Björk's birthplace?",
+    "answerCity": "Reykjavík",
+    "answerCountry": "Iceland",
+    "answerCoordinates": {
+     "latitude": 64.1466,
+     "longitude": -21.9426
+    },
+    "clue": "Look on an island in the North Atlantic.",
+    "hint": "Find Iceland's capital.",
+    "storyTitle": "Before the solo experiments",
+    "story": "Björk was born in Reykjavík. Before her internationally known solo work, she was a member of the Sugarcubes, connecting her later career to Iceland's band scene.",
+    "trivia": "Her 1993 album Debut was her first solo album as an adult.",
+    "sourceUrl": "https://www.biography.com/musicians/bjork",
+    "chapter": "A moment on the map",
+    "monogram": "B"
+   },
+   {
+    "id": "shakira-origins-giving-back",
+    "imageUrl": "/stars/shakira.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/shakira.jpg",
+     "title": "Shakira - Glastonbury Festival 2010.jpg",
+     "author": "jaswooduk",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakira_-_Glastonbury_Festival_2010.jpg",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shakira_-_Glastonbury_Festival_2010.jpg/500px-Shakira_-_Glastonbury_Festival_2010.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Shakira",
+    "monogram": "S",
+    "question": "Which Colombian city is Shakira's birthplace?",
+    "answerCity": "Barranquilla",
+    "answerCountry": "Colombia",
+    "answerCoordinates": {
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/shakira",
+    "clue": "Look toward Colombia's Caribbean coast.",
+    "hint": "The city is northeast of Cartagena, near the mouth of the Magdalena River.",
+    "story": "Shakira was born in Barranquilla, Colombia. Alongside her music career, she founded the Pies Descalzos Foundation, which supports education for children in Colombia. Her connection to the country extends beyond the stage.",
+    "chapter": "Where the story began",
+    "storyTitle": "A music career with an education mission",
+    "trivia": "She became a UNICEF Goodwill Ambassador in 2003.",
+    "extraSource": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+    "media": {
+     "discoverUrl": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+     "discoverLabel": "Her work with UNICEF",
+     "sourceName": "UNICEF"
+    }
+   },
+   {
+    "id": "novak-djokovic-global",
+    "starName": "Novak Djokovic",
+    "category": "Tennis",
+    "question": "Where did Novak Djokovic win his first Grand Slam singles title in 2008?",
+    "answerCity": "Melbourne",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    "clue": "Think of the Australian Open's home city.",
+    "hint": "Look on Australia's southeastern coast, southwest of Sydney.",
+    "storyTitle": "The first major breakthrough",
+    "story": "Novak Djokovic's first Grand Slam singles title came at the 2008 Australian Open in Melbourne. He had reached the US Open final only a few months earlier.",
+    "trivia": "He was twenty when he won in Melbourne.",
+    "sourceUrl": "https://www.atptour.com/en/news/djokovic-australian-open-2023-22-grand-slams-longform",
+    "chapter": "A moment on the map",
+    "monogram": "ND"
+   },
+   {
+    "id": "lorde-global",
+    "starName": "Lorde",
+    "category": "Music",
+    "question": "Which New Zealand city includes Takapuna, where Lorde was born?",
+    "answerCity": "Auckland",
+    "answerCountry": "New Zealand",
+    "answerCoordinates": {
+     "latitude": -36.8485,
+     "longitude": 174.7633
+    },
+    "clue": "Look toward the north of New Zealand's North Island.",
+    "hint": "Find Auckland.",
+    "storyTitle": "A school-stage beginning",
+    "story": "Lorde was born in Takapuna, Auckland. A school talent-show win with a friend led to a local radio appearance, an early step before international attention.",
+    "trivia": "Her birth name is Ella Yelich-O'Connor.",
+    "sourceUrl": "https://www.biography.com/musicians/lorde",
+    "chapter": "A moment on the map",
+    "monogram": "L"
+   },
+   {
+    "id": "celine-dion-global",
+    "starName": "Céline Dion",
+    "category": "Music",
+    "question": "In which Quebec town did Céline Dion's story begin?",
+    "answerCity": "Charlemagne",
+    "answerCountry": "Canada",
+    "answerCoordinates": {
+     "latitude": 45.7167,
+     "longitude": -73.4833
+    },
+    "clue": "Start in French-speaking Canada, near Montréal.",
+    "hint": "Look just northeast of Montréal.",
+    "storyTitle": "A family full of music",
+    "story": "Céline Dion grew up in Charlemagne as the youngest of fourteen children. Her family performed together, and at twelve she wrote her first song with her mother and brother Jacques.",
+    "trivia": "She won a singing competition in Tokyo at fourteen.",
+    "sourceUrl": "https://www.celinedion.com/about/biography/",
+    "chapter": "A moment on the map",
+    "monogram": "CD",
+    "media": {
+     "listenUrl": "https://www.celinedion.com/music/",
+     "listenLabel": "Official music catalogue",
+     "watchUrl": "https://www.celinedion.com/video/",
+     "watchLabel": "Official video collection",
+     "discoverUrl": "https://www.celinedion.com/about/biography/",
+     "discoverLabel": "Céline's official biography",
+     "sourceName": "Céline Dion · official website"
+    }
+   },
+   {
+    "id": "li-na-global",
+    "starName": "Li Na",
+    "category": "Tennis",
+    "question": "In which city did Li Na win the 2011 French Open?",
+    "answerCity": "Paris",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    "clue": "Look for the home of Roland-Garros.",
+    "hint": "Find France's capital.",
+    "storyTitle": "A breakthrough felt far beyond the court",
+    "story": "Li Na's 2011 Roland-Garros victory in Paris made her the first Asian player to win a Grand Slam singles title. Her run helped bring women's tennis to a wider audience in China.",
+    "trivia": "She had never won a clay-court title before that tournament.",
+    "sourceUrl": "https://www.wtatennis.com/news/1675765/li-na-becomes-asias-first-grand-slam-champion-in-historic-2011-triumph",
+    "chapter": "A moment on the map",
+    "monogram": "LN"
+   },
+   {
+    "id": "taika-waititi-global",
+    "starName": "Taika Waititi",
+    "category": "Film",
+    "question": "In which city did Taika Waititi earn his degree in theatre and film?",
+    "answerCity": "Wellington",
+    "answerCountry": "New Zealand",
+    "answerCoordinates": {
+     "latitude": -41.2866,
+     "longitude": 174.7756
+    },
+    "clue": "Look at the southern end of New Zealand's North Island.",
+    "hint": "Find the country's capital.",
+    "storyTitle": "A degree before the director's chair",
+    "story": "Taika Waititi graduated from Victoria University of Wellington with a degree in theatre and film. His later work included films such as Boy and Jojo Rabbit.",
+    "trivia": "He won an adapted-screenplay Oscar for Jojo Rabbit.",
+    "sourceUrl": "https://www.wgtn.ac.nz/fhss/study/alumni/distinguished-alumni",
+    "chapter": "A moment on the map",
+    "monogram": "TW"
+   },
+   {
+    "id": "bad-bunny-global",
+    "starName": "Bad Bunny",
+    "category": "Music",
+    "question": "In which Puerto Rican town did Bad Bunny work at a supermarket before fame?",
+    "answerCity": "Vega Baja",
+    "answerCountry": "Puerto Rico",
+    "answerCoordinates": {
+     "latitude": 18.4442,
+     "longitude": -66.3877
+    },
+    "clue": "Head to the northern coast of a Caribbean island.",
+    "hint": "Look west of San Juan in Puerto Rico.",
+    "storyTitle": "Songs between supermarket shifts",
+    "story": "Before global stages, Bad Bunny worked at a supermarket in Vega Baja. His former workplace became a stop for visiting fans, connecting a worldwide music career to an ordinary local job.",
+    "trivia": "He left the supermarket job in 2016.",
+    "sourceUrl": "https://apnews.com/article/7e33e7b35e07afe7fd33b0b8c54fed6b",
+    "chapter": "A moment on the map",
+    "monogram": "BB"
+   },
+   {
+    "id": "psy-global",
+    "starName": "PSY",
+    "category": "Music",
+    "question": "In which city is Gangnam, the district behind PSY's Gangnam Style?",
+    "answerCity": "Seoul",
+    "answerCountry": "South Korea",
+    "answerCoordinates": {
+     "latitude": 37.5665,
+     "longitude": 126.978
+    },
+    "clue": "Look for an East Asian capital.",
+    "hint": "Find South Korea's capital.",
+    "storyTitle": "A real place behind a global song",
+    "story": "Gangnam is a district of Seoul, not an imaginary setting. PSY's hit brought worldwide attention to an area associated with shopping, entertainment and business.",
+    "trivia": "Gangnam Station and its surroundings are among Seoul's busiest areas.",
+    "sourceUrl": "https://english.seoul.go.kr/gangnam-station/",
+    "chapter": "A moment on the map",
+    "monogram": "P"
+   },
+   {
+    "id": "kylie-minogue-global",
+    "starName": "Kylie Minogue",
+    "category": "Music",
+    "question": "Which Australian city is Kylie Minogue's birthplace?",
+    "answerCity": "Melbourne",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    "clue": "Look in the southeastern state of Victoria.",
+    "hint": "Find Melbourne.",
+    "storyTitle": "Television before the pop career",
+    "story": "Kylie Minogue was born in Melbourne and gained fame playing Charlene in Neighbours. The television role came before the recording career that made her known worldwide.",
+    "trivia": "Her younger sister Dannii also became a performer.",
+    "sourceUrl": "https://www.portrait.gov.au/people/kylie-minogue-1968",
+    "chapter": "A moment on the map",
+    "monogram": "KM",
+    "extraSource": "https://australian.museum/publications/200-treasures/100-people/kylie-minogue/",
+    "media": {
+     "discoverUrl": "https://www.portrait.gov.au/people/kylie-minogue-1968",
+     "discoverLabel": "Explore Kylie's profile",
+     "sourceName": "National Portrait Gallery, Australia"
+    }
+   },
+   {
+    "id": "taylor-swift-global",
+    "starName": "Taylor Swift",
+    "category": "Music",
+    "question": "In which city is the Bluebird Cafe, an early turning point for Taylor Swift?",
+    "answerCity": "Nashville",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 36.1627,
+     "longitude": -86.7816
+    },
+    "clue": "Think of an American city closely associated with country music.",
+    "hint": "Find Nashville in Tennessee.",
+    "storyTitle": "A small room with a big future",
+    "story": "A performance at Nashville's Bluebird Cafe brought Taylor Swift to the attention of Scott Borchetta. An intimate songwriter venue became part of the story behind a much larger career.",
+    "trivia": "The Bluebird has also hosted career moments for Garth Brooks and Keith Urban.",
+    "sourceUrl": "https://bluebirdcafe.com/about/history/",
+    "chapter": "A moment on the map",
+    "monogram": "TS"
+   },
+   {
+    "id": "lisa-global",
+    "starName": "Lisa",
+    "category": "Music",
+    "question": "Which city provided the Yaowarat backdrop for Lisa's Rockstar video?",
+    "answerCity": "Bangkok",
+    "answerCountry": "Thailand",
+    "answerCoordinates": {
+     "latitude": 13.7563,
+     "longitude": 100.5018
+    },
+    "clue": "This Southeast Asian capital has a famous Chinatown.",
+    "hint": "Find Thailand's capital.",
+    "storyTitle": "A music video becomes a travel map",
+    "story": "Lisa's Rockstar video put Bangkok's Yaowarat district in the spotlight. Its appearance prompted tourism interest in the real streets behind the performance.",
+    "trivia": "Thai tourism officials also highlighted nearby neighbourhoods such as Talat Noi.",
+    "sourceUrl": "https://thailand.prd.go.th/en/content/category/detail/id/52/iid/302274",
+    "chapter": "A moment on the map",
+    "monogram": "L"
+   },
+   {
+    "id": "salma-hayek-global",
+    "starName": "Salma Hayek",
+    "category": "Film",
+    "question": "Which Mexican port city is Salma Hayek's birthplace?",
+    "answerCity": "Coatzacoalcos",
+    "answerCountry": "Mexico",
+    "answerCoordinates": {
+     "latitude": 18.1345,
+     "longitude": -94.458
+    },
+    "clue": "Look on Mexico's Gulf coast, in Veracruz.",
+    "hint": "Aim near the southern end of the Gulf of Mexico.",
+    "storyTitle": "A television star before Hollywood",
+    "story": "Salma Hayek was born in Coatzacoalcos. Her starring role in the Mexican television series Teresa brought her fame at home before her international film career.",
+    "trivia": "Teresa began in 1989.",
+    "sourceUrl": "https://www.imdb.com/name/nm0000161/bio/",
+    "chapter": "A moment on the map",
+    "monogram": "SH"
+   },
+   {
+    "id": "beyonce-global",
+    "starName": "Beyoncé",
+    "category": "Music",
+    "question": "Which Texas city is Beyoncé's birthplace?",
+    "answerCity": "Houston",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 29.7604,
+     "longitude": -95.3698
+    },
+    "clue": "Look in the southern United States, near the Gulf coast.",
+    "hint": "Find Houston in southeastern Texas.",
+    "storyTitle": "Before the solo spotlight",
+    "story": "Beyoncé's story began in Houston. Her early group Girls' Tyme was part of a path that led through Destiny's Child to a solo career, drawing on a long tradition of Black girl groups.",
+    "trivia": "Her daughter Blue Ivy received a songwriting credit on Brown Skin Girl.",
+    "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/beyonce-knowles-carter",
+    "chapter": "A moment on the map",
+    "monogram": "B",
+    "media": {
+     "discoverUrl": "https://www.womenshistory.org/education-resources/biographies/beyonce-knowles-carter",
+     "discoverLabel": "Explore Beyoncé's story",
+     "sourceName": "National Women's History Museum"
+    }
+   },
+   {
+    "id": "a-r-rahman-global",
+    "starName": "A. R. Rahman",
+    "category": "Music",
+    "question": "In which city did A. R. Rahman establish his Panchathan Record Inn studio?",
+    "answerCity": "Chennai",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 13.0827,
+     "longitude": 80.2707
+    },
+    "clue": "Look on India's southeastern coast.",
+    "hint": "Find Chennai in Tamil Nadu.",
+    "storyTitle": "A studio at the start of a film-music career",
+    "story": "A. R. Rahman's Chennai studio became a place to compose jingles and film music. His early work there helped set the course for a career reaching from Indian cinema to international productions.",
+    "trivia": "His music for Slumdog Millionaire won two Academy Awards.",
+    "sourceUrl": "https://masterworksbroadway.com/artist/a-r-rahman-0/",
+    "chapter": "A moment on the map",
+    "monogram": "ARR",
+    "media": {
+     "discoverUrl": "https://masterworksbroadway.com/artist/a-r-rahman-0/",
+     "discoverLabel": "Artist profile",
+     "sourceName": "Masterworks Broadway"
+    }
+   },
+   {
+    "id": "penelope-cruz-global",
+    "starName": "Penélope Cruz",
+    "category": "Film",
+    "question": "Near which Spanish capital was Penélope Cruz born in Alcobendas?",
+    "answerCity": "Madrid (Alcobendas)",
+    "answerCountry": "Spain",
+    "answerCoordinates": {
+     "latitude": 40.5373,
+     "longitude": -3.6372
+    },
+    "clue": "Look near the centre of the Iberian Peninsula.",
+    "hint": "Find Madrid; Alcobendas is just to its north.",
+    "storyTitle": "Years of dance before acting",
+    "story": "Penélope Cruz was born in Alcobendas near Madrid. Her early training centred on dance, including nine years of classical ballet, before her film career developed.",
+    "trivia": "She also studied theatre at Cristina Rota's school.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+    "chapter": "A moment on the map",
+    "monogram": "PC"
+   },
+   {
+    "id": "usain-bolt-global",
+    "starName": "Usain Bolt",
+    "category": "Athletics",
+    "question": "In which city did Usain Bolt win the Olympic 100 metres in a world-record 9.69 seconds in 2008?",
+    "answerCity": "Beijing",
+    "answerCountry": "China",
+    "answerCoordinates": {
+     "latitude": 39.9042,
+     "longitude": 116.4074
+    },
+    "clue": "Think of the East Asian host of the 2008 Summer Olympics.",
+    "hint": "Find China's capital.",
+    "storyTitle": "Less than ten seconds",
+    "story": "At the 2008 Olympics in Beijing, Usain Bolt won the men's 100 metres in 9.69 seconds. That world-record run turned a short race into an enduring sporting moment.",
+    "trivia": "The result was recorded at Beijing's National Stadium.",
+    "sourceUrl": "https://worldathletics.org/competitions/olympic-games/the-xxix-olympic-games-6977748/results/men/100-metres/final/result",
+    "chapter": "A moment on the map",
+    "monogram": "UB"
+   },
+   {
+    "id": "priyanka-chopra-global",
+    "starName": "Priyanka Chopra",
+    "category": "Film",
+    "question": "In which city was Priyanka Chopra crowned Miss World in 2000?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "This early career milestone happened in a European capital.",
+    "hint": "Find the capital of the United Kingdom.",
+    "storyTitle": "A crown before the film career",
+    "story": "Priyanka Chopra won Miss World in London in 2000. The event was the fiftieth edition of the competition, years before her career reached international television and film audiences.",
+    "trivia": "She was crowned by another Indian winner, Yukta Mookhey.",
+    "sourceUrl": "https://www.missworld.com/contestants/2000",
+    "chapter": "A moment on the map",
+    "monogram": "PC"
+   },
+   {
+    "id": "cristiano-ronaldo-global",
+    "starName": "Cristiano Ronaldo",
+    "category": "Football",
+    "question": "Which island city is Cristiano Ronaldo's birthplace?",
+    "answerCity": "Funchal",
+    "answerCountry": "Portugal",
+    "answerCoordinates": {
+     "latitude": 32.6669,
+     "longitude": -16.9241
+    },
+    "clue": "Look in the Atlantic, southwest of mainland Portugal.",
+    "hint": "Find Funchal on Madeira.",
+    "storyTitle": "An island starting point",
+    "story": "Cristiano Ronaldo was born in Funchal on Madeira. His football career later took him to major European clubs, including a spell at Real Madrid.",
+    "trivia": "He won four Champions League titles with Real Madrid.",
+    "sourceUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro",
+    "chapter": "A moment on the map",
+    "monogram": "CR",
+    "media": {
+     "discoverUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro",
+     "discoverLabel": "Real Madrid legend profile",
+     "sourceName": "Real Madrid"
+    }
+   },
+   {
+    "id": "eliud-kipchoge-global",
+    "starName": "Eliud Kipchoge",
+    "category": "Athletics",
+    "question": "In which city did Eliud Kipchoge complete the INEOS sub-two-hour marathon challenge?",
+    "answerCity": "Vienna",
+    "answerCountry": "Austria",
+    "answerCoordinates": {
+     "latitude": 48.2082,
+     "longitude": 16.3738
+    },
+    "clue": "Look for a central European capital on the Danube.",
+    "hint": "Find the capital of Austria.",
+    "storyTitle": "A barrier crossed",
+    "story": "In Vienna in 2019, Eliud Kipchoge covered the marathon distance in under two hours. The specially organised INEOS challenge used planned pacing and support; it was a demonstration event, not an official marathon world record.",
+    "trivia": "His finishing time was 1 hour, 59 minutes and 40.2 seconds.",
+    "sourceUrl": "https://www.ineos159challenge.com/",
+    "chapter": "A moment on the map",
+    "monogram": "EK",
+    "extraSource": "https://www.axios.com/2019/10/12/kenyas-eliud-kipchoge-2-hour-marathon-record"
+   },
+   {
+    "id": "deepika-padukone-global",
+    "starName": "Deepika Padukone",
+    "category": "Film",
+    "question": "In which European capital was Deepika Padukone born?",
+    "answerCity": "Copenhagen",
+    "answerCountry": "Denmark",
+    "answerCoordinates": {
+     "latitude": 55.6761,
+     "longitude": 12.5683
+    },
+    "clue": "Her birthplace is in Scandinavia.",
+    "hint": "Find Denmark's capital.",
+    "storyTitle": "An unexpected starting point",
+    "story": "Deepika Padukone was born in Copenhagen, Denmark. Her childhood interests included badminton, and her father Prakash Padukone was a badminton champion.",
+    "trivia": "She discussed both Copenhagen and badminton in her Vogue 73 Questions interview.",
+    "sourceUrl": "https://www.vogue.com/video/watch/deepika-padukone-73-questions",
+    "chapter": "A moment on the map",
+    "monogram": "DP"
+   },
+   {
+    "id": "mohamed-salah-global",
+    "starName": "Mohamed Salah",
+    "category": "Football",
+    "question": "In which Egyptian city did Mohamed Salah develop with El Mokawloon?",
+    "answerCity": "Cairo",
+    "answerCountry": "Egypt",
+    "answerCoordinates": {
+     "latitude": 30.0444,
+     "longitude": 31.2357
+    },
+    "clue": "Look for a North African capital on the Nile.",
+    "hint": "Find Egypt's capital.",
+    "storyTitle": "The youth team before Europe",
+    "story": "Mohamed Salah developed in El Mokawloon's youth teams in Cairo. He made his senior debut at seventeen, before the moves that brought him to European football.",
+    "trivia": "His first senior season included five appearances.",
+    "sourceUrl": "https://members.liverpoolfc.com/team/first-team/player/mohamed-salah",
+    "chapter": "A moment on the map",
+    "monogram": "MS",
+    "media": {
+     "discoverUrl": "https://members.liverpoolfc.com/team/first-team/player/mohamed-salah",
+     "discoverLabel": "Liverpool player profile",
+     "sourceName": "Liverpool FC"
+    }
+   },
+   {
+    "id": "simone-biles-global",
+    "starName": "Simone Biles",
+    "category": "Gymnastics",
+    "question": "In which Belgian city did Simone Biles win her first world all-around title in 2013?",
+    "answerCity": "Antwerp",
+    "answerCountry": "Belgium",
+    "answerCoordinates": {
+     "latitude": 51.2194,
+     "longitude": 4.4025
+    },
+    "clue": "Look for a port city in northwestern Europe.",
+    "hint": "Find northern Belgium, north of Brussels.",
+    "storyTitle": "The beginning of a world-title story",
+    "story": "Simone Biles won the all-around title at the 2013 World Championships in Antwerp. Teammate Kyla Ross took silver, giving the United States the top two places.",
+    "trivia": "Biles also won floor gold at those championships.",
+    "sourceUrl": "https://usagym.org/biles-ross-finish-one-two-in-womens-all-around-finals/",
+    "chapter": "A moment on the map",
+    "monogram": "SB",
+    "extraSource": "https://members.usagym.org/pages/athletes/athleteListDetail.html?id=164887"
+   },
+   {
+    "id": "michelle-yeoh-global",
+    "starName": "Michelle Yeoh",
+    "category": "Film",
+    "question": "Which Malaysian city is Michelle Yeoh's birthplace?",
+    "answerCity": "Ipoh",
+    "answerCountry": "Malaysia",
+    "answerCoordinates": {
+     "latitude": 4.5975,
+     "longitude": 101.0901
+    },
+    "clue": "Look on the western side of the Malay Peninsula.",
+    "hint": "Find Ipoh, north of Kuala Lumpur.",
+    "storyTitle": "Ballet before action films",
+    "story": "Michelle Yeoh was born in Ipoh, Malaysia. Before becoming known for action films, she trained in ballet and went to London's Royal Academy of Dance as a teenager.",
+    "trivia": "She moved to England at fifteen to continue her dance training.",
+    "sourceUrl": "https://www.biography.com/actor/michelle-yeoh",
+    "chapter": "A moment on the map",
+    "monogram": "MY"
+   }
+  ],
+  "global-v4": [
+   {
+    "id": "adele-brit-school",
+    "imageUrl": "/stars/adele.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/adele.jpg",
+     "title": "Adele.jpg",
+     "author": "Mpawsey",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Adele.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Adele",
+    "monogram": "A",
+    "question": "In which city did Adele study at the BRIT School?",
+    "answerCity": "London (Croydon)",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/adele",
+    "clue": "Think of a European capital with a famous performing-arts school in its south.",
+    "hint": "The school is in Croydon, in south London.",
+    "story": "At the BRIT School, Adele recorded three songs for a class project. The demo reached MySpace, where XL Recordings heard it and contacted her. A classroom assignment had become an introduction to a record label.",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "A school project with a much bigger audience",
+    "trivia": "She signed her record deal in 2006, just four months after graduating.",
+    "extraSource": "https://www.brit.croydon.sch.uk/page/?pid=110",
+    "media": {
+     "listenUrl": "https://adele.lnk.to/30outnow",
+     "listenLabel": "30 · choose a music service",
+     "watchUrl": "https://www.youtube.com/watch?v=jDvYDzFOK9A",
+     "watchLabel": "I Drink Wine · official video",
+     "discoverUrl": "https://www.adele.com/",
+     "discoverLabel": "Adele's official website",
+     "sourceName": "Adele / Sony Music · links from adele.com"
+    }
+   },
+   {
+    "id": "dua-lipa-global",
+    "starName": "Dua Lipa",
+    "category": "Music",
+    "question": "To which city did Dua Lipa return at fifteen to pursue music?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "She moved back from Pristina to a European capital.",
+    "hint": "Find London.",
+    "storyTitle": "A teenage decision",
+    "story": "After living with her family in Pristina, Dua Lipa returned to London at fifteen to pursue music. The move brought her back to the city where she was born.",
+    "trivia": "She initially stayed with a family friend.",
+    "sourceUrl": "https://www.biography.com/musicians/dua-lipa",
+    "chapter": "A moment on the map",
+    "monogram": "DL"
+   },
+   {
+    "id": "psy-global",
+    "starName": "PSY",
+    "category": "Music",
+    "question": "In which city is Gangnam, the district behind PSY's Gangnam Style?",
+    "answerCity": "Seoul",
+    "answerCountry": "South Korea",
+    "answerCoordinates": {
+     "latitude": 37.5665,
+     "longitude": 126.978
+    },
+    "clue": "Look for an East Asian capital.",
+    "hint": "Find South Korea's capital.",
+    "storyTitle": "A real place behind a global song",
+    "story": "Gangnam is a district of Seoul, not an imaginary setting. PSY's hit brought worldwide attention to an area associated with shopping, entertainment and business.",
+    "trivia": "Gangnam Station and its surroundings are among Seoul's busiest areas.",
+    "sourceUrl": "https://english.seoul.go.kr/gangnam-station/",
+    "chapter": "A moment on the map",
+    "monogram": "P"
+   },
+   {
+    "id": "rebeca-andrade-expanded",
+    "starName": "Rebeca Andrade",
+    "category": "Gymnastics",
+    "question": "In which city did Rebeca Andrade win Olympic floor gold in 2024?",
+    "answerCity": "Paris",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    "clue": "Think of the host of the 2024 Summer Olympics.",
+    "hint": "Find France's capital.",
+    "storyTitle": "The final routine brings gold",
+    "story": "Brazil's Rebeca Andrade won floor gold at the Paris Olympics. Her performance at Bercy Arena finished ahead of Simone Biles, bringing a golden end to her competition.",
+    "trivia": "Her winning score was 14.166.",
+    "sourceUrl": "https://www.cob.org.br/comunicacao/noticias/na-ultima-danca-rebeca-andrade-e-ouro-no-solo-e-se-isola-como-maior-medalhista-do-brasil-em-jogos-olimpicos-1",
+    "chapter": "A moment on the map",
+    "monogram": "RA"
+   },
+   {
+    "id": "naomi-osaka-first-title",
+    "starName": "Naomi Osaka",
+    "monogram": "NO",
+    "category": "Tennis",
+    "question": "Where did Naomi Osaka win her first WTA title in 2018?",
+    "answerCity": "Indian Wells, California",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 33.7176,
+     "longitude": -116.3545
+    },
+    "clue": "This breakthrough happened in the California desert.",
+    "hint": "Look inland from Los Angeles, near Palm Springs.",
+    "story": "At 20, Naomi Osaka reached the Indian Wells final and beat Daria Kasatkina in straight sets. This was her first WTA title, earned on one of the tour's biggest stages.",
+    "sourceUrl": "https://www.wtatennis.com/news/1443720/osaka-conquers-kasatkina-to-win-first-title-in-indian-wells",
+    "chapter": "The first big win",
+    "storyTitle": "A breakthrough in the desert",
+    "trivia": "Both finalists were 20 years old. Osaka won 6–3, 6–2.",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+     "discoverLabel": "Official WTA player profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "freddie-mercury-global",
+    "starName": "Freddie Mercury",
+    "category": "Music",
+    "question": "Which city on Zanzibar was Freddie Mercury born in?",
+    "answerCity": "Stone Town, Zanzibar City",
+    "answerCountry": "Tanzania",
+    "answerCoordinates": {
+     "latitude": -6.1659,
+     "longitude": 39.2026
+    },
+    "clue": "Look off the coast of Tanzania in the Indian Ocean.",
+    "hint": "Aim for Zanzibar City on the island's western shore.",
+    "storyTitle": "Before the name Mercury",
+    "story": "Freddie Mercury was born Farrokh Bulsara on Zanzibar. His path later led through school in India and life in England, crossing cultures before Queen became famous.",
+    "trivia": "His mother encouraged his interest in music and piano lessons.",
+    "sourceUrl": "https://freddiemercury.com/bio/",
+    "chapter": "A moment on the map",
+    "monogram": "FM",
+    "extraSource": "https://freddiemercurymuseum.com/the-museum/",
+    "media": {
+     "discoverUrl": "https://freddiemercury.com/bio/",
+     "discoverLabel": "Official biography",
+     "sourceName": "Freddie Mercury · official website"
+    }
+   },
+   {
+    "id": "lisa-global",
+    "starName": "Lisa",
+    "category": "Music",
+    "question": "Which city provided the Yaowarat backdrop for Lisa's Rockstar video?",
+    "answerCity": "Bangkok",
+    "answerCountry": "Thailand",
+    "answerCoordinates": {
+     "latitude": 13.7563,
+     "longitude": 100.5018
+    },
+    "clue": "This Southeast Asian capital has a famous Chinatown.",
+    "hint": "Find Thailand's capital.",
+    "storyTitle": "A music video becomes a travel map",
+    "story": "Lisa's Rockstar video put Bangkok's Yaowarat district in the spotlight. Its appearance prompted tourism interest in the real streets behind the performance.",
+    "trivia": "Thai tourism officials also highlighted nearby neighbourhoods such as Talat Noi.",
+    "sourceUrl": "https://thailand.prd.go.th/en/content/category/detail/id/52/iid/302274",
+    "chapter": "A moment on the map",
+    "monogram": "L"
+   },
+   {
+    "id": "didier-drogba-expanded",
+    "starName": "Didier Drogba",
+    "category": "Football",
+    "question": "In which city did Didier Drogba help Chelsea win the 2012 Champions League final?",
+    "answerCity": "Munich",
+    "answerCountry": "Germany",
+    "answerCoordinates": {
+     "latitude": 48.1351,
+     "longitude": 11.582
+    },
+    "clue": "Look in southern Germany.",
+    "hint": "Find Bavaria's capital.",
+    "storyTitle": "An equaliser, then the decisive penalty",
+    "story": "Didier Drogba's late equaliser in Munich kept Chelsea's 2012 final alive. He then scored the winning shootout penalty against Bayern, completing a dramatic change in the match.",
+    "trivia": "It was the last match of his first spell at Chelsea.",
+    "sourceUrl": "https://www.chelseafc.com/en/news/article/chelseas-team-of-120-centre-forward-didier-drogba",
+    "extraSource": "https://www.chelseafc.com/en/2012-champions-league",
+    "chapter": "A moment on the map",
+    "monogram": "DD"
+   },
+   {
+    "id": "burna-boy-stadium",
+    "imageUrl": "/stars/burna-boy.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/burna-boy.jpg",
+     "title": "Burna Boy",
+     "author": "Ameyaw Debrah",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burna_Boy.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Burna_Boy.jpg/500px-Burna_Boy.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Burna Boy",
+    "question": "In which city did Burna Boy headline a UK stadium for the first time in June 2023?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.london-stadium.com/news/2023/november/burna-boy-announces-his-return-to-london-stadium-on-29-june-2024.html",
+    "monogram": "BB",
+    "clue": "Think of a European capital on the River Thames.",
+    "hint": "Find the capital of the United Kingdom.",
+    "story": "Burna Boy's sold-out June 2023 show at London Stadium made him the first African artist to headline a UK stadium. Guests included Stormzy, Dave, J Hus and Popcaan, turning the night into a meeting of musical scenes.",
+    "chapter": "A landmark performance",
+    "storyTitle": "From local beginnings to a stadium stage",
+    "trivia": "Apple Music Live streamed the show, taking that London performance to fans elsewhere."
+   },
+   {
+    "id": "bob-marley-global",
+    "starName": "Bob Marley",
+    "category": "Music",
+    "question": "In which Jamaican village was Bob Marley born?",
+    "answerCity": "Nine Mile",
+    "answerCountry": "Jamaica",
+    "answerCoordinates": {
+     "latitude": 18.2975,
+     "longitude": -77.2786
+    },
+    "clue": "Look inland in the northern half of Jamaica.",
+    "hint": "Aim south of the north-coast town of Runaway Bay.",
+    "storyTitle": "A village behind a worldwide voice",
+    "story": "Bob Marley was born in Nine Mile in Jamaica's St. Ann parish. The rural community's storytelling traditions form part of the background to a musician whose work travelled around the world.",
+    "trivia": "Marley's Exodus was named album of the century by Time in 1999.",
+    "sourceUrl": "https://www.bobmarley.com/history/",
+    "chapter": "A moment on the map",
+    "monogram": "BM",
+    "media": {
+     "discoverUrl": "https://www.bobmarley.com/history/",
+     "discoverLabel": "His life and legacy",
+     "sourceName": "Bob Marley · official website"
+    }
+   },
+   {
+    "id": "a-r-rahman-global",
+    "starName": "A. R. Rahman",
+    "category": "Music",
+    "question": "In which city did A. R. Rahman establish his Panchathan Record Inn studio?",
+    "answerCity": "Chennai",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 13.0827,
+     "longitude": 80.2707
+    },
+    "clue": "Look on India's southeastern coast.",
+    "hint": "Find Chennai in Tamil Nadu.",
+    "storyTitle": "A studio at the start of a film-music career",
+    "story": "A. R. Rahman's Chennai studio became a place to compose jingles and film music. His early work there helped set the course for a career reaching from Indian cinema to international productions.",
+    "trivia": "His music for Slumdog Millionaire won two Academy Awards.",
+    "sourceUrl": "https://masterworksbroadway.com/artist/a-r-rahman-0/",
+    "chapter": "A moment on the map",
+    "monogram": "ARR",
+    "media": {
+     "discoverUrl": "https://masterworksbroadway.com/artist/a-r-rahman-0/",
+     "discoverLabel": "Artist profile",
+     "sourceName": "Masterworks Broadway"
+    }
+   },
+   {
+    "id": "anggun-expanded",
+    "starName": "Anggun",
+    "category": "Music",
+    "question": "Which Indonesian city is Anggun's birthplace?",
+    "answerCity": "Jakarta",
+    "answerCountry": "Indonesia",
+    "answerCoordinates": {
+     "latitude": -6.2088,
+     "longitude": 106.8456
+    },
+    "clue": "Look on the northwestern coast of Java.",
+    "hint": "Find Jakarta.",
+    "storyTitle": "An early start before international songs",
+    "story": "Anggun was born in Jakarta and began performing as a child. Her later career connected Indonesian and French music audiences, including through Snow on the Sahara.",
+    "trivia": "She recorded a children's album at nine.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anggun",
+    "chapter": "A moment on the map",
+    "monogram": "A"
+   },
+   {
+    "id": "hugh-jackman-drama-school",
+    "starName": "Hugh Jackman",
+    "monogram": "HJ",
+    "category": "Film",
+    "question": "In which city did Hugh Jackman train at the Western Australian Academy of Performing Arts?",
+    "answerCity": "Perth",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -31.9523,
+     "longitude": 115.8613
+    },
+    "clue": "The school's name points to the western side of Australia.",
+    "hint": "Look for Western Australia's capital on the southwest coast.",
+    "story": "Hugh Jackman turned down a part in Neighbours so he could keep developing his acting at Perth's Western Australian Academy of Performing Arts. Before Wolverine, there was a decision to spend more time learning.",
+    "sourceUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+    "chapter": "The turning point",
+    "storyTitle": "He chose the classroom over a TV role",
+    "trivia": "Jackman had already taken up acting as a hobby while he was at school.",
+    "media": {
+     "discoverUrl": "https://www.portrait.gov.au/people/hugh-jackman-1968",
+     "discoverLabel": "Explore Hugh's profile",
+     "sourceName": "National Portrait Gallery, Australia"
+    }
+   },
+   {
+    "id": "bjork-global",
+    "starName": "Björk",
+    "category": "Music",
+    "question": "Which northern capital is Björk's birthplace?",
+    "answerCity": "Reykjavík",
+    "answerCountry": "Iceland",
+    "answerCoordinates": {
+     "latitude": 64.1466,
+     "longitude": -21.9426
+    },
+    "clue": "Look on an island in the North Atlantic.",
+    "hint": "Find Iceland's capital.",
+    "storyTitle": "Before the solo experiments",
+    "story": "Björk was born in Reykjavík. Before her internationally known solo work, she was a member of the Sugarcubes, connecting her later career to Iceland's band scene.",
+    "trivia": "Her 1993 album Debut was her first solo album as an adult.",
+    "sourceUrl": "https://www.biography.com/musicians/bjork",
+    "chapter": "A moment on the map",
+    "monogram": "B"
+   },
+   {
+    "id": "priyanka-chopra-global",
+    "starName": "Priyanka Chopra",
+    "category": "Film",
+    "question": "In which city was Priyanka Chopra crowned Miss World in 2000?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "This early career milestone happened in a European capital.",
+    "hint": "Find the capital of the United Kingdom.",
+    "storyTitle": "A crown before the film career",
+    "story": "Priyanka Chopra won Miss World in London in 2000. The event was the fiftieth edition of the competition, years before her career reached international television and film audiences.",
+    "trivia": "She was crowned by another Indian winner, Yukta Mookhey.",
+    "sourceUrl": "https://www.missworld.com/contestants/2000",
+    "chapter": "A moment on the map",
+    "monogram": "PC"
+   },
+   {
+    "id": "omar-sy-expanded",
+    "starName": "Omar Sy",
+    "category": "Film",
+    "question": "In which town near Paris was Omar Sy born?",
+    "answerCity": "Trappes",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 48.7744,
+     "longitude": 2.0083
+    },
+    "clue": "Look just southwest of the French capital.",
+    "hint": "Aim west of Versailles, near Paris.",
+    "storyTitle": "Comedy before an international breakthrough",
+    "story": "Omar Sy was born in Trappes and became known for television comedy. His role in The Intouchables brought wider international attention and a César for Best Actor.",
+    "trivia": "His television comedy partnership was with Fred Testot.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Sy",
+    "chapter": "A moment on the map",
+    "monogram": "OS"
+   },
+   {
+    "id": "messi-youth-club",
+    "imageUrl": "/stars/messi.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/messi.jpg",
+     "title": "Lionel Messi close-up.jpg",
+     "author": "Fanny Schertzer; existing crop by CHUCAO",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Lionel Messi",
+    "monogram": "LM",
+    "question": "In which city did young Lionel Messi join Newell's Old Boys?",
+    "answerCity": "Rosario",
+    "answerCountry": "Argentina",
+    "answerCoordinates": {
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    "category": "Football",
+    "sourceUrl": "https://www.biography.com/athletes/lionel-messi",
+    "clue": "Start in South America, in the country Messi represents.",
+    "hint": "Look in Argentina, northwest of Buenos Aires.",
+    "story": "Messi joined the youth system of Newell's Old Boys in Rosario at eight. His football story began with a local club, long before the international career that made his name familiar around the world.",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "The local team before the world stage",
+    "trivia": "As a young boy, he tagged along when his older brothers played football with their friends.",
+    "media": {
+     "discoverUrl": "https://www.biography.com/athletes/lionel-messi",
+     "discoverLabel": "Read Messi's biography",
+     "sourceName": "Biography.com"
+    }
+   },
+   {
+    "id": "lorde-global",
+    "starName": "Lorde",
+    "category": "Music",
+    "question": "Which New Zealand city includes Takapuna, where Lorde was born?",
+    "answerCity": "Auckland",
+    "answerCountry": "New Zealand",
+    "answerCoordinates": {
+     "latitude": -36.8485,
+     "longitude": 174.7633
+    },
+    "clue": "Look toward the north of New Zealand's North Island.",
+    "hint": "Find Auckland.",
+    "storyTitle": "A school-stage beginning",
+    "story": "Lorde was born in Takapuna, Auckland. A school talent-show win with a friend led to a local radio appearance, an early step before international attention.",
+    "trivia": "Her birth name is Ella Yelich-O'Connor.",
+    "sourceUrl": "https://www.biography.com/musicians/lorde",
+    "chapter": "A moment on the map",
+    "monogram": "L"
+   },
+   {
+    "id": "deepika-padukone-global",
+    "starName": "Deepika Padukone",
+    "category": "Film",
+    "question": "In which European capital was Deepika Padukone born?",
+    "answerCity": "Copenhagen",
+    "answerCountry": "Denmark",
+    "answerCoordinates": {
+     "latitude": 55.6761,
+     "longitude": 12.5683
+    },
+    "clue": "Her birthplace is in Scandinavia.",
+    "hint": "Find Denmark's capital.",
+    "storyTitle": "An unexpected starting point",
+    "story": "Deepika Padukone was born in Copenhagen, Denmark. Her childhood interests included badminton, and her father Prakash Padukone was a badminton champion.",
+    "trivia": "She discussed both Copenhagen and badminton in her Vogue 73 Questions interview.",
+    "sourceUrl": "https://www.vogue.com/video/watch/deepika-padukone-73-questions",
+    "chapter": "A moment on the map",
+    "monogram": "DP"
+   },
+   {
+    "id": "tarkan-expanded",
+    "starName": "Tarkan",
+    "category": "Music",
+    "question": "In which German town was Turkish pop singer Tarkan born?",
+    "answerCity": "Alzey",
+    "answerCountry": "Germany",
+    "answerCoordinates": {
+     "latitude": 49.7463,
+     "longitude": 8.1151
+    },
+    "clue": "Look in western Germany, southwest of Frankfurt.",
+    "hint": "Find Alzey, south of Mainz.",
+    "storyTitle": "A childhood across borders",
+    "story": "Tarkan was born and raised in Alzey in Germany before moving with his family to Turkey. There he continued his education and took music lessons before beginning a recording career.",
+    "trivia": "His first studio album, Yine Sensiz, was released in 1992.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tarkan_%28singer%29",
+    "chapter": "A moment on the map",
+    "monogram": "T"
+   },
+   {
+    "id": "jackie-chan-opera-training",
+    "starName": "Jackie Chan",
+    "monogram": "JC",
+    "category": "Film",
+    "question": "In which city did Jackie Chan train at the China Drama Academy?",
+    "answerCity": "Hong Kong",
+    "answerCountry": "China",
+    "answerCoordinates": {
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    "clue": "This coastal East Asian city became famous for its action cinema.",
+    "hint": "Look for Hong Kong on China's southern coast.",
+    "story": "Jackie Chan entered the China Drama Academy at seven and spent a decade training in Peking Opera. When he left at 17, graduates were turning to film stunt work as opera's popularity declined.",
+    "sourceUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+    "chapter": "An unexpected beginning",
+    "storyTitle": "The action star who trained for opera",
+    "trivia": "His decade of opera training began when he was just seven years old.",
+    "extraSource": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+    "media": {
+     "discoverUrl": "https://www.oscars.org/governors-awards/2016/jackie-chan",
+     "discoverLabel": "Academy honoree profile",
+     "sourceName": "Academy of Motion Picture Arts and Sciences"
+    }
+   },
+   {
+    "id": "taika-waititi-global",
+    "starName": "Taika Waititi",
+    "category": "Film",
+    "question": "In which city did Taika Waititi earn his degree in theatre and film?",
+    "answerCity": "Wellington",
+    "answerCountry": "New Zealand",
+    "answerCoordinates": {
+     "latitude": -41.2866,
+     "longitude": 174.7756
+    },
+    "clue": "Look at the southern end of New Zealand's North Island.",
+    "hint": "Find the country's capital.",
+    "storyTitle": "A degree before the director's chair",
+    "story": "Taika Waititi graduated from Victoria University of Wellington with a degree in theatre and film. His later work included films such as Boy and Jojo Rabbit.",
+    "trivia": "He won an adapted-screenplay Oscar for Jojo Rabbit.",
+    "sourceUrl": "https://www.wgtn.ac.nz/fhss/study/alumni/distinguished-alumni",
+    "chapter": "A moment on the map",
+    "monogram": "TW"
+   },
+   {
+    "id": "michelle-yeoh-global",
+    "starName": "Michelle Yeoh",
+    "category": "Film",
+    "question": "Which Malaysian city is Michelle Yeoh's birthplace?",
+    "answerCity": "Ipoh",
+    "answerCountry": "Malaysia",
+    "answerCoordinates": {
+     "latitude": 4.5975,
+     "longitude": 101.0901
+    },
+    "clue": "Look on the western side of the Malay Peninsula.",
+    "hint": "Find Ipoh, north of Kuala Lumpur.",
+    "storyTitle": "Ballet before action films",
+    "story": "Michelle Yeoh was born in Ipoh, Malaysia. Before becoming known for action films, she trained in ballet and went to London's Royal Academy of Dance as a teenager.",
+    "trivia": "She moved to England at fifteen to continue her dance training.",
+    "sourceUrl": "https://www.biography.com/actor/michelle-yeoh",
+    "chapter": "A moment on the map",
+    "monogram": "MY"
+   },
+   {
+    "id": "nadia-comaneci-global",
+    "starName": "Nadia Comăneci",
+    "category": "Gymnastics",
+    "question": "Where did Nadia Comăneci earn Olympic gymnastics' first perfect ten in 1976?",
+    "answerCity": "Montréal",
+    "answerCountry": "Canada",
+    "answerCoordinates": {
+     "latitude": 45.5019,
+     "longitude": -73.5674
+    },
+    "clue": "This Canadian city hosted the 1976 Summer Olympics.",
+    "hint": "Look in Quebec, along the St. Lawrence River.",
+    "storyTitle": "A perfect moment",
+    "story": "At fourteen, Romania's Nadia Comăneci earned the first perfect 10 in Olympic gymnastics. The moment happened on the uneven bars in Montréal, making one routine part of Olympic history.",
+    "trivia": "That first perfect score came during the team competition.",
+    "sourceUrl": "https://olympic.ca/games/1976-montreal/",
+    "chapter": "A moment on the map",
+    "monogram": "NC"
+   },
+   {
+    "id": "rihanna-island-origins",
+    "imageUrl": "/stars/rihanna.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/rihanna.jpg",
+     "title": "Rihanna Met Gala 2017.jpg",
+     "author": "Danilo Lauria",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2017.jpg",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Rihanna_Met_Gala_2017.jpg/500px-Rihanna_Met_Gala_2017.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Rihanna",
+    "question": "In which parish of Barbados was Rihanna born?",
+    "answerCity": "St. Michael",
+    "answerCountry": "Barbados",
+    "answerCoordinates": {
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/rihanna",
+    "monogram": "R",
+    "clue": "Find the small Caribbean island east of the main island chain.",
+    "hint": "Aim near Bridgetown on the island's southwest side.",
+    "story": "Rihanna formed a singing group with two classmates. They auditioned for producer Evan Rogers while he was visiting Barbados, and her voice caught his attention. The island was both her birthplace and the setting for an early career opportunity.",
+    "chapter": "Where the story began",
+    "storyTitle": "An audition while a producer was on holiday",
+    "trivia": "By 16, she had moved to Connecticut to work on a demo recording with Rogers.",
+    "media": {
+     "watchUrl": "https://www.rihannanow.com/videos/",
+     "watchLabel": "Official video collection",
+     "discoverUrl": "https://www.biography.com/musicians/rihanna",
+     "discoverLabel": "Read Rihanna's biography",
+     "sourceName": "Rihanna / Roc Nation; Biography.com"
+    }
+   },
+   {
+    "id": "kylie-minogue-global",
+    "starName": "Kylie Minogue",
+    "category": "Music",
+    "question": "Which Australian city is Kylie Minogue's birthplace?",
+    "answerCity": "Melbourne",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    "clue": "Look in the southeastern state of Victoria.",
+    "hint": "Find Melbourne.",
+    "storyTitle": "Television before the pop career",
+    "story": "Kylie Minogue was born in Melbourne and gained fame playing Charlene in Neighbours. The television role came before the recording career that made her known worldwide.",
+    "trivia": "Her younger sister Dannii also became a performer.",
+    "sourceUrl": "https://www.portrait.gov.au/people/kylie-minogue-1968",
+    "chapter": "A moment on the map",
+    "monogram": "KM",
+    "extraSource": "https://australian.museum/publications/200-treasures/100-people/kylie-minogue/",
+    "media": {
+     "discoverUrl": "https://www.portrait.gov.au/people/kylie-minogue-1968",
+     "discoverLabel": "Explore Kylie's profile",
+     "sourceName": "National Portrait Gallery, Australia"
+    }
+   },
+   {
+    "id": "p-v-sindhu-expanded",
+    "starName": "P. V. Sindhu",
+    "category": "Badminton",
+    "question": "In which Swiss city did P. V. Sindhu become badminton world champion in 2019?",
+    "answerCity": "Basel",
+    "answerCountry": "Switzerland",
+    "answerCoordinates": {
+     "latitude": 47.5596,
+     "longitude": 7.5886
+    },
+    "clue": "Look near where Switzerland meets France and Germany.",
+    "hint": "Find Basel on the Rhine.",
+    "storyTitle": "A world-title breakthrough",
+    "story": "P. V. Sindhu won the women's singles title at the 2019 World Championships in Basel. Her victory made her India's first badminton world champion.",
+    "trivia": "The tournament was held in Switzerland.",
+    "sourceUrl": "https://annualreport.bwfbadminton.com/2019/static/_content/bwf_annual_report_2019.pdf",
+    "chapter": "A moment on the map",
+    "monogram": "PVS"
+   },
+   {
+    "id": "miriam-makeba-global",
+    "starName": "Miriam Makeba",
+    "category": "Music",
+    "question": "Which South African city was Miriam Makeba's birthplace and an early centre of her jazz career?",
+    "answerCity": "Johannesburg",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    "clue": "Look inland in southern Africa.",
+    "hint": "Find Johannesburg in northeastern South Africa.",
+    "storyTitle": "A voice from Sophiatown",
+    "story": "Miriam Makeba was born in Johannesburg and became a professional jazz singer in the 1950s. The city's Sophiatown nightclubs were part of her early musical world.",
+    "trivia": "The University of South Africa named a concert hall after her in 2009.",
+    "sourceUrl": "https://www.unisa.ac.za/sites/corporate/default/Unisa-History-and-Memory-Project/Personalities/All-personalities/Miriam-Makeba",
+    "chapter": "A moment on the map",
+    "monogram": "MM"
+   },
+   {
+    "id": "serena-first-slam",
+    "starName": "Serena Williams",
+    "monogram": "SW",
+    "category": "Tennis",
+    "question": "In which city did Serena Williams win her first Grand Slam singles title in 1999?",
+    "answerCity": "New York City",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 40.7128,
+     "longitude": -74.006
+    },
+    "clue": "This city hosts the US Open in Queens.",
+    "hint": "Look for New York City on the northeastern US coast.",
+    "story": "Serena Williams won the 1999 US Open at 17. Earlier in the tournament, she had trailed Kim Clijsters 3–5 in the deciding set before fighting back. Her first major title followed a match she had come close to losing.",
+    "sourceUrl": "https://www.usopen.org/en_US/news/articles/2017-04-21/us_open_moments_sept_4_1999.html",
+    "chapter": "The first big win",
+    "storyTitle": "Seventeen, and already a Grand Slam champion",
+    "trivia": "In that comeback against Clijsters, she won 16 of the final 17 points.",
+    "media": {
+     "discoverUrl": "https://www.wtatennis.com/legends/230234/serena-williams",
+     "discoverLabel": "Official WTA legend profile",
+     "sourceName": "WTA"
+    }
+   },
+   {
+    "id": "salma-hayek-global",
+    "starName": "Salma Hayek",
+    "category": "Film",
+    "question": "Which Mexican port city is Salma Hayek's birthplace?",
+    "answerCity": "Coatzacoalcos",
+    "answerCountry": "Mexico",
+    "answerCoordinates": {
+     "latitude": 18.1345,
+     "longitude": -94.458
+    },
+    "clue": "Look on Mexico's Gulf coast, in Veracruz.",
+    "hint": "Aim near the southern end of the Gulf of Mexico.",
+    "storyTitle": "A television star before Hollywood",
+    "story": "Salma Hayek was born in Coatzacoalcos. Her starring role in the Mexican television series Teresa brought her fame at home before her international film career.",
+    "trivia": "Teresa began in 1989.",
+    "sourceUrl": "https://www.imdb.com/name/nm0000161/bio/",
+    "chapter": "A moment on the map",
+    "monogram": "SH"
+   },
+   {
+    "id": "ons-jabeur-expanded",
+    "starName": "Ons Jabeur",
+    "category": "Tennis",
+    "question": "Where did Ons Jabeur win her first WTA 1000 title in 2022?",
+    "answerCity": "Madrid",
+    "answerCountry": "Spain",
+    "answerCoordinates": {
+     "latitude": 40.4168,
+     "longitude": -3.7038
+    },
+    "clue": "Look near the centre of the Iberian Peninsula.",
+    "hint": "Find Spain's capital.",
+    "storyTitle": "A title earned after a setback",
+    "story": "Tunisia's Ons Jabeur beat Jessica Pegula in Madrid to win her first WTA 1000 title. After losing the second set without taking a game, she came back to win the deciding set.",
+    "trivia": "The final score was 7–5, 0–6, 6–2.",
+    "sourceUrl": "https://www.wtatennis.com/news/2608417/jabeur-outlasts-pegula-to-win-first-wta-1000-title-in-madrid",
+    "chapter": "A moment on the map",
+    "monogram": "OJ"
+   },
+   {
+    "id": "angelique-kidjo-global",
+    "starName": "Angélique Kidjo",
+    "category": "Music",
+    "question": "In which Beninese town was Angélique Kidjo born?",
+    "answerCity": "Ouidah",
+    "answerCountry": "Benin",
+    "answerCoordinates": {
+     "latitude": 6.3631,
+     "longitude": 2.0851
+    },
+    "clue": "Look along the coast of West Africa.",
+    "hint": "Find southern Benin, west of Cotonou.",
+    "storyTitle": "A creative household",
+    "story": "Angélique Kidjo was born in Ouidah, Benin. Her early surroundings were full of music and performance: her mother was a choreographer and her father played the banjo.",
+    "trivia": "Her brothers had their own orchestra.",
+    "sourceUrl": "https://universalmusic.fr/artistes/20000043083",
+    "chapter": "A moment on the map",
+    "monogram": "AK"
+   },
+   {
+    "id": "shah-rukh-khan-theatre",
+    "starName": "Shah Rukh Khan",
+    "monogram": "SRK",
+    "category": "Film",
+    "question": "In which city did Shah Rukh Khan develop his acting with Barry John's Theatre Action Group?",
+    "answerCity": "New Delhi",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    "clue": "His early theatre chapter was in a South Asian capital.",
+    "hint": "Find India's capital, north of Mumbai.",
+    "story": "Before his film career, Shah Rukh Khan put his energy into acting with Barry John's Theatre Action Group in Delhi. His early path included theatre and television, rather than an immediate leap into movie stardom.",
+    "sourceUrl": "https://www.fandango.com/people/shah-rukh-khan-347789/biography",
+    "chapter": "Before the breakthrough",
+    "storyTitle": "Before the film sets, there was theatre",
+    "trivia": "Barry John was a British theatre director working in India.",
+    "extraSource": "https://bjas.in/team_member/barry-john/"
+   },
+   {
+    "id": "penelope-cruz-global",
+    "starName": "Penélope Cruz",
+    "category": "Film",
+    "question": "Near which Spanish capital was Penélope Cruz born in Alcobendas?",
+    "answerCity": "Madrid (Alcobendas)",
+    "answerCountry": "Spain",
+    "answerCoordinates": {
+     "latitude": 40.5373,
+     "longitude": -3.6372
+    },
+    "clue": "Look near the centre of the Iberian Peninsula.",
+    "hint": "Find Madrid; Alcobendas is just to its north.",
+    "storyTitle": "Years of dance before acting",
+    "story": "Penélope Cruz was born in Alcobendas near Madrid. Her early training centred on dance, including nine years of classical ballet, before her film career developed.",
+    "trivia": "She also studied theatre at Cristina Rota's school.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+    "chapter": "A moment on the map",
+    "monogram": "PC"
+   },
+   {
+    "id": "jung-kook-expanded",
+    "starName": "Jung Kook",
+    "category": "Music",
+    "question": "Which South Korean port city is BTS member Jung Kook's birthplace?",
+    "answerCity": "Busan",
+    "answerCountry": "South Korea",
+    "answerCoordinates": {
+     "latitude": 35.1796,
+     "longitude": 129.0756
+    },
+    "clue": "Look on South Korea's southeastern coast.",
+    "hint": "Find Busan, southeast of Seoul.",
+    "storyTitle": "A port-city beginning",
+    "story": "Jung Kook was born in Busan before becoming known internationally as a member of BTS. His story connects the southern port city with a career reaching audiences far beyond South Korea.",
+    "trivia": "His solo recordings include Euphoria.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jung_Kook",
+    "chapter": "A moment on the map",
+    "monogram": "JK"
+   },
+   {
+    "id": "youssou-n-dour-global",
+    "starName": "Youssou N'Dour",
+    "category": "Music",
+    "question": "Which Senegalese capital gives its name to Youssou N'Dour's band Super Étoile de Dakar?",
+    "answerCity": "Dakar",
+    "answerCountry": "Senegal",
+    "answerCoordinates": {
+     "latitude": 14.7167,
+     "longitude": -17.4677
+    },
+    "clue": "Look at Africa's western Atlantic edge.",
+    "hint": "Find Senegal's coastal capital.",
+    "storyTitle": "A city carried in a band's name",
+    "story": "Youssou N'Dour's Étoile de Dakar became Super Étoile de Dakar in 1981. His music carried a connection to Senegal to audiences far beyond the city in the band's name.",
+    "trivia": "He became a UNICEF Goodwill Ambassador in 1991.",
+    "sourceUrl": "https://www.unicef.org/goodwill-ambassadors/youssou-ndour",
+    "chapter": "A moment on the map",
+    "monogram": "YN",
+    "media": {
+     "discoverUrl": "https://www.unicef.org/goodwill-ambassadors/youssou-ndour",
+     "discoverLabel": "His work with UNICEF",
+     "sourceName": "UNICEF"
+    }
+   },
+   {
+    "id": "shakira-origins-giving-back",
+    "imageUrl": "/stars/shakira.jpg",
+    "imageCredit": {
+     "imageUrl": "/stars/shakira.jpg",
+     "title": "Shakira - Glastonbury Festival 2010.jpg",
+     "author": "jaswooduk",
+     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakira_-_Glastonbury_Festival_2010.jpg",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shakira_-_Glastonbury_Festival_2010.jpg/500px-Shakira_-_Glastonbury_Festival_2010.jpg",
+     "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+    },
+    "starName": "Shakira",
+    "monogram": "S",
+    "question": "Which Colombian city is Shakira's birthplace?",
+    "answerCity": "Barranquilla",
+    "answerCountry": "Colombia",
+    "answerCoordinates": {
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    },
+    "category": "Music",
+    "sourceUrl": "https://www.biography.com/musicians/shakira",
+    "clue": "Look toward Colombia's Caribbean coast.",
+    "hint": "The city is northeast of Cartagena, near the mouth of the Magdalena River.",
+    "story": "Shakira was born in Barranquilla, Colombia. Alongside her music career, she founded the Pies Descalzos Foundation, which supports education for children in Colombia. Her connection to the country extends beyond the stage.",
+    "chapter": "Where the story began",
+    "storyTitle": "A music career with an education mission",
+    "trivia": "She became a UNICEF Goodwill Ambassador in 2003.",
+    "extraSource": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+    "media": {
+     "discoverUrl": "https://www.unicef.org/goodwill-ambassadors/shakira-mebarak",
+     "discoverLabel": "Her work with UNICEF",
+     "sourceName": "UNICEF"
+    }
+   },
+   {
+    "id": "cristiano-ronaldo-global",
+    "starName": "Cristiano Ronaldo",
+    "category": "Football",
+    "question": "Which island city is Cristiano Ronaldo's birthplace?",
+    "answerCity": "Funchal",
+    "answerCountry": "Portugal",
+    "answerCoordinates": {
+     "latitude": 32.6669,
+     "longitude": -16.9241
+    },
+    "clue": "Look in the Atlantic, southwest of mainland Portugal.",
+    "hint": "Find Funchal on Madeira.",
+    "storyTitle": "An island starting point",
+    "story": "Cristiano Ronaldo was born in Funchal on Madeira. His football career later took him to major European clubs, including a spell at Real Madrid.",
+    "trivia": "He won four Champions League titles with Real Madrid.",
+    "sourceUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro",
+    "chapter": "A moment on the map",
+    "monogram": "CR",
+    "media": {
+     "discoverUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro",
+     "discoverLabel": "Real Madrid legend profile",
+     "sourceName": "Real Madrid"
+    }
+   },
+   {
+    "id": "aitana-expanded",
+    "starName": "Aitana",
+    "category": "Music",
+    "question": "Near which Spanish city did Aitana grow up in Sant Climent de Llobregat?",
+    "answerCity": "Barcelona (Sant Climent)",
+    "answerCountry": "Spain",
+    "answerCoordinates": {
+     "latitude": 41.3376,
+     "longitude": 1.9953
+    },
+    "clue": "Look on Spain's northeastern Mediterranean coast.",
+    "hint": "Aim just southwest of Barcelona.",
+    "storyTitle": "A talent show opens the door",
+    "story": "Aitana grew up near Barcelona in Sant Climent de Llobregat. A place in the final of Operación Triunfo in 2017 brought her into the public spotlight.",
+    "trivia": "She was the youngest finalist in that season.",
+    "sourceUrl": "https://www.allmusic.com/artist/mn0002516906",
+    "chapter": "A moment on the map",
+    "monogram": "A"
+   },
+   {
+    "id": "manny-pacquiao-global",
+    "starName": "Manny Pacquiao",
+    "category": "Boxing",
+    "question": "In which Thai district did Manny Pacquiao win his first world title in 1998?",
+    "answerCity": "Phutthamonthon",
+    "answerCountry": "Thailand",
+    "answerCoordinates": {
+     "latitude": 13.8019,
+     "longitude": 100.2972
+    },
+    "clue": "This breakthrough happened near Thailand's capital.",
+    "hint": "Aim just west of Bangkok.",
+    "storyTitle": "A first championship away from home",
+    "story": "Manny Pacquiao defeated Chatchai Sasakul at the Tonsuk College Grounds in Phutthamonthon. The Filipino boxer won the WBC flyweight championship, the first world title of his career.",
+    "trivia": "He stopped the defending champion in the eighth round.",
+    "sourceUrl": "https://wbcboxing.com/en/a-day-like-today-manny-pacquiao-conquered-his-first-world-crown/",
+    "chapter": "A moment on the map",
+    "monogram": "MP"
+   },
+   {
+    "id": "celine-dion-global",
+    "starName": "Céline Dion",
+    "category": "Music",
+    "question": "In which Quebec town did Céline Dion's story begin?",
+    "answerCity": "Charlemagne",
+    "answerCountry": "Canada",
+    "answerCoordinates": {
+     "latitude": 45.7167,
+     "longitude": -73.4833
+    },
+    "clue": "Start in French-speaking Canada, near Montréal.",
+    "hint": "Look just northeast of Montréal.",
+    "storyTitle": "A family full of music",
+    "story": "Céline Dion grew up in Charlemagne as the youngest of fourteen children. Her family performed together, and at twelve she wrote her first song with her mother and brother Jacques.",
+    "trivia": "She won a singing competition in Tokyo at fourteen.",
+    "sourceUrl": "https://www.celinedion.com/about/biography/",
+    "chapter": "A moment on the map",
+    "monogram": "CD",
+    "media": {
+     "listenUrl": "https://www.celinedion.com/music/",
+     "listenLabel": "Official music catalogue",
+     "watchUrl": "https://www.celinedion.com/video/",
+     "watchLabel": "Official video collection",
+     "discoverUrl": "https://www.celinedion.com/about/biography/",
+     "discoverLabel": "Céline's official biography",
+     "sourceName": "Céline Dion · official website"
+    }
+   },
+   {
+    "id": "mohamed-salah-global",
+    "starName": "Mohamed Salah",
+    "category": "Football",
+    "question": "In which Egyptian city did Mohamed Salah develop with El Mokawloon?",
+    "answerCity": "Cairo",
+    "answerCountry": "Egypt",
+    "answerCoordinates": {
+     "latitude": 30.0444,
+     "longitude": 31.2357
+    },
+    "clue": "Look for a North African capital on the Nile.",
+    "hint": "Find Egypt's capital.",
+    "storyTitle": "The youth team before Europe",
+    "story": "Mohamed Salah developed in El Mokawloon's youth teams in Cairo. He made his senior debut at seventeen, before the moves that brought him to European football.",
+    "trivia": "His first senior season included five appearances.",
+    "sourceUrl": "https://members.liverpoolfc.com/team/first-team/player/mohamed-salah",
+    "chapter": "A moment on the map",
+    "monogram": "MS",
+    "media": {
+     "discoverUrl": "https://members.liverpoolfc.com/team/first-team/player/mohamed-salah",
+     "discoverLabel": "Liverpool player profile",
+     "sourceName": "Liverpool FC"
+    }
+   },
+   {
+    "id": "diljit-dosanjh-expanded",
+    "starName": "Diljit Dosanjh",
+    "category": "Music",
+    "question": "In which California city did Diljit Dosanjh perform at Coachella in 2023?",
+    "answerCity": "Indio",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 33.7206,
+     "longitude": -116.2156
+    },
+    "clue": "Look in the desert east of Los Angeles.",
+    "hint": "Find Indio in the Coachella Valley, near Palm Springs.",
+    "storyTitle": "Punjabi music on a festival stage",
+    "story": "Diljit Dosanjh performed at Coachella in Indio in April 2023. His Punjabi-language set gave fans a new landmark in his international music career.",
+    "trivia": "He became the first Punjabi singer to perform at the festival.",
+    "sourceUrl": "https://indianexpress.com/article/entertainment/music/diljit-dosanjh-coachella-stage-by-storm-performs-punjabi-songs-as-fans-call-it-a-historic-moment-watch-8559167/",
+    "extraSource": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/it-was-for-the-first-time-that-punjabi-music-played-at-coachella-diljit-dosanjh/articleshow/99563167.cms",
+    "chapter": "A moment on the map",
+    "monogram": "DD"
+   },
+   {
+    "id": "sachin-tendulkar-global",
+    "starName": "Sachin Tendulkar",
+    "category": "Cricket",
+    "question": "In which city did Sachin Tendulkar celebrate India's 2011 Cricket World Cup final victory?",
+    "answerCity": "Mumbai",
+    "answerCountry": "India",
+    "answerCoordinates": {
+     "latitude": 19.076,
+     "longitude": 72.8777
+    },
+    "clue": "Look on India's west coast.",
+    "hint": "Find Mumbai, home of Wankhede Stadium.",
+    "storyTitle": "A trophy at home",
+    "story": "Sachin Tendulkar's long pursuit of a World Cup ended with India's 2011 victory in Mumbai. After five previous tournament appearances, he celebrated the championship at his home ground.",
+    "trivia": "India beat Sri Lanka in the final.",
+    "sourceUrl": "https://www.bcci.tv/news/article/i-continued-to-chase-my-dream-sachin",
+    "chapter": "A moment on the map",
+    "monogram": "ST"
+   },
+   {
+    "id": "bad-bunny-global",
+    "starName": "Bad Bunny",
+    "category": "Music",
+    "question": "In which Puerto Rican town did Bad Bunny work at a supermarket before fame?",
+    "answerCity": "Vega Baja",
+    "answerCountry": "Puerto Rico",
+    "answerCoordinates": {
+     "latitude": 18.4442,
+     "longitude": -66.3877
+    },
+    "clue": "Head to the northern coast of a Caribbean island.",
+    "hint": "Look west of San Juan in Puerto Rico.",
+    "storyTitle": "Songs between supermarket shifts",
+    "story": "Before global stages, Bad Bunny worked at a supermarket in Vega Baja. His former workplace became a stop for visiting fans, connecting a worldwide music career to an ordinary local job.",
+    "trivia": "He left the supermarket job in 2016.",
+    "sourceUrl": "https://apnews.com/article/7e33e7b35e07afe7fd33b0b8c54fed6b",
+    "chapter": "A moment on the map",
+    "monogram": "BB"
+   },
+   {
+    "id": "pele-expanded",
+    "starName": "Pelé",
+    "category": "Football",
+    "question": "Which Brazilian coastal city gave its name to the club Pelé joined in 1956?",
+    "answerCity": "Santos",
+    "answerCountry": "Brazil",
+    "answerCoordinates": {
+     "latitude": -23.9608,
+     "longitude": -46.3336
+    },
+    "clue": "Look on Brazil's southeastern coast.",
+    "hint": "Find Santos, near São Paulo.",
+    "storyTitle": "A teenager arrives at Santos",
+    "story": "Pelé arrived at Santos in 1956 as a teenager from Bauru. The coastal club became central to the football career that made his name known around the world.",
+    "trivia": "Waldemar de Brito brought him to the club for a trial.",
+    "sourceUrl": "https://inside.fifa.com/es/tournaments/mens/worldcup/1970mexico/news/feliz-80o-cumpleanos-o-rei",
+    "chapter": "A moment on the map",
+    "monogram": "P"
+   },
+   {
+    "id": "bong-joon-ho-global",
+    "starName": "Bong Joon-ho",
+    "category": "Film",
+    "question": "In which French city did Bong Joon-ho's Parasite win the Palme d'Or in 2019?",
+    "answerCity": "Cannes",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 43.5528,
+     "longitude": 7.0174
+    },
+    "clue": "Look along France's Mediterranean coast.",
+    "hint": "Find Cannes, southwest of Nice.",
+    "storyTitle": "A festival turning point",
+    "story": "Parasite won the Palme d'Or at the 2019 Cannes Film Festival. The award placed Bong Joon-ho's film at the centre of an international cinema celebration.",
+    "trivia": "The film went on to win Best Director at the 2020 Oscars.",
+    "sourceUrl": "https://www.festival-cannes.com/en/press/press-releases/parasite-the-2019-palme-d-or-winner-triumphs-at-the-oscars-2020/",
+    "chapter": "A moment on the map",
+    "monogram": "BJh"
+   },
+   {
+    "id": "yuzuru-hanyu-global",
+    "starName": "Yuzuru Hanyu",
+    "category": "Figure skating",
+    "question": "In which city did Yuzuru Hanyu win Olympic gold in 2014?",
+    "answerCity": "Sochi",
+    "answerCountry": "Russia",
+    "answerCoordinates": {
+     "latitude": 43.6028,
+     "longitude": 39.7342
+    },
+    "clue": "Look for the Russian Winter Olympic host on the Black Sea.",
+    "hint": "Find Sochi near Russia's southwestern coast.",
+    "storyTitle": "A first for Japan",
+    "story": "Yuzuru Hanyu won men's figure-skating gold at Sochi in 2014. The teenage skater became the first Japanese man to win Olympic gold in the event.",
+    "trivia": "It was Japan's first gold medal of those Winter Games.",
+    "sourceUrl": "https://www.olympics.com.au/news/hanyu-takes-figure-skating-gold/",
+    "chapter": "A moment on the map",
+    "monogram": "YH"
+   },
+   {
+    "id": "taylor-swift-global",
+    "starName": "Taylor Swift",
+    "category": "Music",
+    "question": "In which city is the Bluebird Cafe, an early turning point for Taylor Swift?",
+    "answerCity": "Nashville",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 36.1627,
+     "longitude": -86.7816
+    },
+    "clue": "Think of an American city closely associated with country music.",
+    "hint": "Find Nashville in Tennessee.",
+    "storyTitle": "A small room with a big future",
+    "story": "A performance at Nashville's Bluebird Cafe brought Taylor Swift to the attention of Scott Borchetta. An intimate songwriter venue became part of the story behind a much larger career.",
+    "trivia": "The Bluebird has also hosted career moments for Garth Brooks and Keith Urban.",
+    "sourceUrl": "https://bluebirdcafe.com/about/history/",
+    "chapter": "A moment on the map",
+    "monogram": "TS"
+   },
+   {
+    "id": "sadio-mane-expanded",
+    "starName": "Sadio Mané",
+    "category": "Football",
+    "question": "In which English city did Sadio Mané score his record-fast Premier League hat-trick in 2015?",
+    "answerCity": "Southampton",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 50.9097,
+     "longitude": -1.4044
+    },
+    "clue": "Look on England's south coast.",
+    "hint": "Find Southampton, west of Portsmouth.",
+    "storyTitle": "Three goals in a flash",
+    "story": "Sadio Mané scored three times against Aston Villa for Southampton in May 2015. The burst became the Premier League's fastest hat-trick, turning a few minutes into a lasting highlight.",
+    "trivia": "The three goals took just two minutes and 56 seconds.",
+    "sourceUrl": "https://www.premierleague.com/en/news/2300191/black-history-month-heroes-sadio-mane",
+    "chapter": "A moment on the map",
+    "monogram": "SM"
+   },
+   {
+    "id": "hayao-miyazaki-global",
+    "starName": "Hayao Miyazaki",
+    "category": "Film",
+    "question": "Where in the Tokyo area is the Ghibli Museum, associated with Hayao Miyazaki's animation world?",
+    "answerCity": "Mitaka, Tokyo",
+    "answerCountry": "Japan",
+    "answerCoordinates": {
+     "latitude": 35.6835,
+     "longitude": 139.5596
+    },
+    "clue": "Look in Japan's capital region.",
+    "hint": "Aim west of central Tokyo, in Mitaka.",
+    "storyTitle": "An animation world you can visit",
+    "story": "The Ghibli Museum in Mitaka gives visitors a place to explore animation beyond a cinema screen. It has exhibition spaces, a reading room and a theatre showing original short films.",
+    "trivia": "Its short-film theatre is called the Saturn Theater.",
+    "sourceUrl": "https://www.ghibli-museum.jp/en/",
+    "chapter": "A moment on the map",
+    "monogram": "HM",
+    "extraSource": "https://www.ghibli-museum.jp/en/kind/"
+   },
+   {
+    "id": "roger-federer-global",
+    "starName": "Roger Federer",
+    "category": "Tennis",
+    "question": "In which city did Roger Federer win his first Wimbledon singles title in 2003?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "The tournament takes place in a European capital.",
+    "hint": "Find London in southeastern England.",
+    "storyTitle": "The first major",
+    "story": "Roger Federer's first Grand Slam singles title came on Wimbledon's grass courts in 2003. London became the setting for the opening major victory of his career.",
+    "trivia": "He was twenty-one when he won that title.",
+    "sourceUrl": "https://www.atptour.com/-/media/files/media-guide/2022/2022-atp-media-guide-rankings-stats-results-12-january.pdf",
+    "chapter": "A moment on the map",
+    "monogram": "RF"
+   },
+   {
+    "id": "beyonce-global",
+    "starName": "Beyoncé",
+    "category": "Music",
+    "question": "Which Texas city is Beyoncé's birthplace?",
+    "answerCity": "Houston",
+    "answerCountry": "United States",
+    "answerCoordinates": {
+     "latitude": 29.7604,
+     "longitude": -95.3698
+    },
+    "clue": "Look in the southern United States, near the Gulf coast.",
+    "hint": "Find Houston in southeastern Texas.",
+    "storyTitle": "Before the solo spotlight",
+    "story": "Beyoncé's story began in Houston. Her early group Girls' Tyme was part of a path that led through Destiny's Child to a solo career, drawing on a long tradition of Black girl groups.",
+    "trivia": "Her daughter Blue Ivy received a songwriting credit on Brown Skin Girl.",
+    "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/beyonce-knowles-carter",
+    "chapter": "A moment on the map",
+    "monogram": "B",
+    "media": {
+     "discoverUrl": "https://www.womenshistory.org/education-resources/biographies/beyonce-knowles-carter",
+     "discoverLabel": "Explore Beyoncé's story",
+     "sourceName": "National Women's History Museum"
+    }
+   },
+   {
+    "id": "david-rudisha-expanded",
+    "starName": "David Rudisha",
+    "category": "Athletics",
+    "question": "In which city did David Rudisha run his 1:40.91 Olympic 800-metre world record?",
+    "answerCity": "London",
+    "answerCountry": "United Kingdom",
+    "answerCoordinates": {
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    "clue": "Think of the host of the 2012 Summer Olympics.",
+    "hint": "Find the UK capital.",
+    "storyTitle": "Two laps that made history",
+    "story": "Kenya's David Rudisha won Olympic 800-metre gold in London in 2012. He broke his own world record, finishing in one minute, 40.91 seconds.",
+    "trivia": "He improved his previous record by one tenth of a second.",
+    "sourceUrl": "https://worldathletics.org/news/feature/rudisha-produces-a-moment-for-which-the-games",
+    "chapter": "A moment on the map",
+    "monogram": "DR"
+   },
+   {
+    "id": "lupita-nyong-o-global",
+    "starName": "Lupita Nyong'o",
+    "category": "Film",
+    "question": "In which city was Kenyan-Mexican actor Lupita Nyong'o born?",
+    "answerCity": "Mexico City",
+    "answerCountry": "Mexico",
+    "answerCoordinates": {
+     "latitude": 19.4326,
+     "longitude": -99.1332
+    },
+    "clue": "Her birthplace is in North America, not East Africa.",
+    "hint": "Find Mexico's capital.",
+    "storyTitle": "A story across continents",
+    "story": "Lupita Nyong'o was born in Mexico City and raised in Kenya. Her path connects both places, a reminder that the country associated with a star may not tell you where their story began.",
+    "trivia": "She plays Nakia in Black Panther.",
+    "sourceUrl": "https://www.disneylatino.com/novedades/quien-es-lupita-nyongo-la-actriz-que-interpreta-a-nakia-en-pantera-negra",
+    "chapter": "A moment on the map",
+    "monogram": "LN",
+    "extraSource": "https://africanfilmny.org/directors/lupita-nyongo/"
+   },
+   {
+    "id": "rafael-nadal-global",
+    "starName": "Rafael Nadal",
+    "category": "Tennis",
+    "question": "In which city did Rafael Nadal win his first Roland-Garros title in 2005?",
+    "answerCity": "Paris",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    "clue": "Look for a European capital famous for a clay-court major.",
+    "hint": "Find the capital of France.",
+    "storyTitle": "A teenager on the clay",
+    "story": "Rafael Nadal won his first Roland-Garros trophy in Paris at nineteen. It was his first appearance at the tournament, an unusually strong introduction to a Grand Slam stage.",
+    "trivia": "An elbow injury had prevented his planned Roland-Garros debut in 2003.",
+    "sourceUrl": "https://www.atptour.com/en/news/nadal-remember-paris-deuce-roland-garros-2005-michael-chang",
+    "chapter": "A moment on the map",
+    "monogram": "RN"
+   },
+   {
+    "id": "usain-bolt-global",
+    "starName": "Usain Bolt",
+    "category": "Athletics",
+    "question": "In which city did Usain Bolt win the Olympic 100 metres in a world-record 9.69 seconds in 2008?",
+    "answerCity": "Beijing",
+    "answerCountry": "China",
+    "answerCoordinates": {
+     "latitude": 39.9042,
+     "longitude": 116.4074
+    },
+    "clue": "Think of the East Asian host of the 2008 Summer Olympics.",
+    "hint": "Find China's capital.",
+    "storyTitle": "Less than ten seconds",
+    "story": "At the 2008 Olympics in Beijing, Usain Bolt won the men's 100 metres in 9.69 seconds. That world-record run turned a short race into an enduring sporting moment.",
+    "trivia": "The result was recorded at Beijing's National Stadium.",
+    "sourceUrl": "https://worldathletics.org/competitions/olympic-games/the-xxix-olympic-games-6977748/results/men/100-metres/final/result",
+    "chapter": "A moment on the map",
+    "monogram": "UB"
+   },
+   {
+    "id": "agnetha-faltskog-expanded",
+    "starName": "Agnetha Fältskog",
+    "category": "Music",
+    "question": "In which Swedish town was ABBA's Agnetha Fältskog born?",
+    "answerCity": "Jönköping",
+    "answerCountry": "Sweden",
+    "answerCoordinates": {
+     "latitude": 57.7826,
+     "longitude": 14.1618
+    },
+    "clue": "Look in southern Sweden, at the southern tip of Lake Vättern.",
+    "hint": "Find Jönköping, east of Gothenburg.",
+    "storyTitle": "A solo singer before the group",
+    "story": "Agnetha Fältskog was born in Jönköping. She had a successful solo career before ABBA, so the group's story brought together musicians who already had experience of their own.",
+    "trivia": "Her first single was released in 1967.",
+    "sourceUrl": "https://abbasite.com/people/agnetha-faltskog/",
+    "extraSource": "https://abbasite.com/story/",
+    "chapter": "A moment on the map",
+    "monogram": "AF"
+   },
+   {
+    "id": "charlize-theron-global",
+    "starName": "Charlize Theron",
+    "category": "Film",
+    "question": "Which South African town is Charlize Theron's birthplace?",
+    "answerCity": "Benoni",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.1885,
+     "longitude": 28.3208
+    },
+    "clue": "Look near Johannesburg in southern Africa.",
+    "hint": "Aim east of Johannesburg.",
+    "storyTitle": "Dance before the screen",
+    "story": "Charlize Theron was born in Benoni, South Africa. Her early artistic training was in ballet, long before the film performances that brought her international recognition.",
+    "trivia": "She began ballet lessons at six.",
+    "sourceUrl": "https://www.biography.com/actors/charlize-theron",
+    "chapter": "A moment on the map",
+    "monogram": "CT"
+   },
+   {
+    "id": "novak-djokovic-global",
+    "starName": "Novak Djokovic",
+    "category": "Tennis",
+    "question": "Where did Novak Djokovic win his first Grand Slam singles title in 2008?",
+    "answerCity": "Melbourne",
+    "answerCountry": "Australia",
+    "answerCoordinates": {
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    "clue": "Think of the Australian Open's home city.",
+    "hint": "Look on Australia's southeastern coast, southwest of Sydney.",
+    "storyTitle": "The first major breakthrough",
+    "story": "Novak Djokovic's first Grand Slam singles title came at the 2008 Australian Open in Melbourne. He had reached the US Open final only a few months earlier.",
+    "trivia": "He was twenty when he won in Melbourne.",
+    "sourceUrl": "https://www.atptour.com/en/news/djokovic-australian-open-2023-22-grand-slams-longform",
+    "chapter": "A moment on the map",
+    "monogram": "ND"
+   },
+   {
+    "id": "eliud-kipchoge-global",
+    "starName": "Eliud Kipchoge",
+    "category": "Athletics",
+    "question": "In which city did Eliud Kipchoge complete the INEOS sub-two-hour marathon challenge?",
+    "answerCity": "Vienna",
+    "answerCountry": "Austria",
+    "answerCoordinates": {
+     "latitude": 48.2082,
+     "longitude": 16.3738
+    },
+    "clue": "Look for a central European capital on the Danube.",
+    "hint": "Find the capital of Austria.",
+    "storyTitle": "A barrier crossed",
+    "story": "In Vienna in 2019, Eliud Kipchoge covered the marathon distance in under two hours. The specially organised INEOS challenge used planned pacing and support; it was a demonstration event, not an official marathon world record.",
+    "trivia": "His finishing time was 1 hour, 59 minutes and 40.2 seconds.",
+    "sourceUrl": "https://www.ineos159challenge.com/",
+    "chapter": "A moment on the map",
+    "monogram": "EK",
+    "extraSource": "https://www.axios.com/2019/10/12/kenyas-eliud-kipchoge-2-hour-marathon-record"
+   },
+   {
+    "id": "tyla-expanded",
+    "starName": "Tyla",
+    "category": "Music",
+    "question": "Which South African city did Tyla grow up in?",
+    "answerCity": "Johannesburg",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    "clue": "Look inland in northeastern South Africa.",
+    "hint": "Find Johannesburg.",
+    "storyTitle": "Writing songs before Water",
+    "story": "Tyla grew up in Johannesburg and started writing music while still in primary school. Her international breakthrough with Water followed those early creative years.",
+    "trivia": "Water won the 2024 Grammy for Best African Music Performance.",
+    "sourceUrl": "https://www.musicweek.com/interviews/read/the-way-of-water-inside-the-rise-of-sony-music-s-grammy-winning-new-superstar-tyla/089269",
+    "extraSource": "https://www.grammy.com/artists/tyla/54172/",
+    "chapter": "A moment on the map",
+    "monogram": "T"
+   },
+   {
+    "id": "trevor-noah-global",
+    "starName": "Trevor Noah",
+    "category": "Comedy",
+    "question": "Which South African city shaped Trevor Noah's childhood?",
+    "answerCity": "Johannesburg",
+    "answerCountry": "South Africa",
+    "answerCoordinates": {
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    "clue": "Look inland, near South Africa's northeastern region.",
+    "hint": "Find Johannesburg, which includes Soweto.",
+    "storyTitle": "The place behind the perspective",
+    "story": "Trevor Noah grew up in Johannesburg under apartheid. That upbringing became part of the perspective he brought to comedy and his writing about childhood.",
+    "trivia": "His memoir is titled Born a Crime.",
+    "sourceUrl": "https://www.biography.com/movies-tv/trevor-noah-childhood-apartheid",
+    "chapter": "A moment on the map",
+    "monogram": "TN"
+   },
+   {
+    "id": "li-na-global",
+    "starName": "Li Na",
+    "category": "Tennis",
+    "question": "In which city did Li Na win the 2011 French Open?",
+    "answerCity": "Paris",
+    "answerCountry": "France",
+    "answerCoordinates": {
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    "clue": "Look for the home of Roland-Garros.",
+    "hint": "Find France's capital.",
+    "storyTitle": "A breakthrough felt far beyond the court",
+    "story": "Li Na's 2011 Roland-Garros victory in Paris made her the first Asian player to win a Grand Slam singles title. Her run helped bring women's tennis to a wider audience in China.",
+    "trivia": "She had never won a clay-court title before that tournament.",
+    "sourceUrl": "https://www.wtatennis.com/news/1675765/li-na-becomes-asias-first-grand-slam-champion-in-historic-2011-triumph",
+    "chapter": "A moment on the map",
+    "monogram": "LN"
+   },
+   {
+    "id": "simone-biles-global",
+    "starName": "Simone Biles",
+    "category": "Gymnastics",
+    "question": "In which Belgian city did Simone Biles win her first world all-around title in 2013?",
+    "answerCity": "Antwerp",
+    "answerCountry": "Belgium",
+    "answerCoordinates": {
+     "latitude": 51.2194,
+     "longitude": 4.4025
+    },
+    "clue": "Look for a port city in northwestern Europe.",
+    "hint": "Find northern Belgium, north of Brussels.",
+    "storyTitle": "The beginning of a world-title story",
+    "story": "Simone Biles won the all-around title at the 2013 World Championships in Antwerp. Teammate Kyla Ross took silver, giving the United States the top two places.",
+    "trivia": "Biles also won floor gold at those championships.",
+    "sourceUrl": "https://usagym.org/biles-ross-finish-one-two-in-womens-all-around-finals/",
+    "chapter": "A moment on the map",
+    "monogram": "SB",
+    "extraSource": "https://members.usagym.org/pages/athletes/athleteListDetail.html?id=164887"
+   }
+  ]
+ }
+}

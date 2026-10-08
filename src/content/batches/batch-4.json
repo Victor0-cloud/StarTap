@@ -1,0 +1,1960 @@
+{
+ "batch": 4,
+ "researched": "2026-10-03",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "jude-bellingham",
+    "name": "Jude Bellingham",
+    "monogram": "JB",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jude-bellingham-madrid",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "The big move",
+    "question": "In which capital city does England's Jude Bellingham play his club football?",
+    "clue": "Look in the centre of the Iberian Peninsula.",
+    "hint": "His club is the most decorated in European Cup history; they play in white.",
+    "answer": {
+     "city": "Madrid",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Jude Bellingham was born on 29 June 2003 in Stourbridge, England. He plays midfield for England and for Spanish La Liga club Real Madrid.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jude-Bellingham",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jude Bellingham (born June 29, 2003, Stourbridge, England) is a football (soccer) player who is a midfielder for the England national football team and for Spanish La Liga club Real Madrid."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "erling-haaland",
+    "name": "Erling Haaland",
+    "monogram": "EH",
+    "countryOfOrigin": "NO",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "erling-haaland-leeds",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which English city was Norway's Erling Haaland born?",
+    "clue": "He is Norwegian, but look in northern England, not Norway.",
+    "hint": "It's the biggest city in West Yorkshire.",
+    "answer": {
+     "city": "Leeds",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Erling Haaland was born in Leeds in 2000 while his father, footballer Alf-Inge Haaland, was playing in the Premier League there.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Erling-Haaland",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Haaland was born in Leeds, England, where his father, footballer Alf-Inge Haaland, was playing in the Premier League at the time."
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "Haaland is Norwegian, but he was born in England because his footballer father was playing in the Premier League at the time.",
+     "sourceUrl": "https://www.britannica.com/biography/Erling-Haaland",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Haaland was born in Leeds, England, where his father, footballer Alf-Inge Haaland, was playing in the Premier League at the time."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "rodri",
+    "name": "Rodri",
+    "monogram": "R",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rodri-madrid",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which capital city was Ballon d'Or winner Rodri born?",
+    "clue": "Look in the centre of the Iberian Peninsula.",
+    "hint": "It's Spain's capital.",
+    "answer": {
+     "city": "Madrid",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Rodri was born on 22 June 1996 in Madrid. The holding midfielder won the Ballon d'Or in 2024.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Rodri",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: June 22, 1996, Madrid, Spain (age 30) Awards And Honors: FIFA World Cup (2026) European Championship (2024) Ballon d’Or (2024)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "harry-kane",
+    "name": "Harry Kane",
+    "monogram": "HK",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "harry-kane-walthamstow",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which part of London was England captain Harry Kane born?",
+    "clue": "Look in northeast London, in the borough of Waltham Forest.",
+    "hint": "Its name ends in \"-stow\".",
+    "answer": {
+     "city": "Walthamstow",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Harry Kane was born on 28 July 1993 in Walthamstow, London. He became a forward for England and for Bayern Munich in Germany.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Harry-Kane",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Harry Kane (born July 28, 1993, Walthamstow, London, England) is a football (soccer) player who is a forward on England’s national team and the German Bundesliga club Bayern Munich."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "luka-modric",
+    "name": "Luka Modrić",
+    "monogram": "LM",
+    "countryOfOrigin": "HR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "luka-modric-zadar",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Adriatic coastal city was Luka Modrić born?",
+    "clue": "Look on Croatia's Dalmatian coast.",
+    "hint": "It sits between Rijeka and Split.",
+    "answer": {
+     "city": "Zadar",
+     "country": "Croatia",
+     "countryCode": "HR"
+    },
+    "story": "Luka Modrić was born in Zadar in 1985, when it was part of Yugoslavia. He is considered one of the greatest midfielders of all time.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Luka-Modric",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Modrić was born in the town of Zadar in Yugoslavia (now Croatia) in 1985 at a time when the country was beginning to break down, with individual states fighting for greater autonomy."
+     }
+    ],
+    "triviaCard": {
+     "type": "world_connection",
+     "text": "When Modrić was born in Zadar in 1985, the city was still part of Yugoslavia, a country that was beginning to break apart.",
+     "sourceUrl": "https://www.britannica.com/biography/Luka-Modric",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Modrić was born in the town of Zadar in Yugoslavia (now Croatia) in 1985 at a time when the country was beginning to break down, with individual states fighting for greater autonomy."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "ousmane-dembele",
+    "name": "Ousmane Dembélé",
+    "monogram": "OD",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ousmane-dembele-paris",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "The big club",
+    "question": "In which capital city does Ousmane Dembélé play his club football in Ligue 1?",
+    "clue": "Look in northern France, on the Seine.",
+    "hint": "It's the French capital.",
+    "answer": {
+     "city": "Paris",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Ousmane Dembélé was born in Vernon, France, in 1997. He plays as an attacking winger and forward for Ligue 1 club Paris Saint-Germain.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ousmane-Dembele",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ousmane Dembélé (born May 15, 1997, Vernon, France) is a French football (soccer) player with the Ligue 1 (French topflight football league) club Paris Saint-Germain (PSG) and operates as an attacking winger and forward."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "zinedine-zidane",
+    "name": "Zinedine Zidane",
+    "monogram": "ZZ",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "zinedine-zidane-cannes",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "The first big club",
+    "question": "Which Riviera club town did Zinedine Zidane join in 1989?",
+    "clue": "Look on France's Mediterranean coast, west of Nice.",
+    "hint": "It's famous for an international film festival.",
+    "answer": {
+     "city": "Cannes",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "After playing for the junior team US Saint-Henri, Zinedine Zidane joined Cannes in 1989. He quickly became the focal point of the team's attack.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Zinedine-Zidane",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "After playing for the junior team US Saint-Henri, Zidane joined Cannes in 1989 and quickly became the focal point of the team’s offense."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "thierry-henry",
+    "name": "Thierry Henry",
+    "monogram": "TH",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "thierry-henry-chatillon",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which town just south of Paris was Thierry Henry born?",
+    "clue": "Look in the Hauts-de-Seine suburbs, just south of Paris.",
+    "hint": "Its name starts with \"Ch\" and has a circumflex.",
+    "answer": {
+     "city": "Châtillon",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Thierry Henry was born on 17 August 1977 in Châtillon, France. He became one of the most prolific goal scorers of his time.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Thierry-Henry",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Thierry Henry (born August 17, 1977, Châtillon, France) is a French football (soccer) player and manager who scored more international goals (51) than any other player in France’s history and who is considered one of the most prolific goal scorers of his time."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "johan-cruyff",
+    "name": "Johan Cruyff",
+    "monogram": "JC",
+    "countryOfOrigin": "NL",
+    "region": "europe"
+   },
+   "question": {
+    "id": "johan-cruyff-los-angeles",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Far from home",
+    "question": "In which US city's Aztecs did Johan Cruyff play, winning NASL MVP in 1979?",
+    "clue": "Look on America's Pacific coast, in Southern California.",
+    "hint": "It's the home of Hollywood.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "From 1979 to 1980, Johan Cruyff played in the United States, including for the Los Angeles Aztecs. He was named the North American Soccer League's Most Valuable Player in 1979.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Johan-Cruyff",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "From 1979 to 1980 Cruyff played with several American teams, including the Los Angeles Aztecs and the Washington Diplomats, and he was named the North American Soccer League’s Most Valuable Player in 1979."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "franz-beckenbauer",
+    "name": "Franz Beckenbauer",
+    "monogram": "FB",
+    "countryOfOrigin": "DE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "franz-beckenbauer-munich",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Bavarian city was \"der Kaiser\" Franz Beckenbauer born?",
+    "clue": "Look in southern Germany, near the Alps.",
+    "hint": "It's Bavaria's capital.",
+    "answer": {
+     "city": "Munich",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Franz Beckenbauer was born in Munich in 1945. He won the World Cup as a player in 1974 and as a coach in 1990.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Franz-Beckenbauer",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Franz Beckenbauer (born September 11, 1945, Munich, Germany—died January 7, 2024, Salzburg, Austria) is a German football (soccer) player who is one of only three people to win the World Cup as a player and as a coach (1974 and 1990, respectively)."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Beckenbauer was one of only three people to win the World Cup as both a player (1974) and a coach (1990).",
+     "sourceUrl": "https://www.britannica.com/biography/Franz-Beckenbauer",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Franz Beckenbauer (born September 11, 1945, Munich, Germany—died January 7, 2024, Salzburg, Austria) is a German football (soccer) player who is one of only three people to win the World Cup as a player and as a coach (1974 and 1990, respectively)."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "diego-maradona",
+    "name": "Diego Maradona",
+    "monogram": "DM",
+    "countryOfOrigin": "AR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "diego-maradona-naples",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "The European chapter",
+    "question": "In which Italian city did Diego Maradona lead the local club to league titles in 1987 and 1990?",
+    "clue": "Look in southern Italy, on a bay beneath Mount Vesuvius.",
+    "hint": "Its club is SSC Napoli.",
+    "answer": {
+     "city": "Naples",
+     "country": "Italy",
+     "countryCode": "IT"
+    },
+    "story": "Diego Maradona played for SSC Napoli from 1984 to 1991. He raised the traditionally weak Naples side to the top of Italian football, winning the league title in 1987 and 1990.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Diego-Maradona",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Maradona raised the traditionally weak Naples-based side to the heights of Italian football; the team won the league title and cup in 1987 and the league title again in 1990."
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "Maradona's Napoli won the Italian league title and cup in 1987, then the league title again in 1990.",
+     "sourceUrl": "https://www.britannica.com/biography/Diego-Maradona",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Maradona raised the traditionally weak Naples-based side to the heights of Italian football; the team won the league title and cup in 1987 and the league title again in 1990."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "ronaldinho",
+    "name": "Ronaldinho",
+    "monogram": "R",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "ronaldinho-porto-alegre",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which southern Brazilian city was Ronaldinho born?",
+    "clue": "Look in Brazil's far south, near the borders with Uruguay and Argentina.",
+    "hint": "It's the capital of Rio Grande do Sul.",
+    "answer": {
+     "city": "Porto Alegre",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Ronaldinho was born Ronaldo de Assis Moreira in Vila Nova, a neighbourhood of Porto Alegre in southern Brazil. He went on to play for Paris Saint-Germain, FC Barcelona and AC Milan.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ronaldinho",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ronaldinho was born Ronaldo de Assis Moreira in Vila Nova, a neighborhood of Porto Alegre in southern Brazil."
+     }
+    ],
+    "triviaCard": {
+     "type": "did_you_know",
+     "text": "Ronaldinho's birth name is Ronaldo de Assis Moreira.",
+     "sourceUrl": "https://www.britannica.com/biography/Ronaldinho",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Ronaldinho was born Ronaldo de Assis Moreira in Vila Nova, a neighborhood of Porto Alegre in southern Brazil."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "ronaldo-nazario",
+    "name": "Ronaldo Nazário",
+    "monogram": "RN",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "ronaldo-nazario-itaguai",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which town in Rio de Janeiro state was Ronaldo Nazário born?",
+    "clue": "Look west of the city of Rio de Janeiro, on Sepetiba Bay.",
+    "hint": "It begins with \"Ita\".",
+    "answer": {
+     "city": "Itaguaí",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Ronaldo Nazário was born in Itaguaí, Rio de Janeiro state, in September 1976. He helped Brazil win the 2002 World Cup.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ronaldo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ronaldo was born in Itaguai, Rio de Janeiro on 18 September 1976, but his birth certificate was only issued four days later when his parents had scraped together enough money to pay for it."
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "Ronaldo's birth certificate was issued four days after he was born, once his parents could afford to pay for it.",
+     "sourceUrl": "https://www.britannica.com/biography/Ronaldo",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Ronaldo was born in Itaguai, Rio de Janeiro on 18 September 1976, but his birth certificate was only issued four days later when his parents had scraped together enough money to pay for it."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "eusebio",
+    "name": "Eusébio",
+    "monogram": "E",
+    "countryOfOrigin": "PT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "eusebio-maputo",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which African city, then called Lourenço Marques, was Portugal's Eusébio born?",
+    "clue": "Look on Africa's southeast coast, on the Indian Ocean.",
+    "hint": "It's now the capital of Mozambique.",
+    "answer": {
+     "city": "Maputo",
+     "country": "Mozambique",
+     "countryCode": "MZ"
+    },
+    "story": "Eusébio was born in 1942 in Lourenço Marques, Portuguese East Africa, the city now called Maputo in Mozambique. He played for Portugal and is considered one of the greatest of all time.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Eusebio",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Eusébio (born January 25, 1942, Lourenço Marques, Portuguese East Africa [now Maputo, Mozambique]—died January 5, 2014, Lisbon, Portugal) was a Portuguese football (soccer) player considered one of the greatest of all time."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "andres-iniesta",
+    "name": "Andrés Iniesta",
+    "monogram": "AI",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "andres-iniesta-johannesburg",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "The winning goal",
+    "question": "In which city did Andrés Iniesta score the winning goal of the 2010 World Cup final?",
+    "clue": "Look in southern Africa, on the Highveld.",
+    "hint": "It's South Africa's largest city.",
+    "answer": {
+     "city": "Johannesburg",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "Andrés Iniesta scored the winning goal for Spain against the Netherlands in the 2010 World Cup final in Johannesburg. He was named Man of the Match.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Andres-Iniesta",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Spanish footballer Andrés Iniesta celebrating with the FIFA World Cup trophy alongside his teammates after scoring the winning goal in Spain's victory over the Netherlands in the 2010 FIFA World Cup final in Johannesburg, July 11."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aitana-bonmati",
+    "name": "Aitana Bonmatí",
+    "monogram": "AB",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aitana-bonmati-barcelona",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Club life",
+    "question": "In which Catalan city does Aitana Bonmatí play her club football in Liga F?",
+    "clue": "Look on Spain's Mediterranean coast, in Catalonia.",
+    "hint": "It's Catalonia's capital.",
+    "answer": {
+     "city": "Barcelona",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Aitana Bonmatí was born in 1998 in Sant Pere de Ribes, Catalonia. She plays as an attacking midfielder for FC Barcelona in Liga F and for Spain.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aitana-Bonmati",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Aitana Bonmatí (born January 18, 1998, Sant Pere de Ribes, Catalonia, Spain) is a professional women’s football (soccer) player from Catalonia who plays as an attacking midfielder for FC Barcelona in Liga F (Spanish women’s football league) and for the Spanish national team."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sam-kerr",
+    "name": "Sam Kerr",
+    "monogram": "SK",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "sam-kerr-fremantle",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Western Australian port city was Matildas captain Sam Kerr born?",
+    "clue": "Look on Australia's west coast, at the mouth of the Swan River.",
+    "hint": "It's the port city just south of Perth.",
+    "answer": {
+     "city": "Fremantle",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Sam Kerr was born on 10 September 1993 in Fremantle, Western Australia. She was named captain of the Matildas in 2019.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sam-Kerr",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sam Kerr (born September 10, 1993, Fremantle, Western Australia) is an Australian football (soccer) player who was named captain of the Matildas, the women’s national team, in 2019."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marta",
+    "name": "Marta",
+    "monogram": "M",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "marta-umea",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "The European breakthrough",
+    "question": "In which Swedish city's club did Brazil's Marta win the 2004 UEFA Women's Cup?",
+    "clue": "Look in northern Sweden, near the Gulf of Bothnia.",
+    "hint": "The club is Umeå IK.",
+    "answer": {
+     "city": "Umeå",
+     "country": "Sweden",
+     "countryCode": "SE"
+    },
+    "story": "Marta joined Sweden's Umeå IK in 2004 and led the club to that year's UEFA Women's Cup title. She first gained worldwide notice there.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Marta",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Marta first gained widespread notice during her time with Umeå, which she led to the 2004 Union of European Football Associations (UEFA) Women’s Cup (now known as the Women’s Champions League) title and helped to reach the finals in that competition in 2007 and 2008."
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "After winning the 2004 UEFA Women's Cup, Marta's Umeå reached the finals again in 2007 and 2008.",
+     "sourceUrl": "https://www.britannica.com/biography/Marta",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Marta first gained widespread notice during her time with Umeå, which she led to the 2004 Union of European Football Associations (UEFA) Women’s Cup (now known as the Women’s Champions League) title and helped to reach the finals in that competition in 2007 and 2008."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "george-weah",
+    "name": "George Weah",
+    "monogram": "GW",
+    "countryOfOrigin": "LR",
+    "region": "africa"
+   },
+   "question": {
+    "id": "george-weah-monrovia",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which West African capital was George Weah born?",
+    "clue": "Look on Africa's Atlantic coast, between Sierra Leone and Côte d'Ivoire.",
+    "hint": "It's the capital of Liberia, named after a US president.",
+    "answer": {
+     "city": "Monrovia",
+     "country": "Liberia",
+     "countryCode": "LR"
+    },
+    "story": "George Weah was born on 1 October 1966 in Monrovia, Liberia. After his football career he served as president of Liberia from 2018 to 2024.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/George-Weah",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "George Weah (born October 1, 1966, Monrovia, Liberia) is a Liberian politician and a former football (soccer) player who served as president of Liberia from 2018 to 2024."
+     }
+    ],
+    "triviaCard": {
+     "type": "wow_fact",
+     "text": "After his football career, George Weah served as president of Liberia from 2018 to 2024.",
+     "sourceUrl": "https://www.britannica.com/biography/George-Weah",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "George Weah (born October 1, 1966, Monrovia, Liberia) is a Liberian politician and a former football (soccer) player who served as president of Liberia from 2018 to 2024."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "samuel-etoo",
+    "name": "Samuel Eto'o",
+    "monogram": "SE",
+    "countryOfOrigin": "CM",
+    "region": "africa"
+   },
+   "question": {
+    "id": "samuel-etoo-palma",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "The breakthrough club",
+    "question": "On which Spanish island's capital-based club, Real Mallorca, did Samuel Eto'o become all-time top scorer?",
+    "clue": "Look in the Mediterranean, off Spain's east coast.",
+    "hint": "It's the capital of the Balearic Islands.",
+    "answer": {
+     "city": "Palma",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Samuel Eto'o signed with Real Mallorca in 2000 and became the club's all-time leading goal scorer. FC Barcelona signed him in 2004.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Samuel-Etoo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "While Eto’o was an impressive player for Mallorca—he became the club’s all-time leading goal scorer—his team was still considered below the top tier of European football, and he was lured to the powerhouse club FC Barcelona in 2004."
+     },
+     {
+      "url": "https://www.rcdmallorca.es/en/estadi-mallorca-sonmoix",
+      "role": "extra",
+      "quality": "primary",
+      "quote": "The Estadi Mallorca Son Moix is the sports stadium of the island, located in the city of Palma.",
+      "note": "Official club site: Real Mallorca's home stadium is in Palma."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Eto'o became Real Mallorca's all-time leading goal scorer before joining FC Barcelona in 2004.",
+     "sourceUrl": "https://www.britannica.com/biography/Samuel-Etoo",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "While Eto’o was an impressive player for Mallorca—he became the club’s all-time leading goal scorer—his team was still considered below the top tier of European football, and he was lured to the powerhouse club FC Barcelona in 2004."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "federico-valverde",
+    "name": "Federico Valverde",
+    "monogram": "FV",
+    "countryOfOrigin": "UY",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "federico-valverde-montevideo",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which capital city was Real Madrid's Federico Valverde born?",
+    "clue": "Look on the Río de la Plata in South America.",
+    "hint": "It's Uruguay's capital.",
+    "answer": {
+     "city": "Montevideo",
+     "country": "Uruguay",
+     "countryCode": "UY"
+    },
+    "story": "Federico Valverde was born on 22 July 1998 in Montevideo, Uruguay. He plays for Real Madrid.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/federico-santiago-valverde-dipetta",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Montevideo (Uruguay) Date of birth 22/07/1998"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lautaro-martinez",
+    "name": "Lautaro Martínez",
+    "monogram": "LM",
+    "countryOfOrigin": "AR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lautaro-martinez-bahia-blanca",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Argentine port city was Inter captain Lautaro Martínez born?",
+    "clue": "Look on Argentina's Atlantic coast, south of Buenos Aires.",
+    "hint": "Its name means \"White Bay\".",
+    "answer": {
+     "city": "Bahía Blanca",
+     "country": "Argentina",
+     "countryCode": "AR"
+    },
+    "story": "Lautaro Martínez was born on 22 August 1997 in Bahía Blanca, Argentina. He became captain of Inter in Milan.",
+    "sources": [
+     {
+      "url": "https://www.inter.it/en/teams/first-team/player/lautaro-martinez",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Captain, symbol and leader of Inter: Lautaro Martínez, born in Bahía Blanca, Argentina, on August 22, 1997, has written unforgettable chapters in the history of the Nerazzurri club."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "phil-foden",
+    "name": "Phil Foden",
+    "monogram": "PF",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "phil-foden-stockport",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Growing up",
+    "question": "In which town just south of Manchester was Phil Foden born and raised?",
+    "clue": "Look in northwest England, in Greater Manchester.",
+    "hint": "It's on the River Mersey, south-east of Manchester.",
+    "answer": {
+     "city": "Stockport",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Phil Foden was born and raised in Stockport, just south of Manchester. He grew up supporting Manchester City and joined their academy at eight.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/phil-foden",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born and raised in Stockport, just south of Manchester, Foden grew up supporting City and was spotted playing local football before joining their academy when he was just eight."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "Foden grew up supporting Manchester City and joined their academy when he was just eight.",
+     "sourceUrl": "https://www.englandfootball.com/england/mens-senior-team/squad/phil-foden",
+     "sourceName": "englandfootball.com",
+     "quote": "Born and raised in Stockport, just south of Manchester, Foden grew up supporting City and was spotted playing local football before joining their academy when he was just eight."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "khvicha-kvaratskhelia",
+    "name": "Khvicha Kvaratskhelia",
+    "monogram": "KK",
+    "countryOfOrigin": "GE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "khvicha-kvaratskhelia-tbilisi",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Caucasus capital was Khvicha Kvaratskhelia born?",
+    "clue": "Look between the Black Sea and the Caspian Sea.",
+    "hint": "It's the capital of Georgia, the country.",
+    "answer": {
+     "city": "Tbilisi",
+     "country": "Georgia",
+     "countryCode": "GE"
+    },
+    "story": "Khvicha Kvaratskhelia was born in Tbilisi and developed in Georgia, where several major Russian clubs noticed him. He now plays for Paris Saint-Germain.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/khvicha-kvaratskhelia",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Tbilisi, Khvicha Kvaratskhelia developed in Georgia, where his promise attracted the attention of several major Russian clubs."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "son-heung-min",
+    "name": "Son Heung-min",
+    "monogram": "SH",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "son-heung-min-hamburg",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "The first big step",
+    "question": "In which German port city did Son Heung-min make his Bundesliga debut at 18?",
+    "clue": "Look in northern Germany, on the River Elbe.",
+    "hint": "It's Germany's second-largest city.",
+    "answer": {
+     "city": "Hamburg",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Son Heung-min, a native of Chuncheon, South Korea, made his Bundesliga debut in Germany with Hamburg SV at 18. He later starred for Tottenham Hotspur and joined LAFC.",
+    "sources": [
+     {
+      "url": "https://www.lafc.com/news/lafc-signs-global-football-icon-son-heung-min",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "A native of Chuncheon, South Korea, Son made his Bundesliga debut in Germany with Hamburg SV at 18."
+     }
+    ],
+    "triviaCard": {
+     "type": "world_connection",
+     "text": "Son Heung-min is a native of Chuncheon, in South Korea's Gangwon province.",
+     "sourceUrl": "https://www.lafc.com/news/lafc-signs-global-football-icon-son-heung-min",
+     "sourceName": "lafc.com",
+     "quote": "A native of Chuncheon, South Korea, Son made his Bundesliga debut in Germany with Hamburg SV at 18."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "alphonso-davies",
+    "name": "Alphonso Davies",
+    "monogram": "AD",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "alphonso-davies-edmonton",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Growing up",
+    "question": "In which Canadian city did Alphonso Davies's family settle when he was five?",
+    "clue": "Look in western Canada, on the prairies.",
+    "hint": "It's the capital of Alberta.",
+    "answer": {
+     "city": "Edmonton",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Alphonso Davies was five when his family crossed the Atlantic and settled in Edmonton, Alberta. He grew up there before becoming a star for Bayern Munich and Canada.",
+    "sources": [
+     {
+      "url": "https://www.bundesliga.com/en/bundesliga/news/alphonso-davies-from-refugee-to-bayern-munich-canada-world-cup-1239",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Aged just five when his family crossed the Atlantic, eventually settling in Edmonton, Alberta, Alphonso would help raise his two younger siblings while Debeah and the family matriarch Victoria worked long hours to make ends meet."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "In Edmonton, a young Alphonso Davies helped raise his two younger siblings while his parents worked long hours.",
+     "sourceUrl": "https://www.bundesliga.com/en/bundesliga/news/alphonso-davies-from-refugee-to-bayern-munich-canada-world-cup-1239",
+     "sourceName": "bundesliga.com",
+     "quote": "Aged just five when his family crossed the Atlantic, eventually settling in Edmonton, Alberta, Alphonso would help raise his two younger siblings while Debeah and the family matriarch Victoria worked long hours to make ends meet."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "khadija-shaw",
+    "name": "Khadija \"Bunny\" Shaw",
+    "monogram": "KS",
+    "countryOfOrigin": "JM",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "khadija-shaw-spanish-town",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Jamaican town was Manchester City striker Khadija Shaw born?",
+    "clue": "Look on Jamaica's south side, just west of Kingston.",
+    "hint": "It was once Jamaica's capital, and its name says it was Spanish.",
+    "answer": {
+     "city": "Spanish Town",
+     "country": "Jamaica",
+     "countryCode": "JM"
+    },
+    "story": "Khadija Shaw was born in Spanish Town, Jamaica. Her football career took off at Eastern Florida State College before she joined Manchester City.",
+    "sources": [
+     {
+      "url": "https://live.mancity.com/news/womens/khadija-shaw-signing-announcement",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Spanish Town, Jamaica, Shaw’s foray into the game started with Eastern Florida State College Titans where she earned NSCAA first-team National Junior College Athletic Association All-America honours in 2016."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kenan-yildiz",
+    "name": "Kenan Yıldız",
+    "monogram": "KY",
+    "countryOfOrigin": "TR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kenan-yildiz-regensburg",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which Bavarian city was Türkiye star Kenan Yıldız born?",
+    "clue": "He plays for Türkiye, but look in southern Germany, on the Danube.",
+    "hint": "It's an old Bavarian city east of Nuremberg.",
+    "answer": {
+     "city": "Regensburg",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Kenan Yıldız was born in 2005 in Regensburg, Germany. He joined Juventus from Bayern Munich in the summer of 2022.",
+    "sources": [
+     {
+      "url": "https://www.juventus.com/en/news/articles/player-profile-kenan-yildiz",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in 2005, the Turkish striker - born in Germany, in Regensburg - joined the Bianconeri in the summer of 2022 from Bayern Munich and in less than twelve months he has sparkled for both the Primavera and Next Gen."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "arda-guler",
+    "name": "Arda Güler",
+    "monogram": "AG",
+    "countryOfOrigin": "TR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "arda-guler-ankara",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which capital city was Real Madrid's Arda Güler born?",
+    "clue": "Look in central Anatolia.",
+    "hint": "It's Türkiye's capital, not Istanbul.",
+    "answer": {
+     "city": "Ankara",
+     "country": "Turkey",
+     "countryCode": "TR"
+    },
+    "story": "Arda Güler was born on 25 February 2005 in Ankara, Türkiye. He played for Fenerbahçe before joining Real Madrid in 2023.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/arda-guler",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Ankara (Turkey) Date of birth 25/02/2005"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "martin-odegaard",
+    "name": "Martin Ødegaard",
+    "monogram": "MØ",
+    "countryOfOrigin": "NO",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "martin-odegaard-drammen",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Norwegian river city was Arsenal captain Martin Ødegaard born?",
+    "clue": "Look in southeastern Norway, southwest of Oslo.",
+    "hint": "It sits where a river meets the Drammensfjord.",
+    "answer": {
+     "city": "Drammen",
+     "country": "Norway",
+     "countryCode": "NO"
+    },
+    "story": "Martin Ødegaard was born on 16 December 1998 in Drammen, Norway. He signed for Arsenal in August 2021.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/men/players/martin-odegaard",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH DRAMMEN, NORWAY DATE OF BIRTH DECEMBER 16TH, 1998 SIGNED FOR ARSENAL 19TH AUGUST 2021"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "nicolo-barella",
+    "name": "Nicolò Barella",
+    "monogram": "NB",
+    "countryOfOrigin": "IT",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "nicolo-barella-cagliari",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Sardinian city was Inter midfielder Nicolò Barella born?",
+    "clue": "Look on the island of Sardinia, on its south coast.",
+    "hint": "It's Sardinia's capital.",
+    "answer": {
+     "city": "Cagliari",
+     "country": "Italy",
+     "countryCode": "IT"
+    },
+    "story": "Nicolò Barella was born in Cagliari on 7 February 1997. He came through Cagliari's youth academy before joining Inter.",
+    "sources": [
+     {
+      "url": "https://www.inter.it/en/teams/first-team/player/nicolo-barella",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Cagliari on 7 February 1997, he came through the Rossoblù youth academy, making his professional debut and establishing himself as an all-action midfielder."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hakan-calhanoglu",
+    "name": "Hakan Çalhanoğlu",
+    "monogram": "HÇ",
+    "countryOfOrigin": "TR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "hakan-calhanoglu-mannheim",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which German city was Türkiye captain Hakan Çalhanoğlu born?",
+    "clue": "He plays for Türkiye, but look in southwest Germany, where the Neckar meets the Rhine.",
+    "hint": "It's a grid-planned city in Baden-Württemberg.",
+    "answer": {
+     "city": "Mannheim",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Hakan Çalhanoğlu was born in Mannheim, Germany, on 8 February 1994. He began his career in Germany with Karlsruhe, Hamburg and Bayer Leverkusen.",
+    "sources": [
+     {
+      "url": "https://www.inter.it/en/teams/first-team/player/hakan-calhanoglu",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Mannheim on 8 February 1994, he began his career in Germany, establishing himself at Bayer Leverkusen after spells with Karlsruhe and Hamburg."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "pedri",
+    "name": "Pedri",
+    "monogram": "P",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "pedri-tegueste",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Growing up",
+    "question": "In which Tenerife town did Pedri begin his football career with his hometown team?",
+    "clue": "Look in the Canary Islands, off northwest Africa.",
+    "hint": "It's a small town in the north of Tenerife.",
+    "answer": {
+     "city": "Tegueste",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Pedri was born in Tegueste, Tenerife, on 25 November 2002. He started out with his hometown team before joining FC Barcelona.",
+    "sources": [
+     {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/70486/pedri",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Tegueste, Tenerife, on November 25, 2002, he began his football career in the team from his hometown."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "virgil-van-dijk",
+    "name": "Virgil van Dijk",
+    "monogram": "VV",
+    "countryOfOrigin": "NL",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "virgil-van-dijk-breda",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Dutch city was Liverpool captain Virgil van Dijk born?",
+    "clue": "Look in the south of the Netherlands, in North Brabant.",
+    "hint": "It's near the Belgian border, between Rotterdam and Antwerp.",
+    "answer": {
+     "city": "Breda",
+     "country": "Netherlands",
+     "countryCode": "NL"
+    },
+    "story": "Virgil van Dijk was born in Breda on 8 July 1991. He took his first steps in football in the youth ranks at Willem II.",
+    "sources": [
+     {
+      "url": "https://www.liverpoolfc.com/news/first-team/285647-in-profile-the-virgil-van-dijk-story-so-far",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The Netherlands international, born in Breda on July 8, 1991, took his first steps in football in the youth ranks at Willem II – the southern-based club with whom Sami Hyypia plied his trade before moving to Merseyside."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cole-palmer",
+    "name": "Cole Palmer",
+    "monogram": "CP",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "cole-palmer-manchester",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which English city was Chelsea's Cole Palmer born?",
+    "clue": "Look in northwest England.",
+    "hint": "It's home to both United and City.",
+    "answer": {
+     "city": "Manchester",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Cole Palmer was born on 6 May 2002 in Manchester, England. He plays for Chelsea and England.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/cole-palmer",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "DOB 06 MAY 2002 (24YRS) HEIGHT 6FT 1\" (185CM) PREFERRED FOOT LEFT PLACE OF BIRTH MANCHESTER, ENGLAND CURRENT CLUB CHELSEA FC"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bukayo-saka",
+    "name": "Bukayo Saka",
+    "monogram": "BS",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "bukayo-saka-london",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which capital city was Arsenal's Bukayo Saka born?",
+    "clue": "Look in southeast England, on the Thames.",
+    "hint": "It's the UK capital.",
+    "answer": {
+     "city": "London",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Bukayo Saka was born on 4 September 2001 in London. He signed for Arsenal in May 2010, aged eight.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/men/players/bukayo-saka",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH LONDON, UNITED KINGDOM DATE OF BIRTH SEPTEMBER 4TH, 2001 SIGNED FOR ARSENAL 9TH MAY 2010"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "takefusa-kubo",
+    "name": "Takefusa Kubo",
+    "monogram": "TK",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "takefusa-kubo-kawasaki",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Japanese city between Tokyo and Yokohama was Takefusa Kubo born?",
+    "clue": "Look on Tokyo Bay, in Kanagawa Prefecture.",
+    "hint": "It's the city between Tokyo and Yokohama.",
+    "answer": {
+     "city": "Kawasaki",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Takefusa Kubo was born on 4 June 2001 in Kawasaki, Japan. He plays in attack for Real Sociedad in Spain.",
+    "sources": [
+     {
+      "url": "https://www.realsociedad.eus/en/team/player/real-sociedad/takefusa-kubo",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "TAKEFUSA KUBO Atacante 25 years old, Kawasaki 04 June 2001"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ada-hegerberg",
+    "name": "Ada Hegerberg",
+    "monogram": "AH",
+    "countryOfOrigin": "NO",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ada-hegerberg-molde",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Norwegian fjord town was striker Ada Hegerberg born?",
+    "clue": "Look on Norway's west coast, in Møre og Romsdal.",
+    "hint": "It's known as the \"Town of Roses\".",
+    "answer": {
+     "city": "Molde",
+     "country": "Norway",
+     "countryCode": "NO"
+    },
+    "story": "Ada Hegerberg was born in Molde, Norway, in 1995. She quickly established herself as an exceptional striker.",
+    "sources": [
+     {
+      "url": "https://www.un.org/en/football-goals/ada-hegerberg",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Molde, Norway, in 1995, she quickly established herself as an exceptional striker, combining outstanding technical ability, athleticism, intelligence, and an extraordinary instinct for goal."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "achraf-hakimi",
+    "name": "Achraf Hakimi",
+    "monogram": "AH",
+    "countryOfOrigin": "MA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "achraf-hakimi-madrid",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which European capital was Morocco star Achraf Hakimi born?",
+    "clue": "He plays for Morocco, but look in the centre of Spain.",
+    "hint": "It's Spain's capital, and his first academy was there.",
+    "answer": {
+     "city": "Madrid",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Achraf Hakimi was born in Madrid to Moroccan parents in November 1998. He joined the Real Madrid academy at seven and now plays for Paris Saint-Germain.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/achraf-hakimi",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Achraf Hakimi was born on 4 November 1998 in Madrid to Moroccan parents and joined the Real Madrid academy at the age of seven."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "Hakimi joined the Real Madrid academy at the age of seven.",
+     "sourceUrl": "https://www.psg.fr/en/players/achraf-hakimi",
+     "sourceName": "psg.fr",
+     "quote": "Achraf Hakimi was born on 4 November 1998 in Madrid to Moroccan parents and joined the Real Madrid academy at the age of seven."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "christian-pulisic",
+    "name": "Christian Pulisic",
+    "monogram": "CP",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "christian-pulisic-hershey",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Pennsylvania town, famous for chocolate, was Christian Pulisic born?",
+    "clue": "Look in the US state of Pennsylvania, east of Harrisburg.",
+    "hint": "It's named after a chocolate company.",
+    "answer": {
+     "city": "Hershey",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Christian Pulisic was born on 18 September 1998 in Hershey, Pennsylvania. He plays for AC Milan.",
+    "sources": [
+     {
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/christian-pulisic",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born on September 18, 1998, in Hershey, Pennsylvania, Christian Pulisic established himself from a very young age as one of the most promising talents in American football."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yassine-bounou",
+    "name": "Yassine Bounou",
+    "monogram": "YB",
+    "countryOfOrigin": "MA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "yassine-bounou-montreal",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which Canadian city was Morocco goalkeeper Yassine Bounou born?",
+    "clue": "He plays for Morocco, but look in Quebec, on the St. Lawrence River.",
+    "hint": "It's Canada's largest French-speaking city.",
+    "answer": {
+     "city": "Montreal",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Yassine Bounou was born in Montreal, Canada. He became Morocco's goalkeeper.",
+    "sources": [
+     {
+      "url": "https://www.aljazeera.com/sports/2022/12/14/yassine-bounou-the-smiling-custodian",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bounou was born in Montreal, Canada."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "antoine-griezmann",
+    "name": "Antoine Griezmann",
+    "monogram": "AG",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "antoine-griezmann-macon",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Burgundy town on the Saône was Antoine Griezmann born?",
+    "clue": "Look in eastern France, north of Lyon.",
+    "hint": "It's the capital of Saône-et-Loire.",
+    "answer": {
+     "city": "Mâcon",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Antoine Griezmann was born in Mâcon, France, on 21 March 1991. Several French academies rejected him before he found a home in Spain.",
+    "sources": [
+     {
+      "url": "https://www.olympics.com/en/athletes/antoine-griezmann",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Mâcon, France, on March 21, 1991, the French star faced early setbacks as several French football academies rejected him before he found an unexpected home in Spain."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "Several French football academies rejected a young Griezmann before he found an unexpected home in Spain.",
+     "sourceUrl": "https://www.olympics.com/en/athletes/antoine-griezmann",
+     "sourceName": "olympics.com",
+     "quote": "Born in Mâcon, France, on March 21, 1991, the French star faced early setbacks as several French football academies rejected him before he found an unexpected home in Spain."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "neymar",
+    "name": "Neymar",
+    "monogram": "N",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "neymar-mogi-das-cruzes",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which city in São Paulo state was Neymar born?",
+    "clue": "Look in southeast Brazil, east of the city of São Paulo.",
+    "hint": "Its name starts with \"Mogi\".",
+    "answer": {
+     "city": "Mogi das Cruzes",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Neymar was born on 5 February 1992 in Mogi das Cruzes, Brazil. He passed Pelé's record to become Brazil's leading men's goal scorer.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Neymar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Neymar (born February 5, 1992, Mogi das Cruzes, Brazil) is a Brazilian football (soccer) player who has scored 79 goals in 128 international appearances to surpass his compatriot and football legend Pelé’s record (77 goals) and become the leading goal scorer in men’s football for Brazil."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Neymar passed Pelé's 77 goals to become the leading goal scorer in men's football for Brazil.",
+     "sourceUrl": "https://www.britannica.com/biography/Neymar",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Neymar (born February 5, 1992, Mogi das Cruzes, Brazil) is a Brazilian football (soccer) player who has scored 79 goals in 128 international appearances to surpass his compatriot and football legend Pelé’s record (77 goals) and become the leading goal scorer in men’s football for Brazil."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "michael-essien",
+    "name": "Michael Essien",
+    "monogram": "ME",
+    "countryOfOrigin": "GH",
+    "region": "africa"
+   },
+   "question": {
+    "id": "michael-essien-accra",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which West African capital was Chelsea great Michael Essien born?",
+    "clue": "Look on the Gulf of Guinea coast.",
+    "hint": "It's Ghana's capital.",
+    "answer": {
+     "city": "Accra",
+     "country": "Ghana",
+     "countryCode": "GH"
+    },
+    "story": "Michael Essien was born on 3 December 1982 in Accra, Ghana. He rose to international stardom as a midfielder for Chelsea in the 2000s.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Michael-Essien",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Michael Essien (born December 3, 1982, Accra, Ghana) is a Ghanaian professional football (soccer) player who rose to international stardom as a midfielder for the English football club Chelsea FC in the 2000s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "roger-milla",
+    "name": "Roger Milla",
+    "monogram": "RM",
+    "countryOfOrigin": "CM",
+    "region": "africa"
+   },
+   "question": {
+    "id": "roger-milla-yaounde",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Central African capital was Cameroon legend Roger Milla born?",
+    "clue": "Look in Central Africa, inland from the Gulf of Guinea.",
+    "hint": "It's Cameroon's capital, not its biggest port.",
+    "answer": {
+     "city": "Yaoundé",
+     "country": "Cameroon",
+     "countryCode": "CM"
+    },
+    "story": "Roger Milla was born on 20 May 1952 in Yaoundé, Cameroon. He was renowned for his technique and grace under pressure.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Roger-Milla",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Roger Milla (born May 20, 1952, Yaoundé, Camer.) is a Cameroonian football (soccer) player, renowned for his impeccable technique and grace under pressure."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "birgit-prinz",
+    "name": "Birgit Prinz",
+    "monogram": "BP",
+    "countryOfOrigin": "DE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "birgit-prinz-frankfurt-am-main",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which German financial city was Birgit Prinz born?",
+    "clue": "Look in western Germany, on the Main river.",
+    "hint": "It's home to Germany's main stock exchange.",
+    "answer": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Birgit Prinz was born on 25 October 1977 in Frankfurt am Main. Many consider her Europe's finest female footballer of the 1990s and 2000s.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Birgit-Prinz",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Birgit Prinz (born October 25, 1977, Frankfurt am Main, West Germany [now Germany]) is a former football (soccer) player from Germany, considered by many to be Europe’s finest female footballer of the 1990s and 2000s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "david-beckham",
+    "name": "David Beckham",
+    "monogram": "DB",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "david-beckham-leytonstone",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which East London district was David Beckham born?",
+    "clue": "Look in northeast London, in Waltham Forest.",
+    "hint": "Its name starts with \"Leyton\".",
+    "answer": {
+     "city": "Leytonstone",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "David Beckham was born on 2 May 1975 in Leytonstone, London. He gained international fame on and off the pitch.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/David-Beckham",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "David Beckham (born May 2, 1975, Leytonstone, London, England) is an English former football (soccer) player who gained international fame for his on-field play as well as for his highly publicized personal life."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ferenc-puskas",
+    "name": "Ferenc Puskás",
+    "monogram": "FP",
+    "countryOfOrigin": "HU",
+    "region": "europe"
+   },
+   "question": {
+    "id": "ferenc-puskas-budapest",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Danube capital was Ferenc Puskás born?",
+    "clue": "Look in Central Europe, where the Danube splits two historic towns.",
+    "hint": "It's Hungary's capital.",
+    "answer": {
+     "city": "Budapest",
+     "country": "Hungary",
+     "countryCode": "HU"
+    },
+    "story": "Ferenc Puskás was born in Budapest on 1 April 1927. He became football's first international superstar.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ferenc-Puskas",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ferenc Puskás (born April 1, 1927, Budapest, Hungary—died November 17, 2006, Budapest) was a Hungarian professional football (soccer) player who became the sport’s first international superstar."
+     }
+    ],
+    "triviaCard": {
+     "type": "wow_fact",
+     "text": "Ferenc Puskás is described as football's first international superstar.",
+     "sourceUrl": "https://www.britannica.com/biography/Ferenc-Puskas",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Ferenc Puskás (born April 1, 1927, Budapest, Hungary—died November 17, 2006, Budapest) was a Hungarian professional football (soccer) player who became the sport’s first international superstar."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "wayne-rooney",
+    "name": "Wayne Rooney",
+    "monogram": "WR",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "wayne-rooney-manchester",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Teenage star",
+    "question": "In which English city's Premier League powerhouse did Wayne Rooney become a star as a teenager?",
+    "clue": "Look in northwest England, about 50 km east of his home city.",
+    "hint": "The club plays in red at Old Trafford.",
+    "answer": {
+     "city": "Manchester",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Wayne Rooney was born in Liverpool in 1985. He rose to international stardom as a teenager with Premier League powerhouse Manchester United.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Wayne-Rooney",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Wayne Rooney (born October 24, 1985, Liverpool, England) is an English professional football (soccer) player who rose to international football stardom as a teenager while playing with the English Premier League powerhouse Manchester United."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "xavi",
+    "name": "Xavi",
+    "monogram": "X",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "xavi-terrassa",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Catalan city near Barcelona was Xavi born?",
+    "clue": "Look in Catalonia, inland and northwest of Barcelona.",
+    "hint": "It's a textile-industry city in the Vallès Occidental.",
+    "answer": {
+     "city": "Terrassa",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Xavi was born on 25 January 1980 in Terrassa, Spain. He is widely regarded as one of the best midfielders of the early 21st century.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Xavi",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Xavi (born January 25, 1980, Terrassa, Spain) is a Spanish football (soccer) player and manager who is widely regarded as one of the best midfielders in the world in the early 21st century."
+     }
+    ]
+   }
+  }
+ ]
+}

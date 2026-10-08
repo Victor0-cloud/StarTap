@@ -1,0 +1,928 @@
+{
+ "batch": 3,
+ "researched": "2026-10-01",
+ "coordinateSource": "OpenStreetMap Nominatim (ODbL), looked up 2026-10-01; raw records in docs/content-research/batch-3-geocode.json",
+ "entries": [
+  {
+   "entity": {
+    "id": "tim-berners-lee",
+    "name": "Tim Berners-Lee",
+    "monogram": "TB",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "tim-berners-lee-cern",
+    "primaryCategory": "tech",
+    "subcategory": "internet-pioneers",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Before the breakthrough",
+    "question": "At which laboratory near Geneva did Tim Berners-Lee work as a consultant and write his hypertext program, Enquire?",
+    "clue": "Look in western Switzerland, close to the French border.",
+    "hint": "It is the European particle physics laboratory just outside Geneva.",
+    "answer": {
+     "city": "CERN, Meyrin (Geneva)",
+     "country": "Switzerland",
+     "countryCode": "CH"
+    },
+    "story": "Tim Berners-Lee, generally credited as the inventor of the World Wide Web, worked as a software engineering consultant at CERN, the European particle physics laboratory in Geneva, in 1980. There he wrote a program called Enquire that linked information within and between files, a technique that became known as hypertext.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Tim-Berners-Lee",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "generally credited as the inventor of the World Wide Web … a stint from June to December 1980 as a software engineering consultant at CERN, the European particle physics laboratory in Geneva. While at CERN, Berners-Lee developed a program for himself, called Enquire … a technique that became known as hypertext."
+     }
+    ],
+    "notes": [
+     "Point is CERN's main entrance on Route de Meyrin (Switzerland); the lab's site record straddles the French border."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alan-turing",
+    "name": "Alan Turing",
+    "monogram": "AT",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "alan-turing-bletchley-park",
+    "primaryCategory": "tech",
+    "subcategory": "computing-history",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "A moment on the map",
+    "question": "To which wartime codebreaking headquarters in Buckinghamshire did Alan Turing move in 1939?",
+    "clue": "Look in England, northwest of London.",
+    "hint": "The estate is in Milton Keynes, home today to the National Museum of Computing.",
+    "answer": {
+     "city": "Bletchley Park",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "At the outbreak of war in September 1939, Alan Turing moved to the Government Code and Cypher School's wartime headquarters at Bletchley Park. By early 1942 its cryptanalysts were decoding about 39,000 intercepted messages a month.",
+    "trivia": "A rebuilt Bombe, the code-breaking machine developed by Turing and others, is on display at the National Museum of Computing at Bletchley Park.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Alan-Turing",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "at the outbreak of war with Germany in September 1939, he moved to the organization’s wartime headquarters at Bletchley Park, Buckinghamshire. By early 1942 the cryptanalysts at Bletchley Park were decoding about 39,000 intercepted messages each month … a rebuilt Bombe machine, a code-breaking machine, originally developed by Alan Turing and others … in the National Museum of Computing, Bletchley Park, Milton Keynes"
+     }
+    ],
+    "triviaCard": {
+     "type": "landmark_moment",
+     "text": "A rebuilt Bombe, the code-breaking machine developed by Turing and others, is on display at the National Museum of Computing at Bletchley Park.",
+     "sourceUrl": "https://www.britannica.com/biography/Alan-Turing",
+     "sourceName": "Britannica",
+     "quote": "at the outbreak of war with Germany in September 1939, he moved to the organization’s wartime headquarters at Bletchley Park, Buckinghamshire. By early 1942 the cryptanalysts at Bletchley Park were decoding about 39,000 intercepted messages each month … a rebuilt Bombe machine, a code-breaking machine, originally developed by Alan Turing and others … in the National Museum of Computing, Bletchley Park, Milton Keynes"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "jensen-huang",
+    "name": "Jensen Huang",
+    "monogram": "JH",
+    "countryOfOrigin": "TW",
+    "region": "asia",
+    "originNote": "Taiwanese-born American entrepreneur (Britannica)."
+   },
+   "question": {
+    "id": "jensen-huang-birthplace",
+    "primaryCategory": "tech",
+    "subcategory": "tech-founders",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Where the story began",
+    "question": "In which city was NVIDIA co-founder Jensen Huang born?",
+    "clue": "Look in East Asia, on an island off China's coast.",
+    "hint": "The city is in southwestern Taiwan.",
+    "answer": {
+     "city": "Tainan",
+     "country": "Taiwan",
+     "countryCode": "TW"
+    },
+    "story": "Jensen Huang was born in Tainan, Taiwan, in 1963. He co-founded the American semiconductor company NVIDIA in 1993.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jensen-Huang",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jensen Huang (born February 17, 1963, Tainan, Taiwan) is a Taiwanese-born American entrepreneur who cofounded the American semiconductor company NVIDIA Corporation. … Huang cofounded the revolutionary microprocessor company NVIDIA in 1993."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "satya-nadella",
+    "name": "Satya Nadella",
+    "monogram": "SN",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "satya-nadella-hometown",
+    "primaryCategory": "tech",
+    "subcategory": "software-legends",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Hometown roots",
+    "question": "In which southern Indian city did Microsoft CEO Satya Nadella grow up?",
+    "clue": "Look in southern India, on the Deccan plateau.",
+    "hint": "It is the capital of Telangana.",
+    "answer": {
+     "city": "Hyderabad",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Satya Nadella was born and grew up in Hyderabad. He studied electrical engineering at Mangalore University and became CEO of Microsoft in 2014.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Satya-Nadella",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Satya Nadella (born August 19, 1967, Hyderabad, India) is an Indian-born business executive who was CEO of the computer software company Microsoft from 2014. Nadella grew up in the southern Indian city of Hyderabad and studied electrical engineering at Mangalore University"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "steve-jobs",
+    "name": "Steve Jobs",
+    "monogram": "SJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "steve-jobs-hometown",
+    "primaryCategory": "tech",
+    "subcategory": "tech-founders",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Hometown roots",
+    "question": "In which Silicon Valley city was Apple co-founder Steve Jobs raised?",
+    "clue": "Look south of San Francisco, in Silicon Valley.",
+    "hint": "The city is in Santa Clara County, west of San Jose.",
+    "answer": {
+     "city": "Cupertino, California",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Steve Jobs was born in San Francisco and raised by adoptive parents in Cupertino, California, in what is now known as Silicon Valley. He co-founded Apple Computer and became a charismatic pioneer of the personal computer era.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Steve-Jobs",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: February 24, 1955, San Francisco, California, U.S. … the cofounder of Apple Computer, Inc. … a charismatic pioneer of the personal computer era. … Jobs was raised by adoptive parents in Cupertino, California, located in what is now known as Silicon Valley."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "anousheh-ansari",
+    "name": "Anousheh Ansari",
+    "monogram": "AA",
+    "countryOfOrigin": "IR",
+    "region": "middle-east",
+    "originNote": "Iranian-born American businesswoman (Britannica)."
+   },
+   "question": {
+    "id": "anousheh-ansari-birthplace",
+    "primaryCategory": "tech",
+    "subcategory": "space-technology",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Where the story began",
+    "question": "In which Iranian city was Anousheh Ansari, the first female space tourist, born?",
+    "clue": "Look in northeastern Iran.",
+    "hint": "It is Iran's second-largest city.",
+    "answer": {
+     "city": "Mashhad",
+     "country": "Iran",
+     "countryCode": "IR"
+    },
+    "story": "Anousheh Ansari was born in Mashhad, Iran, and emigrated to the United States in 1984 as a teenager. In 2006 she became the first female space tourist, spending eight days on the International Space Station.",
+    "trivia": "Blogging from the ISS made her the first person to blog from space.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Anousheh-Ansari",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Anousheh Ansari (born September 12, 1966, Mashhad, Iran) is an Iranian-born American businesswoman who was the first female space tourist … Ansari emigrated from Iran to the United States in 1984 as a teenager. … the International Space Station, where Ansari spent eight days … (thereby becoming the first person to blog from space)."
+     }
+    ],
+    "triviaCard": {
+     "type": "wow_fact",
+     "text": "Blogging from the ISS made her the first person to blog from space.",
+     "sourceUrl": "https://www.britannica.com/biography/Anousheh-Ansari",
+     "sourceName": "Britannica",
+     "quote": "Anousheh Ansari (born September 12, 1966, Mashhad, Iran) is an Iranian-born American businesswoman who was the first female space tourist … Ansari emigrated from Iran to the United States in 1984 as a teenager. … the International Space Station, where Ansari spent eight days … (thereby becoming the first person to blog from space)."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "elon-musk",
+    "name": "Elon Musk",
+    "monogram": "EM",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "originNote": "South African-born American entrepreneur (Britannica)."
+   },
+   "question": {
+    "id": "elon-musk-birthplace",
+    "primaryCategory": "tech",
+    "subcategory": "space-technology",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Where the story began",
+    "question": "In which South African city was SpaceX founder Elon Musk born?",
+    "clue": "Look in northern South Africa.",
+    "hint": "It is one of South Africa's capital cities, north of Johannesburg.",
+    "answer": {
+     "city": "Pretoria",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "Elon Musk was born in Pretoria, South Africa, in 1971, to a South African father and a Canadian mother. He left South Africa in 1988, co-founded PayPal and formed SpaceX, a maker of launch vehicles and spacecraft.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/money/Elon-Musk",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Musk was born June 28, 1971, in Pretoria, South Africa, to a South African father and a Canadian mother. In 1988, after obtaining a Canadian passport, Musk left South Africa … cofounded the electronic payment firm PayPal and formed SpaceX, maker of launch vehicles and spacecraft."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bill-gates",
+    "name": "Bill Gates",
+    "monogram": "BG",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "bill-gates-birthplace",
+    "primaryCategory": "tech",
+    "subcategory": "software-legends",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Tech & Innovation",
+    "chapter": "Where the story began",
+    "question": "In which city was Microsoft co-founder Bill Gates born?",
+    "clue": "Look in the US Pacific Northwest.",
+    "hint": "The city is on Puget Sound, in Washington State.",
+    "answer": {
+     "city": "Seattle",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Bill Gates was born in Seattle in 1955. In high school he helped computerise his school's payroll system and founded Traf-O-Data, before co-founding Microsoft.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/money/Bill-Gates",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bill Gates (born October 28, 1955, Seattle, Washington) is an American computer programmer and entrepreneur who cofounded Microsoft Corporation … In high school he helped form a group of programmers who computerized their school’s payroll system and founded Traf-O-Data"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aliko-dangote",
+    "name": "Aliko Dangote",
+    "monogram": "AD",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "aliko-dangote-birthplace",
+    "primaryCategory": "business",
+    "subcategory": "african-business-leaders",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Business",
+    "chapter": "Where the story began",
+    "question": "In which northern Nigerian city was businessman Aliko Dangote born?",
+    "clue": "Look in northern Nigeria.",
+    "hint": "It is the capital of the state that shares its name.",
+    "answer": {
+     "city": "Kano",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Aliko Dangote was born in Kano, Nigeria, in 1957. He founded the Dangote Group conglomerate, which operates in Nigeria and several other African countries, and built a massive oil refinery in Lagos State.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aliko-Dangote",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Aliko Dangote (born April 10, 1957, Kano, Nigeria) is a Nigerian businessman and philanthropist who is the founder and CEO of the Dangote Group conglomerate, which operates in Nigeria and several other African countries. … the construction of a massive oil refinery in Lagos state."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jack-ma",
+    "name": "Jack Ma",
+    "monogram": "JM",
+    "countryOfOrigin": "CN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "jack-ma-birthplace",
+    "primaryCategory": "business",
+    "subcategory": "founders",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Business",
+    "chapter": "Where the story began",
+    "question": "In which Chinese city was Alibaba founder Jack Ma born, and where he guided foreign tourists as a teenager?",
+    "clue": "Look in eastern China, southwest of Shanghai.",
+    "hint": "It is the capital of Zhejiang province.",
+    "answer": {
+     "city": "Hangzhou",
+     "country": "China",
+     "countryCode": "CN"
+    },
+    "story": "Jack Ma was born in Hangzhou in 1964. As a teenager he worked as a guide for foreign tourists there, and he later taught English at the Hangzhou Institute of Electronics and Engineering before founding his first company in 1994.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jack-Ma",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jack Ma (born September 10, 1964, Hangzhou, Zhejiang province, China) … head of the Alibaba Group … during his teens he worked as a guide for foreign tourists to Hangzhou. … From 1988 to 1993 he taught English at the Hangzhou Institute of Electronics and Engineering … In 1994 he founded his first company"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "oprah-winfrey",
+    "name": "Oprah Winfrey",
+    "monogram": "OW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "oprah-winfrey-chicago",
+    "primaryCategory": "business",
+    "subcategory": "entrepreneurs",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Business",
+    "chapter": "The turning point",
+    "question": "To which US city did Oprah Winfrey move in 1984 to host a struggling morning talk show?",
+    "clue": "Look in the US Midwest, on Lake Michigan.",
+    "hint": "It is Illinois's largest city.",
+    "answer": {
+     "city": "Chicago",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Oprah Winfrey was born in Kosciusko, Mississippi. In 1984 she moved to Chicago to host the faltering talk show AM Chicago, and in 1986 she formed her own production company, Harpo Productions.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Oprah-Winfrey",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: January 29, 1954, Kosciusko, Mississippi, U.S. … in 1984 she moved to Chicago to host the faltering talk show AM Chicago. Winfrey formed her own television production company, Harpo Productions, Inc., in 1986"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mo-ibrahim",
+    "name": "Mo Ibrahim",
+    "monogram": "MI",
+    "countryOfOrigin": "SD",
+    "region": "africa",
+    "originNote": "Sudanese-born British entrepreneur (Britannica)."
+   },
+   "question": {
+    "id": "mo-ibrahim-university",
+    "primaryCategory": "business",
+    "subcategory": "african-business-leaders",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Business",
+    "chapter": "Before the breakthrough",
+    "question": "In which Egyptian city did telecoms entrepreneur Mo Ibrahim earn his engineering degree?",
+    "clue": "Look on Egypt's Mediterranean coast.",
+    "hint": "It is Egypt's second-largest city, west of the Nile Delta.",
+    "answer": {
+     "city": "Alexandria",
+     "country": "Egypt",
+     "countryCode": "EG"
+    },
+    "story": "Mo Ibrahim grew up in Sudan and moved with his family to Egypt, where he earned an engineering degree from Alexandria University. In 1998 he founded MSI Cellular Investments, later Celtel International, to build a pan-African mobile network.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mo-Ibrahim",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ibrahim grew up in Sudan, the son of a clerk. He moved with his family to Egypt, where he received an engineering degree from Alexandria University. … creating, in 1998, MSI Cellular Investments, which was later renamed Celtel International."
+     }
+    ],
+    "notes": [
+     "Britannica gives no birth city (\"born 1946, Sudan\"), so the question uses his university city."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "carlos-slim",
+    "name": "Carlos Slim",
+    "monogram": "CS",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "carlos-slim-birthplace",
+    "primaryCategory": "business",
+    "subcategory": "entrepreneurs",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Business",
+    "chapter": "Where the story began",
+    "question": "In which city was Mexican entrepreneur Carlos Slim born?",
+    "clue": "Look in central Mexico.",
+    "hint": "It is Mexico's capital.",
+    "answer": {
+     "city": "Mexico City",
+     "country": "Mexico",
+     "countryCode": "MX"
+    },
+    "story": "Carlos Slim was born in Mexico City in 1940 into a family of Lebanese Christian immigrants. Ownership of Telmex, the former national telephone monopoly, anchored his rise to become one of the world's wealthiest people.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Carlos-Slim-Helu",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Carlos Slim Helú (born January 28, 1940, Mexico City, Mexico) is a Mexican entrepreneur who became one of the wealthiest people in the world. Slim was born into a family of Lebanese Christian immigrants to Mexico … the anchor of his success was his ownership of the former national telephone monopoly, Teléfonos de México (Telmex)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "melanie-perkins",
+    "name": "Melanie Perkins",
+    "monogram": "MP",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "melanie-perkins-canva",
+    "primaryCategory": "business",
+    "subcategory": "founders",
+    "questionType": "company_origin",
+    "difficulty": "medium",
+    "displayCategory": "Business",
+    "chapter": "Before the breakthrough",
+    "question": "In which city did Melanie Perkins begin the journey that became Canva, while studying at the University of Western Australia?",
+    "clue": "Look on Australia's west coast.",
+    "hint": "It is the capital of Western Australia.",
+    "answer": {
+     "city": "Perth",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Melanie Perkins started her first business at fourteen, selling handmade scarves at shops and markets throughout Perth. The Canva journey began in 2007 while she was studying at the University of Western Australia, and Canva launched in 2012.",
+    "sources": [
+     {
+      "url": "https://www.businesshalloffame.org/melanie-perkins",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She started her first business at the age of fourteen by selling handmade scarves at shops and markets throughout Perth. The Canva journey began in 2007, when Melanie was studying at the University of Western Australia. … 2012 Launches Canva"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "coco-chanel",
+    "name": "Coco Chanel",
+    "monogram": "CC",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "coco-chanel-deauville",
+    "primaryCategory": "fashion",
+    "subcategory": "designers",
+    "questionType": "company_origin",
+    "difficulty": "hard",
+    "displayCategory": "Fashion",
+    "chapter": "Before the breakthrough",
+    "question": "In which Normandy resort town did Coco Chanel open a boutique in 1912, two years after her first Paris shop?",
+    "clue": "Look on France's English Channel coast.",
+    "hint": "The resort is on the Côte Fleurie, across the Seine estuary from Le Havre.",
+    "answer": {
+     "city": "Deauville",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Born Gabrielle Chanel in Saumur, Coco Chanel opened a tiny millinery shop at 21 rue Cambon, Paris, in 1910. Two years later she established a boutique in Deauville, a resort town in Normandy, and went on to rule Parisian haute couture for almost six decades.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Coco-Chanel",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Coco Chanel (born August 19, 1883, Saumur, France …) was a French fashion designer who ruled Parisian haute couture for almost six decades. … she opened Chanel Modes, a tiny millinery shop at 21 rue Cambon, Paris, in 1910. Two years later she established a boutique in Deauville, a resort town in the Normandy region of France."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "virgil-abloh",
+    "name": "Virgil Abloh",
+    "monogram": "VA",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "virgil-abloh-birthplace",
+    "primaryCategory": "fashion",
+    "subcategory": "designers",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Fashion",
+    "chapter": "Where the story began",
+    "question": "In which Illinois city was Off-White founder Virgil Abloh born?",
+    "clue": "Look in northern Illinois.",
+    "hint": "The city is northwest of Chicago, near the Wisconsin border.",
+    "answer": {
+     "city": "Rockford, Illinois",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Virgil Abloh was born in Rockford, Illinois, to Ghanaian immigrant parents. Trained in civil engineering and architecture, he founded the label Off-White and became creative director of Louis Vuitton menswear.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Virgil-Abloh",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: September 30, 1980, Rockford, Illinois, U.S. … best known as the founder of the fashion label Off-White and the creative director of Louis Vuitton menswear. … Abloh was born to Ghanaian immigrant parents … a degree in civil engineering … a master’s degree in architecture"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "adut-akech",
+    "name": "Adut Akech",
+    "monogram": "AA",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "originNote": "Born in a refugee camp in South Sudan, grew up in Kenya's Kakuma camp, then Adelaide (CNN). Origin/region provisional.",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "adut-akech-adelaide",
+    "primaryCategory": "fashion",
+    "subcategory": "supermodels",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Fashion",
+    "chapter": "Before the breakthrough",
+    "question": "In which Australian city did model Adut Akech finish high school before her runway debut?",
+    "clue": "Look on Australia's southern coast.",
+    "hint": "It is the capital of South Australia.",
+    "answer": {
+     "city": "Adelaide",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Adut Akech was born in a refugee camp in South Sudan, grew up in Kenya's Kakuma refugee camp, and moved to Adelaide with her mother and five siblings. Months after graduating from high school in Adelaide, she made her runway debut for Saint Laurent.",
+    "sources": [
+     {
+      "url": "https://www.cnn.com/style/article/adut-akech-model-profile/index.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in a refugee camp in South Sudan amid ongoing conflict with the north, Akech grew up in Kenya’s Kakuma refugee camp, before moving to Adelaide with her mother and five siblings. … mere months after graduating from high school in Adelaide, Australia, that she made her runway debut, walking as an exclusive in the Saint Laurent Spring-Summer 2017 show."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "iman",
+    "name": "Iman",
+    "monogram": "I",
+    "countryOfOrigin": "SO",
+    "region": "africa"
+   },
+   "question": {
+    "id": "iman-discovery",
+    "primaryCategory": "fashion",
+    "subcategory": "supermodels",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Fashion",
+    "chapter": "The turning point",
+    "question": "In which city was Iman spotted by photographer Peter Beard while she was a university student?",
+    "clue": "Look in East Africa.",
+    "hint": "It is Kenya's capital.",
+    "answer": {
+     "city": "Nairobi",
+     "country": "Kenya",
+     "countryCode": "KE"
+    },
+    "story": "Iman was born in Mogadishu, Somalia, in 1955. In 1973, as an 18-year-old political science student at the University of Nairobi, she was seen on a Nairobi street by photographer Peter Beard, who launched her modelling career.",
+    "sources": [
+     {
+      "url": "https://www.biography.com/celebrities/iman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Iman Mohamed Abdulmajid was born on July 25, 1955, in Mogadishu, Somalia. … By 1973, Iman was 18 and a student of political science at the University of Nairobi. Photographer Peter Beard, a well-known figure in the fashion world, saw her one day on a street in Nairobi"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "elie-saab",
+    "name": "Elie Saab",
+    "monogram": "ES",
+    "countryOfOrigin": "LB",
+    "region": "middle-east"
+   },
+   "question": {
+    "id": "elie-saab-birthplace",
+    "primaryCategory": "fashion",
+    "subcategory": "designers",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Fashion",
+    "chapter": "Where the story began",
+    "question": "In which Lebanese coastal town was designer Elie Saab born?",
+    "clue": "Look on the eastern Mediterranean coast, south of Beirut.",
+    "hint": "The town lies between Beirut and Sidon.",
+    "answer": {
+     "city": "Damour",
+     "country": "Lebanon",
+     "countryCode": "LB"
+    },
+    "story": "Elie Saab was born in Damour, Lebanon, in 1964. A self-taught talent, he opened his first couture atelier in Beirut in 1982.",
+    "sources": [
+     {
+      "url": "https://www.fashiontrustarabia.com/editions/elie-saab",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in 1964 in Damour, Lebanon, Elie Saab is a self-taught fashion talent. In 1982, he opened his first couture atelier in Beirut"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "grace-jones",
+    "name": "Grace Jones",
+    "monogram": "GJ",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "grace-jones-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "fashion-icons",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which Jamaican town was style icon Grace Jones born?",
+    "clue": "Look in Jamaica, just west of Kingston.",
+    "hint": "The town was once Jamaica's capital.",
+    "answer": {
+     "city": "Spanish Town",
+     "country": "Jamaica",
+     "countryCode": "JM"
+    },
+    "story": "Grace Jones was born in Spanish Town, Jamaica, in 1948. Her striking androgynous look and avant-garde fashion sense made the singer, model and actress a style icon in the 1970s.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Grace-Jones",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Grace Jones (born May 19, 1948, Spanish Town, Jamaica) is a Jamaican singer, model, and actress whose striking androgynous appearance and avant-garde fashion sense propelled her to fame in the 1970s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cathy-freeman",
+    "name": "Cathy Freeman",
+    "monogram": "CF",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "cathy-freeman-sydney-2000",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "event_location",
+    "difficulty": "easy",
+    "displayCategory": "Athletics",
+    "chapter": "The first big win",
+    "question": "In which city did Cathy Freeman light the Olympic flame and then win 400m gold in 2000?",
+    "clue": "Look on Australia's southeast coast.",
+    "hint": "It is the capital of New South Wales.",
+    "answer": {
+     "city": "Sydney",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "At the 2000 Olympics in Sydney, Cathy Freeman lit the Olympic flame at the opening ceremony. She then won the 400 metres, becoming the first Australian Aboriginal person to win an individual Olympic gold medal.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Cathy-Freeman",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "in 2000 became the first Australian Aboriginal person to win an individual Olympic gold medal. … For the 2000 Olympics in Sydney, she was chosen to light the Olympic flame during the opening ceremony"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "brian-lara",
+    "name": "Brian Lara",
+    "monogram": "BL",
+    "countryOfOrigin": "TT",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "brian-lara-birthplace",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "In which Trinidad village was cricket legend Brian Lara born?",
+    "clue": "Look in the southern Caribbean, just off Venezuela.",
+    "hint": "The village is in northern Trinidad, near Port of Spain.",
+    "answer": {
+     "city": "Cantaro, Santa Cruz",
+     "country": "Trinidad and Tobago",
+     "countryCode": "TT"
+    },
+    "story": "Brian Lara was born in Cantaro, Trinidad, in 1969. In 1994 he broke cricket's two most coveted batting records, scoring 375 against England and 501 not out for Warwickshire.",
+    "trivia": "In 2004 his 400 not out against England made him the first player to retake the Test batting record.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Brian-Lara",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Brian Lara (born May 2, 1969, Cantaro, Trinidad) … in 1994, when he broke the two most coveted batting records in cricket, scoring 375 runs against England … and 501 runs (not out) for Warwickshire … In 2004 Lara then became the first player to retake the Test batting record when his 400 runs (not out) against England"
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "In 2004 his 400 not out against England made him the first player to retake the Test batting record.",
+     "sourceUrl": "https://www.britannica.com/biography/Brian-Lara",
+     "sourceName": "Britannica",
+     "quote": "Brian Lara (born May 2, 1969, Cantaro, Trinidad) … in 1994, when he broke the two most coveted batting records in cricket, scoring 375 runs against England … and 501 runs (not out) for Warwickshire … In 2004 Lara then became the first player to retake the Test batting record when his 400 runs (not out) against England"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "nicki-minaj",
+    "name": "Nicki Minaj",
+    "monogram": "NM",
+    "countryOfOrigin": "TT",
+    "region": "caribbean",
+    "originNote": "Trinidadian-born; moved to Queens, New York, at about five (Britannica).",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "nicki-minaj-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Port of Spain district was Nicki Minaj born?",
+    "clue": "Look in the southern Caribbean.",
+    "hint": "The district is in the west of Trinidad's capital.",
+    "answer": {
+     "city": "St. James, Port of Spain",
+     "country": "Trinidad and Tobago",
+     "countryCode": "TT"
+    },
+    "story": "Nicki Minaj was born Onika Tanya Maraj in St. James, Trinidad and Tobago. She was about five when her family moved to Queens, New York.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Nicki-Minaj",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Nicki Minaj (born December 8, 1982, St. James, Trinidad and Tobago) is a Trinidadian-born rapper … Also known as: Onika Tanya Maraj … Maraj was about five years old when her family moved to Queens, New York, from Trinidad and Tobago."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "steve-irwin",
+    "name": "Steve Irwin",
+    "monogram": "SI",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "steve-irwin-beerwah",
+    "primaryCategory": "icons",
+    "subcategory": "cultural-icons",
+    "questionType": "famous_place",
+    "difficulty": "hard",
+    "displayCategory": "World Icons",
+    "chapter": "A moment on the map",
+    "question": "In which Sunshine Coast town did Steve Irwin's parents found the reptile park he later ran?",
+    "clue": "Look in southeastern Queensland, Australia.",
+    "hint": "The town is in the Glass House Mountains area, north of Brisbane.",
+    "answer": {
+     "city": "Beerwah, Queensland",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "In 1970 Steve Irwin's family moved to Queensland's Sunshine Coast, where his parents founded the Beerwah Reptile Park. Irwin took over the park in 1991 and found worldwide fame as host of The Crocodile Hunter.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Steve-Irwin",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "achieved worldwide fame as the exuberant host of The Crocodile Hunter (1992–2006) … In 1970 the family moved from Victoria to Queensland’s Sunshine Coast, where Bob and Lyn Irwin founded the Beerwah Reptile Park … In 1991 Irwin took over direction of the Beerwah park from his father."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "queen-rania",
+    "name": "Queen Rania",
+    "monogram": "QR",
+    "countryOfOrigin": "JO",
+    "region": "middle-east",
+    "originNote": "Born in Kuwait to Palestinian parents; moved to Amman in 1991 (official biography). Origin/region provisional."
+   },
+   "question": {
+    "id": "queen-rania-amman",
+    "primaryCategory": "royalty",
+    "subcategory": "modern-royal-families",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Royalty",
+    "chapter": "The turning point",
+    "question": "To which city did Rania Yasin move in 1991, two years before she married Prince Abdullah of Jordan?",
+    "clue": "Look in the Middle East, east of the Jordan River.",
+    "hint": "It is Jordan's capital.",
+    "answer": {
+     "city": "Amman",
+     "country": "Jordan",
+     "countryCode": "JO"
+    },
+    "story": "Rania Yasin was born in Kuwait to Palestinian parents and studied business at the American University in Cairo. In 1991 she moved to Amman, where her parents had settled after the Gulf War. A dinner party in January 1993 led to her meeting Prince Abdullah, and they married five months later.",
+    "sources": [
+     {
+      "url": "https://www.queenrania.jo/en/media/news/queen-rania-jordan",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Rania Yasin was born on August 31, 1970, in Kuwait to Palestinian parents. … the American University in Cairo, where she graduated with a business degree. In 1991 she moved to Amman, where her parents had settled after fleeing Kuwait … a dinner party hosted by Prince Abdullah's sister in January 1993 … they were married just five months later."
+     }
+    ]
+   }
+  }
+ ]
+}

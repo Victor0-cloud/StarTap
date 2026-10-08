@@ -1,0 +1,36 @@
+{
+ "worlds": [
+  {"id": "music", "title": "Music World", "category": "music", "levels": [
+   {"id": "music-1", "title": "Global Pop", "questionIds": ["billie-eilish-birthplace", "taylor-swift-global", "adele-brit-school", "dua-lipa-global", "tate-mcrae-hometown"]},
+   {"id": "music-2", "title": "Sounds of Africa", "questionIds": ["burna-boy-stadium", "rema-birthplace", "tems-birthplace", "tyla-expanded", "fela-kuti-birthplace"]},
+   {"id": "music-3", "title": "R&B & Hip-Hop", "questionIds": ["rihanna-island-origins", "beyonce-global", "doja-cat-birthplace", "central-cee-hometown", "nicki-minaj-birthplace"]},
+   {"id": "music-4", "title": "Latin & Caribbean", "questionIds": ["shakira-origins-giving-back", "karol-g-birthplace", "peso-pluma-birthplace", "bad-bunny-global", "bob-marley-global"]},
+   {"id": "music-6", "title": "Pop Icons", "questionIds": ["olivia-rodrigo-hometown", "sabrina-carpenter-birthplace", "kylie-minogue-global", "lorde-global", "celine-dion-global"]},
+   {"id": "music-7", "title": "Music Legends", "questionIds": ["freddie-mercury-global", "miriam-makeba-global", "youssou-n-dour-global", "angelique-kidjo-global", "agnetha-faltskog-expanded"]},
+   {"id": "music-5", "title": "K-Pop", "questionIds": [], "comingSoon": true}
+  ]},
+  {"id": "sports", "title": "Sports World", "category": "sports", "levels": [
+   {"id": "sports-1", "title": "Football Stars", "questionIds": ["messi-youth-club", "cristiano-ronaldo-global", "kylian-mbappe-first-club", "mohamed-salah-global", "vinicius-junior-first-school"]},
+   {"id": "sports-2", "title": "Tennis Aces", "questionIds": ["serena-first-slam", "roger-federer-global", "rafael-nadal-global", "naomi-osaka-first-title", "li-na-global"]},
+   {"id": "sports-3", "title": "Track & Field", "questionIds": ["usain-bolt-global", "david-rudisha-expanded", "eliud-kipchoge-global", "julien-alfred-birthplace", "cathy-freeman-sydney-2000"]},
+   {"id": "sports-4", "title": "Olympic Moments", "questionIds": ["nadia-comaneci-global", "simone-biles-global", "rebeca-andrade-expanded", "yuzuru-hanyu-global", "p-v-sindhu-expanded"]},
+   {"id": "sports-5", "title": "Basketball", "questionIds": [], "comingSoon": true},
+   {"id": "sports-6", "title": "Formula 1", "questionIds": [], "comingSoon": true}
+  ]},
+  {"id": "screen", "title": "Screen World", "category": "screen", "levels": [
+   {"id": "screen-1", "title": "Hollywood", "questionIds": ["hugh-jackman-drama-school", "zendaya-birthplace", "timothee-chalamet-hometown", "charlize-theron-global", "lupita-nyong-o-global"]},
+   {"id": "screen-2", "title": "Streaming & TV", "questionIds": ["jenna-ortega-wednesday", "anya-taylor-joy-birthplace", "jacob-elordi-birthplace", "damson-idris-hometown", "ncuti-gatwa-conservatoire"]},
+   {"id": "screen-3", "title": "Global Screen Icons", "questionIds": ["jackie-chan-opera-training", "michelle-yeoh-global", "hayao-miyazaki-global", "trevor-noah-global", "bong-joon-ho-global"]},
+   {"id": "screen-4", "title": "Bollywood", "questionIds": [], "comingSoon": true},
+   {"id": "screen-5", "title": "Nollywood", "questionIds": [], "comingSoon": true},
+   {"id": "screen-6", "title": "Korean Screen", "questionIds": [], "comingSoon": true}
+  ]}
+ ],
+ "upcoming": [
+  {"title": "Culture World", "category": "culture"},
+  {"title": "Countries World", "category": "geography"},
+  {"title": "Tech World", "category": "tech"},
+  {"title": "World Icons", "category": "icons"},
+  {"title": "Legends", "category": "legends"}
+ ]
+}

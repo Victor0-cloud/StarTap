@@ -1,0 +1,13 @@
+Sport posters: owner-supplied artwork from C:\Projects\StarTap\assets\videos\sports_world\icons\ (941x1672 PNG),
+re-saved as WebP (quality 0.86) at the original size, not cropped or resized. No PNG copies are packaged.
+sports_world.webp      <- ChatGPT Image Oct 4, 2026, 07_39_59 AM-1.png  (multi-sport collage, "SPORTS WORLD / Choose your arena")
+football.webp          <- ChatGPT Image Oct 4, 2026, 07_40_00 AM-2.png  (striker, "FOOTBALL / SOCCER / Strike the moment")
+basketball.webp        <- ChatGPT Image Oct 4, 2026, 07_40_02 AM-3.png  (dunk, "BASKETBALL / Own the rim")
+baseball.webp          <- ChatGPT Image Oct 4, 2026, 07_40_03 AM-4.png  (batter, "BASEBALL / Step up to the plate")
+american_football.webp <- ChatGPT Image Oct 4, 2026, 07_40_05 AM-5.png  (runner, "AMERICAN FOOTBALL / Power through")
+tennis.webp            <- ChatGPT Image Oct 4, 2026, 07_40_07 AM-6.png  (serve, "TENNIS / Serve for glory")
+boxing.webp            <- ChatGPT Image Oct 4, 2026, 07_40_08 AM-7.png  (fighter in ring, "BOXING / Fight night")
+mma.webp               <- ChatGPT Image Oct 4, 2026, 07_40_09 AM-8.png  (cage fight, "MMA / Enter the cage")
+track_field.webp       <- ChatGPT Image Oct 4, 2026, 07_40_11 AM-9.png  (sprinter, "TRACK & FIELD / Chase the finish")
+formula_1.webp         <- ChatGPT Image Oct 4, 2026, 07_40_12 AM-10.png (open-wheel car, "FORMULA 1 / Race the edge")
+Not packaged: "Athlete's Neon Transformation Reel.png" (a timed storyboard of the Sports World clip, not a poster).

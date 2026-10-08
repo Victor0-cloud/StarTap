@@ -1,0 +1,761 @@
+{
+ "categories": [
+  {
+   "key": "music",
+   "label": "Music",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "afrobeats",
+     "label": "Afrobeats"
+    },
+    {
+     "key": "amapiano",
+     "label": "Amapiano"
+    },
+    {
+     "key": "rnb",
+     "label": "R&B"
+    },
+    {
+     "key": "hip-hop",
+     "label": "Hip-Hop / Rap"
+    },
+    {
+     "key": "pop",
+     "label": "Pop"
+    },
+    {
+     "key": "rock",
+     "label": "Rock"
+    },
+    {
+     "key": "reggae-dancehall",
+     "label": "Reggae / Dancehall"
+    },
+    {
+     "key": "country",
+     "label": "Country"
+    },
+    {
+     "key": "latin",
+     "label": "Latin"
+    },
+    {
+     "key": "k-pop",
+     "label": "K-Pop"
+    },
+    {
+     "key": "gospel",
+     "label": "Gospel"
+    },
+    {
+     "key": "jazz",
+     "label": "Jazz"
+    },
+    {
+     "key": "soul",
+     "label": "Soul"
+    },
+    {
+     "key": "soul-legends-80s-90s",
+     "label": "80s/90s Soul Legends"
+    },
+    {
+     "key": "electronic",
+     "label": "Electronic / DJ"
+    },
+    {
+     "key": "classical",
+     "label": "Classical"
+    },
+    {
+     "key": "african-legends",
+     "label": "African Music Legends"
+    },
+    {
+     "key": "caribbean-music",
+     "label": "Caribbean Music"
+    },
+    {
+     "key": "global-icons",
+     "label": "Global Music Icons"
+    }
+   ]
+  },
+  {
+   "key": "sports",
+   "label": "Sports",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "football",
+     "label": "Football / Soccer"
+    },
+    {
+     "key": "basketball",
+     "label": "Basketball"
+    },
+    {
+     "key": "american-football",
+     "label": "American Football"
+    },
+    {
+     "key": "boxing",
+     "label": "Boxing"
+    },
+    {
+     "key": "mma",
+     "label": "MMA / UFC"
+    },
+    {
+     "key": "tennis",
+     "label": "Tennis"
+    },
+    {
+     "key": "track-field",
+     "label": "Track & Field"
+    },
+    {
+     "key": "formula-1",
+     "label": "Formula 1"
+    },
+    {
+     "key": "cricket",
+     "label": "Cricket"
+    },
+    {
+     "key": "baseball",
+     "label": "Baseball"
+    },
+    {
+     "key": "golf",
+     "label": "Golf"
+    },
+    {
+     "key": "wrestling",
+     "label": "Wrestling"
+    },
+    {
+     "key": "olympic-legends",
+     "label": "Olympic Legends"
+    },
+    {
+     "key": "gymnastics",
+     "label": "Gymnastics"
+    },
+    {
+     "key": "racket-sports",
+     "label": "Racket Sports"
+    },
+    {
+     "key": "winter-sports",
+     "label": "Winter Sports"
+    }
+   ]
+  },
+  {
+   "key": "screen",
+   "label": "Screen",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "hollywood",
+     "label": "Hollywood"
+    },
+    {
+     "key": "nollywood",
+     "label": "Nollywood"
+    },
+    {
+     "key": "bollywood",
+     "label": "Bollywood"
+    },
+    {
+     "key": "korean-drama",
+     "label": "Korean Drama"
+    },
+    {
+     "key": "korean-film",
+     "label": "Korean Film"
+    },
+    {
+     "key": "african-cinema",
+     "label": "African Cinema"
+    },
+    {
+     "key": "television",
+     "label": "Television"
+    },
+    {
+     "key": "streaming-stars",
+     "label": "Streaming Stars"
+    },
+    {
+     "key": "comedy",
+     "label": "Comedy"
+    },
+    {
+     "key": "action",
+     "label": "Action"
+    },
+    {
+     "key": "drama",
+     "label": "Drama"
+    },
+    {
+     "key": "directors",
+     "label": "Directors"
+    },
+    {
+     "key": "classic-icons",
+     "label": "Classic Movie Icons"
+    }
+   ]
+  },
+  {
+   "key": "geography",
+   "label": "Countries & Geography",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "capitals",
+     "label": "Capitals"
+    },
+    {
+     "key": "flags",
+     "label": "Flags"
+    },
+    {
+     "key": "famous-cities",
+     "label": "Famous Cities"
+    },
+    {
+     "key": "landmarks",
+     "label": "Landmarks"
+    },
+    {
+     "key": "national-foods",
+     "label": "National Foods"
+    },
+    {
+     "key": "languages",
+     "label": "Languages"
+    },
+    {
+     "key": "currencies",
+     "label": "Currencies"
+    },
+    {
+     "key": "country-shapes",
+     "label": "Country Shapes"
+    },
+    {
+     "key": "islands",
+     "label": "Islands"
+    },
+    {
+     "key": "natural-wonders",
+     "label": "Natural Wonders"
+    },
+    {
+     "key": "world-heritage-sites",
+     "label": "World Heritage Sites"
+    },
+    {
+     "key": "african-countries",
+     "label": "African Countries"
+    },
+    {
+     "key": "caribbean-countries",
+     "label": "Caribbean Countries"
+    },
+    {
+     "key": "asian-countries",
+     "label": "Asian Countries"
+    },
+    {
+     "key": "european-countries",
+     "label": "European Countries"
+    },
+    {
+     "key": "north-american-countries",
+     "label": "North American Countries"
+    },
+    {
+     "key": "south-american-countries",
+     "label": "South American Countries"
+    },
+    {
+     "key": "oceania",
+     "label": "Oceania"
+    }
+   ]
+  },
+  {
+   "key": "culture",
+   "label": "Culture",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "african-culture",
+     "label": "African Culture"
+    },
+    {
+     "key": "caribbean-culture",
+     "label": "Caribbean Culture"
+    },
+    {
+     "key": "asian-culture",
+     "label": "Asian Culture"
+    },
+    {
+     "key": "latin-culture",
+     "label": "Latin Culture"
+    },
+    {
+     "key": "european-culture",
+     "label": "European Culture"
+    },
+    {
+     "key": "middle-eastern-culture",
+     "label": "Middle Eastern Culture"
+    },
+    {
+     "key": "indigenous-cultures",
+     "label": "Indigenous Cultures"
+    },
+    {
+     "key": "food-cuisine",
+     "label": "Food & Cuisine"
+    },
+    {
+     "key": "dance",
+     "label": "Dance"
+    },
+    {
+     "key": "festivals",
+     "label": "Festivals"
+    },
+    {
+     "key": "fashion",
+     "label": "Fashion"
+    },
+    {
+     "key": "traditional-music",
+     "label": "Traditional Music"
+    },
+    {
+     "key": "languages",
+     "label": "Languages"
+    },
+    {
+     "key": "cultural-landmarks",
+     "label": "Cultural Landmarks"
+    }
+   ]
+  },
+  {
+   "key": "icons",
+   "label": "World Icons",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "historic-icons",
+     "label": "Historic Icons"
+    },
+    {
+     "key": "cultural-icons",
+     "label": "Cultural Icons"
+    },
+    {
+     "key": "humanitarians",
+     "label": "Humanitarians"
+    },
+    {
+     "key": "explorers",
+     "label": "Explorers"
+    },
+    {
+     "key": "inventors",
+     "label": "Inventors"
+    },
+    {
+     "key": "scientists",
+     "label": "Scientists"
+    },
+    {
+     "key": "authors",
+     "label": "Authors"
+    },
+    {
+     "key": "artists",
+     "label": "Artists"
+    },
+    {
+     "key": "fashion-icons",
+     "label": "Fashion Icons"
+    },
+    {
+     "key": "architects",
+     "label": "Architects"
+    },
+    {
+     "key": "business-icons",
+     "label": "Business Icons"
+    },
+    {
+     "key": "global-changemakers",
+     "label": "Global Changemakers"
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "label": "Tech & Innovation",
+   "group": "main",
+   "subcategories": [
+    {
+     "key": "tech-founders",
+     "label": "Tech Founders"
+    },
+    {
+     "key": "ai-pioneers",
+     "label": "AI Pioneers"
+    },
+    {
+     "key": "software-legends",
+     "label": "Software Legends"
+    },
+    {
+     "key": "internet-pioneers",
+     "label": "Internet Pioneers"
+    },
+    {
+     "key": "inventors",
+     "label": "Inventors"
+    },
+    {
+     "key": "gaming-creators",
+     "label": "Gaming Creators"
+    },
+    {
+     "key": "robotics",
+     "label": "Robotics"
+    },
+    {
+     "key": "space-technology",
+     "label": "Space Technology"
+    },
+    {
+     "key": "startup-founders",
+     "label": "Startup Founders"
+    },
+    {
+     "key": "computing-history",
+     "label": "Computing History"
+    }
+   ]
+  },
+  {
+   "key": "history",
+   "label": "History",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "ancient-world",
+     "label": "Ancient World"
+    },
+    {
+     "key": "african-history",
+     "label": "African History"
+    },
+    {
+     "key": "american-history",
+     "label": "American History"
+    },
+    {
+     "key": "european-history",
+     "label": "European History"
+    },
+    {
+     "key": "asian-history",
+     "label": "Asian History"
+    },
+    {
+     "key": "empires",
+     "label": "Empires"
+    },
+    {
+     "key": "explorers",
+     "label": "Explorers"
+    },
+    {
+     "key": "historic-leaders",
+     "label": "Historic Leaders"
+    },
+    {
+     "key": "famous-events",
+     "label": "Famous Events"
+    },
+    {
+     "key": "independence-movements",
+     "label": "Independence Movements"
+    },
+    {
+     "key": "major-discoveries",
+     "label": "Major Discoveries"
+    },
+    {
+     "key": "world-firsts",
+     "label": "World Firsts"
+    }
+   ]
+  },
+  {
+   "key": "food",
+   "label": "Food",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "famous-dishes",
+     "label": "Famous Dishes"
+    },
+    {
+     "key": "celebrity-chefs",
+     "label": "Celebrity Chefs"
+    },
+    {
+     "key": "street-food",
+     "label": "Street Food"
+    },
+    {
+     "key": "african-cuisine",
+     "label": "African Cuisine"
+    },
+    {
+     "key": "caribbean-cuisine",
+     "label": "Caribbean Cuisine"
+    },
+    {
+     "key": "asian-cuisine",
+     "label": "Asian Cuisine"
+    },
+    {
+     "key": "european-cuisine",
+     "label": "European Cuisine"
+    },
+    {
+     "key": "latin-cuisine",
+     "label": "Latin Cuisine"
+    },
+    {
+     "key": "food-origins",
+     "label": "Food Origins"
+    }
+   ]
+  },
+  {
+   "key": "fashion",
+   "label": "Fashion & Beauty",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "supermodels",
+     "label": "Supermodels"
+    },
+    {
+     "key": "designers",
+     "label": "Designers"
+    },
+    {
+     "key": "beauty-entrepreneurs",
+     "label": "Beauty Entrepreneurs"
+    },
+    {
+     "key": "fashion-houses",
+     "label": "Fashion Houses"
+    },
+    {
+     "key": "stylists",
+     "label": "Stylists"
+    },
+    {
+     "key": "makeup-icons",
+     "label": "Makeup Icons"
+    },
+    {
+     "key": "fashion-capitals",
+     "label": "Fashion Capitals"
+    }
+   ]
+  },
+  {
+   "key": "science",
+   "label": "Science & Discovery",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "scientists",
+     "label": "Scientists"
+    },
+    {
+     "key": "medicine",
+     "label": "Medicine"
+    },
+    {
+     "key": "space",
+     "label": "Space"
+    },
+    {
+     "key": "physics",
+     "label": "Physics"
+    },
+    {
+     "key": "biology",
+     "label": "Biology"
+    },
+    {
+     "key": "engineering",
+     "label": "Engineering"
+    },
+    {
+     "key": "environmental-science",
+     "label": "Environmental Science"
+    },
+    {
+     "key": "famous-discoveries",
+     "label": "Famous Discoveries"
+    }
+   ]
+  },
+  {
+   "key": "business",
+   "label": "Business & Money",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "entrepreneurs",
+     "label": "Entrepreneurs"
+    },
+    {
+     "key": "founders",
+     "label": "Founders"
+    },
+    {
+     "key": "african-business-leaders",
+     "label": "African Business Leaders"
+    },
+    {
+     "key": "global-brands",
+     "label": "Global Brands"
+    },
+    {
+     "key": "finance-icons",
+     "label": "Finance Icons"
+    },
+    {
+     "key": "business-innovators",
+     "label": "Business Innovators"
+    }
+   ]
+  },
+  {
+   "key": "creators",
+   "label": "Creators & Internet",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "youtubers",
+     "label": "YouTubers"
+    },
+    {
+     "key": "tiktok-creators",
+     "label": "TikTok Creators"
+    },
+    {
+     "key": "streamers",
+     "label": "Streamers"
+    },
+    {
+     "key": "podcasters",
+     "label": "Podcasters"
+    },
+    {
+     "key": "gaming-creators",
+     "label": "Gaming Creators"
+    },
+    {
+     "key": "digital-entrepreneurs",
+     "label": "Digital Entrepreneurs"
+    },
+    {
+     "key": "viral-personalities",
+     "label": "Viral Personalities"
+    }
+   ]
+  },
+  {
+   "key": "legends",
+   "label": "Legends",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "music-legends",
+     "label": "Music Legends"
+    },
+    {
+     "key": "sports-legends",
+     "label": "Sports Legends"
+    },
+    {
+     "key": "movie-legends",
+     "label": "Movie Legends"
+    },
+    {
+     "key": "african-legends",
+     "label": "African Legends"
+    },
+    {
+     "key": "caribbean-legends",
+     "label": "Caribbean Legends"
+    },
+    {
+     "key": "cultural-legends",
+     "label": "Cultural Legends"
+    },
+    {
+     "key": "historical-legends",
+     "label": "Historical Legends"
+    }
+   ]
+  },
+  {
+   "key": "royalty",
+   "label": "Royalty & Dynasties",
+   "group": "more",
+   "subcategories": [
+    {
+     "key": "african-royalty",
+     "label": "African Royalty"
+    },
+    {
+     "key": "european-royalty",
+     "label": "European Royalty"
+    },
+    {
+     "key": "kings-queens",
+     "label": "Historical Kings & Queens"
+    },
+    {
+     "key": "modern-royal-families",
+     "label": "Modern Royal Families"
+    },
+    {
+     "key": "ancient-dynasties",
+     "label": "Ancient Dynasties"
+    }
+   ]
+  }
+ ]
+}

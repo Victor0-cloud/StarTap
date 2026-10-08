@@ -1,0 +1,1932 @@
+{
+ "batch": 8,
+ "researched": "2026-10-03",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "ed-sheeran",
+    "name": "Ed Sheeran",
+    "monogram": "ES",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ed-sheeran-framlingham",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Pop",
+    "chapter": "Growing up",
+    "question": "In which small Suffolk town did Ed Sheeran grow up, singing in his church choir from age four?",
+    "clue": "Look in East Anglia, in eastern England.",
+    "hint": "Its castle is a short walk from the town centre; it inspired the song \"Castle on the Hill\".",
+    "answer": {
+     "city": "Framlingham",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Ed Sheeran grew up in Framlingham, Suffolk, joining his church choir at four and later learning guitar.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ed-Sheeran",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The family moved to Framlingham, Suffolk, and he showed an interest in music throughout his childhood, joining his church choir at age four and beginning to learn guitar when he was older."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "harry-styles",
+    "name": "Harry Styles",
+    "monogram": "HS",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "harry-styles-holmes-chapel",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Pop",
+    "chapter": "Growing up",
+    "question": "In which Cheshire village was Harry Styles raised — where he fronted the school band White Eskimo?",
+    "clue": "Look in northwest England, south of Manchester.",
+    "hint": "Its name ends with \"Chapel\".",
+    "answer": {
+     "city": "Holmes Chapel",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Harry Styles was raised in Holmes Chapel, Cheshire, and fronted the band White Eskimo at Holmes Chapel Comprehensive before One Direction.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Harry-Styles",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Styles was raised in Holmes Chapel, Cheshire, England, by his parents, Anne Twist and Desmond Styles."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "justin-bieber",
+    "name": "Justin Bieber",
+    "monogram": "JB",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "justin-bieber-stratford",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Pop",
+    "chapter": "Growing up",
+    "question": "In which Ontario town, famous for a Shakespeare festival, was Justin Bieber raised?",
+    "clue": "Look in southwestern Ontario.",
+    "hint": "It shares its name with Shakespeare's English birthplace.",
+    "answer": {
+     "city": "Stratford",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Justin Bieber was raised by a single mother in Stratford, Ontario, where he learned drums, piano, guitar and trumpet.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Justin-Bieber",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bieber was raised by a single mother in Stratford, Ontario, Canada, and as a child he learned to play the drums, the piano, the guitar, and the trumpet."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "As a child in Stratford, Bieber learned to play drums, piano, guitar and trumpet.",
+     "sourceUrl": "https://www.britannica.com/biography/Justin-Bieber",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Bieber was raised by a single mother in Stratford, Ontario, Canada, and as a child he learned to play the drums, the piano, the guitar, and the trumpet."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "bruno-mars",
+    "name": "Bruno Mars",
+    "monogram": "BM",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "bruno-mars-honolulu",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Pop",
+    "chapter": "Before the fame",
+    "question": "In which island city did a four-year-old Bruno Mars start performing as an Elvis impersonator?",
+    "clue": "Look in the middle of the Pacific Ocean, on Oahu.",
+    "hint": "It's Hawaii's capital.",
+    "answer": {
+     "city": "Honolulu",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Bruno Mars began entertaining in Honolulu at four as an Elvis Presley impersonator with his parents' band, the Love Notes.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bruno-Mars",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He was nicknamed Bruno when he was a toddler and began entertaining in Honolulu at the age of four as an Elvis Presley impersonator with his parents’ band, the Love Notes."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "At age four, Bruno Mars performed as an Elvis Presley impersonator in his parents' band.",
+     "sourceUrl": "https://www.britannica.com/biography/Bruno-Mars",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "He was nicknamed Bruno when he was a toddler and began entertaining in Honolulu at the age of four as an Elvis Presley impersonator with his parents’ band, the Love Notes."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "lady-gaga",
+    "name": "Lady Gaga",
+    "monogram": "LG",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lady-gaga-new-york",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Pop",
+    "chapter": "School days",
+    "question": "In which city did Lady Gaga study music at NYU's Tisch School of the Arts?",
+    "clue": "Look on America's East Coast, at the mouth of the Hudson.",
+    "hint": "NYU is named after it.",
+    "answer": {
+     "city": "New York",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Lady Gaga went to Convent of the Sacred Heart in Manhattan, then studied music at NYU's Tisch School of the Arts before dropping out to pursue her career.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lady-Gaga",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She attended an all-girls school, Convent of the Sacred Heart, in Manhattan before going on to study music at the Tisch School of the Arts at New York University."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "chappell-roan",
+    "name": "Chappell Roan",
+    "monogram": "CR",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "chappell-roan-willard",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Pop",
+    "chapter": "Growing up",
+    "question": "In which small Missouri town did Chappell Roan grow up?",
+    "clue": "Look in southwest Missouri, near Springfield.",
+    "hint": "Its name is also a common first name — and the name of a classic novel's hero.",
+    "answer": {
+     "city": "Willard",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Chappell Roan grew up in Willard, Missouri, before moving to Los Angeles to work with producer Dan Nigro.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Chappell-Roan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She grew up in the small town of Willard, attending Christian youth camps during the summer and church three times a week."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "charli-xcx",
+    "name": "Charli XCX",
+    "monogram": "CX",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "charli-xcx-cambridge",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Pop",
+    "chapter": "Where the story began",
+    "question": "In which English university city was 'Brat' star Charli XCX born?",
+    "clue": "Look in eastern England, north of London.",
+    "hint": "It's famous for its university's punting river.",
+    "answer": {
+     "city": "Cambridge",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Charli XCX was born on 2 August 1992 in Cambridge, England. At 14 she persuaded her parents to lend her the money to record her first album.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Charli-XCX",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Charli XCX (born August 2, 1992, Cambridge, Cambridgeshire, United Kingdom) is a British singer and songwriter"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aya-nakamura",
+    "name": "Aya Nakamura",
+    "monogram": "AN",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aya-nakamura-aulnay-sous-bois",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Pop",
+    "chapter": "Growing up",
+    "question": "Born in Bamako, Mali, in which Paris suburb did Aya Nakamura grow up?",
+    "clue": "Look in Seine-Saint-Denis, northeast of Paris.",
+    "hint": "Its name ends in \"-sous-Bois\".",
+    "answer": {
+     "city": "Aulnay-sous-Bois",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Aya Nakamura was born in Bamako, Mali, and grew up in Aulnay-sous-Bois in a family of griots, where music was part of everyday life.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/music-news/aya-nakamura-billboard-france-cover-1235953580/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "she grew up in Aulnay-sous-Bois, in a household where music was already part of everyday life."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "michael-jackson",
+    "name": "Michael Jackson",
+    "monogram": "MJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "michael-jackson-gary",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Pop",
+    "chapter": "The Jackson 5",
+    "question": "In which Indiana city was Michael Jackson raised, rehearsing with the Jackson 5?",
+    "clue": "Look on Lake Michigan's southern shore, near Chicago.",
+    "hint": "It's a steel town in northwest Indiana.",
+    "answer": {
+     "city": "Gary",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Michael Jackson was raised in Gary, Indiana, the youngest of the five brothers in the Jackson 5, who were signed by Motown in 1969.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Michael-Jackson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Raised in Gary, Indiana, in one of the most acclaimed musical families of the rock era, Michael Jackson was the youngest and most talented of five brothers"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "fairuz",
+    "name": "Fairuz",
+    "monogram": "F",
+    "countryOfOrigin": "LB",
+    "region": "middle-east"
+   },
+   "question": {
+    "id": "fairuz-baalbek",
+    "primaryCategory": "music",
+    "subcategory": "global-icons",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Global Icons",
+    "chapter": "Festival fame",
+    "question": "At which Lebanese city's international festival did Fairuz's 1957 performance cement her fame?",
+    "clue": "Look in Lebanon's Beqaa Valley.",
+    "hint": "It's famous for its huge Roman temples.",
+    "answer": {
+     "city": "Baalbek",
+     "country": "Lebanon",
+     "countryCode": "LB"
+    },
+    "story": "Fairuz's fame in Lebanon was cemented at the Baalbeck International Festival in 1957, the first year it included Lebanese folkloric acts.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Fairuz",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Their renown in Lebanon was cemented when the family performed at the Baalbeck International Festival in 1957, the first year that the internationally focused summer cultural festival included Lebanese folkloric acts."
+     }
+    ],
+    "triviaCard": {
+     "type": "landmark_moment",
+     "text": "Fairuz's 1957 Baalbeck Festival show came in the first year the festival included Lebanese folkloric acts.",
+     "sourceUrl": "https://www.britannica.com/biography/Fairuz",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Their renown in Lebanon was cemented when the family performed at the Baalbeck International Festival in 1957, the first year that the internationally focused summer cultural festival included Lebanese folkloric acts."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "kendrick-lamar",
+    "name": "Kendrick Lamar",
+    "monogram": "KL",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kendrick-lamar-compton",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Hip-Hop",
+    "chapter": "Good kid",
+    "question": "In which Los Angeles County city did Kendrick Lamar grow up — the setting of good kid, m.A.A.d city?",
+    "clue": "Look in southern Los Angeles County.",
+    "hint": "It starts with \"Comp\".",
+    "answer": {
+     "city": "Compton",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Kendrick Lamar grew up in Compton, California. In 2018 he became the first non-classical, non-jazz artist to win the Pulitzer Prize for music.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kendrick-Lamar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Kendrick Lamar Duckworth grew up in a high-crime area of Compton, California"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "travis-scott",
+    "name": "Travis Scott",
+    "monogram": "TS",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "travis-scott-missouri-city",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Hip-Hop",
+    "chapter": "Growing up",
+    "question": "In which Houston suburb did Travis Scott grow up after his early years with his grandmother?",
+    "clue": "Look southwest of Houston, Texas.",
+    "hint": "It shares its name with a US state.",
+    "answer": {
+     "city": "Missouri City",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Travis Scott lived with his grandmother for six years, then joined his parents in Missouri City, a Houston suburb.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Travis-Scott",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "For the first six years of his life, Scott stayed with his grandmother Sealie Terrell before joining his parents in the Houston suburb of Missouri City"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "megan-thee-stallion",
+    "name": "Megan Thee Stallion",
+    "monogram": "MT",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "megan-thee-stallion-houston",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Hip-Hop",
+    "chapter": "College years",
+    "question": "In which Texas city did Megan Thee Stallion transfer to Texas Southern University?",
+    "clue": "Look on Texas's Gulf Coast.",
+    "hint": "It's Texas's biggest city.",
+    "answer": {
+     "city": "Houston",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Megan Thee Stallion transferred to Texas Southern University in Houston and became the first female artist signed to Houston's 1501 Certified Entertainment.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Megan-Thee-Stallion",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "After graduating from high school in 2013 Pete enrolled at Prairie View A&M University, Texas, but later transferred to Texas Southern University in Houston."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "eminem",
+    "name": "Eminem",
+    "monogram": "E",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "eminem-detroit",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Hip-Hop",
+    "chapter": "First rhymes",
+    "question": "In which Michigan city did a 14-year-old Eminem begin rapping in clubs?",
+    "clue": "Look in southeast Michigan, across the river from Canada.",
+    "hint": "It's called the Motor City.",
+    "answer": {
+     "city": "Detroit",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Eminem, born Marshall Mathers, began rapping in Detroit clubs at 14. He became the first artist with 10 straight albums debuting at No. 1.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Eminem",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "At age 14 he began rapping in clubs in Detroit."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jay-z",
+    "name": "JAY-Z",
+    "monogram": "JZ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jay-z-brooklyn",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Hip-Hop",
+    "chapter": "Growing up",
+    "question": "In which New York borough did JAY-Z grow up in the Marcy Projects?",
+    "clue": "Look across the East River from Manhattan.",
+    "hint": "It's New York City's most populous borough.",
+    "answer": {
+     "city": "Brooklyn",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Shawn \"JAY-Z\" Carter grew up in Brooklyn's Marcy Projects, raised mainly by his mother, Gloria Carter.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jay-Z",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shawn Carter grew up in Brooklyn’s often dangerous Marcy Projects"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "missy-elliott",
+    "name": "Missy Elliott",
+    "monogram": "ME",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "missy-elliott-portsmouth",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Hip-Hop",
+    "chapter": "Where the story began",
+    "question": "In which Virginia port city was Missy Elliott born?",
+    "clue": "Look in Hampton Roads, southeast Virginia.",
+    "hint": "It shares its name with a big English naval city.",
+    "answer": {
+     "city": "Portsmouth",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Missy Elliott was born on 1 July 1971 in Portsmouth, Virginia. Her debut album Supa Dupa Fly (1997) went platinum.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Missy-Elliott",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Missy Elliott (born July 1, 1971, Portsmouth, Virginia, U.S.) is an American rapper and music producer"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "black-sherif",
+    "name": "Black Sherif",
+    "monogram": "BS",
+    "countryOfOrigin": "GH",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "black-sherif-konongo",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Hip-Hop",
+    "chapter": "Growing up",
+    "question": "Which Ghanaian town did Black Sherif grow up in, dreaming of being a musician?",
+    "clue": "Look in Ghana's Ashanti Region, east of Kumasi.",
+    "hint": "Its name starts with \"Kon\".",
+    "answer": {
+     "city": "Konongo",
+     "country": "Ghana",
+     "countryCode": "GH"
+    },
+    "story": "Black Sherif grew up in Konongo, Ghana, where few people were making music. His sound mixes Afrobeats with UK drill.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/sherif-ghanian-rapper-profile-tik-tok-1362588/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Where I grew up, Konongo, I wanted to be a musician, an artist."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sarkodie",
+    "name": "Sarkodie",
+    "monogram": "S",
+    "countryOfOrigin": "GH",
+    "region": "africa"
+   },
+   "question": {
+    "id": "sarkodie-tema",
+    "primaryCategory": "music",
+    "subcategory": "hip-hop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Hip-Hop",
+    "chapter": "Growing up",
+    "question": "Which Ghanaian port city is rapper Sarkodie's hometown?",
+    "clue": "Look on Ghana's coast, just east of Accra.",
+    "hint": "It's home to Ghana's biggest harbour.",
+    "answer": {
+     "city": "Tema",
+     "country": "Ghana",
+     "countryCode": "GH"
+    },
+    "story": "Sarkodie, from Tema, Ghana, set out to take rap in Twi beyond the shores of Ghana.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/sarkodie-new-album-jamz-ghana-no-pressure-1234627552/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "but his native tongue, Twi, was not a language many understood, especially outside his hometown of Tema, Ghana."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sza",
+    "name": "SZA",
+    "monogram": "S",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "sza-maplewood",
+    "primaryCategory": "music",
+    "subcategory": "rnb",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "R&B",
+    "chapter": "Growing up",
+    "question": "In which New Jersey township was SZA raised?",
+    "clue": "Look in Essex County, west of Newark.",
+    "hint": "Its name combines a tree and a wood.",
+    "answer": {
+     "city": "Maplewood",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "SZA was raised in Maplewood, New Jersey, where she was captain of her gymnastics team at Columbia High School.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/SZA",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "She was raised in Maplewood, New Jersey, in the orthodox Muslim tradition."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "usher",
+    "name": "Usher",
+    "monogram": "U",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "usher-las-vegas",
+    "primaryCategory": "music",
+    "subcategory": "rnb",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "R&B",
+    "chapter": "Residency",
+    "question": "In which desert city did Usher perform a successful residency?",
+    "clue": "Look in southern Nevada.",
+    "hint": "It's famous for the Strip.",
+    "answer": {
+     "city": "Las Vegas",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Usher, an R&B superstar since the late 1990s, performed a successful residency in Las Vegas.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Usher",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "During this time Usher also performed a successful residency in Las Vegas and had two children with his girlfriend, music executive Jenn Goicoechea."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Usher",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Usher (born October 14, 1978, Dallas, Texas, U.S.) is an American musician whose smooth vocals and sensual ballads helped establish him as a rhythm-and-blues superstar in the late 1990s and early 2000s.",
+      "note": "80s/90s Soul Legends: R&B superstar from the late 1990s."
+     }
+    ],
+    "secondary": [
+     {
+      "category": "music",
+      "subcategory": "soul-legends-80s-90s"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "whitney-houston",
+    "name": "Whitney Houston",
+    "monogram": "WH",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "whitney-houston-newark",
+    "primaryCategory": "music",
+    "subcategory": "rnb",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "R&B",
+    "chapter": "Where the story began",
+    "question": "In which New Jersey city was \"the Voice,\" Whitney Houston, born?",
+    "clue": "Look in northern New Jersey, near New York City.",
+    "hint": "It's New Jersey's largest city.",
+    "answer": {
+     "city": "Newark",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Whitney Houston was born on 9 August 1963 in Newark, New Jersey. Her debut album was the first by a woman to produce three No. 1 singles.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Whitney-Houston",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Whitney Houston (born August 9, 1963, Newark, New Jersey, U.S.—died February 11, 2012, Beverly Hills, California) was an American singer and actress"
+     },
+     {
+      "url": "https://www.britannica.com/biography/Whitney-Houston",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Her debut album, Whitney Houston (1985), yielded three number one singles on the Billboard Hot 100 chart",
+      "note": "80s/90s Soul Legends: debut album 1985."
+     }
+    ],
+    "secondary": [
+     {
+      "category": "music",
+      "subcategory": "soul-legends-80s-90s"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aretha-franklin",
+    "name": "Aretha Franklin",
+    "monogram": "AF",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "aretha-franklin-florence",
+    "primaryCategory": "music",
+    "subcategory": "rnb",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "R&B",
+    "chapter": "The first million-seller",
+    "question": "In which Alabama city's Fame Studios did Aretha Franklin record her first million-seller?",
+    "clue": "Look in northwest Alabama, on the Tennessee River.",
+    "hint": "It's part of the Muscle Shoals area.",
+    "answer": {
+     "city": "Florence",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Aretha Franklin recorded \"I Never Loved a Man (the Way I Love You)\" at Fame Studios in Florence, Alabama, in 1967. It was her first million-seller.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aretha-Franklin",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "“I Never Loved a Man (the Way I Love You)” (1967), recorded at Fame Studios in Florence, Alabama, was her first million-seller."
+     }
+    ],
+    "triviaCard": {
+     "type": "landmark_moment",
+     "text": "Aretha's first million-seller was recorded at Fame Studios in Florence, Alabama.",
+     "sourceUrl": "https://www.britannica.com/biography/Aretha-Franklin",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "“I Never Loved a Man (the Way I Love You)” (1967), recorded at Fame Studios in Florence, Alabama, was her first million-seller."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "mariah-carey",
+    "name": "Mariah Carey",
+    "monogram": "MC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "mariah-carey-greenlawn",
+    "primaryCategory": "music",
+    "subcategory": "rnb",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "R&B",
+    "chapter": "High-school years",
+    "question": "In which Long Island town did Mariah Carey graduate from high school before moving to New York City?",
+    "clue": "Look on Long Island's north shore.",
+    "hint": "Its name means a green lawn.",
+    "answer": {
+     "city": "Greenlawn",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Mariah Carey graduated from high school in Greenlawn, New York, in 1987, then moved to New York City to chase her singing career.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mariah-Carey",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "After graduating (1987) from high school in Greenlawn, New York, she moved to New York City to pursue a singing career."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Mariah-Carey",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "She was one of the most successful female performers of the 1990s and remained popular into the early 21st century.",
+      "note": "80s/90s Soul Legends: one of the most successful female performers of the 1990s."
+     }
+    ],
+    "secondary": [
+     {
+      "category": "music",
+      "subcategory": "soul-legends-80s-90s"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "the-weeknd",
+    "name": "The Weeknd",
+    "monogram": "TW",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "the-weeknd-toronto",
+    "primaryCategory": "music",
+    "subcategory": "rnb",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "R&B",
+    "chapter": "Where the story began",
+    "question": "In which Canadian city was The Weeknd born?",
+    "clue": "Look on Lake Ontario.",
+    "hint": "It's Canada's biggest city.",
+    "answer": {
+     "city": "Toronto",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "The Weeknd was born Abel Tesfaye in Toronto in 1990. His family came from Ethiopia, and his first language was Amharic.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/The-Weeknd",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Weeknd (born February 16, 1990, Toronto, Ontario, Canada) is a Canadian rhythm-and-blues singer and songwriter"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "wizkid",
+    "name": "Wizkid",
+    "monogram": "W",
+    "countryOfOrigin": "NG",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "wizkid-lagos",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Afrobeats",
+    "chapter": "Growing up",
+    "question": "Wizkid grew up in the \"ghetto madness\" of the Surulere neighbourhood of which city?",
+    "clue": "Look on Nigeria's Atlantic coast.",
+    "hint": "It's Nigeria's largest city.",
+    "answer": {
+     "city": "Lagos",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Wizkid grew up in Surulere, Lagos, and was serious about music from age 11, recording with church friends.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/awards/wizkid-essence-african-artists-global-interview-2021-9648198/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Growing up in what he calls the “ghetto madness” of Lagos’ Surulere neighborhood, the artist born Ayodeji Ibrahim Balogun was serious about music from age 11"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "davido",
+    "name": "Davido",
+    "monogram": "D",
+    "countryOfOrigin": "NG",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "davido-huntsville",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Afrobeats",
+    "chapter": "College years",
+    "question": "In which Alabama city did Davido start making beats in his college dorm room?",
+    "clue": "Look in northern Alabama, known as Rocket City.",
+    "hint": "Oakwood University is here.",
+    "answer": {
+     "city": "Huntsville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Davido, born in Atlanta and raised in Lagos, studied at Oakwood University in Huntsville, Alabama, where he began making beats in his dorm room.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/davido-fall-afrobeats-chart-record-822738/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He returned to the U.S. for college at Oakwood University, in Huntsville, Alabama, where he began making beats in his dorm room."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tiwa-savage",
+    "name": "Tiwa Savage",
+    "monogram": "TS",
+    "countryOfOrigin": "NG",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "tiwa-savage-boston",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Afrobeats",
+    "chapter": "College years",
+    "question": "In which US city did Tiwa Savage earn her degree from Berklee College of Music?",
+    "clue": "Look in New England.",
+    "hint": "It's Massachusetts' capital.",
+    "answer": {
+     "city": "Boston",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Tiwa Savage holds degrees from Boston's Berklee College of Music and the University of Kent, and sang backing vocals for Whitney Houston and Mary J. Blige.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/music-news/tiwa-savage-davido-mr-eazi-billboard-cover-story-interview-2020-9387009/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "With two degrees — one from Boston’s Berklee College of Music, one in business from England’s University of Kent"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "diamond-platnumz",
+    "name": "Diamond Platnumz",
+    "monogram": "DP",
+    "countryOfOrigin": "TZ",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "diamond-platnumz-dar-es-salaam",
+    "primaryCategory": "music",
+    "subcategory": "afrobeats",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Afrobeats",
+    "chapter": "Home base",
+    "question": "Which Tanzanian city does bongo flava star Diamond Platnumz call home?",
+    "clue": "Look on Tanzania's Indian Ocean coast.",
+    "hint": "Its name means \"haven of peace\".",
+    "answer": {
+     "city": "Dar es Salaam",
+     "country": "Tanzania",
+     "countryCode": "TZ"
+    },
+    "story": "Diamond Platnumz, Tanzania's biggest star, is based in his home city of Dar es Salaam.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/rb-hip-hop/diamond-platnumz-tanzania-bongo-flava-interview-9610830/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "says the now 31-year-old, calling from his home in Dar es Salaam, Tanzania."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "cesaria-evora",
+    "name": "Cesária Évora",
+    "monogram": "CÉ",
+    "countryOfOrigin": "CV",
+    "region": "africa"
+   },
+   "question": {
+    "id": "cesaria-evora-mindelo",
+    "primaryCategory": "music",
+    "subcategory": "african-legends",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "African Legends",
+    "chapter": "Growing up",
+    "question": "In which Cape Verdean port city did Cesária Évora sing in the bars of her hometown?",
+    "clue": "Look on the island of São Vicente, off West Africa.",
+    "hint": "Its name means \"middle\" in Portuguese.",
+    "answer": {
+     "city": "Mindelo",
+     "country": "Cape Verde",
+     "countryCode": "CV"
+    },
+    "story": "Cesária Évora began singing as a child and, as a young adult, performed in the bars of her hometown of Mindelo, Cape Verde.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Cesaria-Evora",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Evora began singing as a child, and by the time she was a young adult, she routinely performed in the bars of her hometown of Mindelo."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "oumou-sangare",
+    "name": "Oumou Sangaré",
+    "monogram": "OS",
+    "countryOfOrigin": "ML",
+    "region": "africa"
+   },
+   "question": {
+    "id": "oumou-sangare-bamako",
+    "primaryCategory": "music",
+    "subcategory": "african-legends",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "African Legends",
+    "chapter": "Where the story began",
+    "question": "In which Malian capital was wassoulou star Oumou Sangaré born?",
+    "clue": "Look on the Niger River in West Africa.",
+    "hint": "It's Mali's capital.",
+    "answer": {
+     "city": "Bamako",
+     "country": "Mali",
+     "countryCode": "ML"
+    },
+    "story": "Oumou Sangaré was born in Bamako, Mali, in 1968. She is known for championing women's rights through wassoulou music.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Oumou-Sangare",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Oumou Sangaré (born February 25, 1968, Bamako, Mali) is a Malian singer and songwriter known for championing women’s rights through wassoulou"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "black-coffee",
+    "name": "Black Coffee",
+    "monogram": "BC",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "black-coffee-new-york",
+    "primaryCategory": "music",
+    "subcategory": "electronic",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Electronic",
+    "chapter": "Big moment",
+    "question": "In which city did Black Coffee become the first South African to sell out Madison Square Garden?",
+    "clue": "Look on America's East Coast.",
+    "hint": "It's the Big Apple.",
+    "answer": {
+     "city": "New York",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "In 2023 Black Coffee became the first South African to headline a sold-out show at New York's Madison Square Garden.",
+    "sources": [
+     {
+      "url": "https://africa.billboard.com/features/black-coffee-cover-story/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He also made history as the first South African to host a sold-out performance at New York’s iconic Madison Square Garden in 2023."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Black Coffee was the first South African to sell out Madison Square Garden.",
+     "sourceUrl": "https://africa.billboard.com/features/black-coffee-cover-story/",
+     "sourceName": "africa.billboard.com",
+     "quote": "He also made history as the first South African to host a sold-out performance at New York’s iconic Madison Square Garden in 2023."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "jimin",
+    "name": "Jimin",
+    "monogram": "J",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jimin-busan",
+    "primaryCategory": "music",
+    "subcategory": "k-pop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "K-Pop",
+    "chapter": "Hometown",
+    "question": "Which South Korean port city is BTS star Jimin from?",
+    "clue": "Look on South Korea's southeast coast.",
+    "hint": "It's South Korea's second city.",
+    "answer": {
+     "city": "Busan",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "Jimin, from Busan, South Korea, launched his solo career with the album Face.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/jimin-interview-face-bts-1234702952/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Now, the 27-year-old artist from Busan, South Korea is preparing his vision as a solo pop star with Face"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "suga",
+    "name": "SUGA",
+    "monogram": "S",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "suga-daegu",
+    "primaryCategory": "music",
+    "subcategory": "k-pop",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "K-Pop",
+    "chapter": "Growing up",
+    "question": "In which South Korean city did SUGA grow up — the \"D\" in his alias Agust D?",
+    "clue": "Look in the southeast of South Korea, inland.",
+    "hint": "It's South Korea's fourth-largest city.",
+    "answer": {
+     "city": "Daegu",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "SUGA grew up in Daegu and taught himself to rap and produce. The \"D\" in his alias Agust D stands for Daegu.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/suga-interview-d-day-documentary-agust-d-ryuichi-sakamoto-1234722274/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Growing up in Daegu, South Korea, Suga taught himself how to rap and produce long before he dreamed of becoming a K-pop idol."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jennie",
+    "name": "JENNIE",
+    "monogram": "J",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jennie-auckland",
+    "primaryCategory": "music",
+    "subcategory": "k-pop",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "K-Pop",
+    "chapter": "School days",
+    "question": "In which New Zealand city did BLACKPINK's JENNIE study for five years before joining YG?",
+    "clue": "Look on New Zealand's North Island.",
+    "hint": "It's New Zealand's biggest city.",
+    "answer": {
+     "city": "Auckland",
+     "country": "New Zealand",
+     "countryCode": "NZ"
+    },
+    "story": "JENNIE grew up in Seoul and Auckland, studying in Auckland for five years before joining YG in 2010.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/blackpink-jennie-solo-hip-hop-new-zealand-1356290/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Before coming to YG, you studied abroad for five years, in Auckland, living away from your family."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jisoo",
+    "name": "JISOO",
+    "monogram": "J",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jisoo-gunpo",
+    "primaryCategory": "music",
+    "subcategory": "k-pop",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "K-Pop",
+    "chapter": "Growing up",
+    "question": "In which small city near Seoul did BLACKPINK's JISOO grow up?",
+    "clue": "Look in Gyeonggi Province, about 30 km south of Seoul.",
+    "hint": "Its name starts with \"Gun\".",
+    "answer": {
+     "city": "Gunpo",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "JISOO grew up in Gunpo, a relatively small city near Seoul, and dreamed of travelling the world before BLACKPINK.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-features/blackpink-jisoo-solo-new-music-mental-health-1356298/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "You grew up in Gunpo, a relatively small city."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "j-hope",
+    "name": "j-hope",
+    "monogram": "JH",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "j-hope-chicago",
+    "primaryCategory": "music",
+    "subcategory": "k-pop",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "K-Pop",
+    "chapter": "Festival history",
+    "question": "In which US city did j-hope become the first South Korean to headline a major American festival main stage?",
+    "clue": "Look on Lake Michigan.",
+    "hint": "The festival is Lollapalooza.",
+    "answer": {
+     "city": "Chicago",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "In 2022 j-hope headlined Lollapalooza in Chicago, the first South Korean artist to headline a main stage at a major American festival.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-news/j-hope-lollapalooza-set-1392520/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "J-Hope performed on the final night of Lollapalooza in Chicago over the weekend, becoming the first South Korean artist to headline a main stage at a major American music festival."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "j-hope was the first South Korean artist to headline a main stage at a major American festival.",
+     "sourceUrl": "https://www.rollingstone.com/music/music-news/j-hope-lollapalooza-set-1392520/",
+     "sourceName": "rollingstone.com",
+     "quote": "J-Hope performed on the final night of Lollapalooza in Chicago over the weekend, becoming the first South Korean artist to headline a main stage at a major American music festival."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "rosalia",
+    "name": "Rosalía",
+    "monogram": "R",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rosalia-sant-cugat-del-valles",
+    "primaryCategory": "music",
+    "subcategory": "latin",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Latin",
+    "chapter": "Where the story began",
+    "question": "In which Catalan town near Barcelona was Rosalía born?",
+    "clue": "Look in Catalonia, just northwest of Barcelona.",
+    "hint": "It's named after Saint Cucuphas.",
+    "answer": {
+     "city": "Sant Cugat del Vallès",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Rosalía was born on 25 September 1992 in Sant Cugat del Vallès, Spain. She popularized flamenco for a contemporary audience.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Rosalia",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Rosalía (born September 25, 1992, Sant Cugat del Vallès, Spain) is a Spanish singer and songwriter known for popularizing flamenco for a contemporary audience."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "j-balvin",
+    "name": "J Balvin",
+    "monogram": "JB",
+    "countryOfOrigin": "CO",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "j-balvin-medellin",
+    "primaryCategory": "music",
+    "subcategory": "latin",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Latin",
+    "chapter": "Origin story",
+    "question": "Out of which Colombian city's music scene did J Balvin skyrocket?",
+    "clue": "Look in Colombia's Aburrá Valley.",
+    "hint": "It's called the City of Eternal Spring.",
+    "answer": {
+     "city": "Medellín",
+     "country": "Colombia",
+     "countryCode": "CO"
+    },
+    "story": "J Balvin shot out of Medellín's music scene to help globalize Colombian reggaeton.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-latin/j-balvin-interview-colombia-medellin-bad-bunny-karol-g-1235605226/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Colombian artist goes deep on skyrocketing out of Medellín, working with Bad Bunny and Karol G, and making history over and over"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "anitta",
+    "name": "Anitta",
+    "monogram": "A",
+    "countryOfOrigin": "BR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "anitta-rio-de-janeiro",
+    "primaryCategory": "music",
+    "subcategory": "latin",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Latin",
+    "chapter": "Growing up",
+    "question": "Anitta grew up in the Honório Gurgel neighbourhood of which Brazilian city?",
+    "clue": "Look on Brazil's southeast coast.",
+    "hint": "It's home to Christ the Redeemer.",
+    "answer": {
+     "city": "Rio de Janeiro",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Anitta grew up in Honório Gurgel, a working-class neighbourhood of Rio de Janeiro, and took funk carioca to the world.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/features/anitta-billboard-cover-story-interview-2022-1235068798/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "transported the audience to the working-class Honório Gurgel neighborhood in which she grew up. Anitta’s message was clear: You can take the girl out of Rio"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "juanes",
+    "name": "Juanes",
+    "monogram": "J",
+    "countryOfOrigin": "CO",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "juanes-havana",
+    "primaryCategory": "music",
+    "subcategory": "latin",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Latin",
+    "chapter": "Peace concert",
+    "question": "In which capital did Juanes headline a peace concert in 2009, despite criticism?",
+    "clue": "Look in the Caribbean, on Cuba's north coast.",
+    "hint": "It's Cuba's capital.",
+    "answer": {
+     "city": "Havana",
+     "country": "Cuba",
+     "countryCode": "CU"
+    },
+    "story": "In 2009 Colombian star Juanes organized and headlined a peace concert in Havana, featuring some 15 other performers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Juanes",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In 2009 Juanes organized and headlined a peace concert in Havana despite criticism from opponents of Cuba’s government."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sean-paul",
+    "name": "Sean Paul",
+    "monogram": "SP",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "sean-paul-kingston",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Reggae & Dancehall",
+    "chapter": "Studio base",
+    "question": "In which Jamaican capital is Sean Paul's recording studio?",
+    "clue": "Look on Jamaica's southeast coast.",
+    "hint": "It's Jamaica's capital.",
+    "answer": {
+     "city": "Kingston",
+     "country": "Jamaica",
+     "countryCode": "JM"
+    },
+    "story": "Sean Paul took dancehall global with Dutty Rock, and still works from his recording studio in Kingston.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/features/sean-paul-dutty-rock-interview-1235047662/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Leaning back in his dimly lit Kingston recording studio, Paul recalls traveling from Jamaica to New York City in the early ‘00s"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "koffee",
+    "name": "Koffee",
+    "monogram": "K",
+    "countryOfOrigin": "JM",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "koffee-spanish-town",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Reggae & Dancehall",
+    "chapter": "Growing up",
+    "question": "In which former Jamaican capital did Grammy winner Koffee grow up?",
+    "clue": "Look just west of Kingston.",
+    "hint": "It's the capital of St. Catherine parish.",
+    "answer": {
+     "city": "Spanish Town",
+     "country": "Jamaica",
+     "countryCode": "JM"
+    },
+    "story": "Koffee grew up in Spanish Town, Jamaica, and still visits to stay connected to her roots.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/rb-hip-hop/koffee-interview-rapture-ep-reggae-8501354/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "I grew up in Spanish Town [the capital of Jamaican parish St. Catherine], so I try to visit every now and then to just kick back."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bono",
+    "name": "Bono",
+    "monogram": "B",
+    "countryOfOrigin": "IE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "bono-dublin",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Rock",
+    "chapter": "Forming the band",
+    "question": "In which capital did Bono and school friends form the band that became U2 in 1977?",
+    "clue": "Look on Ireland's east coast.",
+    "hint": "It's Ireland's capital.",
+    "answer": {
+     "city": "Dublin",
+     "country": "Ireland",
+     "countryCode": "IE"
+    },
+    "story": "In Dublin in 1977, Bono and school friends formed the band that became U2.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bono",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In Dublin in 1977, he and school friends David Evans (later “the Edge”), Larry Mullen, Jr., and Adam Clayton formed a band that would become U2."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mick-jagger",
+    "name": "Mick Jagger",
+    "monogram": "MJ",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "mick-jagger-dartford",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Rock",
+    "chapter": "School days",
+    "question": "In which Kent town did Mick Jagger first meet Keith Richards at primary school?",
+    "clue": "Look in northwest Kent, east of London.",
+    "hint": "It's on the River Darent.",
+    "answer": {
+     "city": "Dartford",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Mick Jagger met Keith Richards at Wentworth Primary School in Dartford, Kent, in 1951; they later formed the Rolling Stones.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mick-Jagger",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He met his longtime songwriting collaborator, Keith Richards, when they were students at Wentworth Primary School in Dartford, Kent, England, in 1951."
+     }
+    ],
+    "triviaCard": {
+     "type": "did_you_know",
+     "text": "Jagger and Keith Richards first met as primary-school pupils in Dartford in 1951.",
+     "sourceUrl": "https://www.britannica.com/biography/Mick-Jagger",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "He met his longtime songwriting collaborator, Keith Richards, when they were students at Wentworth Primary School in Dartford, Kent, England, in 1951."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "dave-grohl",
+    "name": "Dave Grohl",
+    "monogram": "DG",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "dave-grohl-washington",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Rock",
+    "chapter": "Punk roots",
+    "question": "In which city was Scream, the punk band Dave Grohl drummed for after high school, based?",
+    "clue": "Look on the Potomac River.",
+    "hint": "It's the US capital.",
+    "answer": {
+     "city": "Washington",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Dave Grohl drummed for Scream, a punk band based in Washington, D.C., before Nirvana and Foo Fighters.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dave-Grohl",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "After dropping out of high school in his junior year, he went on to become the drummer for Scream, an independent punk group based in Washington, D.C."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dolly-parton",
+    "name": "Dolly Parton",
+    "monogram": "DP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "dolly-parton-nashville",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Country",
+    "chapter": "The big move",
+    "question": "To which city did Dolly Parton set out the day after high school to pursue music?",
+    "clue": "Look in central Tennessee.",
+    "hint": "It's Music City.",
+    "answer": {
+     "city": "Nashville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Right after high school in 1964, Dolly Parton set out from the Smoky Mountains for Nashville to pursue music.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Dolly-Parton",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In 1964, immediately following her high-school graduation, she set out for Nashville to pursue a career in music."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "keith-urban",
+    "name": "Keith Urban",
+    "monogram": "KU",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "keith-urban-whangarei",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "In which New Zealand city was country star Keith Urban born?",
+    "clue": "Look in Northland, on New Zealand's North Island.",
+    "hint": "Its name starts with \"Whanga\".",
+    "answer": {
+     "city": "Whangārei",
+     "country": "New Zealand",
+     "countryCode": "NZ"
+    },
+    "story": "Keith Urban was born in Whangārei, New Zealand, and became an Australian country star with Grammy wins.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Keith-Urban",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Keith Urban (born October 26, 1967, Whangarei, Northland, New Zealand) is a New Zealand-born Australian singer, songwriter, and guitarist"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "peggy-gou",
+    "name": "Peggy Gou",
+    "monogram": "PG",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "peggy-gou-berlin",
+    "primaryCategory": "music",
+    "subcategory": "electronic",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Electronic",
+    "chapter": "City base",
+    "question": "Which German capital is home base for South Korea-born DJ Peggy Gou?",
+    "clue": "Look in northeast Germany.",
+    "hint": "Its famous wall came down in 1989.",
+    "answer": {
+     "city": "Berlin",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "South Korea-born DJ-producer Peggy Gou is based in Berlin, where she runs her own business.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/features/peggy-gou-dj-producer-tour-billboard-cover-story-1235664758/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The self-possessed (and self-managed) South Korea-born, Berlin-based electronic artist is building a booming business with her uncompromising vision."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "uncle-waffles",
+    "name": "Uncle Waffles",
+    "monogram": "UW",
+    "countryOfOrigin": "SZ",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "uncle-waffles-soweto",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "The breakout set",
+    "question": "In which Johannesburg township did Uncle Waffles' 2021 fill-in club set go viral?",
+    "clue": "Look in Gauteng, southwest of central Johannesburg.",
+    "hint": "Its name comes from South Western Townships.",
+    "answer": {
+     "city": "Soweto",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "Eswatini's Uncle Waffles stepped in for a DJ who couldn't make a 2021 club night in Soweto, and a video of her set went viral.",
+    "sources": [
+     {
+      "url": "https://www.grammy.com/news/women-amapiano-artists-to-know-tyla-uncle-waffles-videos/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "a DJ booked for a 2021 club night in Soweto was unable to make"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lata-mangeshkar",
+    "name": "Lata Mangeshkar",
+    "monogram": "LM",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "lata-mangeshkar-indore",
+    "primaryCategory": "music",
+    "subcategory": "global-icons",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Global Icons",
+    "chapter": "Where the story began",
+    "question": "In which central Indian city was playback legend Lata Mangeshkar born?",
+    "clue": "Look in Madhya Pradesh.",
+    "hint": "It's Madhya Pradesh's largest city.",
+    "answer": {
+     "city": "Indore",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Lata Mangeshkar was born in Indore in 1929. The iconic playback singer was lovingly called \"Swar Kokila\", the vocal nightingale.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lata-Mangeshkar",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Lata Mangeshkar (born September 28, 1929, Indore, British India—died February 6, 2022, Mumbai [Bombay], India) was an iconic Indian playback singer who was lovingly called “Swar Kokila” (vocal nightingale)."
+     }
+    ]
+   }
+  }
+ ]
+}

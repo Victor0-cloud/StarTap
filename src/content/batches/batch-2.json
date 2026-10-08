@@ -1,0 +1,1162 @@
+{
+ "batch": 2,
+ "researched": "2026-10-01",
+ "coordinateSource": "OpenStreetMap Nominatim (ODbL), looked up 2026-10-01; raw records in docs/content-research/batch-2-geocode.json",
+ "entries": [
+  {
+   "entity": {
+    "id": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "monogram": "NM",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "nelson-mandela-robben-island",
+    "primaryCategory": "icons",
+    "subcategory": "historic-icons",
+    "questionType": "historic_location",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "A moment on the map",
+    "question": "On which island was Nelson Mandela imprisoned from 1964 to 1982?",
+    "clue": "Look off the coast of South Africa's Western Cape.",
+    "hint": "The island lies in Table Bay, off Cape Town.",
+    "answer": {
+     "city": "Robben Island",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "From 1964 to 1982 Nelson Mandela was imprisoned on Robben Island, off Cape Town. He had been born in Mvezo, South Africa, in 1918, and went on to become the country's president from 1994 to 1999.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Nelson-Mandela",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: July 18, 1918, Mvezo, South Africa … Title / Office: president (1994-1999), South Africa … From 1964 to 1982 Mandela was imprisoned on Robben Island, off Cape Town."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mahatma-gandhi",
+    "name": "Mahatma Gandhi",
+    "monogram": "MG",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "mahatma-gandhi-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "historic-icons",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which coastal town in western India was Mahatma Gandhi born?",
+    "clue": "Look on India's west coast, on the Arabian Sea.",
+    "hint": "The town is on the coast of Gujarat's Saurashtra peninsula.",
+    "answer": {
+     "city": "Porbandar",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Mahatma Gandhi was born in Porbandar in 1869. His father was the dewan (chief minister) of Porbandar, then the capital of a small principality in what is now Gujarat state.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: October 2, 1869, Porbandar, India … Karamchand Gandhi, who was the dewan (chief minister) of Porbandar, the capital of a small principality in western India (in what is now Gujarat state)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marie-curie",
+    "name": "Marie Curie",
+    "monogram": "MC",
+    "countryOfOrigin": "PL",
+    "region": "europe",
+    "originNote": "Polish-born French physicist (Britannica)."
+   },
+   "question": {
+    "id": "marie-curie-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "scientists",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which city was Marie Curie born?",
+    "clue": "Look in Central Europe.",
+    "hint": "It is Poland's capital, on the Vistula River.",
+    "answer": {
+     "city": "Warsaw",
+     "country": "Poland",
+     "countryCode": "PL"
+    },
+    "story": "Marie Curie was born Maria Skłodowska in Warsaw in 1867. She later moved to Paris, became famous for her work on radioactivity and won the Nobel Prize twice.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Marie-Curie",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Marie Curie (born November 7, 1867, Warsaw, Congress Kingdom of Poland, Russian Empire …) was a Polish-born French physicist, famous for her work on radioactivity and twice a winner of the Nobel Prize. … Also known as: Maria Salomea Skłodowska … Move to Paris"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "albert-einstein",
+    "name": "Albert Einstein",
+    "monogram": "AE",
+    "countryOfOrigin": "DE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "albert-einstein-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "scientists",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which German city was Albert Einstein born?",
+    "clue": "Look in southern Germany.",
+    "hint": "The city is on the Danube, in Baden-Württemberg.",
+    "answer": {
+     "city": "Ulm",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Albert Einstein was born in Ulm, in Württemberg, in 1879. The German-born physicist went on to develop the special and general theories of relativity.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Albert-Einstein",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Albert Einstein (born March 14, 1879, Ulm, Württemberg (now Baden-Württemberg), Germany …) was a German-born physicist who developed the special and general theories of relativity."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "frida-kahlo",
+    "name": "Frida Kahlo",
+    "monogram": "FK",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "frida-kahlo-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "artists",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which part of Mexico City was Frida Kahlo born?",
+    "clue": "Look in central Mexico.",
+    "hint": "It is a borough in the south of Mexico City.",
+    "answer": {
+     "city": "Coyoacán, Mexico City",
+     "country": "Mexico",
+     "countryCode": "MX"
+    },
+    "story": "Frida Kahlo was born in Coyoacán in 1907 and died there in 1954. When she was too ill to travel, she taught classes from her home, La Casa Azul (\"The Blue House\").",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Frida-Kahlo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: July 6, 1907, Coyoacán, Mexico Died: July 13, 1954, Coyoacán … holding classes from her home at La Casa Azul (“The Blue House”) when she is too ill to travel."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "chinua-achebe",
+    "name": "Chinua Achebe",
+    "monogram": "CA",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "chinua-achebe-hometown",
+    "primaryCategory": "icons",
+    "subcategory": "authors",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "World Icons",
+    "chapter": "Hometown roots",
+    "question": "In which Igbo town did novelist Chinua Achebe grow up?",
+    "clue": "Look in southeastern Nigeria.",
+    "hint": "The town is in Anambra State, near Onitsha.",
+    "answer": {
+     "city": "Ogidi",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Chinua Achebe was born in Ogidi in 1930 and grew up in the Igbo town. The Nigerian novelist was acclaimed for his unsentimental depictions of the disorientation that accompanied Western customs and values.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Chinua-Achebe",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Chinua Achebe (born November 16, 1930, Ogidi, Nigeria …) was a Nigerian novelist acclaimed for his unsentimental depictions of the social and psychological disorientation accompanying the imposition of Western customs … Achebe grew up in the Igbo (Ibo) town of Ogidi, Nigeria."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "wangari-maathai",
+    "name": "Wangari Maathai",
+    "monogram": "WM",
+    "countryOfOrigin": "KE",
+    "region": "africa"
+   },
+   "question": {
+    "id": "wangari-maathai-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "global-changemakers",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "Near which Kenyan town was Nobel Peace Prize winner Wangari Maathai born?",
+    "clue": "Look in central Kenya.",
+    "hint": "The town lies between the Aberdare Range and Mount Kenya.",
+    "answer": {
+     "city": "Nyeri",
+     "country": "Kenya",
+     "countryCode": "KE"
+    },
+    "story": "Wangari Maathai was born in Nyeri, Kenya, in 1940. The Green Belt Movement she founded in 1977 had planted some 30 million trees by the early 21st century, and she was awarded the 2004 Nobel Prize for Peace.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Wangari-Maathai",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Wangari Maathai (born April 1, 1940, Nyeri, Kenya …) was a Kenyan politician and environmental activist who was awarded the 2004 Nobel Prize for Peace … The Green Belt Movement, an organization she founded in 1977, had by the early 21st century planted some 30 million trees."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "malala-yousafzai",
+    "name": "Malala Yousafzai",
+    "monogram": "MY",
+    "countryOfOrigin": "PK",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "malala-yousafzai-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "global-changemakers",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which city in Pakistan's Swat valley was Malala Yousafzai born?",
+    "clue": "Look in northern Pakistan.",
+    "hint": "It is the main city of the Swat valley.",
+    "answer": {
+     "city": "Mingora",
+     "country": "Pakistan",
+     "countryCode": "PK"
+    },
+    "story": "Malala Yousafzai was born in Mingora in 1997. Her father established and ran the school she attended in the city, Khushal Girls High School and College, and encouraged her to follow in his path.",
+    "trivia": "She won the Nobel Prize in 2014.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Malala-Yousafzai",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: July 12, 1997, Mingora, Swat valley, Pakistan … Awards And Honors: Nobel Prize (2014) … Her father—who established and administered the school she attended, Khushal Girls High School and College in the city of Mingora—encouraged her to follow in his path."
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "She won the Nobel Prize in 2014.",
+     "sourceUrl": "https://www.britannica.com/biography/Malala-Yousafzai",
+     "sourceName": "Britannica",
+     "quote": "Born: July 12, 1997, Mingora, Swat valley, Pakistan … Awards And Honors: Nobel Prize (2014) … Her father—who established and administered the school she attended, Khushal Girls High School and College in the city of Mingora—encouraged her to follow in his path."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "martin-luther-king-jr",
+    "name": "Martin Luther King Jr.",
+    "monogram": "MLK",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "martin-luther-king-jr-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "historic-icons",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which city was Martin Luther King Jr. born?",
+    "clue": "Look in the southeastern United States.",
+    "hint": "It is the capital of Georgia.",
+    "answer": {
+     "city": "Atlanta",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Martin Luther King Jr. was born in Atlanta in 1929. His father was pastor of the city's Ebenezer Baptist Church, and at 15 King entered Morehouse College in Atlanta.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: January 15, 1929, Atlanta, Georgia, U.S. … King’s father had succeeded his father-in-law as pastor of the prestigious Ebenezer Baptist Church in Atlanta. In 1944, at age 15, King entered Morehouse College in Atlanta"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "zaha-hadid",
+    "name": "Zaha Hadid",
+    "monogram": "ZH",
+    "countryOfOrigin": "IQ",
+    "region": "middle-east",
+    "originNote": "Iraqi-born British architect (Britannica)."
+   },
+   "question": {
+    "id": "zaha-hadid-birthplace",
+    "primaryCategory": "icons",
+    "subcategory": "architects",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "In which city was architect Zaha Hadid born?",
+    "clue": "Look in the Middle East, on the Tigris River.",
+    "hint": "It is the capital of Iraq.",
+    "answer": {
+     "city": "Baghdad",
+     "country": "Iraq",
+     "countryCode": "IQ"
+    },
+    "story": "Zaha Hadid was born in Baghdad in 1950. She studied mathematics at the American University of Beirut before moving to London in 1972 to study at the Architectural Association.",
+    "trivia": "She won the Pritzker Prize in 2004.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Zaha-Hadid",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: October 31, 1950, Baghdad, Iraq … Pritzker Prize (2004) … Hadid studied mathematics at the American University of Beirut, before traveling to London in 1972 to study at the Architectural Association"
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "She won the Pritzker Prize in 2004.",
+     "sourceUrl": "https://www.britannica.com/biography/Zaha-Hadid",
+     "sourceName": "Britannica",
+     "quote": "Born: October 31, 1950, Baghdad, Iraq … Pritzker Prize (2004) … Hadid studied mathematics at the American University of Beirut, before traveling to London in 1972 to study at the Architectural Association"
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "naguib-mahfouz",
+    "name": "Naguib Mahfouz",
+    "monogram": "NM",
+    "countryOfOrigin": "EG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "naguib-mahfouz-hometown",
+    "primaryCategory": "icons",
+    "subcategory": "authors",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "World Icons",
+    "chapter": "Hometown roots",
+    "question": "In which city's historic Al-Jamāliyyah district did Nobel laureate Naguib Mahfouz grow up?",
+    "clue": "Look in North Africa, on the Nile.",
+    "hint": "It is Egypt's capital.",
+    "answer": {
+     "city": "Al-Jamāliyyah, Cairo",
+     "country": "Egypt",
+     "countryCode": "EG"
+    },
+    "story": "Naguib Mahfouz grew up in Cairo's Al-Jamāliyyah district. His Cairo Trilogy follows three generations of Cairo families, and in 1988 he became the first Arabic writer to win the Nobel Prize for Literature.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Naguib-Mahfouz",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "awarded the Nobel Prize for Literature in 1988, the first Arabic writer to be so honoured. Mahfouz was the son of a civil servant and grew up in Cairo’s Al-Jamāliyyah district. … The Cairo Trilogy … depict the lives of three generations of different families in Cairo"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "amitabh-bachchan",
+    "name": "Amitabh Bachchan",
+    "monogram": "AB",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "amitabh-bachchan-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Film",
+    "chapter": "Where the story began",
+    "question": "In which Indian city was Amitabh Bachchan born?",
+    "clue": "Look in northern India, on the Ganges plain.",
+    "hint": "The city, formerly called Allahabad, is in Uttar Pradesh.",
+    "answer": {
+     "city": "Prayagraj (Allahabad)",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Amitabh Bachchan was born in Allahabad, now Prayagraj, in 1942. Known for his baritone voice and charismatic screen presence, he has left an indelible imprint on Bollywood.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Amitabh-Bachchan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Perhaps no other Indian actor has left as indelible an imprint on Bollywood and popular culture as Amitabh Bachchan (born October 11, 1942, Allahabad [now Prayagraj], India), known for his baritone voice, for his charismatic screen presence"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alia-bhatt",
+    "name": "Alia Bhatt",
+    "monogram": "AB",
+    "countryOfOrigin": "IN",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "alia-bhatt-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "bollywood",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Film",
+    "chapter": "Where the story began",
+    "question": "In which Indian city was Alia Bhatt born?",
+    "clue": "Look on India's west coast.",
+    "hint": "It is the capital of Maharashtra.",
+    "answer": {
+     "city": "Mumbai",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Alia Bhatt was born in Mumbai in 1993 to filmmaker Mahesh Bhatt and actress Soni Razdan.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Alia-Bhatt",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: March 15, 1993, Mumbai [Bombay], India … Alia Bhatt was born to filmmaker Mahesh Bhatt and actress Soni Razdan."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lee-jung-jae",
+    "name": "Lee Jung-jae",
+    "monogram": "LJ",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lee-jung-jae-discovery",
+    "primaryCategory": "screen",
+    "subcategory": "korean-drama",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Television",
+    "chapter": "Before the breakthrough",
+    "question": "In which Seoul district was Squid Game star Lee Jung-jae working as a café cashier when a designer spotted him?",
+    "clue": "Look in South Korea's capital.",
+    "hint": "The district lies south of the Han River.",
+    "answer": {
+     "city": "Gangnam, Seoul",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "Lee Jung-jae was working as a cashier at a café in Seoul's Gangnam district when designer Ha Yong-Soo noticed him and persuaded him to model for a magazine shoot. In 2021, Netflix's Squid Game brought him global renown.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lee-Jung-Jae",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "While Lee was working as a cashier at a café in the Gangnam district of Seoul, designer Ha Yong-Soo noticed Lee and persuaded him to model for a magazine shoot. … In 2021 Lee was cast in Squid Game, which boosted him to global renown."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "park-chan-wook",
+    "name": "Park Chan-wook",
+    "monogram": "PC",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "park-chan-wook-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "korean-film",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Film",
+    "chapter": "Where the story began",
+    "question": "In which city was Oldboy director Park Chan-wook born?",
+    "clue": "Look on the Korean Peninsula.",
+    "hint": "It is South Korea's capital.",
+    "answer": {
+     "city": "Seoul",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "Park Chan-wook was born in Seoul. His revenge thriller Oldboy opened in South Korean cinemas in 2003 and was judged second best at the Cannes film festival the following year.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Park-Chan-Wook",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Birthplace: Seoul, South Korea … When the revenge thriller Oldeuboi (Oldboy) opened in South Korean cinemas in 2003 … The following year the film became the talk of the town when it was adjudged second best at the Cannes film festival."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "genevieve-nnaji",
+    "name": "Genevieve Nnaji",
+    "monogram": "GN",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "genevieve-nnaji-school",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Film",
+    "chapter": "Before the breakthrough",
+    "question": "In which Lagos district did Nollywood star Genevieve Nnaji attend Methodist Girls' College?",
+    "clue": "Look in Nigeria's largest city.",
+    "hint": "The district is on Lagos Mainland, near the University of Lagos.",
+    "answer": {
+     "city": "Yaba, Lagos",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Born in Mbaise, Imo State, Genevieve Nnaji attended Methodist Girls' College in Yaba, Lagos. Her directorial debut, Lionheart, became the first film Netflix acquired from Nigeria.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2022/04/facts-about-genevieve-nnaji/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in Mbaise, Imo State, Genevieve attended Methodist Girls’ College (Yaba, Lagos)."
+     },
+     {
+      "url": "https://www.essence.com/entertainment/netflix-first-movie-nigeria-lionheart-genevieve-nnaji/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Netflix is making some major moves on the continent after announcing that it had acquired its first-ever film from Nigeria. The streaming giant has acquired the rights to Lionheart, the directorial debut by Nollywood darling Genevieve Nnaji."
+     }
+    ],
+    "notes": [
+     "Mbaise (birthplace) spans several local government areas, so the question uses the precisely located school instead."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "funke-akindele",
+    "name": "Funke Akindele",
+    "monogram": "FA",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "funke-akindele-birthplace",
+    "primaryCategory": "screen",
+    "subcategory": "nollywood",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Film",
+    "chapter": "Where the story began",
+    "question": "In which Lagos State city was Funke Akindele born?",
+    "clue": "Look in southwestern Nigeria, by the Lagos Lagoon.",
+    "hint": "The city lies northeast of central Lagos, on the lagoon's northern shore.",
+    "answer": {
+     "city": "Ikorodu",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Funke Akindele was born in Ikorodu, Lagos State, in 1977. She rose to fame playing the title role in Jenifa, which earned her the nickname \"Jenifa\".",
+    "trivia": "Jenifa's Diary won her Best Actress in a Comedy at the 2016 Africa Magic Viewers' Choice Awards.",
+    "sources": [
+     {
+      "url": "https://tribuneonlineng.com/icons-funke-akindele-jenifa/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born on Wednesday, August 24, 1977, in Ikorodu, Lagos State, Nigeria. … She rose to fame for her role in the movie titled, ‘Jenifa’, which earned her the nickname Jenifa. … ‘Jenifa’s Diary’, for which she was named the Best Actress in a Comedy at the 2016 Africa Magic Viewers Choice Awards."
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "Jenifa's Diary won her Best Actress in a Comedy at the 2016 Africa Magic Viewers' Choice Awards.",
+     "sourceUrl": "https://tribuneonlineng.com/icons-funke-akindele-jenifa/",
+     "sourceName": "Nigerian Tribune",
+     "quote": "Born on Wednesday, August 24, 1977, in Ikorodu, Lagos State, Nigeria. … She rose to fame for her role in the movie titled, ‘Jenifa’, which earned her the nickname Jenifa. … ‘Jenifa’s Diary’, for which she was named the Best Actress in a Comedy at the 2016 Africa Magic Viewers Choice Awards."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "ncuti-gatwa",
+    "name": "Ncuti Gatwa",
+    "monogram": "NG",
+    "countryOfOrigin": "RW",
+    "region": "africa",
+    "originNote": "Rwandan-born, raised in Edinburgh and Fife; calls himself a 'Rwandan Scotsman'. Origin/region provisional.",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ncuti-gatwa-conservatoire",
+    "primaryCategory": "screen",
+    "subcategory": "television",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Television",
+    "chapter": "Before the breakthrough",
+    "question": "In which Scottish city did Doctor Who star Ncuti Gatwa study at the Royal Conservatoire of Scotland?",
+    "clue": "Look in Scotland's Central Belt.",
+    "hint": "It is Scotland's largest city, on the River Clyde.",
+    "answer": {
+     "city": "Glasgow",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Rwandan-born Ncuti Gatwa was raised in Fife and Edinburgh and studied at Glasgow's Royal Conservatoire of Scotland. \"I definitely now view myself as a Rwandan Scotsman,\" he says.",
+    "sources": [
+     {
+      "url": "https://www.timeout.com/news/who-is-ncuti-gatwa-seven-things-you-should-know-about-the-new-doctor-who-050922",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He was raised by his Rwanda parents in Fife and Edinburgh and studied at Glasgow’s Royal Conservatoire of Scotland … ‘I definitely now view myself as a Rwandan Scotsman,’ he says."
+     },
+     {
+      "url": "https://www.theeastafrican.co.ke/tea/magazine/rwanda-born-ncuti-gatwa-to-play-first-black-doctor-who-3814586",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Rwandan-born Ncuti Gatwa is the new lead actor in Doctor Who"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mrbeast",
+    "name": "MrBeast",
+    "monogram": "MB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mrbeast-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "In which North Carolina city was MrBeast primarily raised?",
+    "clue": "Look in the eastern part of North Carolina.",
+    "hint": "The city is home to East Carolina University.",
+    "answer": {
+     "city": "Greenville, North Carolina",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "MrBeast, born Jimmy Donaldson in Wichita, Kansas, was primarily raised in Greenville, North Carolina, by his mother. He graduated from Greenville Christian Academy in 2016 and enrolled at East Carolina University.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/MrBeast",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born: May 7, 1998, Wichita, Kansas, U.S. … Donaldson, the second of three children, was primarily raised in Greenville, North Carolina, by his mother, Sue Donaldson. After graduating from the Baptist high school Greenville Christian Academy in 2016, he enrolled in East Carolina University"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "khaby-lame",
+    "name": "Khaby Lame",
+    "monogram": "KL",
+    "countryOfOrigin": "SN",
+    "region": "africa",
+    "originNote": "Born in Senegal, raised in Italy from age one. Origin/region provisional.",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "khaby-lame-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "tiktok-creators",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "In which Italian town did Khaby Lame grow up after his family moved from Senegal?",
+    "clue": "Look in northwestern Italy, in Piedmont.",
+    "hint": "The town is just northeast of Turin.",
+    "answer": {
+     "city": "Chivasso",
+     "country": "Italy",
+     "countryCode": "IT"
+    },
+    "story": "Born in Senegal, Khaby Lame moved with his family to a public housing complex in Chivasso, Italy, when he was a year old. He worked as a machine operator in an Italian factory until he was laid off in March 2020.",
+    "sources": [
+     {
+      "url": "https://www.buro247.my/culture/who-is-khaby-lame-8-things-to-know-about-tiktoks-no-1-star.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "was born in Senegal on 9th March 2000, but is currently based in Italy since his family moved to a public housing complex in Chivasso when he was merely a year old. … Lame worked as an operator in an Italian factory before getting laid off in March 2020"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "emma-chamberlain",
+    "name": "Emma Chamberlain",
+    "monogram": "EC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "emma-chamberlain-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "In which California city did Emma Chamberlain grow up?",
+    "clue": "Look in the San Francisco Bay Area.",
+    "hint": "The city is just south of San Francisco.",
+    "answer": {
+     "city": "San Bruno, California",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Emma Chamberlain grew up in San Bruno, California, just south of San Francisco. She graduated early from high school and moved from the Bay Area to Los Angeles.",
+    "sources": [
+     {
+      "url": "https://www.marieclaire.com/culture/a28778472/emma-chamberlain-youtube-interview/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Chamberlain grew up in San Bruno, California, just south of San Francisco. … She graduated early from high school, relocated to Los Angeles from the Bay Area"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marques-brownlee",
+    "name": "Marques Brownlee",
+    "monogram": "MB",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "marques-brownlee-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "Which New Jersey town is tech reviewer Marques Brownlee (MKBHD) from?",
+    "clue": "Look in northern New Jersey, near New York City.",
+    "hint": "The township is in Essex County.",
+    "answer": {
+     "city": "Maplewood, New Jersey",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Tech reviewer Marques Brownlee, known online as MKBHD, is from Maplewood, New Jersey.",
+    "sources": [
+     {
+      "url": "https://www.nbcnews.com/feature/nbcblk28-2017/nbcblk28-marques-brownlee-reviews-dope-tech-n714396",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Marques Brownlee, 23, Maplewood, NJ Tech Reviewer & YouTube Star … the New Jersey native known online simply as MKBHD"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "whindersson-nunes",
+    "name": "Whindersson Nunes",
+    "monogram": "WN",
+    "countryOfOrigin": "BR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "whindersson-nunes-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "In which town in Piauí did Brazilian comedian Whindersson Nunes grow up?",
+    "clue": "Look in northeastern Brazil.",
+    "hint": "The town is in the south of Piauí state.",
+    "answer": {
+     "city": "Bom Jesus, Piauí",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Whindersson Nunes was born in Palmeira do Piauí and grew up in Bom Jesus, in the state of Piauí. Before stardom he worked as a truck loader and a waiter.",
+    "sources": [
+     {
+      "url": "https://www.purepeople.com.br/noticia/whindersson-nunes-e-o-youtuber-mais-famoso-do-brasil-veja-10-curiosidades-do-humorista_a203687/1",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Natural da cidade Palmeira do Piauí, no estado do Piauí … Whindersson cresceu na cidade de Bom Jesus … o youtuber já trabalhou como carregador de caminhão e garçom antes do estrelato!"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "carryminati",
+    "name": "CarryMinati",
+    "monogram": "CM",
+    "countryOfOrigin": "IN",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "carryminati-studio",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "A moment on the map",
+    "question": "From which city bordering New Delhi does CarryMinati (Ajey Nagar) make his videos?",
+    "clue": "Look in northern India.",
+    "hint": "The city is in Haryana, just south of Delhi.",
+    "answer": {
+     "city": "Faridabad",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "CarryMinati, Ajey Nagar, works from his studio in Faridabad, a city bordering the Indian capital of New Delhi. His team uses part of his family home to produce his comedy sketches.",
+    "sources": [
+     {
+      "url": "https://time.com/collections/next-generation-leaders/5584913/carryminati-ajey-nagar-next-generation-leaders/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "\"I can't go to malls or restaurants,\" Nagar tells TIME from his studio in Faridabad, a city bordering the Indian capital of New Delhi. (The team use part of his family home to produce Nagar's popular comedy sketches.)"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jake-paul",
+    "name": "Jake Paul",
+    "monogram": "JP",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jake-paul-birthplace",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "secondary": [
+     {
+      "category": "sports",
+      "subcategory": "boxing"
+     }
+    ],
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Where the story began",
+    "question": "In which Ohio city was Jake Paul born?",
+    "clue": "Look in the US Midwest, on Lake Erie.",
+    "hint": "The city sits where the Cuyahoga River meets Lake Erie.",
+    "answer": {
+     "city": "Cleveland",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Jake Paul was born in Cleveland, Ohio, in 1997. He rose to fame with comedic, provocative videos on Vine and YouTube before becoming a professional boxer.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jake-Paul",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jake Paul (born January 17, 1997, Cleveland, Ohio, U.S.) is an American boxer, influencer, and actor. … Jake Paul rose to fame by creating comedic and provocative videos on Vine and YouTube."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lilly-singh",
+    "name": "Lilly Singh",
+    "monogram": "LS",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lilly-singh-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "youtubers",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "Which part of Toronto is Lilly Singh from?",
+    "clue": "Look in Canada's largest city.",
+    "hint": "The district is in the east of Toronto.",
+    "answer": {
+     "city": "Scarborough, Toronto",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Lilly Singh was born and raised in Scarborough, Ontario. She started her YouTube channel in 2010, the same year she graduated from York University in Toronto.",
+    "sources": [
+     {
+      "url": "https://slate.com/culture/2019/03/who-is-lilly-singh-youtube-star-nbc-late-night.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "A native of Scarborough, Ontario, Singh started her YouTube channel in 2010, the same year that she graduated from York University in Toronto."
+     },
+     {
+      "url": "https://www.capitalfm.com/internet/lilly-singh/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "She was born and raised in Scarborough, Ontario."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ninja",
+    "name": "Ninja",
+    "monogram": "N",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ninja-hometown",
+    "primaryCategory": "creators",
+    "subcategory": "streamers",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Hometown roots",
+    "question": "Which Chicago-area village is Fortnite streamer Ninja (Tyler Blevins) from?",
+    "clue": "Look in northern Illinois.",
+    "hint": "The village is in Lake County, north of Chicago.",
+    "answer": {
+     "city": "Grayslake, Illinois",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Tyler \"Ninja\" Blevins is a Grayslake native. He became the first professional gamer to grace the cover of ESPN The Magazine.",
+    "sources": [
+     {
+      "url": "https://abc7chicago.com/post/fortnite-star-ninja-is-1st-professional-gamer-to-make-espn-cover/4285195/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "It's a huge honor for the 27-year-old Grayslake native. … Tyler Blevins is the first professional gamer to grace the cover of ESPN The Magazine."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sabrina-carpenter",
+    "name": "Sabrina Carpenter",
+    "monogram": "SC",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "sabrina-carpenter-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Pennsylvania town was Sabrina Carpenter born?",
+    "clue": "Look in eastern Pennsylvania.",
+    "hint": "The town is in Bucks County, north of Philadelphia.",
+    "answer": {
+     "city": "Quakertown, Pennsylvania",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Sabrina Carpenter was born in Quakertown, Pennsylvania, in 1999, to Elizabeth and David Carpenter.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sabrina-Carpenter",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sabrina Carpenter (born May 11, 1999, Quakertown, Pennsylvania, U.S.) is an American singer and actress. … Carpenter was born in Pennsylvania to Elizabeth and David Carpenter."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "nancy-ajram",
+    "name": "Nancy Ajram",
+    "monogram": "NA",
+    "countryOfOrigin": "LB",
+    "region": "middle-east"
+   },
+   "question": {
+    "id": "nancy-ajram-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "pop",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Beirut district was Nancy Ajram born?",
+    "clue": "Look on the eastern Mediterranean coast.",
+    "hint": "The district is in Lebanon's capital.",
+    "answer": {
+     "city": "Achrafieh, Beirut",
+     "country": "Lebanon",
+     "countryCode": "LB"
+    },
+    "story": "Nancy Ajram was born in Achrafieh, a district of Beirut, in 1983. She released her debut album, Mihtagalak, at 15.",
+    "sources": [
+     {
+      "url": "https://www.nancyajram.com/about/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Nancy Ajram was born to Nabil Ajram and Rimonda Aoun on May 16, 1983, in Achrafieh, a district in Beirut, Lebanon. … At 15, she released her debut album Mihtagalak (\"I Need You\") in 1998"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "fela-kuti",
+    "name": "Fela Kuti",
+    "monogram": "FK",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "fela-kuti-birthplace",
+    "primaryCategory": "music",
+    "subcategory": "african-legends",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Music",
+    "chapter": "Where the story began",
+    "question": "In which Nigerian city was Afro-beat pioneer Fela Kuti born?",
+    "clue": "Look in southwestern Nigeria, north of Lagos.",
+    "hint": "It is the capital of Ogun State.",
+    "answer": {
+     "city": "Abeokuta",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Fela Kuti was born in Abeokuta in 1938. He launched Afro-beat, fusing American blues, jazz and funk with traditional Yoruba music, and played packed early-morning concerts at his often-raided Lagos nightclub.",
+    "trivia": "Near the club he set up a communal compound that he proclaimed the independent Kalakuta Republic.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Fela-Kuti",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Fela Kuti (born October 15, 1938, Abeokuta, Nigeria …) … launched a modern style of music called Afro-beat, which fused American blues, jazz, and funk with traditional Yoruba music … early-morning concerts … at Fela’s often-raided nightclub in Lagos. Near there he also set up a communal compound, which he proclaimed the independent Kalakuta Republic."
+     }
+    ],
+    "triviaCard": {
+     "type": "culture_spotlight",
+     "text": "Near the club he set up a communal compound that he proclaimed the independent Kalakuta Republic.",
+     "sourceUrl": "https://www.britannica.com/biography/Fela-Kuti",
+     "sourceName": "Britannica",
+     "quote": "Fela Kuti (born October 15, 1938, Abeokuta, Nigeria …) … launched a modern style of music called Afro-beat, which fused American blues, jazz, and funk with traditional Yoruba music … early-morning concerts … at Fela’s often-raided nightclub in Lagos. Near there he also set up a communal compound, which he proclaimed the independent Kalakuta Republic."
+    }
+   }
+  }
+ ]
+}

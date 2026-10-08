@@ -1,0 +1,547 @@
+{
+ "tim-berners-lee": {
+  "query": "CERN, Meyrin, Geneva, Switzerland",
+  "results": [
+   {
+    "lat": 46.2333936,
+    "lon": 6.0556169,
+    "type": "railway",
+    "category": "railway",
+    "name": "CERN",
+    "display": "CERN, Route de Meyrin, Meyrin, Geneva, 1217, Switzerland",
+    "cc": "CH",
+    "osm": "way/624323811"
+   },
+   {
+    "lat": 46.2334452,
+    "lon": 6.0555477,
+    "type": "railway",
+    "category": "railway",
+    "name": "CERN",
+    "display": "CERN, Route de Meyrin, Meyrin, Geneva, 1217, Switzerland",
+    "cc": "CH",
+    "osm": "node/1266403296"
+   },
+   {
+    "lat": 46.2329706,
+    "lon": 6.0555313,
+    "type": "office",
+    "category": "office",
+    "name": "CERN",
+    "display": "CERN, 1, Route de Meyrin, Meyrin, Geneva, 1211, Switzerland",
+    "cc": "CH",
+    "osm": "node/3993648014"
+   }
+  ]
+ },
+ "alan-turing": {
+  "query": "Bletchley Park, Milton Keynes, United Kingdom",
+  "results": [
+   {
+    "lat": 51.9974936,
+    "lon": -0.7410593,
+    "type": "tourism",
+    "category": "tourism",
+    "name": "Bletchley Park",
+    "display": "Bletchley Park, Tiltman Lane, Old Bletchley, West Bletchley, Bletchley, Milton Keynes, City of Milton Keynes, England, MK3 6FJ, United Kingdom",
+    "cc": "GB",
+    "osm": "way/235892598"
+   },
+   {
+    "lat": 51.9975992,
+    "lon": -0.7389681,
+    "type": "tourism",
+    "category": "tourism",
+    "name": "Bletchley Park",
+    "display": "Bletchley Park, Sherwood Drive, Old Bletchley, West Bletchley, Bletchley, Milton Keynes, City of Milton Keynes, England, MK3 6EB, United Kingdom",
+    "cc": "GB",
+    "osm": "node/10571887678"
+   }
+  ]
+ },
+ "jensen-huang": {
+  "query": "Tainan, Taiwan",
+  "results": [
+   {
+    "lat": 22.9912348,
+    "lon": 120.184982,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tainan",
+    "display": "Tainan, Taiwan",
+    "cc": "TW",
+    "osm": "relation/2418506"
+   }
+  ]
+ },
+ "satya-nadella": {
+  "query": "Hyderabad, Telangana, India",
+  "results": [
+   {
+    "lat": 17.360589,
+    "lon": 78.4740613,
+    "type": "city",
+    "category": "boundary",
+    "name": "Hyderabad",
+    "display": "Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",
+    "cc": "IN",
+    "osm": "relation/7868535"
+   },
+   {
+    "lat": 17.388786,
+    "lon": 78.4610647,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Hyderabad",
+    "display": "Hyderabad, Telangana, India",
+    "cc": "IN",
+    "osm": "relation/7255986"
+   }
+  ]
+ },
+ "steve-jobs": {
+  "query": "Cupertino, California, United States",
+  "results": [
+   {
+    "lat": 37.3228934,
+    "lon": -122.0322895,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cupertino",
+    "display": "Cupertino, Santa Clara County, California, 95014, United States",
+    "cc": "US",
+    "osm": "relation/2221709"
+   }
+  ]
+ },
+ "anousheh-ansari": {
+  "query": "Mashhad, Razavi Khorasan, Iran",
+  "results": [
+   {
+    "lat": 36.2974945,
+    "lon": 59.6059232,
+    "type": "city",
+    "category": "boundary",
+    "name": "Mashhad",
+    "display": "Mashhad, بخش مرکزی شهرستان مشهد, Mashhad County, Razavi Khorasan, Iran",
+    "cc": "IR",
+    "osm": "relation/5725142"
+   }
+  ]
+ },
+ "elon-musk": {
+  "query": "Pretoria, Gauteng, South Africa",
+  "results": [
+   {
+    "lat": -25.7459277,
+    "lon": 28.1879101,
+    "type": "city",
+    "category": "place",
+    "name": "Pretoria",
+    "display": "Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0142, South Africa",
+    "cc": "ZA",
+    "osm": "node/25503669"
+   }
+  ]
+ },
+ "bill-gates": {
+  "query": "Seattle, Washington, United States",
+  "results": [
+   {
+    "lat": 47.6038321,
+    "lon": -122.330062,
+    "type": "city",
+    "category": "boundary",
+    "name": "Seattle",
+    "display": "Seattle, King County, Washington, United States",
+    "cc": "US",
+    "osm": "relation/237385"
+   }
+  ]
+ },
+ "aliko-dangote": {
+  "query": "Kano, Kano State, Nigeria",
+  "results": [
+   {
+    "lat": 11.9939978,
+    "lon": 8.5219738,
+    "type": "city",
+    "category": "place",
+    "name": "Kano",
+    "display": "Kano, Yakasai, Kano Municipal, Kano State, 700271, Nigeria",
+    "cc": "NG",
+    "osm": "node/501540880"
+   },
+   {
+    "lat": 11.7417881,
+    "lon": 8.3701294,
+    "type": "river",
+    "category": "waterway",
+    "name": "Kano",
+    "display": "Kano, Garum Mallam, Kano State, Nigeria",
+    "cc": "NG",
+    "osm": "way/263647665"
+   }
+  ]
+ },
+ "jack-ma": {
+  "query": "Hangzhou, Zhejiang, China",
+  "results": [
+   {
+    "lat": 30.2489634,
+    "lon": 120.2052342,
+    "type": "city",
+    "category": "boundary",
+    "name": "Hangzhou City",
+    "display": "Hangzhou City, Zhejiang, China",
+    "cc": "CN",
+    "osm": "relation/3221112"
+   }
+  ]
+ },
+ "oprah-winfrey": {
+  "query": "Chicago, Illinois, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "city",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "mo-ibrahim": {
+  "query": "Alexandria, Egypt",
+  "results": [
+   {
+    "lat": 31.1991806,
+    "lon": 29.8951716,
+    "type": "city",
+    "category": "place",
+    "name": "Alexandria",
+    "display": "Alexandria, 21519, Egypt",
+    "cc": "EG",
+    "osm": "node/27565020"
+   },
+   {
+    "lat": 30.9432983,
+    "lon": 29.765645,
+    "type": "state",
+    "category": "boundary",
+    "name": "Alexandria",
+    "display": "Alexandria, Egypt",
+    "cc": "EG",
+    "osm": "relation/3061846"
+   }
+  ]
+ },
+ "carlos-slim": {
+  "query": "city=Mexico%20City&countrycodes=mx",
+  "results": [
+   {
+    "lat": 19.4326296,
+    "lon": -99.1331785,
+    "type": "city",
+    "category": "boundary",
+    "name": "Mexico City",
+    "display": "Mexico City, Cuauhtémoc, Mexico City, Mexico",
+    "cc": "MX",
+    "osm": "relation/17483459"
+   }
+  ]
+ },
+ "melanie-perkins": {
+  "query": "Perth, Western Australia, Australia",
+  "results": [
+   {
+    "lat": -31.9558967,
+    "lon": 115.8605784,
+    "type": "city",
+    "category": "place",
+    "name": "Perth",
+    "display": "Perth, Western Australia, 6000, Australia",
+    "cc": "AU",
+    "osm": "node/29277817"
+   },
+   {
+    "lat": -31.9548005,
+    "lon": 115.8583736,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Perth",
+    "display": "Perth, Western Australia, Australia",
+    "cc": "AU",
+    "osm": "relation/11689210"
+   }
+  ]
+ },
+ "coco-chanel": {
+  "query": "Deauville, Calvados, France",
+  "results": [
+   {
+    "lat": 49.3595018,
+    "lon": 0.0746638,
+    "type": "village",
+    "category": "boundary",
+    "name": "Deauville",
+    "display": "Deauville, Lisieux, Calvados, Normandy, Metropolitan France, 14800, France",
+    "cc": "FR",
+    "osm": "relation/135589"
+   }
+  ]
+ },
+ "virgil-abloh": {
+  "query": "Rockford, Illinois, United States",
+  "results": [
+   {
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "type": "city",
+    "category": "boundary",
+    "name": "Rockford",
+    "display": "Rockford, Rockford Township, Winnebago County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/127020"
+   }
+  ]
+ },
+ "adut-akech": {
+  "query": "Adelaide, South Australia, Australia",
+  "results": [
+   {
+    "lat": -34.9281805,
+    "lon": 138.5999312,
+    "type": "city",
+    "category": "place",
+    "name": "Adelaide",
+    "display": "Adelaide, South Australia, Australia",
+    "cc": "AU",
+    "osm": "relation/11381689"
+   },
+   {
+    "lat": -34.9261502,
+    "lon": 138.6006231,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Adelaide",
+    "display": "Adelaide, South Australia, 5000, Australia",
+    "cc": "AU",
+    "osm": "relation/3114051"
+   },
+   {
+    "lat": -34.9211019,
+    "lon": 138.5972625,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Adelaide City Council",
+    "display": "Adelaide City Council, South Australia, Australia",
+    "cc": "AU",
+    "osm": "relation/3093825"
+   }
+  ]
+ },
+ "iman": {
+  "query": "Nairobi, Kenya",
+  "results": [
+   {
+    "lat": -1.2890006,
+    "lon": 36.8172812,
+    "type": "city",
+    "category": "place",
+    "name": "Nairobi",
+    "display": "Nairobi, Nairobi County, Kenya",
+    "cc": "KE",
+    "osm": "relation/9185096"
+   },
+   {
+    "lat": -1.302398,
+    "lon": 36.8288509,
+    "type": "historic:administrative",
+    "category": "boundary",
+    "name": "Nairobi",
+    "display": "Nairobi, Nairobi County, Kenya",
+    "cc": "KE",
+    "osm": "relation/9721587"
+   },
+   {
+    "lat": -1.302398,
+    "lon": 36.8288509,
+    "type": "state",
+    "category": "boundary",
+    "name": "Nairobi County",
+    "display": "Nairobi County, Kenya",
+    "cc": "KE",
+    "osm": "relation/3492709"
+   }
+  ]
+ },
+ "elie-saab": {
+  "query": "Damour, Lebanon",
+  "results": [
+   {
+    "lat": 33.7307565,
+    "lon": 35.455482,
+    "type": "village",
+    "category": "place",
+    "name": "Damour",
+    "display": "Damour, Chouf District, Mount Lebanon Governorate, Lebanon",
+    "cc": "LB",
+    "osm": "node/6452190034"
+   },
+   {
+    "lat": 33.7460838,
+    "lon": 35.6036327,
+    "type": "river",
+    "category": "waterway",
+    "name": "Damour River",
+    "display": "Damour River, Aley District, Mount Lebanon Governorate, Lebanon",
+    "cc": "LB",
+    "osm": "relation/1330054"
+   }
+  ]
+ },
+ "grace-jones": {
+  "query": "Spanish Town, Saint Catherine, Jamaica",
+  "results": [
+   {
+    "lat": 17.9956926,
+    "lon": -76.9540831,
+    "type": "city",
+    "category": "place",
+    "name": "Spanish Town",
+    "display": "Spanish Town, Saint Catherine, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/247716893"
+   }
+  ]
+ },
+ "cathy-freeman": {
+  "query": "Sydney, New South Wales, Australia",
+  "results": [
+   {
+    "lat": -33.8698439,
+    "lon": 151.2082848,
+    "type": "city",
+    "category": "place",
+    "name": "Sydney",
+    "display": "Sydney, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/5750005"
+   },
+   {
+    "lat": -33.8890382,
+    "lon": 151.2050397,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Sydney",
+    "display": "City of Sydney, Inner West, Sydney, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/1251066"
+   }
+  ]
+ },
+ "brian-lara": {
+  "query": "Cantaro, Trinidad and Tobago",
+  "results": [
+   {
+    "lat": 10.7196949,
+    "lon": -61.4697178,
+    "type": "suburb",
+    "category": "place",
+    "name": "Cantaro",
+    "display": "Cantaro, Santa Cruz, San Juan-Laventille, Trinidad and Tobago",
+    "cc": "TT",
+    "osm": "node/477517792"
+   }
+  ]
+ },
+ "nicki-minaj": {
+  "query": "St. James, Port of Spain, Trinidad and Tobago",
+  "results": [
+   {
+    "lat": 10.6736224,
+    "lon": -61.5338038,
+    "type": "suburb",
+    "category": "place",
+    "name": "Saint James",
+    "display": "Saint James, Port of Spain, 190130, Trinidad and Tobago",
+    "cc": "TT",
+    "osm": "node/9987627128"
+   },
+   {
+    "lat": 10.6847115,
+    "lon": -61.5356124,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Saint James",
+    "display": "Saint James, Port of Spain, Diego Martin, Trinidad and Tobago",
+    "cc": "TT",
+    "osm": "relation/3071277"
+   }
+  ]
+ },
+ "steve-irwin": {
+  "query": "Beerwah, Queensland, Australia",
+  "results": [
+   {
+    "lat": -26.8573095,
+    "lon": 152.9604137,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Beerwah",
+    "display": "Beerwah, Queensland, 4519, Australia",
+    "cc": "AU",
+    "osm": "relation/11675249"
+   },
+   {
+    "lat": -26.8569903,
+    "lon": 152.9583651,
+    "type": "railway",
+    "category": "railway",
+    "name": "Beerwah",
+    "display": "Beerwah, Simpson Street, Beerwah, Queensland, 4519, Australia",
+    "cc": "AU",
+    "osm": "node/332339550"
+   },
+   {
+    "lat": -26.8571243,
+    "lon": 152.9575914,
+    "type": "town",
+    "category": "place",
+    "name": "Beerwah",
+    "display": "Beerwah, Queensland, 4519, Australia",
+    "cc": "AU",
+    "osm": "node/107158790"
+   }
+  ]
+ },
+ "queen-rania": {
+  "query": "Amman, Jordan",
+  "results": [
+   {
+    "lat": 31.9515694,
+    "lon": 35.9239625,
+    "type": "city",
+    "category": "place",
+    "name": "Amman",
+    "display": "Amman, Amman Sub-District, Amman Qasabah District, Amman, 11110, Jordan",
+    "cc": "JO",
+    "osm": "node/1643504896"
+   },
+   {
+    "lat": 31.6300869,
+    "lon": 36.2519843,
+    "type": "state",
+    "category": "boundary",
+    "name": "Amman",
+    "display": "Amman, Jordan",
+    "cc": "JO",
+    "osm": "relation/2926344"
+   }
+  ]
+ }
+}

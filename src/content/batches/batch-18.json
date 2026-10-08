@@ -1,0 +1,711 @@
+{
+ "batch": 18,
+ "researched": "2026-10-07",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "thegrefg",
+    "name": "TheGrefg",
+    "monogram": "TG",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "thegrefg-alhama-de-murcia",
+    "primaryCategory": "creators",
+    "subcategory": "streamers",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Record stream",
+    "question": "TheGrefg set the Guinness record for most concurrent viewers on an individual's Twitch stream from which Spanish town?",
+    "clue": "In the Region of Murcia, southeast Spain.",
+    "hint": "Its name starts with 'Alhama'.",
+    "answer": {
+     "city": "Alhama de Murcia",
+     "country": "Spain",
+     "countryCode": "ES",
+     "geocode": "Alhama de Murcia, Murcia"
+    },
+    "story": "On 11 January 2021 David 'TheGrefg' Cánovas drew 2,468,668 concurrent viewers to his Twitch stream from Alhama de Murcia, Spain — a Guinness record — to reveal his own Fortnite skin.",
+    "secondary": [
+     {
+      "category": "creators",
+      "subcategory": "gaming-creators"
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.guinnessworldrecords.com/world-records/461561-most-concurrent-viewers-for-a-twitch-stream-by-an-individual",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "was achieved by David \"TheGrefg\" Cánovas Martínez (Spain) in Alhama de Murcia, Spain, on 11 January 2021."
+     },
+     {
+      "url": "https://www.guinnessworldrecords.com/world-records/461561-most-concurrent-viewers-for-a-twitch-stream-by-an-individual",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The live stream was a means to promote TheGrefg's new Fortnite skins"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "casimiro",
+    "name": "Casimiro",
+    "monogram": "CM",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "casimiro-rio-de-janeiro",
+    "primaryCategory": "creators",
+    "subcategory": "streamers",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "CazéTV",
+    "question": "Casimiro Miguel, the streamer whose CazéTV channel shows live Brazilian football, is from which city?",
+    "clue": "Home of Sugarloaf Mountain.",
+    "hint": "Brazil's former capital.",
+    "answer": {
+     "city": "Rio de Janeiro",
+     "country": "Brazil",
+     "countryCode": "BR",
+     "geocode": "Rio de Janeiro, Brazil"
+    },
+    "story": "Casimiro Miguel, a streamer from Rio de Janeiro, went from viral reaction videos to building CazéTV, a YouTube channel with its own production team that broadcasts live football and has reshaped Brazilian sports broadcasting.",
+    "secondary": [
+     {
+      "category": "creators",
+      "subcategory": "digital-entrepreneurs"
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://newsletters.brazilian.report/p/casimiro-miguel-cazetv",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "will be shown live on CazéTV, the YouTube channel of Casimiro Miguel, a 31-year-old streamer from Rio de Janeiro."
+     },
+     {
+      "url": "https://newsletters.brazilian.report/p/casimiro-miguel-cazetv",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Casimiro and CazéTV redefine sports broadcasting in Brazil"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rivers",
+    "name": "Rivers",
+    "monogram": "R",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "rivers-monterrey",
+    "primaryCategory": "creators",
+    "subcategory": "streamers",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Streamer of the Year",
+    "question": "Samy 'Rivers' Rivera, twice Esports Awards Streamer of the Year, was born in which Mexican city?",
+    "clue": "Capital of Nuevo León, beneath Cerro de la Silla.",
+    "hint": "Mexico's industrial northern hub.",
+    "answer": {
+     "city": "Monterrey",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Monterrey, Nuevo León"
+    },
+    "story": "Samantha 'Rivers' Rivera was born in Monterrey in 1998. She began streaming her video games on Twitch in 2020, became the most-watched female streamer in the world, and owns the Kings League team Pio FC.",
+    "secondary": [
+     {
+      "category": "creators",
+      "subcategory": "digital-entrepreneurs"
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.nmas.com.mx/entretenimiento/espectaculos/quien-es-samy-rivers-edad-donde-nacio-datos-streamer-mexicana-velada-ano-6/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "La mexicana nació en Monterrey el 20 de agosto de 1998."
+     },
+     {
+      "url": "https://www.nmas.com.mx/entretenimiento/espectaculos/quien-es-samy-rivers-edad-donde-nacio-datos-streamer-mexicana-velada-ano-6/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Samantha Rivera Treviño es dueña del equipo Pio FC, que participa en la Kings League y la Queens League."
+     },
+     {
+      "url": "https://expansion.mx/tecnologia/2023/07/03/rivers-gg-velada-entre-streamers-rompen-el-molde-en-twitch",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "La streamer de Monterrey fue la creadora mujer con más espectadores durante junio en toda Latinoamérica y la número cinco a nivel mundial."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "westcol",
+    "name": "Westcol",
+    "monogram": "W",
+    "countryOfOrigin": "CO",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "westcol-medellin",
+    "primaryCategory": "creators",
+    "subcategory": "streamers",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Paisa streamer",
+    "question": "Colombian streamer Westcol began uploading reaction and gameplay videos as a teenager in which city?",
+    "clue": "Capital of Antioquia, the 'City of Eternal Spring'.",
+    "hint": "Colombia's second-largest city.",
+    "answer": {
+     "city": "Medellín",
+     "country": "Colombia",
+     "countryCode": "CO",
+     "geocode": "Medellín, Antioquia"
+    },
+    "story": "Luis Fernando 'Westcol' Villa began posting reaction and gameplay videos to YouTube more than a decade ago as a teenager in Medellín, and became one of Latin America's most influential streamers on Twitch and Kick.",
+    "sources": [
+     {
+      "url": "https://www.semana.com/gente/articulo/westcol-el-streamer-paisa-que-entrevisto-a-petro-logro-ser-tendencia-en-colombia/202659/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "comenzó a subir videos de reacciones y gameplays a YouTube hace más de 10 años, cuando era un adolescente en busca de diversión en Medellín."
+     },
+     {
+      "url": "https://www.semana.com/gente/articulo/el-es-westcol-el-streamer-mas-reconocido-de-colombia-que-se-reunio-con-gustavo-petro-en-entrevista/202651/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "El joven se ha convertido en una de las figuras más influyentes del entretenimiento digital en Latinoamérica"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alana-flores",
+    "name": "Alana Flores",
+    "monogram": "AF",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "alana-flores-monterrey",
+    "primaryCategory": "creators",
+    "subcategory": "streamers",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "La Rana",
+    "question": "Streamer Alana Flores, a fighter at Ibai's La Velada del Año, was born in which Mexican city?",
+    "clue": "Capital of Nuevo León.",
+    "hint": "Its people are called regiomontanos.",
+    "answer": {
+     "city": "Monterrey",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Monterrey, Nuevo León"
+    },
+    "story": "Alana Flores was born in Monterrey in 2000. She streams herself playing video games and training, fought at La Velada del Año, and leads the Kings League team Raniza FC.",
+    "secondary": [
+     {
+      "category": "creators",
+      "subcategory": "gaming-creators"
+     }
+    ],
+    "sources": [
+     {
+      "url": "https://www.infobae.com/mexico/2025/05/28/quien-es-alana-flores-la-influencer-regiomontana-victima-de-deepfake/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Alana Flores es una influencer mexicana originaria de Monterrey, Nuevo León"
+     },
+     {
+      "url": "https://amp.milenio.com/tecnologia/alana-flores-streamer-peleara-velada-ano",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Alana Flores es una streamer e influencer de tan solo 23 años, nació en Monterrey, Nuevo León, el 15 de diciembre del 2000."
+     },
+     {
+      "url": "https://amp.milenio.com/tecnologia/alana-flores-streamer-peleara-velada-ano",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Suele hacer transmisiones en vivo jugando videojuegos o IRL"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "theo-von",
+    "name": "Theo Von",
+    "monogram": "TV",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "theo-von-covington",
+    "primaryCategory": "creators",
+    "subcategory": "podcasters",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "This Past Weekend",
+    "question": "Comedian and This Past Weekend podcast host Theo Von was born in which Louisiana city north of Lake Pontchartrain?",
+    "clue": "In St. Tammany Parish, across the lake from New Orleans.",
+    "hint": "It shares its name with a Kentucky city.",
+    "answer": {
+     "city": "Covington",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Covington, Louisiana"
+    },
+    "story": "Theo Von was born in Covington, Louisiana, in 1980. A comedian and former reality TV star, he hosts the popular podcast This Past Weekend, where guests have included Donald Trump.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Theo-Von",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Theo Von (born March 19, 1980, Covington, Louisiana, U.S.) is an American comedian, reality television star, and podcast ho"
+     },
+     {
+      "url": "https://time.com/collections/time100-creators-2025/7299180/theo-von/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Von’s ability to be a good hang—whether interviewing President Donald Trump or socialist streamer Hasan Piker on his popular podcast, This Past Weekend"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mel-robbins",
+    "name": "Mel Robbins",
+    "monogram": "MR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "mel-robbins-dorset",
+    "primaryCategory": "creators",
+    "subcategory": "podcasters",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Let Them",
+    "question": "Podcast host Mel Robbins is based in which small Vermont town?",
+    "clue": "In Bennington County, southern Vermont, home of the oldest US marble quarry.",
+    "hint": "Shares its name with an English county.",
+    "answer": {
+     "city": "Dorset",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Dorset, Vermont"
+    },
+    "story": "Mel Robbins launched The Mel Robbins Podcast in 2022; it averaged 1.5 million weekly downloads in its first months. The former lawyer and author of The Let Them Theory lives in Dorset, Vermont.",
+    "sources": [
+     {
+      "url": "https://www.forbes.com/profile/mel-robbins/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Residence Dorset, Vermont"
+     },
+     {
+      "url": "https://www.forbes.com/profile/mel-robbins/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Podcast host, author, and motivational speaker Mel Robbins launched her eponymous show"
+     },
+     {
+      "url": "https://time.com/collections/time100-creators-2025/7299152/mel-robbins/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Through her chart-topping podcast, The Mel Robbins Podcast"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ihascupquake",
+    "name": "iHasCupquake",
+    "monogram": "IC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "ihascupquake-los-angeles",
+    "primaryCategory": "creators",
+    "subcategory": "gaming-creators",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Record holder",
+    "question": "iHasCupquake, once YouTube's most-subscribed female games broadcaster, is from which city?",
+    "clue": "Home of Hollywood.",
+    "hint": "The City of Angels.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Los Angeles, California"
+    },
+    "story": "Tiffany Herrera, aka iHasCupquake, from Los Angeles, held the Guinness record for most subscribers for a female games broadcaster on YouTube, with 5,461,793 in 2017.",
+    "sources": [
+     {
+      "url": "https://www.guinnessworldrecords.com/world-records/397619-most-popular-female-videogames-broadcaster-on-youtube",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "“iHasCupquake” – aka Tiffany Herrera from Los Angeles, USA – had 5,461,793 subscribers to her games channel as of 29 March 2017."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jacksepticeye",
+    "name": "Jacksepticeye",
+    "monogram": "JS",
+    "countryOfOrigin": "IE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "jacksepticeye-cloghan",
+    "primaryCategory": "creators",
+    "subcategory": "gaming-creators",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Top of the mornin'",
+    "question": "Irish gaming YouTuber Jacksepticeye (Sean McLoughlin) is from which village in County Offaly?",
+    "clue": "In the Irish midlands, near the River Shannon.",
+    "hint": "Its name starts with 'Clog'.",
+    "answer": {
+     "city": "Cloghan",
+     "country": "Ireland",
+     "countryCode": "IE",
+     "geocode": "Cloghan, County Offaly"
+    },
+    "story": "Sean McLoughlin, the gaming YouTuber Jacksepticeye, is from Cloghan, County Offaly. He didn't have internet growing up, and now has tens of millions of YouTube subscribers.",
+    "sources": [
+     {
+      "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-40356542.html",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He wanted McLoughlin, from Cloghan, Co Offaly, to play himself in a cameo."
+     },
+     {
+      "url": "https://www.irishtimes.com/culture/tv-radio-web/jacksepticeye-the-millionaire-youtuber-from-offaly-1.4796818",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Sean McLoughlin didn’t have internet growing up. Now he has 28m YouTube subscribers"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "keith-lee",
+    "name": "Keith Lee",
+    "monogram": "KL",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "keith-lee-las-vegas",
+    "primaryCategory": "creators",
+    "subcategory": "viral-personalities",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Food critic",
+    "question": "Keith Lee, whose viral food reviews boost local restaurants, is based in which city?",
+    "clue": "In the Mojave Desert, famous for its Strip.",
+    "hint": "Sin City.",
+    "answer": {
+     "city": "Las Vegas",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Las Vegas, Nevada"
+    },
+    "story": "Former professional fighter Keith Lee is based in Las Vegas. His viral food reviews have helped hundreds of local restaurants around the US increase sales and fame.",
+    "sources": [
+     {
+      "url": "https://www.forbes.com/profile/keith-lee/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "PROFILE Keith Lee Creator Las Vegas, Nevada"
+     },
+     {
+      "url": "https://www.forbes.com/profile/keith-lee/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Keith Lee's viral food reviews have helped hundreds of local restaurants around the country increase sales and social media fame."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kris-collins",
+    "name": "Kris Collins",
+    "monogram": "KC",
+    "countryOfOrigin": "CA",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "kris-collins-vancouver",
+    "primaryCategory": "creators",
+    "subcategory": "viral-personalities",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Pandemic fame",
+    "question": "Before TikTok fame, sketch comic Kris Collins was a hairdresser in which Canadian city?",
+    "clue": "On the Pacific coast of British Columbia.",
+    "hint": "It hosted the 2010 Winter Olympics.",
+    "answer": {
+     "city": "Vancouver",
+     "country": "Canada",
+     "countryCode": "CA",
+     "geocode": "Vancouver, British Columbia"
+    },
+    "story": "Kris Collins was a hairdresser in Vancouver before the pandemic. When Covid stopped work she downloaded TikTok and built a huge following with sketches based on her family.",
+    "sources": [
+     {
+      "url": "https://www.forbes.com/profile/kris-collins/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Before the pandemic, Collins was a hairdresser in Vancouver."
+     },
+     {
+      "url": "https://www.forbes.com/profile/kris-collins/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Collins is another example of how fast someone can accumulate fame and money off TikTok."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "amelia-dimoldenberg",
+    "name": "Amelia Dimoldenberg",
+    "monogram": "AD",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "amelia-dimoldenberg-london",
+    "primaryCategory": "creators",
+    "subcategory": "viral-personalities",
+    "questionType": "career_location",
+    "difficulty": "easy",
+    "displayCategory": "Creators",
+    "chapter": "Chicken Shop Date",
+    "question": "Chicken Shop Date host Amelia Dimoldenberg, whose awkward celebrity interviews went viral, is based in which city?",
+    "clue": "On the River Thames.",
+    "hint": "The UK's capital.",
+    "answer": {
+     "city": "London",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "London, England"
+    },
+    "story": "London-based comedian Amelia Dimoldenberg launched Chicken Shop Date on YouTube in 2014. It found a wide audience years later through viral episodes with Jack Harlow and Jennifer Lawrence.",
+    "sources": [
+     {
+      "url": "https://time.com/collections/time100-creators-2025/7299096/amelia-dimoldenberg/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "“Everyone said no,” the 31-year-old, London-based comedian tells TIME."
+     },
+     {
+      "url": "https://time.com/collections/time100-creators-2025/7299096/amelia-dimoldenberg/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "It took another eight years for the show to find a wide audience, which it did thanks to viral episodes with rapper Jack Harlow, actor Jennifer Lawrence"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jake-shane",
+    "name": "Jake Shane",
+    "monogram": "JS",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jake-shane-los-angeles",
+    "primaryCategory": "creators",
+    "subcategory": "viral-personalities",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Creators",
+    "chapter": "Octopus critic",
+    "question": "Jake Shane, who went viral as an octopus-only food critic, is based in which city?",
+    "clue": "Home of Hollywood.",
+    "hint": "The City of Angels.",
+    "answer": {
+     "city": "Los Angeles",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Los Angeles, California"
+    },
+    "story": "Jake Shane started as an Instagram food critic who only reviewed octopus, then went viral with improv-style reenactments of pop culture moments. He is based in Los Angeles.",
+    "sources": [
+     {
+      "url": "https://www.forbes.com/profile/jake-shane/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Residence Los Angeles, California"
+     },
+     {
+      "url": "https://time.com/collections/time100-creators-2025/7299132/jake-shane/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Shane gained traction in 2023 for his viral, improv-style reenactments of pop culture moments and historical events"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "haley-kalil",
+    "name": "Haley Kalil",
+    "monogram": "HK",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "haley-kalil-st-cloud",
+    "primaryCategory": "creators",
+    "subcategory": "viral-personalities",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Creators",
+    "chapter": "Fashion and satire",
+    "question": "Satirical creator Haley Kalil graduated from the state university in which city in her native Minnesota?",
+    "clue": "On the Mississippi, northwest of Minneapolis.",
+    "hint": "Saint ... ?",
+    "answer": {
+     "city": "St. Cloud",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "St. Cloud, Minnesota"
+    },
+    "story": "Haley Kalil graduated summa cum laude from St. Cloud State University in her native Minnesota, and built a following of 23 million by blending fashion and satire.",
+    "sources": [
+     {
+      "url": "https://time.com/collections/time100-creators-2025/7299123/haley-kalil/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "who graduated summa cum laude with a degree in biomedical sciences and psychology from St. Cloud State University in her native Minnesota, has built a following of 23 million across TikTok and Instagram by blending fashion and satire."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "andy-warhol",
+    "name": "Andy Warhol",
+    "monogram": "AW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "andy-warhol-pittsburgh",
+    "primaryCategory": "icons",
+    "subcategory": "cultural-icons",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "Pop art pioneer Andy Warhol was born in which Pennsylvania city?",
+    "clue": "Where three rivers meet.",
+    "hint": "The Steel City.",
+    "answer": {
+     "city": "Pittsburgh",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Pittsburgh, Pennsylvania"
+    },
+    "story": "Andy Warhol was born in Pittsburgh in 1928. An artist and filmmaker, he led the Pop art movement of the 1960s.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Andy-Warhol",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Andy Warhol (born August 6, 1928, Pittsburgh, Pennsylvania, U.S.—died February 22, 1987, New York, New York) was an American artist and filmmaker, an initiator and leading exponent of the Pop art movement of the 1960s"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "john-lennon",
+    "name": "John Lennon",
+    "monogram": "JL",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "john-lennon-liverpool",
+    "primaryCategory": "icons",
+    "subcategory": "cultural-icons",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "World Icons",
+    "chapter": "Where the story began",
+    "question": "John Lennon, coleader of the Beatles, was born in which English port city?",
+    "clue": "On the River Mersey.",
+    "hint": "Home of the Cavern Club.",
+    "answer": {
+     "city": "Liverpool",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Liverpool, England"
+    },
+    "story": "John Lennon was born in Liverpool in 1940 and became a coleader of the revolutionary rock group the Beatles.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/John-Lennon",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "John Lennon (born October 9, 1940, Liverpool, England—died December 8, 1980, New York, New York, U.S.) was a coleader of the revolutionary British rock group the Beatles"
+     }
+    ]
+   }
+  }
+ ],
+ "memberships": [
+  {
+   "questionId": "xqc-laval",
+   "category": "creators",
+   "subcategory": "gaming-creators",
+   "reason": "first gained prominence in esports as a top-tier Overwatch player"
+  },
+  {
+   "questionId": "huda-kattan-dubai",
+   "category": "creators",
+   "subcategory": "digital-entrepreneurs",
+   "reason": "Forbes: launched a beauty blog in 2010, then built Huda Beauty and Kayali from her online following"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "note": "Landing-world biomes for answer locations. Assigned only from the place's Köppen-Geiger climate class (plus glaciation for Iceland); never from region or culture. Unlisted places use the neutral city world.",
+ "source": "Köppen-Geiger climate classification (Beck et al., 2018, Scientific Data 5:180214)",
+ "rules": { "desert": "BWh / BWk (hot or cold desert)", "rainforest": "Af / Am (tropical rainforest or monsoon)", "snow": "Dfb / Dfc with long snow-covered winters, or subpolar and glaciated" },
+ "places": [
+  { "city": "Cairo", "countryCode": "EG", "latitude": 30.04, "longitude": 31.24, "biome": "desert", "koppen": "BWh" },
+  { "city": "Al-Jamāliyyah, Cairo", "countryCode": "EG", "latitude": 30.05, "longitude": 31.26, "biome": "desert", "koppen": "BWh" },
+  { "city": "Alexandria", "countryCode": "EG", "latitude": 31.2, "longitude": 29.9, "biome": "desert", "koppen": "BWh" },
+  { "city": "Baghdad", "countryCode": "IQ", "latitude": 33.31, "longitude": 44.39, "biome": "desert", "koppen": "BWh" },
+  { "city": "Indio", "countryCode": "US", "latitude": 33.72, "longitude": -116.22, "biome": "desert", "koppen": "BWh" },
+  { "city": "Indian Wells, California", "countryCode": "US", "latitude": 33.72, "longitude": -116.35, "biome": "desert", "koppen": "BWh" },
+  { "city": "Jakarta", "countryCode": "ID", "latitude": -6.21, "longitude": 106.85, "biome": "rainforest", "koppen": "Am" },
+  { "city": "Ipoh", "countryCode": "MY", "latitude": 4.6, "longitude": 101.09, "biome": "rainforest", "koppen": "Af" },
+  { "city": "Port Harcourt", "countryCode": "NG", "latitude": 4.82, "longitude": 7.05, "biome": "rainforest", "koppen": "Am" },
+  { "city": "Benin City", "countryCode": "NG", "latitude": 6.33, "longitude": 5.62, "biome": "rainforest", "koppen": "Am" },
+  { "city": "Santos", "countryCode": "BR", "latitude": -23.96, "longitude": -46.33, "biome": "rainforest", "koppen": "Af" },
+  { "city": "Castries", "countryCode": "LC", "latitude": 14.01, "longitude": -60.99, "biome": "rainforest", "koppen": "Af" },
+  { "city": "Reykjavík", "countryCode": "IS", "latitude": 64.15, "longitude": -21.94, "biome": "snow", "koppen": "Cfc", "aurora": true },
+  { "city": "Montréal", "countryCode": "CA", "latitude": 45.5, "longitude": -73.57, "biome": "snow", "koppen": "Dfb" },
+  { "city": "Charlemagne", "countryCode": "CA", "latitude": 45.72, "longitude": -73.48, "biome": "snow", "koppen": "Dfb" },
+  { "city": "Calgary", "countryCode": "CA", "latitude": 51.05, "longitude": -114.06, "biome": "snow", "koppen": "Dfb" }
+ ]
+}

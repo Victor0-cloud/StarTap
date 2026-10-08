@@ -1,0 +1,1202 @@
+{
+ "ed-sheeran": {
+  "query": "Framlingham, United Kingdom",
+  "results": [
+   {
+    "lat": 52.2220579,
+    "lon": 1.3415864,
+    "type": "town",
+    "category": "boundary",
+    "name": "Framlingham",
+    "display": "Framlingham, East Suffolk, Suffolk, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/4780213"
+   }
+  ]
+ },
+ "harry-styles": {
+  "query": "Holmes Chapel, United Kingdom",
+  "results": [
+   {
+    "lat": 53.1985935,
+    "lon": -2.3618324,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Holmes Chapel",
+    "display": "Holmes Chapel, Cheshire East, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/365398"
+   },
+   {
+    "lat": 53.2001248,
+    "lon": -2.3590653,
+    "type": "village",
+    "category": "place",
+    "name": "Holmes Chapel",
+    "display": "Holmes Chapel, Cheshire East, England, CW4 7NB, United Kingdom",
+    "cc": "GB",
+    "osm": "node/1993761290"
+   }
+  ]
+ },
+ "justin-bieber": {
+  "query": "Stratford, Canada",
+  "results": [
+   {
+    "lat": 43.3700899,
+    "lon": -80.9818016,
+    "type": "city",
+    "category": "boundary",
+    "name": "Stratford",
+    "display": "Stratford, Southwestern Ontario, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/7486330"
+   },
+   {
+    "lat": 46.2171095,
+    "lon": -63.0892525,
+    "type": "town",
+    "category": "boundary",
+    "name": "Town of Stratford",
+    "display": "Town of Stratford, Queens County, Prince Edward Island, Canada",
+    "cc": "CA",
+    "osm": "relation/2256639"
+   },
+   {
+    "lat": 46.2171095,
+    "lon": -63.0892525,
+    "type": "town",
+    "category": "boundary",
+    "name": "Stratford",
+    "display": "Stratford, Queens County, Prince Edward Island, Canada",
+    "cc": "CA",
+    "osm": "relation/12036958"
+   }
+  ]
+ },
+ "bruno-mars": {
+  "query": "Honolulu, United States",
+  "results": [
+   {
+    "lat": 21.304547,
+    "lon": -157.855676,
+    "type": "city",
+    "category": "place",
+    "name": "Honolulu",
+    "display": "Honolulu, Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/119231"
+   },
+   {
+    "lat": 21.468151,
+    "lon": -157.960511,
+    "type": "county",
+    "category": "boundary",
+    "name": "Honolulu County",
+    "display": "Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/3861844"
+   },
+   {
+    "lat": 21.418555,
+    "lon": -157.804184,
+    "type": "city",
+    "category": "boundary",
+    "name": "Kaneohe",
+    "display": "Kaneohe, Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/119237"
+   }
+  ]
+ },
+ "lady-gaga": {
+  "query": "New York, United States",
+  "results": [
+   {
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "city",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/175905"
+   },
+   {
+    "lat": 43.1561681,
+    "lon": -75.8449946,
+    "type": "state",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/61320"
+   }
+  ]
+ },
+ "chappell-roan": {
+  "query": "Willard, Greene County, Missouri, United States",
+  "results": [
+   {
+    "lat": 37.305047,
+    "lon": -93.4285272,
+    "type": "city",
+    "category": "boundary",
+    "name": "Willard",
+    "display": "Willard, Greene County, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/140647"
+   }
+  ]
+ },
+ "charli-xcx": {
+  "query": "Cambridge, United Kingdom",
+  "results": [
+   {
+    "lat": 52.1975846,
+    "lon": 0.1391537,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cambridge",
+    "display": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/295355"
+   },
+   {
+    "lat": 52.2055314,
+    "lon": 0.1186637,
+    "type": "city",
+    "category": "place",
+    "name": "Cambridge",
+    "display": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3NR, United Kingdom",
+    "cc": "GB",
+    "osm": "node/20971094"
+   }
+  ]
+ },
+ "aya-nakamura": {
+  "query": "Aulnay-sous-Bois, France",
+  "results": [
+   {
+    "lat": 48.934231,
+    "lon": 2.499789,
+    "type": "town",
+    "category": "boundary",
+    "name": "Aulnay-sous-Bois",
+    "display": "Aulnay-sous-Bois, Le Raincy, Seine-Saint-Denis, Ile-de-France, Metropolitan France, 93600, France",
+    "cc": "FR",
+    "osm": "relation/162259"
+   }
+  ]
+ },
+ "michael-jackson": {
+  "query": "Gary, United States",
+  "results": [
+   {
+    "lat": 41.6020962,
+    "lon": -87.3370646,
+    "type": "city",
+    "category": "boundary",
+    "name": "Gary",
+    "display": "Gary, Calumet Township, Lake County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/127298"
+   },
+   {
+    "lat": 41.7704817,
+    "lon": -87.8555728,
+    "type": "village",
+    "category": "boundary",
+    "name": "Hodgkins",
+    "display": "Hodgkins, Lyons Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/123148"
+   },
+   {
+    "lat": 37.3637253,
+    "lon": -81.5501063,
+    "type": "village",
+    "category": "boundary",
+    "name": "Gary",
+    "display": "Gary, McDowell County, West Virginia, 24895, United States",
+    "cc": "US",
+    "osm": "relation/240098"
+   }
+  ]
+ },
+ "fairuz": {
+  "query": "Baalbek, Lebanon",
+  "results": [
+   {
+    "lat": 34.009653,
+    "lon": 36.2117096,
+    "type": "city",
+    "category": "boundary",
+    "name": "Baalbek",
+    "display": "Baalbek, Baalbek District, Baalbek-Hermel Governorate, 1800, Lebanon",
+    "cc": "LB",
+    "osm": "relation/3095790"
+   }
+  ]
+ },
+ "kendrick-lamar": {
+  "query": "Compton, United States",
+  "results": [
+   {
+    "lat": 33.894927,
+    "lon": -118.226624,
+    "type": "city",
+    "category": "place",
+    "name": "Compton",
+    "display": "Compton, Los Angeles County, California, 90220, United States",
+    "cc": "US",
+    "osm": "node/1837323613"
+   },
+   {
+    "lat": 41.694291,
+    "lon": -89.0856855,
+    "type": "village",
+    "category": "boundary",
+    "name": "Compton",
+    "display": "Compton, Brooklyn Township, Lee County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/127078"
+   },
+   {
+    "lat": 38.275128,
+    "lon": -76.6930195,
+    "type": "village",
+    "category": "place",
+    "name": "Compton",
+    "display": "Compton, Saint Mary's County, Maryland, 20627, United States",
+    "cc": "US",
+    "osm": "node/158378666"
+   }
+  ]
+ },
+ "travis-scott": {
+  "query": "Missouri City, United States",
+  "results": [
+   {
+    "lat": 29.6185669,
+    "lon": -95.5377215,
+    "type": "town",
+    "category": "boundary",
+    "name": "Missouri City",
+    "display": "Missouri City, Fort Bend County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/114550"
+   },
+   {
+    "lat": 39.2408369,
+    "lon": -94.2880031,
+    "type": "village",
+    "category": "boundary",
+    "name": "Missouri City",
+    "display": "Missouri City, Clay County, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/141014"
+   }
+  ]
+ },
+ "megan-thee-stallion": {
+  "query": "Houston, United States",
+  "results": [
+   {
+    "lat": 29.7589382,
+    "lon": -95.3676974,
+    "type": "city",
+    "category": "boundary",
+    "name": "Houston",
+    "display": "Houston, Harris County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/2688911"
+   },
+   {
+    "lat": 31.3378465,
+    "lon": -95.390805,
+    "type": "county",
+    "category": "boundary",
+    "name": "Houston County",
+    "display": "Houston County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1840945"
+   },
+   {
+    "lat": 32.4659752,
+    "lon": -83.631394,
+    "type": "county",
+    "category": "boundary",
+    "name": "Houston County",
+    "display": "Houston County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/1074368"
+   }
+  ]
+ },
+ "eminem": {
+  "query": "Detroit, United States",
+  "results": [
+   {
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "type": "city",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Wayne County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134591"
+   },
+   {
+    "lat": 33.6629825,
+    "lon": -95.2662526,
+    "type": "village",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Red River County, Texas, 75436, United States",
+    "cc": "US",
+    "osm": "relation/9244570"
+   },
+   {
+    "lat": 39.6205965,
+    "lon": -90.676732,
+    "type": "hamlet",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Pike County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/127012"
+   }
+  ]
+ },
+ "jay-z": {
+  "query": "Brooklyn, United States",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 38.657181,
+    "lon": -90.1670585,
+    "type": "village",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Saint Clair County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122952"
+   },
+   {
+    "lat": 41.7286464,
+    "lon": -92.4455938,
+    "type": "village",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Bear Creek Township, Poweshiek County, Iowa, United States",
+    "cc": "US",
+    "osm": "relation/128863"
+   }
+  ]
+ },
+ "missy-elliott": {
+  "query": "Portsmouth, United States",
+  "results": [
+   {
+    "lat": 36.8320081,
+    "lon": -76.297699,
+    "type": "city",
+    "category": "boundary",
+    "name": "Portsmouth",
+    "display": "Portsmouth, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/206673"
+   },
+   {
+    "lat": 43.0751306,
+    "lon": -70.7601826,
+    "type": "city",
+    "category": "boundary",
+    "name": "Portsmouth",
+    "display": "Portsmouth, Rockingham County, New Hampshire, United States",
+    "cc": "US",
+    "osm": "relation/70967"
+   },
+   {
+    "lat": 38.7345374,
+    "lon": -82.9962742,
+    "type": "city",
+    "category": "boundary",
+    "name": "Portsmouth",
+    "display": "Portsmouth, Scioto County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182207"
+   }
+  ]
+ },
+ "black-sherif": {
+  "query": "Konongo, Ghana",
+  "results": [
+   {
+    "lat": 6.6231481,
+    "lon": -1.2148111,
+    "type": "town",
+    "category": "place",
+    "name": "Konongo",
+    "display": "Konongo, Asante-Akim Central Municipal District, Ashanti Region, Ghana",
+    "cc": "GH",
+    "osm": "node/892157010"
+   }
+  ]
+ },
+ "sarkodie": {
+  "query": "Tema, Ghana",
+  "results": [
+   {
+    "lat": 5.6596409,
+    "lon": -0.0096771,
+    "type": "city",
+    "category": "place",
+    "name": "Tema",
+    "display": "Tema, Tema Metropolitan District, Greater Accra Region, Ghana",
+    "cc": "GH",
+    "osm": "node/735505132"
+   }
+  ]
+ },
+ "sza": {
+  "query": "Maplewood, Essex County, New Jersey, United States",
+  "results": [
+   {
+    "lat": 40.7312123,
+    "lon": -74.2734808,
+    "type": "town",
+    "category": "boundary",
+    "name": "Maplewood",
+    "display": "Maplewood, Essex County, New Jersey, 07040, United States",
+    "cc": "US",
+    "osm": "relation/170781"
+   }
+  ]
+ },
+ "usher": {
+  "query": "Las Vegas, United States",
+  "results": [
+   {
+    "lat": 36.1674263,
+    "lon": -115.1484131,
+    "type": "city",
+    "category": "boundary",
+    "name": "Las Vegas",
+    "display": "Las Vegas, Clark County, Nevada, United States",
+    "cc": "US",
+    "osm": "relation/170117"
+   },
+   {
+    "lat": 35.5939325,
+    "lon": -105.223896,
+    "type": "town",
+    "category": "boundary",
+    "name": "Las Vegas",
+    "display": "Las Vegas, San Miguel County, New Mexico, United States",
+    "cc": "US",
+    "osm": "relation/171237"
+   }
+  ]
+ },
+ "whitney-houston": {
+  "query": "Newark, United States",
+  "results": [
+   {
+    "lat": 40.735657,
+    "lon": -74.1723667,
+    "type": "city",
+    "category": "boundary",
+    "name": "Newark",
+    "display": "Newark, Essex County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170486"
+   },
+   {
+    "lat": 39.6828358,
+    "lon": -75.7515682,
+    "type": "city",
+    "category": "boundary",
+    "name": "Newark",
+    "display": "Newark, New Castle County, Delaware, United States",
+    "cc": "US",
+    "osm": "relation/384312"
+   },
+   {
+    "lat": 40.0581205,
+    "lon": -82.4012643,
+    "type": "city",
+    "category": "boundary",
+    "name": "Newark",
+    "display": "Newark, Licking County, Ohio, 43055, United States",
+    "cc": "US",
+    "osm": "relation/182609"
+   }
+  ]
+ },
+ "aretha-franklin": {
+  "query": "Florence, United States",
+  "results": [
+   {
+    "lat": 34.79981,
+    "lon": -87.677251,
+    "type": "city",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Lauderdale County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/111033"
+   },
+   {
+    "lat": 45.8379973,
+    "lon": -88.3902943,
+    "type": "county",
+    "category": "boundary",
+    "name": "Florence County",
+    "display": "Florence County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/536034"
+   },
+   {
+    "lat": 34.1984435,
+    "lon": -79.7671658,
+    "type": "city",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Florence County, South Carolina, United States",
+    "cc": "US",
+    "osm": "relation/194144"
+   }
+  ]
+ },
+ "mariah-carey": {
+  "query": "Greenlawn, United States",
+  "results": [
+   {
+    "lat": 40.8689871,
+    "lon": -73.3651185,
+    "type": "town",
+    "category": "place",
+    "name": "Greenlawn",
+    "display": "Greenlawn, Town of Huntington, Suffolk County, New York, 11740, United States",
+    "cc": "US",
+    "osm": "node/158809799"
+   },
+   {
+    "lat": 35.0950908,
+    "lon": -89.8334196,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Greenlawn",
+    "display": "Greenlawn, Memphis, Shelby County, West Tennessee, Tennessee, 38119, United States",
+    "cc": "US",
+    "osm": "node/153356276"
+   },
+   {
+    "lat": 39.4775409,
+    "lon": -91.6862706,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Greenlawn",
+    "display": "Greenlawn, Ralls County, Missouri, United States",
+    "cc": "US",
+    "osm": "node/151559169"
+   }
+  ]
+ },
+ "the-weeknd": {
+  "query": "Toronto, Canada",
+  "results": [
+   {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "type": "city",
+    "category": "boundary",
+    "name": "Toronto",
+    "display": "Toronto, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/324211"
+   }
+  ]
+ },
+ "wizkid": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   },
+   {
+    "lat": 6.5269033,
+    "lon": 3.5774005,
+    "type": "state",
+    "category": "boundary",
+    "name": "Lagos State",
+    "display": "Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718182"
+   }
+  ]
+ },
+ "davido": {
+  "query": "Huntsville, United States",
+  "results": [
+   {
+    "lat": 34.729847,
+    "lon": -86.5859011,
+    "type": "city",
+    "category": "boundary",
+    "name": "Huntsville",
+    "display": "Huntsville, Madison County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/110673"
+   },
+   {
+    "lat": 30.7235263,
+    "lon": -95.5507771,
+    "type": "town",
+    "category": "boundary",
+    "name": "Huntsville",
+    "display": "Huntsville, Walker County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6603614"
+   },
+   {
+    "lat": 36.0884253,
+    "lon": -93.7375258,
+    "type": "town",
+    "category": "boundary",
+    "name": "Huntsville",
+    "display": "Huntsville, Madison County, Arkansas, United States",
+    "cc": "US",
+    "osm": "relation/111061"
+   }
+  ]
+ },
+ "tiwa-savage": {
+  "query": "Boston, United States",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "city",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   },
+   {
+    "lat": 33.4415086,
+    "lon": -94.4196452,
+    "type": "village",
+    "category": "place",
+    "name": "Boston",
+    "display": "Boston, New Boston, Bowie County, Texas, 75570, United States",
+    "cc": "US",
+    "osm": "node/151534347"
+   },
+   {
+    "lat": 42.6289858,
+    "lon": -78.7376213,
+    "type": "village",
+    "category": "boundary",
+    "name": "Town of Boston",
+    "display": "Town of Boston, Erie County, New York, 14025, United States",
+    "cc": "US",
+    "osm": "relation/13642223"
+   }
+  ]
+ },
+ "diamond-platnumz": {
+  "query": "Dar es Salaam, Tanzania",
+  "results": [
+   {
+    "lat": -6.8160837,
+    "lon": 39.2803583,
+    "type": "city",
+    "category": "boundary",
+    "name": "Dar es Salaam",
+    "display": "Dar es Salaam, Coastal Zone, Tanzania",
+    "cc": "TZ",
+    "osm": "relation/7202037"
+   }
+  ]
+ },
+ "cesaria-evora": {
+  "query": "Mindelo, Cape Verde",
+  "results": [
+   {
+    "lat": 16.8873057,
+    "lon": -24.9864064,
+    "type": "city",
+    "category": "place",
+    "name": "Mindelo",
+    "display": "Mindelo, São Vicente, 2110, Cape Verde",
+    "cc": "CV",
+    "osm": "node/146154210"
+   }
+  ]
+ },
+ "oumou-sangare": {
+  "query": "Bamako, Mali",
+  "results": [
+   {
+    "lat": 12.649319,
+    "lon": -8.000337,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bamako",
+    "display": "Bamako, Mali",
+    "cc": "ML",
+    "osm": "relation/2105525"
+   }
+  ]
+ },
+ "black-coffee": {
+  "query": "New York, United States",
+  "results": [
+   {
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "city",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/175905"
+   },
+   {
+    "lat": 43.1561681,
+    "lon": -75.8449946,
+    "type": "state",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/61320"
+   }
+  ]
+ },
+ "jimin": {
+  "query": "Busan, South Korea",
+  "results": [
+   {
+    "lat": 35.1799528,
+    "lon": 129.0752365,
+    "type": "city",
+    "category": "boundary",
+    "name": "Busan",
+    "display": "Busan, South Korea",
+    "cc": "KR",
+    "osm": "relation/2396450"
+   }
+  ]
+ },
+ "suga": {
+  "query": "Daegu, South Korea",
+  "results": [
+   {
+    "lat": 35.8713,
+    "lon": 128.6018,
+    "type": "city",
+    "category": "boundary",
+    "name": "Daegu",
+    "display": "Daegu, South Korea",
+    "cc": "KR",
+    "osm": "relation/2395674"
+   }
+  ]
+ },
+ "jennie": {
+  "query": "Auckland, New Zealand",
+  "results": [
+   {
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "type": "city",
+    "category": "place",
+    "name": "Auckland",
+    "display": "Auckland, Waitematā, Auckland, 1010, New Zealand",
+    "cc": "NZ",
+    "osm": "node/292806332"
+   },
+   {
+    "lat": -36.5412811,
+    "lon": 174.5506105,
+    "type": "state",
+    "category": "boundary",
+    "name": "Auckland",
+    "display": "Auckland, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/2094141"
+   }
+  ]
+ },
+ "j-hope": {
+  "query": "Chicago, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "city",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "rosalia": {
+  "query": "Sant Cugat del Vallès, Spain",
+  "results": [
+   {
+    "lat": 41.4707933,
+    "lon": 2.0848815,
+    "type": "city",
+    "category": "boundary",
+    "name": "Sant Cugat del Vallès",
+    "display": "Sant Cugat del Vallès, Vallès Occidental, Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/347540"
+   }
+  ]
+ },
+ "j-balvin": {
+  "query": "Medellín, Colombia",
+  "results": [
+   {
+    "lat": 6.2697324,
+    "lon": -75.6025597,
+    "type": "city",
+    "category": "boundary",
+    "name": "Medellín",
+    "display": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, 0500, Colombia",
+    "cc": "CO",
+    "osm": "relation/1343264"
+   },
+   {
+    "lat": 6.2443382,
+    "lon": -75.573553,
+    "type": "city",
+    "category": "boundary",
+    "name": "Medellín",
+    "display": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, Colombia",
+    "cc": "CO",
+    "osm": "relation/3541280"
+   }
+  ]
+ },
+ "anitta": {
+  "query": "Rio de Janeiro, Brazil",
+  "results": [
+   {
+    "lat": -22.9110137,
+    "lon": -43.2093727,
+    "type": "city",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/2697338"
+   },
+   {
+    "lat": -22.2752762,
+    "lon": -42.419415,
+    "type": "state",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/57963"
+   }
+  ]
+ },
+ "juanes": {
+  "query": "Havana, Cuba",
+  "results": [
+   {
+    "lat": 23.135305,
+    "lon": -82.3589631,
+    "type": "city",
+    "category": "place",
+    "name": "Havana",
+    "display": "Havana, 10000, Cuba",
+    "cc": "CU",
+    "osm": "node/26396457"
+   },
+   {
+    "lat": 23.1597566,
+    "lon": -82.3384732,
+    "type": "city",
+    "category": "boundary",
+    "name": "Havana",
+    "display": "Havana, Cuba",
+    "cc": "CU",
+    "osm": "relation/1854615"
+   }
+  ]
+ },
+ "sean-paul": {
+  "query": "Kingston, Jamaica",
+  "results": [
+   {
+    "lat": 17.9712148,
+    "lon": -76.7928128,
+    "type": "city",
+    "category": "place",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "node/53371112"
+   },
+   {
+    "lat": 17.9692835,
+    "lon": -76.7652202,
+    "type": "county",
+    "category": "boundary",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "relation/6577227"
+   }
+  ]
+ },
+ "koffee": {
+  "query": "Spanish Town, Jamaica",
+  "results": [
+   {
+    "lat": 17.9956926,
+    "lon": -76.9540831,
+    "type": "city",
+    "category": "place",
+    "name": "Spanish Town",
+    "display": "Spanish Town, Saint Catherine, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/247716893"
+   }
+  ]
+ },
+ "bono": {
+  "query": "Dublin, Ireland",
+  "results": [
+   {
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "type": "city",
+    "category": "boundary",
+    "name": "Dublin",
+    "display": "Dublin, County Dublin, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/1109531"
+   }
+  ]
+ },
+ "mick-jagger": {
+  "query": "Dartford, United Kingdom",
+  "results": [
+   {
+    "lat": 51.4443059,
+    "lon": 0.21807,
+    "type": "town",
+    "category": "place",
+    "name": "Dartford",
+    "display": "Dartford, Kent, England, DA1 1BZ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/27485895"
+   },
+   {
+    "lat": 51.4344366,
+    "lon": 0.2450569,
+    "type": "city",
+    "category": "boundary",
+    "name": "Dartford",
+    "display": "Dartford, Kent, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/2210488"
+   }
+  ]
+ },
+ "dave-grohl": {
+  "query": "Washington, United States",
+  "results": [
+   {
+    "lat": 38.8950982,
+    "lon": -77.0363849,
+    "type": "city",
+    "category": "place",
+    "name": "Washington",
+    "display": "Washington, District of Columbia, United States",
+    "cc": "US",
+    "osm": "relation/5396194"
+   },
+   {
+    "lat": 47.2868352,
+    "lon": -120.212613,
+    "type": "state",
+    "category": "boundary",
+    "name": "Washington",
+    "display": "Washington, United States",
+    "cc": "US",
+    "osm": "relation/165479"
+   },
+   {
+    "lat": 30.2226352,
+    "lon": -96.3936114,
+    "type": "county",
+    "category": "boundary",
+    "name": "Washington County",
+    "display": "Washington County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837751"
+   }
+  ]
+ },
+ "dolly-parton": {
+  "query": "Nashville, United States",
+  "results": [
+   {
+    "lat": 36.1622767,
+    "lon": -86.7742984,
+    "type": "city",
+    "category": "boundary",
+    "name": "Nashville",
+    "display": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States",
+    "cc": "US",
+    "osm": "relation/197472"
+   },
+   {
+    "lat": 31.2074197,
+    "lon": -83.2501548,
+    "type": "village",
+    "category": "boundary",
+    "name": "Nashville",
+    "display": "Nashville, Berrien County, Georgia, 31639, United States",
+    "cc": "US",
+    "osm": "relation/119543"
+   },
+   {
+    "lat": 39.207242,
+    "lon": -86.2469472,
+    "type": "village",
+    "category": "boundary",
+    "name": "Nashville",
+    "display": "Nashville, Brown County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/127371"
+   }
+  ]
+ },
+ "keith-urban": {
+  "query": "Whangārei, New Zealand",
+  "results": [
+   {
+    "lat": -35.7275268,
+    "lon": 174.3194202,
+    "type": "city",
+    "category": "place",
+    "name": "Whangārei",
+    "display": "Whangārei, Whangārei District, Northland, 0101, New Zealand",
+    "cc": "NZ",
+    "osm": "node/71374851"
+   }
+  ]
+ },
+ "peggy-gou": {
+  "query": "Berlin, Germany",
+  "results": [
+   {
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "type": "city",
+    "category": "boundary",
+    "name": "Berlin",
+    "display": "Berlin, Germany",
+    "cc": "DE",
+    "osm": "relation/62422"
+   }
+  ]
+ },
+ "uncle-waffles": {
+  "query": "Soweto, South Africa",
+  "results": [
+   {
+    "lat": -26.2227778,
+    "lon": 27.89,
+    "type": "city",
+    "category": "place",
+    "name": "Soweto",
+    "display": "Soweto, City of Johannesburg Metropolitan Municipality, Gauteng, 1852, South Africa",
+    "cc": "ZA",
+    "osm": "node/27565050"
+   }
+  ]
+ },
+ "lata-mangeshkar": {
+  "query": "Indore, India",
+  "results": [
+   {
+    "lat": 22.7203616,
+    "lon": 75.8681996,
+    "type": "city",
+    "category": "place",
+    "name": "Indore",
+    "display": "Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India",
+    "cc": "IN",
+    "osm": "node/245709027"
+   },
+   {
+    "lat": 22.7108119,
+    "lon": 75.8076918,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Indore",
+    "display": "Indore, Madhya Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/1976160"
+   },
+   {
+    "lat": 22.6666672,
+    "lon": 75.749998,
+    "type": "county",
+    "category": "place",
+    "name": "Indore",
+    "display": "Indore, Madhya Pradesh, 451225, India",
+    "cc": "IN",
+    "osm": "node/316417076"
+   }
+  ]
+ },
+ "jisoo": {
+  "query": "Gunpo, Gyeonggi-do, South Korea",
+  "results": [
+   {
+    "lat": 37.3615229,
+    "lon": 126.9349025,
+    "type": "city",
+    "category": "boundary",
+    "name": "Gunpo-si",
+    "display": "Gunpo-si, Gyeonggi, South Korea",
+    "cc": "KR",
+    "osm": "relation/2409167"
+   }
+  ]
+ }
+}

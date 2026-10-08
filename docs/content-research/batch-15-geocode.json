@@ -1,0 +1,817 @@
+{
+ "nick-digiovanni": {
+  "query": "Providence, Rhode Island",
+  "results": [
+   {
+    "lat": 41.8239891,
+    "lon": -71.4128343,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Providence",
+    "display": "Providence, Providence County, Rhode Island, United States",
+    "cc": "US",
+    "osm": "relation/191210"
+   },
+   {
+    "lat": 41.8677428,
+    "lon": -71.5814834,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Providence County",
+    "display": "Providence County, Rhode Island, United States",
+    "cc": "US",
+    "osm": "relation/1840541"
+   }
+  ]
+ },
+ "mark-rober": {
+  "query": "Sunnyvale, California",
+  "results": [
+   {
+    "lat": 37.3688301,
+    "lon": -122.036349,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sunnyvale",
+    "display": "Sunnyvale, Santa Clara County, California, United States",
+    "cc": "US",
+    "osm": "relation/112145"
+   }
+  ]
+ },
+ "alan-chikin-chow": {
+  "query": "Dallas, Texas",
+  "results": [
+   {
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas",
+    "display": "Dallas, Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6571629"
+   },
+   {
+    "lat": 32.7620405,
+    "lon": -96.7790069,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas County",
+    "display": "Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837698"
+   }
+  ]
+ },
+ "charli-damelio": {
+  "query": "Norwalk, Connecticut",
+  "results": [
+   {
+    "lat": 41.1175966,
+    "lon": -73.4078968,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Norwalk",
+    "display": "Norwalk, Western Connecticut Planning Region, Connecticut, United States",
+    "cc": "US",
+    "osm": "relation/4139425"
+   }
+  ]
+ },
+ "alix-earle": {
+  "query": "Miami, Florida",
+  "results": [
+   {
+    "lat": 25.7741566,
+    "lon": -80.1935973,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Miami",
+    "display": "Miami, Miami-Dade County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/1216769"
+   }
+  ]
+ },
+ "mikayla-nogueira": {
+  "query": "Boston, United States",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   },
+   {
+    "lat": 33.4415086,
+    "lon": -94.4196452,
+    "type": "village",
+    "category": "place",
+    "name": "Boston",
+    "display": "Boston, New Boston, Bowie County, Texas, 75570, United States",
+    "cc": "US",
+    "osm": "node/151534347"
+   },
+   {
+    "lat": 42.6289858,
+    "lon": -78.7376213,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Boston",
+    "display": "Town of Boston, Erie County, New York, 14025, United States",
+    "cc": "US",
+    "osm": "relation/13642223"
+   }
+  ]
+ },
+ "dylan-mulvaney": {
+  "query": "San Diego, California",
+  "results": [
+   {
+    "lat": 32.7157062,
+    "lon": -117.1638284,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Diego",
+    "display": "San Diego, San Diego County, California, United States",
+    "cc": "US",
+    "osm": "relation/253832"
+   },
+   {
+    "lat": 32.9637838,
+    "lon": -116.7706277,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Diego County",
+    "display": "San Diego County, California, United States",
+    "cc": "US",
+    "osm": "relation/396482"
+   }
+  ]
+ },
+ "reece-feldman": {
+  "query": "Queens, New York",
+  "results": [
+   {
+    "lat": 40.7135078,
+    "lon": -73.8283132,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens",
+    "display": "Queens, Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691819"
+   },
+   {
+    "lat": 40.6515585,
+    "lon": -73.7926754,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens County",
+    "display": "Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369519"
+   }
+  ]
+ },
+ "devon-rodriguez": {
+  "query": "South Bronx, New York",
+  "results": [
+   {
+    "lat": 40.8297573,
+    "lon": -73.9074786,
+    "type": "quarter",
+    "category": "place",
+    "name": "South Bronx",
+    "display": "South Bronx, The Bronx, Bronx County, New York, 10456, United States",
+    "cc": "US",
+    "osm": "node/13075913036"
+   }
+  ]
+ },
+ "addison-rae": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "zach-king": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "bella-poarch": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "kai-cenat": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "ishowspeed": {
+  "query": "Cincinnati, Ohio",
+  "results": [
+   {
+    "lat": 39.1012809,
+    "lon": -84.5127405,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cincinnati",
+    "display": "Cincinnati, Hamilton County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/183453"
+   }
+  ]
+ },
+ "xqc": {
+  "query": "Laval, Quebec",
+  "results": [
+   {
+    "lat": 45.5571125,
+    "lon": -73.7211779,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Laval",
+    "display": "Laval, Laval (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1438336"
+   },
+   {
+    "lat": 45.605589,
+    "lon": -73.7345601,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Laval (administrative region)",
+    "display": "Laval (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/3532125"
+   }
+  ]
+ },
+ "ibai-llanos": {
+  "query": "Bilbao, Spain",
+  "results": [
+   {
+    "lat": 43.2630018,
+    "lon": -2.9350039,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bilbao",
+    "display": "Bilbao, Biscay, Autonomous Community of the Basque Country, Spain",
+    "cc": "ES",
+    "osm": "relation/339549"
+   }
+  ]
+ },
+ "joe-rogan": {
+  "query": "Newark, New Jersey",
+  "results": [
+   {
+    "lat": 40.735657,
+    "lon": -74.1723667,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Newark",
+    "display": "Newark, Essex County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170486"
+   }
+  ]
+ },
+ "ira-glass": {
+  "query": "Chicago, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "conan-obrien": {
+  "query": "Brookline, Massachusetts",
+  "results": [
+   {
+    "lat": 42.332918,
+    "lon": -71.1187829,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brookline",
+    "display": "Brookline, Norfolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2306361"
+   }
+  ]
+ },
+ "malcolm-gladwell": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "marc-maron": {
+  "query": "Albuquerque, New Mexico",
+  "results": [
+   {
+    "lat": 35.0841034,
+    "lon": -106.650985,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Albuquerque",
+    "display": "Albuquerque, Bernalillo County, New Mexico, United States",
+    "cc": "US",
+    "osm": "relation/171262"
+   }
+  ]
+ },
+ "alex-cooper": {
+  "query": "Newtown, Bucks County, Pennsylvania",
+  "results": [
+   {
+    "lat": 40.2294046,
+    "lon": -74.9365329,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Newtown",
+    "display": "Newtown, Bucks County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/3506336"
+   },
+   {
+    "lat": 40.2415289,
+    "lon": -74.940024,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Newtown Township",
+    "display": "Newtown Township, Bucks County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/3506335"
+   }
+  ]
+ },
+ "jay-shetty": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "steven-bartlett": {
+  "query": "Manchester, United Kingdom",
+  "results": [
+   {
+    "lat": 53.4424618,
+    "lon": -2.2324547,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manchester",
+    "display": "Manchester, Greater Manchester, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/146656"
+   },
+   {
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "type": "city",
+    "category": "place",
+    "name": "Manchester",
+    "display": "Manchester, Lancashire, Greater Manchester, England, M60 2WB, United Kingdom",
+    "cc": "GB",
+    "osm": "node/294001443"
+   }
+  ]
+ },
+ "dantdm": {
+  "query": "Wellingborough, United Kingdom",
+  "results": [
+   {
+    "lat": 52.30189,
+    "lon": -0.6937309,
+    "type": "town",
+    "category": "place",
+    "name": "Wellingborough",
+    "display": "Wellingborough, North Northamptonshire, England, NN8 1AF, United Kingdom",
+    "cc": "GB",
+    "osm": "node/26984900"
+   },
+   {
+    "lat": 52.2780278,
+    "lon": -0.7109064,
+    "type": "historic",
+    "category": "boundary",
+    "name": "Wellingborough",
+    "display": "Wellingborough, Great Doddington, North Northamptonshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/1637026"
+   },
+   {
+    "lat": 52.3037832,
+    "lon": -0.6762814,
+    "type": "station",
+    "category": "railway",
+    "name": "Wellingborough",
+    "display": "Wellingborough, Midland Road, Burrow's Bush, Wellingborough, Little Irchester, Wellingborough, North Northamptonshire, England, NN8 1NQ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/417225"
+   }
+  ]
+ },
+ "preston-arsement": {
+  "query": "Dallas, Texas",
+  "results": [
+   {
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas",
+    "display": "Dallas, Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6571629"
+   },
+   {
+    "lat": 32.7620405,
+    "lon": -96.7790069,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas County",
+    "display": "Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837698"
+   }
+  ]
+ },
+ "markiplier": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "ksi": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "kylie-jenner": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "michelle-phan": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "dhar-mann": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "gary-vaynerchuk": {
+  "query": "New York City",
+  "results": [
+   {
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/175905"
+   }
+  ]
+ },
+ "kim-kardashian": {
+  "query": "Calabasas, California",
+  "results": [
+   {
+    "lat": 34.1446643,
+    "lon": -118.644097,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Calabasas",
+    "display": "Calabasas, Los Angeles County, California, 91302, United States",
+    "cc": "US",
+    "osm": "relation/3353286"
+   }
+  ]
+ },
+ "nusret-gokce": {
+  "query": "Erzurum, Turkey",
+  "results": [
+   {
+    "lat": 39.90632,
+    "lon": 41.2727715,
+    "type": "city",
+    "category": "place",
+    "name": "Erzurum",
+    "display": "Erzurum, Yakutiye, Erzurum, Eastern Anatolia Region, 25050, Turkey",
+    "cc": "TR",
+    "osm": "node/26486754"
+   },
+   {
+    "lat": 39.7581897,
+    "lon": 41.4032241,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Erzurum",
+    "display": "Erzurum, Eastern Anatolia Region, Turkey",
+    "cc": "TR",
+    "osm": "relation/186432"
+   }
+  ]
+ },
+ "mr-macaroni": {
+  "query": "Ogudu, Lagos",
+  "results": [
+   {
+    "lat": 6.5774984,
+    "lon": 3.3862881,
+    "type": "suburb",
+    "category": "place",
+    "name": "Ogudu",
+    "display": "Ogudu, Ketu, Kosofe, Lagos State, 100212, Nigeria",
+    "cc": "NG",
+    "osm": "node/14161693335"
+   },
+   {
+    "lat": 6.5750008,
+    "lon": 3.3905268,
+    "type": "suburb",
+    "category": "place",
+    "name": "Ogudu",
+    "display": "Ogudu, Ketu, Kosofe, Lagos State, 100234, Nigeria",
+    "cc": "NG",
+    "osm": "node/501463418"
+   }
+  ]
+ },
+ "druski": {
+  "query": "Atlanta, Georgia",
+  "results": [
+   {
+    "lat": 33.7544657,
+    "lon": -84.3898151,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Atlanta",
+    "display": "Atlanta, Fulton County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/119557"
+   }
+  ]
+ },
+ "brittany-broski": {
+  "query": "Dallas, Texas",
+  "results": [
+   {
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas",
+    "display": "Dallas, Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6571629"
+   },
+   {
+    "lat": 32.7620405,
+    "lon": -96.7790069,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas County",
+    "display": "Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837698"
+   }
+  ]
+ }
+}

@@ -1,0 +1,247 @@
+[
+ {
+  "id": "mansa-musa",
+  "name": "Mansa Musa",
+  "britannica": "Musa I of Mali"
+ },
+ {
+  "id": "nzinga-mbande",
+  "name": "Nzinga Mbande",
+  "britannica": "Njinga queen of Ndongo and Matamba"
+ },
+ {
+  "id": "haile-selassie",
+  "name": "Haile Selassie I",
+  "britannica": "Haile Selassie I emperor of Ethiopia"
+ },
+ {
+  "id": "menelik-ii",
+  "name": "Menelik II",
+  "britannica": "Menelik II emperor of Ethiopia"
+ },
+ {
+  "id": "moshoeshoe-i",
+  "name": "Moshoeshoe I",
+  "britannica": "Moshoeshoe king of Basotho"
+ },
+ {
+  "id": "yaa-asantewaa",
+  "name": "Yaa Asantewaa",
+  "britannica": "Yaa Asantewaa"
+ },
+ {
+  "id": "osei-tutu",
+  "name": "Osei Tutu",
+  "britannica": "Osei Tutu Asante"
+ },
+ {
+  "id": "ranavalona-i",
+  "name": "Ranavalona I",
+  "britannica": "Ranavalona I queen of Madagascar"
+ },
+ {
+  "id": "cetshwayo",
+  "name": "Cetshwayo",
+  "britannica": "Cetshwayo Zulu king"
+ },
+ {
+  "id": "ewuare",
+  "name": "Ewuare",
+  "britannica": "Ewuare oba of Benin"
+ },
+ {
+  "id": "queen-victoria",
+  "name": "Queen Victoria",
+  "britannica": "Victoria queen of United Kingdom"
+ },
+ {
+  "id": "henry-viii",
+  "name": "Henry VIII",
+  "britannica": "Henry VIII king of England"
+ },
+ {
+  "id": "elizabeth-i",
+  "name": "Elizabeth I",
+  "britannica": "Elizabeth I queen of England"
+ },
+ {
+  "id": "louis-xiv",
+  "name": "Louis XIV",
+  "britannica": "Louis XIV king of France"
+ },
+ {
+  "id": "catherine-the-great",
+  "name": "Catherine the Great",
+  "britannica": "Catherine the Great empress of Russia"
+ },
+ {
+  "id": "peter-the-great",
+  "name": "Peter the Great",
+  "britannica": "Peter I emperor of Russia"
+ },
+ {
+  "id": "marie-antoinette",
+  "name": "Marie Antoinette",
+  "britannica": "Marie-Antoinette queen of France"
+ },
+ {
+  "id": "charlemagne",
+  "name": "Charlemagne",
+  "britannica": "Charlemagne Holy Roman emperor"
+ },
+ {
+  "id": "isabella-i-castile",
+  "name": "Isabella I of Castile",
+  "britannica": "Isabella I queen of Spain"
+ },
+ {
+  "id": "ludwig-ii-bavaria",
+  "name": "Ludwig II of Bavaria",
+  "britannica": "Louis II king of Bavaria"
+ },
+ {
+  "id": "akbar",
+  "name": "Akbar",
+  "britannica": "Akbar Mughal emperor"
+ },
+ {
+  "id": "suleiman-the-magnificent",
+  "name": "Suleiman the Magnificent",
+  "britannica": "Suleyman the Magnificent Ottoman sultan"
+ },
+ {
+  "id": "shah-jahan",
+  "name": "Shah Jahan",
+  "britannica": "Shah Jahan Mughal emperor"
+ },
+ {
+  "id": "kamehameha-i",
+  "name": "Kamehameha I",
+  "britannica": "Kamehameha I king of Hawaii"
+ },
+ {
+  "id": "liliuokalani",
+  "name": "Liliuokalani",
+  "britannica": "Liliuokalani queen of Hawaii"
+ },
+ {
+  "id": "sejong-the-great",
+  "name": "Sejong the Great",
+  "britannica": "Sejong king of Korea"
+ },
+ {
+  "id": "moctezuma-ii",
+  "name": "Moctezuma II",
+  "britannica": "Montezuma II Aztec emperor"
+ },
+ {
+  "id": "atahualpa",
+  "name": "Atahualpa",
+  "britannica": "Atahuallpa Inca emperor"
+ },
+ {
+  "id": "pachacuti",
+  "name": "Pachacuti",
+  "britannica": "Pachacuti Inca Yupanqui"
+ },
+ {
+  "id": "emperor-meiji",
+  "name": "Emperor Meiji",
+  "britannica": "Meiji emperor of Japan"
+ },
+ {
+  "id": "cleopatra",
+  "name": "Cleopatra",
+  "britannica": "Cleopatra queen of Egypt"
+ },
+ {
+  "id": "tutankhamun",
+  "name": "Tutankhamun",
+  "britannica": "Tutankhamun king of Egypt"
+ },
+ {
+  "id": "ramesses-ii",
+  "name": "Ramesses II",
+  "britannica": "Ramses II king of Egypt"
+ },
+ {
+  "id": "ezana-of-aksum",
+  "name": "Ezana of Aksum",
+  "britannica": "Ezana king of Aksum"
+ },
+ {
+  "id": "qin-shi-huang",
+  "name": "Qin Shi Huang",
+  "britannica": "Shihuangdi emperor of Qin dynasty"
+ },
+ {
+  "id": "cyrus-the-great",
+  "name": "Cyrus the Great",
+  "britannica": "Cyrus the Great king of Persia"
+ },
+ {
+  "id": "alexander-the-great",
+  "name": "Alexander the Great",
+  "britannica": "Alexander the Great king of Macedonia"
+ },
+ {
+  "id": "hammurabi",
+  "name": "Hammurabi",
+  "britannica": "Hammurabi king of Babylonia"
+ },
+ {
+  "id": "ashoka",
+  "name": "Ashoka",
+  "britannica": "Ashoka Mauryan emperor"
+ },
+ {
+  "id": "darius-i",
+  "name": "Darius I",
+  "britannica": "Darius I king of Persia"
+ },
+ {
+  "id": "charles-iii",
+  "name": "Charles III",
+  "britannica": "Charles III king of United Kingdom"
+ },
+ {
+  "id": "felipe-vi",
+  "name": "Felipe VI",
+  "britannica": "Felipe VI king of Spain"
+ },
+ {
+  "id": "mswati-iii",
+  "name": "Mswati III",
+  "britannica": "Mswati III king of Eswatini"
+ },
+ {
+  "id": "naruhito",
+  "name": "Naruhito",
+  "britannica": "Naruhito emperor of Japan"
+ },
+ {
+  "id": "maha-vajiralongkorn",
+  "name": "Maha Vajiralongkorn",
+  "britannica": "Vajiralongkorn king of Thailand"
+ },
+ {
+  "id": "mohammed-vi",
+  "name": "Mohammed VI",
+  "britannica": "Mohammed VI king of Morocco"
+ },
+ {
+  "id": "abdullah-ii",
+  "name": "Abdullah II",
+  "britannica": "Abdullah II king of Jordan"
+ },
+ {
+  "id": "margrethe-ii",
+  "name": "Margrethe II",
+  "britannica": "Margrethe II queen of Denmark"
+ },
+ {
+  "id": "willem-alexander",
+  "name": "Willem-Alexander",
+  "britannica": "Willem-Alexander king of the Netherlands"
+ }
+]

@@ -1,0 +1,437 @@
+[
+ {
+  "id": "jeff-bezos",
+  "name": "Jeff Bezos",
+  "britannica": "Jeff Bezos"
+ },
+ {
+  "id": "larry-page",
+  "name": "Larry Page",
+  "britannica": "Larry Page"
+ },
+ {
+  "id": "sergey-brin",
+  "name": "Sergey Brin",
+  "britannica": "Sergey Brin"
+ },
+ {
+  "id": "mark-zuckerberg",
+  "name": "Mark Zuckerberg",
+  "britannica": "Mark Zuckerberg"
+ },
+ {
+  "id": "akio-morita",
+  "name": "Akio Morita",
+  "britannica": "Morita Akio"
+ },
+ {
+  "id": "geoffrey-hinton",
+  "name": "Geoffrey Hinton",
+  "britannica": "Geoffrey Hinton"
+ },
+ {
+  "id": "yann-lecun",
+  "name": "Yann LeCun",
+  "britannica": "Yann LeCun"
+ },
+ {
+  "id": "yoshua-bengio",
+  "name": "Yoshua Bengio",
+  "britannica": "Yoshua Bengio"
+ },
+ {
+  "id": "john-mccarthy",
+  "name": "John McCarthy",
+  "britannica": "John McCarthy computer scientist"
+ },
+ {
+  "id": "marvin-minsky",
+  "name": "Marvin Minsky",
+  "britannica": "Marvin Minsky"
+ },
+ {
+  "id": "demis-hassabis",
+  "name": "Demis Hassabis",
+  "britannica": "Demis Hassabis"
+ },
+ {
+  "id": "fei-fei-li",
+  "name": "Fei-Fei Li",
+  "britannica": "Fei-Fei Li"
+ },
+ {
+  "id": "herbert-simon",
+  "name": "Herbert Simon",
+  "britannica": "Herbert A Simon"
+ },
+ {
+  "id": "andrew-ng",
+  "name": "Andrew Ng",
+  "britannica": "Andrew Ng"
+ },
+ {
+  "id": "linus-torvalds",
+  "name": "Linus Torvalds",
+  "britannica": "Linus Torvalds"
+ },
+ {
+  "id": "dennis-ritchie",
+  "name": "Dennis Ritchie",
+  "britannica": "Dennis M Ritchie"
+ },
+ {
+  "id": "ken-thompson",
+  "name": "Ken Thompson",
+  "britannica": "Kenneth Lane Thompson"
+ },
+ {
+  "id": "guido-van-rossum",
+  "name": "Guido van Rossum",
+  "britannica": "Guido van Rossum"
+ },
+ {
+  "id": "james-gosling",
+  "name": "James Gosling",
+  "britannica": "James Gosling"
+ },
+ {
+  "id": "bjarne-stroustrup",
+  "name": "Bjarne Stroustrup",
+  "britannica": "Bjarne Stroustrup"
+ },
+ {
+  "id": "margaret-hamilton",
+  "name": "Margaret Hamilton",
+  "britannica": "Margaret Hamilton computer scientist"
+ },
+ {
+  "id": "yukihiro-matsumoto",
+  "name": "Yukihiro Matsumoto",
+  "britannica": "Matsumoto Yukihiro Ruby"
+ },
+ {
+  "id": "vint-cerf",
+  "name": "Vint Cerf",
+  "britannica": "Vinton Cerf"
+ },
+ {
+  "id": "bob-kahn",
+  "name": "Robert Kahn",
+  "britannica": "Robert Kahn"
+ },
+ {
+  "id": "ray-tomlinson",
+  "name": "Ray Tomlinson",
+  "britannica": "Ray Tomlinson"
+ },
+ {
+  "id": "marc-andreessen",
+  "name": "Marc Andreessen",
+  "britannica": "Marc Andreessen"
+ },
+ {
+  "id": "jimmy-wales",
+  "name": "Jimmy Wales",
+  "britannica": "Jimmy Wales"
+ },
+ {
+  "id": "paul-baran",
+  "name": "Paul Baran",
+  "britannica": "Paul Baran"
+ },
+ {
+  "id": "leonard-kleinrock",
+  "name": "Leonard Kleinrock",
+  "britannica": "Leonard Kleinrock"
+ },
+ {
+  "id": "radia-perlman",
+  "name": "Radia Perlman",
+  "britannica": "Radia Perlman"
+ },
+ {
+  "id": "donald-davies",
+  "name": "Donald Davies",
+  "britannica": "Donald Watts Davies"
+ },
+ {
+  "id": "martin-cooper",
+  "name": "Martin Cooper",
+  "britannica": "Martin Cooper mobile phone"
+ },
+ {
+  "id": "shuji-nakamura",
+  "name": "Shuji Nakamura",
+  "britannica": "Nakamura Shuji"
+ },
+ {
+  "id": "charles-kao",
+  "name": "Charles Kao",
+  "britannica": "Charles Kao"
+ },
+ {
+  "id": "jack-kilby",
+  "name": "Jack Kilby",
+  "britannica": "Jack Kilby"
+ },
+ {
+  "id": "hedy-lamarr",
+  "name": "Hedy Lamarr",
+  "britannica": "Hedy Lamarr"
+ },
+ {
+  "id": "philo-farnsworth",
+  "name": "Philo Farnsworth",
+  "britannica": "Philo Farnsworth"
+ },
+ {
+  "id": "john-logie-baird",
+  "name": "John Logie Baird",
+  "britannica": "John Logie Baird"
+ },
+ {
+  "id": "james-dyson",
+  "name": "James Dyson",
+  "britannica": "James Dyson"
+ },
+ {
+  "id": "willard-boyle",
+  "name": "Willard Boyle",
+  "britannica": "Willard S Boyle"
+ },
+ {
+  "id": "robert-noyce",
+  "name": "Robert Noyce",
+  "britannica": "Robert Noyce"
+ },
+ {
+  "id": "shigeru-miyamoto",
+  "name": "Shigeru Miyamoto",
+  "britannica": "Miyamoto Shigeru"
+ },
+ {
+  "id": "hideo-kojima",
+  "name": "Hideo Kojima",
+  "britannica": "Kojima Hideo"
+ },
+ {
+  "id": "satoru-iwata",
+  "name": "Satoru Iwata",
+  "britannica": "Iwata Satoru"
+ },
+ {
+  "id": "hironobu-sakaguchi",
+  "name": "Hironobu Sakaguchi",
+  "britannica": "Sakaguchi Hironobu"
+ },
+ {
+  "id": "will-wright",
+  "name": "Will Wright",
+  "britannica": "Will Wright game designer"
+ },
+ {
+  "id": "sid-meier",
+  "name": "Sid Meier",
+  "britannica": "Sid Meier"
+ },
+ {
+  "id": "markus-persson",
+  "name": "Markus Persson",
+  "britannica": "Markus Persson"
+ },
+ {
+  "id": "toru-iwatani",
+  "name": "Toru Iwatani",
+  "britannica": "Iwatani Toru Pac-Man"
+ },
+ {
+  "id": "alexey-pajitnov",
+  "name": "Alexey Pajitnov",
+  "britannica": "Alexey Pajitnov"
+ },
+ {
+  "id": "ralph-baer",
+  "name": "Ralph Baer",
+  "britannica": "Ralph Baer"
+ },
+ {
+  "id": "joseph-engelberger",
+  "name": "Joseph Engelberger",
+  "britannica": "Joseph Engelberger"
+ },
+ {
+  "id": "george-devol",
+  "name": "George Devol",
+  "britannica": "George Devol"
+ },
+ {
+  "id": "rodney-brooks",
+  "name": "Rodney Brooks",
+  "britannica": "Rodney Brooks"
+ },
+ {
+  "id": "masahiro-mori",
+  "name": "Masahiro Mori",
+  "britannica": "Mori Masahiro uncanny valley"
+ },
+ {
+  "id": "hiroshi-ishiguro",
+  "name": "Hiroshi Ishiguro",
+  "britannica": "Ishiguro Hiroshi android"
+ },
+ {
+  "id": "cynthia-breazeal",
+  "name": "Cynthia Breazeal",
+  "britannica": "Cynthia Breazeal"
+ },
+ {
+  "id": "isaac-asimov",
+  "name": "Isaac Asimov",
+  "britannica": "Isaac Asimov"
+ },
+ {
+  "id": "karel-capek",
+  "name": "Karel Čapek",
+  "britannica": "Karel Capek"
+ },
+ {
+  "id": "grey-walter",
+  "name": "W. Grey Walter",
+  "britannica": "W Grey Walter"
+ },
+ {
+  "id": "marc-raibert",
+  "name": "Marc Raibert",
+  "britannica": "Marc Raibert"
+ },
+ {
+  "id": "wernher-von-braun",
+  "name": "Wernher von Braun",
+  "britannica": "Wernher von Braun"
+ },
+ {
+  "id": "sergei-korolev",
+  "name": "Sergei Korolev",
+  "britannica": "Sergey Korolyov"
+ },
+ {
+  "id": "robert-goddard",
+  "name": "Robert Goddard",
+  "britannica": "Robert Goddard"
+ },
+ {
+  "id": "hermann-oberth",
+  "name": "Hermann Oberth",
+  "britannica": "Hermann Oberth"
+ },
+ {
+  "id": "katherine-johnson",
+  "name": "Katherine Johnson",
+  "britannica": "Katherine Johnson mathematician"
+ },
+ {
+  "id": "vikram-sarabhai",
+  "name": "Vikram Sarabhai",
+  "britannica": "Vikram Sarabhai"
+ },
+ {
+  "id": "yuri-gagarin",
+  "name": "Yuri Gagarin",
+  "britannica": "Yuri Gagarin"
+ },
+ {
+  "id": "neil-armstrong",
+  "name": "Neil Armstrong",
+  "britannica": "Neil Armstrong"
+ },
+ {
+  "id": "brian-chesky",
+  "name": "Brian Chesky",
+  "britannica": "Brian Chesky"
+ },
+ {
+  "id": "daniel-ek",
+  "name": "Daniel Ek",
+  "britannica": "Daniel Ek"
+ },
+ {
+  "id": "jack-dorsey",
+  "name": "Jack Dorsey",
+  "britannica": "Jack Dorsey"
+ },
+ {
+  "id": "whitney-wolfe-herd",
+  "name": "Whitney Wolfe Herd",
+  "britannica": "Whitney Wolfe Herd"
+ },
+ {
+  "id": "patrick-collison",
+  "name": "Patrick Collison",
+  "britannica": "Patrick Collison"
+ },
+ {
+  "id": "kevin-systrom",
+  "name": "Kevin Systrom",
+  "britannica": "Kevin Systrom"
+ },
+ {
+  "id": "reed-hastings",
+  "name": "Reed Hastings",
+  "britannica": "Reed Hastings"
+ },
+ {
+  "id": "jan-koum",
+  "name": "Jan Koum",
+  "britannica": "Jan Koum"
+ },
+ {
+  "id": "nadiem-makarim",
+  "name": "Nadiem Makarim",
+  "britannica": "Nadiem Makarim"
+ },
+ {
+  "id": "charles-babbage",
+  "name": "Charles Babbage",
+  "britannica": "Charles Babbage"
+ },
+ {
+  "id": "ada-lovelace",
+  "name": "Ada Lovelace",
+  "britannica": "Ada Lovelace"
+ },
+ {
+  "id": "grace-hopper",
+  "name": "Grace Hopper",
+  "britannica": "Grace Hopper"
+ },
+ {
+  "id": "john-von-neumann",
+  "name": "John von Neumann",
+  "britannica": "John von Neumann"
+ },
+ {
+  "id": "konrad-zuse",
+  "name": "Konrad Zuse",
+  "britannica": "Konrad Zuse"
+ },
+ {
+  "id": "herman-hollerith",
+  "name": "Herman Hollerith",
+  "britannica": "Herman Hollerith"
+ },
+ {
+  "id": "claude-shannon",
+  "name": "Claude Shannon",
+  "britannica": "Claude Shannon"
+ },
+ {
+  "id": "edsger-dijkstra",
+  "name": "Edsger Dijkstra",
+  "britannica": "Edsger Dijkstra"
+ },
+ {
+  "id": "gordon-moore",
+  "name": "Gordon Moore",
+  "britannica": "Gordon Moore"
+ }
+]

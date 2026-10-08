@@ -1,0 +1,17 @@
+Country flags downloaded from https://flagcdn.com/ (Flagpedia.net), based on Wikimedia Commons vector files.
+Saved locally on 29 September 2026 for the countries used in the StarTap starter editions.
+
+Added mc, ro, cm, lc, ie on 30 September 2026 from https://flagcdn.com/ for V2 Batch 1 answer countries.
+Added pl, iq, lb, ke, pk, it (Batch 2) and tw, ir, jo, tt (Batch 3) from https://flagcdn.com/ on 1 October 2026.
+Added hr, mz, lr, uy, ge, tr, no, nl, gh, hu (500-star expansion Batch 1 / batch-4) from https://flagcdn.com/ on 3 October 2026.
+Added ci, ao, ec, rs, gr, si (500-star expansion Batch 2 / batch-5) from https://flagcdn.com/ on 3 October 2026.
+Added do, ve, pa (500-star expansion Batch 3 / batch-6) from https://flagcdn.com/ on 3 October 2026.
+Added cu (500-star expansion Batch 4 / batch-7) from https://flagcdn.com/ on 3 October 2026.
+Added cv, ml (500-star expansion Batch 5 / batch-8) from https://flagcdn.com/ on 3 October 2026.
+Added kg, by, ae (500-star expansion / batch-10) from https://flagcdn.com/ on 4 October 2026.
+Added et, ls, bw, pe, sz, ma (Royalty & Dynasties / batch-11) from https://flagcdn.com/ on 7 October 2026.
+Added mk, ga, ph, bd (World Icons / batch-12) from https://flagcdn.com/ on 7 October 2026.
+Added il, fi, cz, ua (Tech & Innovation / batch-13) from https://flagcdn.com/ on 7 October 2026.
+Added ye (Business & Money / batch-14) from https://flagcdn.com/ on 7 October 2026.
+Added dz (Fashion & Beauty / batch-16) from https://flagcdn.com/ on 7 October 2026.
+Added bf, mr, cl (Screen / batch-17) from https://flagcdn.com/ on 7 October 2026.

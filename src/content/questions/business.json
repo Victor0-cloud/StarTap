@@ -1,0 +1,2844 @@
+[
+ {
+  "id": "aliko-dangote-birthplace",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Where the story began",
+  "question": "In which northern Nigerian city was businessman Aliko Dangote born?",
+  "clue": "Look in northern Nigeria.",
+  "hint": "It is the capital of the state that shares its name.",
+  "answer": {
+   "city": "Kano",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 11.994,
+   "longitude": 8.522,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/501540880"
+  },
+  "story": "Aliko Dangote was born in Kano, Nigeria, in 1957. He founded the Dangote Group conglomerate, which operates in Nigeria and several other African countries, and built a massive oil refinery in Lagos State.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Aliko-Dangote",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Aliko Dangote (born April 10, 1957, Kano, Nigeria) is a Nigerian businessman and philanthropist who is the founder and CEO of the Dangote Group conglomerate, which operates in Nigeria and several other African countries. … the construction of a massive oil refinery in Lagos state."
+   }
+  ],
+  "entityId": "aliko-dangote",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "jack-ma-birthplace",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Where the story began",
+  "question": "In which Chinese city was Alibaba founder Jack Ma born, and where he guided foreign tourists as a teenager?",
+  "clue": "Look in eastern China, southwest of Shanghai.",
+  "hint": "It is the capital of Zhejiang province.",
+  "answer": {
+   "city": "Hangzhou",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 30.249,
+   "longitude": 120.2052,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3221112"
+  },
+  "story": "Jack Ma was born in Hangzhou in 1964. As a teenager he worked as a guide for foreign tourists there, and he later taught English at the Hangzhou Institute of Electronics and Engineering before founding his first company in 1994.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Jack-Ma",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Jack Ma (born September 10, 1964, Hangzhou, Zhejiang province, China) … head of the Alibaba Group … during his teens he worked as a guide for foreign tourists to Hangzhou. … From 1988 to 1993 he taught English at the Hangzhou Institute of Electronics and Engineering … In 1994 he founded his first company"
+   }
+  ],
+  "entityId": "jack-ma",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3.",
+    "Batch 13: also in tech/tech-founders — founder of Alibaba"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "tech",
+    "subcategory": "tech-founders"
+   }
+  ]
+ },
+ {
+  "id": "oprah-winfrey-chicago",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Business",
+  "chapter": "The turning point",
+  "question": "To which US city did Oprah Winfrey move in 1984 to host a struggling morning talk show?",
+  "clue": "Look in the US Midwest, on Lake Michigan.",
+  "hint": "It is Illinois's largest city.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.8756,
+   "longitude": -87.6244,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/122604"
+  },
+  "story": "Oprah Winfrey was born in Kosciusko, Mississippi. In 1984 she moved to Chicago to host the faltering talk show AM Chicago, and in 1986 she formed her own production company, Harpo Productions.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Oprah-Winfrey",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: January 29, 1954, Kosciusko, Mississippi, U.S. … in 1984 she moved to Chicago to host the faltering talk show AM Chicago. Winfrey formed her own television production company, Harpo Productions, Inc., in 1986"
+   }
+  ],
+  "entityId": "oprah-winfrey",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3.",
+    "Batch 12: also in icons/business-icons — built a media business empire"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "business-icons"
+   }
+  ]
+ },
+ {
+  "id": "mo-ibrahim-university",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Before the breakthrough",
+  "question": "In which Egyptian city did telecoms entrepreneur Mo Ibrahim earn his engineering degree?",
+  "clue": "Look on Egypt's Mediterranean coast.",
+  "hint": "It is Egypt's second-largest city, west of the Nile Delta.",
+  "answer": {
+   "city": "Alexandria",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 31.1992,
+   "longitude": 29.8952,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565020"
+  },
+  "story": "Mo Ibrahim grew up in Sudan and moved with his family to Egypt, where he earned an engineering degree from Alexandria University. In 1998 he founded MSI Cellular Investments, later Celtel International, to build a pan-African mobile network.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mo-Ibrahim",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ibrahim grew up in Sudan, the son of a clerk. He moved with his family to Egypt, where he received an engineering degree from Alexandria University. … creating, in 1998, MSI Cellular Investments, which was later renamed Celtel International."
+   }
+  ],
+  "entityId": "mo-ibrahim",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3.",
+    "Britannica gives no birth city (\"born 1946, Sudan\"), so the question uses his university city."
+   ]
+  }
+ },
+ {
+  "id": "carlos-slim-birthplace",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Business",
+  "chapter": "Where the story began",
+  "question": "In which city was Mexican entrepreneur Carlos Slim born?",
+  "clue": "Look in central Mexico.",
+  "hint": "It is Mexico's capital.",
+  "answer": {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "countryCode": "MX",
+   "latitude": 19.4326,
+   "longitude": -99.1332,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/17483459"
+  },
+  "story": "Carlos Slim was born in Mexico City in 1940 into a family of Lebanese Christian immigrants. Ownership of Telmex, the former national telephone monopoly, anchored his rise to become one of the world's wealthiest people.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Carlos-Slim-Helu",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Carlos Slim Helú (born January 28, 1940, Mexico City, Mexico) is a Mexican entrepreneur who became one of the wealthiest people in the world. Slim was born into a family of Lebanese Christian immigrants to Mexico … the anchor of his success was his ownership of the former national telephone monopoly, Teléfonos de México (Telmex)"
+   }
+  ],
+  "entityId": "carlos-slim",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "melanie-perkins-canva",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Before the breakthrough",
+  "question": "In which city did Melanie Perkins begin the journey that became Canva, while studying at the University of Western Australia?",
+  "clue": "Look on Australia's west coast.",
+  "hint": "It is the capital of Western Australia.",
+  "answer": {
+   "city": "Perth",
+   "country": "Australia",
+   "countryCode": "AU",
+   "latitude": -31.9559,
+   "longitude": 115.8606,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/29277817"
+  },
+  "story": "Melanie Perkins started her first business at fourteen, selling handmade scarves at shops and markets throughout Perth. The Canva journey began in 2007 while she was studying at the University of Western Australia, and Canva launched in 2012.",
+  "sources": [
+   {
+    "url": "https://www.businesshalloffame.org/melanie-perkins",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "She started her first business at the age of fourteen by selling handmade scarves at shops and markets throughout Perth. The Canva journey began in 2007, when Melanie was studying at the University of Western Australia. … 2012 Launches Canva"
+   }
+  ],
+  "entityId": "melanie-perkins",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3.",
+    "Batch 13: also in tech/startup-founders — co-founded the start-up Canva"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "tech",
+    "subcategory": "startup-founders"
+   }
+  ]
+ },
+ {
+  "id": "richard-branson-shamley-green",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "A Surrey village",
+  "question": "Virgin Group founder Richard Branson was born in 1950 in which Surrey village?",
+  "clue": "In the Surrey Hills, south-east of Guildford.",
+  "hint": "Its name pairs 'Shamley' with a village green.",
+  "answer": {
+   "city": "Shamley Green",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.1861,
+   "longitude": -0.5273,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/248830697"
+  },
+  "story": "Richard Branson was born in Shamley Green, Surrey, in 1950. A school dropout, he started with the magazine Student as a teenager, then Virgin Mail Order Records, and in 1971 opened the first British discount record store.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Richard-Branson",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Richard Branson (born July 18, 1950, Shamley Green, Surrey, England) is a British entrepreneur and adventurer, head of Virgin Group Ltd"
+   },
+   {
+    "url": "https://www.britannica.com/money/Richard-Branson",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Branson, who was a school dropout, entered into his first successful business venture as a teenager with the magazine Student."
+   },
+   {
+    "url": "https://www.britannica.com/money/Richard-Branson",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "in 1971 he opened the first British discount record store."
+   }
+  ],
+  "entityId": "richard-branson",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "sara-blakely-clearwater",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Spanx",
+  "question": "Spanx creator Sara Blakely, once the world's youngest self-made female billionaire, was born in 1971 in which Florida city?",
+  "clue": "On Florida's Gulf coast, west of Tampa.",
+  "hint": "Its name describes its beach water.",
+  "answer": {
+   "city": "Clearwater",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 27.9659,
+   "longitude": -82.8001,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/118909"
+  },
+  "story": "Sara Blakely was born in Clearwater, Florida, in 1971. She created Spanx and, without advertising or outside investment, rapidly built an empire; in 2012 she became the world's youngest female self-made billionaire.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Sara-Blakely",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Sara Blakely (born February 21, 1971, Clearwater, Florida, U.S.) is an American inventor and entrepreneur who created Spanx"
+   },
+   {
+    "url": "https://www.britannica.com/money/Sara-Blakely",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "the charismatic Blakely rapidly built an empire without advertising or outside investment."
+   }
+  ],
+  "entityId": "sara-blakely",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "li-ka-shing-chaozhou",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Before Hong Kong",
+  "question": "Li Ka-shing, one of Asia's most influential businessmen, was born in 1928 in which city in Guangdong?",
+  "clue": "Eastern Guangdong, on the Han River near Shantou.",
+  "hint": "Its people and cuisine are known as Teochew.",
+  "answer": {
+   "city": "Chaozhou",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 23.6566,
+   "longitude": 116.6204,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3244431"
+  },
+  "story": "Li Ka-shing was born in Chaozhou, Guangdong, in 1928. In 1979 he became the first Chinese businessman to buy one of Hong Kong's large British-owned trading companies, taking control of Hutchison Whampoa.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Li-Ka-shing",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Li Ka-shing (born June 13, 1928, Chaozhou, Guangdong province, China) is a Chinese entrepreneur and philanthropist, widely considered one of the most influential businessmen in Asia"
+   },
+   {
+    "url": "https://www.britannica.com/money/Li-Ka-shing",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1979 Li became the first Chinese businessman to buy one of the large British-owned local trading companies when he purchased a controlling interest in Hutchison Whampoa."
+   }
+  ],
+  "entityId": "li-ka-shing",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "mukesh-ambani-aden",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Born abroad",
+  "question": "Reliance Industries chairman Mukesh Ambani was born in 1957 in which port city — where his father then worked?",
+  "clue": "On the Gulf of Aden, at the southern tip of the Arabian Peninsula.",
+  "hint": "The city gives its name to the gulf.",
+  "answer": {
+   "city": "Aden",
+   "country": "Yemen",
+   "countryCode": "YE",
+   "latitude": 12.7896,
+   "longitude": 45.0285,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9134191"
+  },
+  "story": "Mukesh Ambani was born in Aden, Yemen, in 1957, where his father, Dhirubhai, had worked as a gas-station attendant. In 1958 the family moved to Bombay (Mumbai); he now chairs Reliance Industries.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Mukesh-Ambani",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mukesh Ambani (born April 19, 1957, Aden, Yemen) is an Indian business mogul who serves as chairman and managing director of the Indian conglomerate Reliance Industries Limited (RIL)"
+   },
+   {
+    "url": "https://www.britannica.com/money/Mukesh-Ambani",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Ambani is one of four children of renowned Indian industrialist Dhirubhai Ambani, who first worked as a gas station attendant in Aden, Yemen."
+   },
+   {
+    "url": "https://www.britannica.com/money/Mukesh-Ambani",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "the family relocated in 1958 to the Bhuleshwar neighborhood of Bombay (now Mumbai)"
+   }
+  ],
+  "entityId": "mukesh-ambani",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "amancio-ortega-a-coruna",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "The first Zara",
+  "question": "Amancio Ortega opened the very first Zara store in 1975 in which Spanish port city?",
+  "clue": "Galicia, on Spain's north-west Atlantic coast.",
+  "hint": "Its Roman lighthouse, the Tower of Hercules, is still in use.",
+  "answer": {
+   "city": "A Coruña",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 43.3455,
+   "longitude": -8.4139,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/346810"
+  },
+  "story": "Amancio Ortega founded the first Zara ready-to-wear store in A Coruña in 1975. It became an internationally famous chain and the flagship of Inditex, which he founded ten years later.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Amancio-Ortega",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ortega founded the first Zara ready-to-wear clothing store in A Coruña in 1975, and it became not only an internationally famous chain but also the flagship of holding company Inditex, which he founded 10 years later."
+   }
+  ],
+  "entityId": "amancio-ortega",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "ray-kroc-des-plaines",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "The first franchise",
+  "question": "Ray Kroc opened the first of his McDonald's restaurants on 15 April 1955 in which Illinois town?",
+  "clue": "North-west of Chicago, near O'Hare Airport.",
+  "hint": "Its name is French for 'of the plains'.",
+  "answer": {
+   "city": "Des Plaines",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.0416,
+   "longitude": -87.8874,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/126562"
+  },
+  "story": "Ray Kroc, born in Chicago in 1902, was a pioneer of the fast-food industry. The first of his McDonald's restaurants opened on 15 April 1955 in Des Plaines, Illinois.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Ray-Kroc",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The first of Kroc’s McDonald’s restaurants was opened April 15, 1955, in Des Plaines, Illinois."
+   },
+   {
+    "url": "https://www.britannica.com/money/Ray-Kroc",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Ray Kroc (born October 5, 1902, Chicago, Illinois, U.S.—died January 14, 1984, San Diego, California) was an American restaurateur and a pioneer of the fast-food industry"
+   }
+  ],
+  "entityId": "ray-kroc",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "howard-schultz-milan",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "The coffee idea",
+  "question": "A 1983 trip to which Italian city — with 1,500 coffeehouses — inspired Howard Schultz to turn Starbucks into a national chain?",
+  "clue": "Lombardy, northern Italy.",
+  "hint": "Italy's fashion and finance capital.",
+  "answer": {
+   "city": "Milan",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 45.4642,
+   "longitude": 9.1896,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44915"
+  },
+  "story": "Howard Schultz, born in Brooklyn in 1953, was inspired by a 1983 trip to Italy, where Milan alone had 1,500 coffeehouses. He founded Il Giornale in 1985, bought Starbucks in 1987, and helped make it a worldwide presence.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Howard-Schultz",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Inspired by a 1983 trip to Italy, where he discovered that Milan alone boasted 1,500 coffeehouses, Schultz envisioned turning a tiny regional operation into a national coffeehouse chain via rapid store expansion."
+   },
+   {
+    "url": "https://www.britannica.com/money/Howard-Schultz",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1985 he founded Il Giornale, a coffee concern that in 1987 (with investor backing) purchased Starbucks."
+   }
+  ],
+  "entityId": "howard-schultz",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "arianna-huffington-athens",
+  "primaryCategory": "business",
+  "subcategory": "entrepreneurs",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "From Athens",
+  "question": "Arianna Huffington, creator of The Huffington Post, was born in 1950 in which European capital?",
+  "clue": "On the Saronic Gulf, beneath the Acropolis.",
+  "hint": "It's Greece's capital.",
+  "answer": {
+   "city": "Athens",
+   "country": "Greece",
+   "countryCode": "GR",
+   "latitude": 37.9756,
+   "longitude": 23.7348,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/441183"
+  },
+  "story": "Arianna Huffington was born in Athens in 1950. At Cambridge she became the first foreign-born president of the Cambridge Union debating society; she went on to create The Huffington Post.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Arianna-Huffington",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Arianna Huffington (born July 15, 1950, Athens, Greece) is a Greek American author and commentator, best known for creating The Huffington Post"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Arianna-Huffington",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "While at Cambridge she served as president of the esteemed debate society the Cambridge Union; she was the first foreign-born student to do so."
+   }
+  ],
+  "entityId": "arianna-huffington",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "phil-knight-portland",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Nike's founder",
+  "question": "Nike co-founder Phil Knight was raised in the Eastmoreland neighbourhood of which city?",
+  "clue": "North-western Oregon, on the Willamette River.",
+  "hint": "Oregon's largest city.",
+  "answer": {
+   "city": "Portland",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 45.4736,
+   "longitude": -122.6309,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7714441"
+  },
+  "story": "Phil Knight was raised in the Eastmoreland neighbourhood of Portland, Oregon, where he attended Cleveland High School. He co-founded Nike.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Phil-Knight",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Phil Knight was raised in the Eastmoreland neighborhood of Portland, where he went to Cleveland High School."
+   }
+  ],
+  "entityId": "phil-knight",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "dhirubhai-ambani-chorwad",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "A village schoolteacher's son",
+  "question": "Dhirubhai Ambani, founder of Reliance Industries, was born in 1932 in which Gujarat coastal village?",
+  "clue": "Saurashtra coast, Gujarat, near Junagadh.",
+  "hint": "Its beach was a summer retreat for the Nawabs of Junagadh.",
+  "answer": {
+   "city": "Chorwad",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 21.0298,
+   "longitude": 70.2364,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/7595998556"
+  },
+  "story": "Dhirubhai Ambani was born in Chorwad, Gujarat, in 1932, the son of a village schoolteacher. He settled in Bombay in 1958 and founded Reliance Industries, a giant conglomerate.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Dhirubhai-Ambani",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Dhirubhai Ambani (born December 28, 1932, Chorwad, Gujarat, India—died July 6, 2002, Mumbai, India) was an Indian industrialist who was the founder of Reliance Industries"
+   },
+   {
+    "url": "https://www.britannica.com/money/Dhirubhai-Ambani",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Ambani was the third of five children born to a village schoolteacher and his wife"
+   },
+   {
+    "url": "https://www.britannica.com/money/Dhirubhai-Ambani",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1958 Ambani returned to India and settled in Bombay (now Mumbai)."
+   }
+  ],
+  "entityId": "dhirubhai-ambani",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "milton-hershey-hershey",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "company_origin",
+  "difficulty": "easy",
+  "displayCategory": "Business",
+  "chapter": "Chocolate town",
+  "question": "Milton Hershey, founder of the Hershey Chocolate Corporation, died in 1945 in which Pennsylvania town that bears his name?",
+  "clue": "South-central Pennsylvania, east of Harrisburg.",
+  "hint": "It's nicknamed 'the sweetest place on Earth'.",
+  "answer": {
+   "city": "Hershey",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.285,
+   "longitude": -76.6535,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/188234"
+  },
+  "story": "Milton Hershey founded the Hershey Chocolate Corporation and helped popularize chocolate candy. With his wife Catherine he founded a school for orphaned boys in 1909; he died in Hershey, Pennsylvania, in 1945.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Milton-Snavely-Hershey",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Milton Snavely Hershey (born Sept. 13, 1857, near Hockersville, Pa., U.S.—died Oct. 13, 1945, Hershey, Pa.) was an American manufacturer and philanthropist who founded the Hershey Chocolate Corporation"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Milton-Snavely-Hershey",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "a private residential school he and his wife, Catherine, had founded in 1909 for orphaned boys."
+   }
+  ],
+  "entityId": "milton-hershey",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "levi-strauss-san-francisco",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "company_origin",
+  "difficulty": "easy",
+  "displayCategory": "Business",
+  "chapter": "Gold Rush denim",
+  "question": "Levi Strauss, founder of the world's biggest maker of blue jeans, arrived during the Gold Rush in 1853 in which city?",
+  "clue": "Northern California, at the mouth of a great bay.",
+  "hint": "The Golden Gate Bridge spans its strait.",
+  "answer": {
+   "city": "San Francisco",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.7879,
+   "longitude": -122.4075,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/111968"
+  },
+  "story": "Levi Strauss was a Bavarian immigrant who arrived in San Francisco during the Gold Rush in 1853. He founded Levi Strauss & Co., which became the world's largest maker of blue denim jeans.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Levi-Strauss",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Levi Strauss was a Bavarian immigrant who arrived in San Francisco during the Gold Rush in 1853."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Levi-Strauss",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He founded Levi Strauss & Co., which became the world's largest maker of blue denim jeans, known as Levi's."
+   }
+  ],
+  "entityId": "levi-strauss",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "wk-kellogg-battle-creek",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Cereal city",
+  "question": "Cereal maker W. K. Kellogg was born and died in which Michigan city, home of its famous sanitarium?",
+  "clue": "South-central Michigan, west of Jackson.",
+  "hint": "It's nicknamed 'Cereal City'.",
+  "answer": {
+   "city": "Battle Creek",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3193,
+   "longitude": -85.1824,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/134475"
+  },
+  "story": "W. K. Kellogg was born in Battle Creek, Michigan, in 1860 and died there in 1951. He founded his cereal company in 1906 after working with his brother John Harvey Kellogg at the Battle Creek Sanitarium.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/W-K-Kellogg",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "W. K. Kellogg (born April 7, 1860, Battle Creek, Mich., U.S.—died Oct. 6, 1951, Battle Creek) was an American industrialist and philanthropist who founded (1906) the W"
+   },
+   {
+    "url": "https://www.britannica.com/money/W-K-Kellogg",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kellogg established the firm after working with his brother John Harvey Kellogg, a physician who directed the Battle Creek Sanitarium"
+   }
+  ],
+  "entityId": "wk-kellogg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "enzo-ferrari-modena",
+  "primaryCategory": "business",
+  "subcategory": "founders",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Born to race",
+  "question": "Enzo Ferrari, founder of the Ferrari car company, was born and died in which Italian city?",
+  "clue": "Emilia-Romagna, between Bologna and Parma.",
+  "hint": "It's also famous for balsamic vinegar.",
+  "answer": {
+   "city": "Modena",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 44.5385,
+   "longitude": 10.936,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/42884"
+  },
+  "story": "Enzo Ferrari was born in Modena in 1898 and died there in 1988. An automobile manufacturer, designer and racing driver, his Ferrari cars often dominated world racing.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Enzo-Ferrari",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Enzo Ferrari (born February 18, 1898, Modena, Italy—died August 14, 1988, Modena) was an Italian automobile manufacturer, designer, and racing-car driver whose Ferrari cars often dominated world racing competition"
+   }
+  ],
+  "entityId": "enzo-ferrari",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "patrice-motsepe-soweto",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "South Africa's first",
+  "question": "Patrice Motsepe, South Africa's first Black billionaire, was born in 1962 in which township?",
+  "clue": "South-west of central Johannesburg, Gauteng.",
+  "hint": "Its name comes from 'South Western Townships'.",
+  "answer": {
+   "city": "Soweto",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -26.2228,
+   "longitude": 27.89,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565050"
+  },
+  "story": "Patrice Motsepe was born in Soweto in 1962. In 1994 he founded a mine-services company, Future Mining, and became South Africa's first Black billionaire.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Patrice-Tlhopane-Motsepe",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Patrice Tlhopane Motsepe (born Jan. 28, 1962, Soweto, S.Af.) is a South African businessman and the country’s first black billionaire"
+   },
+   {
+    "url": "https://www.britannica.com/money/Patrice-Tlhopane-Motsepe",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1994 Motsepe founded a mine services company, Future Mining"
+   }
+  ],
+  "entityId": "patrice-motsepe",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "tony-elumelu-lagos",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "The turnaround",
+  "question": "In 1997 Tony Elumelu led a small group of investors to take over a floundering commercial bank in which city?",
+  "clue": "On the Atlantic coast of south-western Nigeria.",
+  "hint": "Nigeria's largest city.",
+  "answer": {
+   "city": "Lagos",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.4551,
+   "longitude": 3.3942,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565124"
+  },
+  "story": "Tony Elumelu came into the limelight in 1997, when he led a small group of investors to take over a small, floundering commercial bank in Lagos.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/tony-elumelu/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He came into the limelight in 1997 when he led a small group of investors to take over a small, floundering commercial bank in Lagos."
+   }
+  ],
+  "entityId": "tony-elumelu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "nassef-sawiris-cairo",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Orascom",
+  "question": "Orascom Construction, led by Nassef Sawiris, trades on the stock exchange of which capital — where he lives?",
+  "clue": "On the Nile, at the head of its delta.",
+  "hint": "It's Egypt's capital.",
+  "answer": {
+   "city": "Cairo",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 30.0444,
+   "longitude": 31.2357,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5466227"
+  },
+  "story": "Nassef Sawiris, who lives in Cairo, built his fortune in construction and investments; Orascom Construction trades on the Cairo exchange and Nasdaq Dubai.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/nassef-sawiris/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Orascom Construction, an engineering and building firm, trades on the Cairo exchange and Nasdaq Dubai."
+   },
+   {
+    "url": "https://www.forbes.com/profile/nassef-sawiris/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Cairo, Egypt"
+   }
+  ],
+  "entityId": "nassef-sawiris",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "mohammed-dewji-dar-es-salaam",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "METL",
+  "question": "Mohammed Dewji, CEO of the Tanzanian conglomerate METL, is based in which Indian Ocean port city?",
+  "clue": "On Tanzania's coast, opposite Zanzibar.",
+  "hint": "Its name means 'haven of peace'.",
+  "answer": {
+   "city": "Dar es Salaam",
+   "country": "Tanzania",
+   "countryCode": "TZ",
+   "latitude": -6.8161,
+   "longitude": 39.2804,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7202037"
+  },
+  "story": "Mohammed Dewji is CEO of METL, a Tanzanian conglomerate his father founded in the 1970s. He lives in Dar es Salaam.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/mohammed-dewji/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mohammed Dewji is the CEO of METL, a Tanzanian conglomerate founded by his father in the 1970s."
+   },
+   {
+    "url": "https://www.forbes.com/profile/mohammed-dewji/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Dar es Salaam, Tanzania"
+   }
+  ],
+  "entityId": "mohammed-dewji",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "koos-bekker-cape-town",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Naspers",
+  "question": "Koos Bekker, who turned Naspers into an e-commerce powerhouse and bought into Tencent, lives in which South African city?",
+  "clue": "At the foot of Table Mountain.",
+  "hint": "South Africa's legislative capital.",
+  "answer": {
+   "city": "Cape Town",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -33.9288,
+   "longitude": 18.4172,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/32675806"
+  },
+  "story": "Koos Bekker transformed the South African newspaper publisher Naspers into an e-commerce investor and cable-TV powerhouse; in 2001 he led it to buy a third of Tencent for a reported $34 million. He lives in Cape Town.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/koos-bekker/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Koos Bekker is revered for transforming South African newspaper publisher Naspers into an e-commerce investor and cable TV powerhouse."
+   },
+   {
+    "url": "https://www.forbes.com/profile/koos-bekker/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He led Naspers to pay a reported $34 million for a third of Chinese Internet firm Tencent Holdings in 2001"
+   },
+   {
+    "url": "https://www.forbes.com/profile/koos-bekker/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Cape Town, South Africa"
+   }
+  ],
+  "entityId": "koos-bekker",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "othman-benjelloun-casablanca",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Bank of Africa",
+  "question": "Othman Benjelloun, CEO of BMCE Bank of Africa, is based in which Moroccan city?",
+  "clue": "On Morocco's Atlantic coast, south-west of Rabat.",
+  "hint": "Morocco's largest city and economic capital.",
+  "answer": {
+   "city": "Casablanca",
+   "country": "Morocco",
+   "countryCode": "MA",
+   "latitude": 33.5945,
+   "longitude": -7.62,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4072985"
+  },
+  "story": "Othman Benjelloun is CEO of BMCE Bank of Africa, present across West, Central and East Africa, and built the insurer RMA into a leader. He lives in Casablanca.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/othman-benjelloun/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Othman Benjelloun is CEO of BMCE Bank of Africa, which has assets of more than $12 billion and a presence across West, Central and East Africa."
+   },
+   {
+    "url": "https://www.forbes.com/profile/othman-benjelloun/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Benjelloun built it into a leading insurer."
+   },
+   {
+    "url": "https://www.forbes.com/profile/othman-benjelloun/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Casablanca, Morocco"
+   }
+  ],
+  "entityId": "othman-benjelloun",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "mike-adenuga-lagos",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Globacom",
+  "question": "Mike Adenuga, whose Globacom is one of Nigeria's biggest mobile networks, is based in which city?",
+  "clue": "On the Atlantic coast of south-western Nigeria.",
+  "hint": "Nigeria's largest city.",
+  "answer": {
+   "city": "Lagos",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.4551,
+   "longitude": 3.3942,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565124"
+  },
+  "story": "Mike Adenuga built his fortune in telecommunications and oil: his mobile network, Globacom, is Nigeria's third-largest operator. He lives in Lagos.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/mike-adenuga/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mike Adenuga built his fortune in telecommunications and oil production. His mobile phone network, Globacom, is the third-largest operator in Nigeria"
+   },
+   {
+    "url": "https://www.forbes.com/profile/mike-adenuga/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Lagos, Nigeria"
+   }
+  ],
+  "entityId": "mike-adenuga",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "johann-rupert-cape-town",
+  "primaryCategory": "business",
+  "subcategory": "african-business-leaders",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Remgro",
+  "question": "Luxury-goods billionaire Johann Rupert, chairman of Remgro, lives in which South African city?",
+  "clue": "On the Atlantic, beneath Table Mountain.",
+  "hint": "Its Waterfront and Robben Island are famous.",
+  "answer": {
+   "city": "Cape Town",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -33.9288,
+   "longitude": 18.4172,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/32675806"
+  },
+  "story": "Johann Rupert made his fortune in luxury goods and chairs the investment firm Remgro, in which he owns 7%. He lives in Cape Town.",
+  "sources": [
+   {
+    "url": "https://www.forbes.com/profile/johann-rupert/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He owns 7% of diversified investment firm Remgro, which he chairs"
+   },
+   {
+    "url": "https://www.forbes.com/profile/johann-rupert/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Residence Cape Town, South Africa"
+   }
+  ],
+  "entityId": "johann-rupert",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "coca-cola-atlanta",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "easy",
+  "displayCategory": "Brands",
+  "chapter": "A famous brand",
+  "question": "The Coca-Cola Company, one of the most successful brands in marketing history, has its headquarters in which US city?",
+  "clue": "In the US South, capital of Georgia.",
+  "hint": "It hosted the 1996 Summer Olympics.",
+  "answer": {
+   "city": "Atlanta",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 33.7545,
+   "longitude": -84.3898,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/119557"
+  },
+  "story": "The Coca-Cola Company is one of the largest US corporations and one of the most successful brands in marketing history. Its headquarters are in Atlanta, Georgia.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/The-Coca-Cola-Company",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Its headquarters are in Atlanta, Georgia."
+   },
+   {
+    "url": "https://www.britannica.com/money/The-Coca-Cola-Company",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "one of the most successful brands in marketing history"
+   }
+  ],
+  "entityId": "coca-cola",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "lego-billund",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Brands",
+  "chapter": "The bricks",
+  "question": "The LEGO Group was founded in 1932 by Ole Kirk Christiansen in which Danish town?",
+  "clue": "Central Jutland, Denmark.",
+  "hint": "It's also home to the original Legoland park.",
+  "answer": {
+   "city": "Billund",
+   "country": "Denmark",
+   "countryCode": "DK",
+   "latitude": 55.7247,
+   "longitude": 9.1196,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/26559022"
+  },
+  "story": "The LEGO Group is a Danish company founded in 1932 by Ole Kirk Christiansen in Billund, Denmark; its first plastic building blocks were made in 1949.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/topic/The-Lego-Group",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The LEGO Group is a Danish company founded in 1932 by Ole Kirk Christiansen in Billund, Denmark."
+   },
+   {
+    "url": "https://www.britannica.com/topic/The-Lego-Group",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The first plastic building blocks were produced in 1949."
+   }
+  ],
+  "entityId": "lego",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "toyota-toyota-city",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Brands",
+  "chapter": "A company town",
+  "question": "Toyota Motor Corporation has its headquarters in which industrial city east of Nagoya — named after the company?",
+  "clue": "Aichi prefecture, central Japan.",
+  "hint": "The city shares the carmaker's name.",
+  "answer": {
+   "city": "Toyota",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.0835,
+   "longitude": 137.1567,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4567509"
+  },
+  "story": "Toyota Motor Corporation began in 1933 as a division of the Toyoda Automatic Loom Works, founded by Toyoda Kiichiro. Its headquarters are in Toyota City, east of Nagoya; in 2008 it became the world's largest automobile maker for the first time.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Toyota-Motor-Corporation",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Headquarters are in Toyota City, an industrial city east of Nagoya, Japan."
+   },
+   {
+    "url": "https://www.britannica.com/money/Toyota-Motor-Corporation",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1933 Toyoda Kiichiro founded what later became the Toyota Motor Corporation as a division of the Toyoda Automatic Loom Works"
+   },
+   {
+    "url": "https://www.britannica.com/money/Toyota-Motor-Corporation",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "It became the largest automobile brand and manufacturer in the world for the first time in 2008"
+   }
+  ],
+  "entityId": "toyota",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "samsung-daegu",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Brands",
+  "chapter": "From a grocery store",
+  "question": "Samsung began in 1938 as a grocery trading store, founded by Lee Byung-Chull in which Korean city?",
+  "clue": "South-eastern South Korea, inland from Busan.",
+  "hint": "Once spelled Taegu, it's South Korea's fourth-largest city.",
+  "answer": {
+   "city": "Daegu",
+   "country": "South Korea",
+   "countryCode": "KR",
+   "latitude": 35.8713,
+   "longitude": 128.6018,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2395674"
+  },
+  "story": "Samsung was founded as a grocery trading store on 1 March 1938 by Lee Byung-Chull, who started his business in Taegu (Daegu). Today Samsung Electronics is based in Suwon.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Samsung-Electronics",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Samsung was founded as a grocery trading store on March 1, 1938, by Lee Byung-Chull."
+   },
+   {
+    "url": "https://www.britannica.com/money/Samsung-Electronics",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He started his business in Taegu, Korea"
+   },
+   {
+    "url": "https://www.britannica.com/money/Samsung-Electronics",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Based in Suwon, South Korea"
+   }
+  ],
+  "entityId": "samsung",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "nestle-cham",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "legend",
+  "displayCategory": "Brands",
+  "chapter": "Condensed milk",
+  "question": "One of the two 1866 businesses that formed Nestlé — the Anglo-Swiss Condensed Milk Company — was set up in which Swiss town?",
+  "clue": "Canton of Zug, central Switzerland, on Lake Zug.",
+  "hint": "Its name has just four letters.",
+  "answer": {
+   "city": "Cham",
+   "country": "Switzerland",
+   "countryCode": "CH",
+   "latitude": 47.1824,
+   "longitude": 8.4611,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1683139"
+  },
+  "story": "Nestlé dates to 1866, when two Swiss enterprises were founded; in August that year the American brothers Charles and George Page set up the Anglo-Swiss Condensed Milk Company in Cham.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Nestle-SA",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Charles A. Page and George Page, brothers from the United States, established the Anglo-Swiss Condensed Milk Company in Cham, Switzerland."
+   },
+   {
+    "url": "https://www.britannica.com/money/Nestle-SA",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The company dates to 1866, when two separate Swiss enterprises were founded that would later form the core of Nestlé."
+   }
+  ],
+  "entityId": "nestle",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "starbucks-seattle",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "easy",
+  "displayCategory": "Brands",
+  "chapter": "Café culture",
+  "question": "Starbucks, the world's largest coffeehouse chain, is headquartered in which city?",
+  "clue": "Pacific Northwest, on Puget Sound.",
+  "hint": "Its Space Needle is famous.",
+  "answer": {
+   "city": "Seattle",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 47.6038,
+   "longitude": -122.3301,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/237385"
+  },
+  "story": "Starbucks operates the largest coffeehouse chain and one of the most recognizable brands in the world. It is headquartered in Seattle, Washington.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Starbucks",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Headquartered in Seattle, Washington, the company operates more than 35,000 stores across 80 countries (as of 2022)."
+   },
+   {
+    "url": "https://www.britannica.com/money/Starbucks",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Starbucks is an American company that operates the largest coffeehouse chain and one of the most recognizable brands in the world."
+   }
+  ],
+  "entityId": "starbucks",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "rolex-geneva",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Brands",
+  "chapter": "Swiss watches",
+  "question": "Rolex, the Swiss maker of luxury watches, has its headquarters in which city?",
+  "clue": "At the south-western tip of Switzerland, on a large lake.",
+  "hint": "Its lakeside fountain, the Jet d'Eau, is famous.",
+  "answer": {
+   "city": "Geneva",
+   "country": "Switzerland",
+   "countryCode": "CH",
+   "latitude": 46.2018,
+   "longitude": 6.1466,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1685488"
+  },
+  "story": "Rolex is a Swiss manufacturer of rugged but luxurious watches, headquartered in Geneva. Its founder, Hans Wilsdorf, was born in Germany and moved to Switzerland as a young man.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Rolex",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Date:1905 - present Headquarters:Geneva"
+   },
+   {
+    "url": "https://www.britannica.com/money/Rolex",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Rolex, Swiss manufacturer of rugged but luxurious watches."
+   },
+   {
+    "url": "https://www.britannica.com/money/Rolex",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Founder Hans Wilsdorf was born in Germany but moved to Switzerland when he was a young man."
+   }
+  ],
+  "entityId": "rolex",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "nintendo-kyoto",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Brands",
+  "chapter": "Playing cards",
+  "question": "Nintendo began in 1889 making hanafuda playing cards, and has been headquartered ever since in which Japanese city?",
+  "clue": "Kansai region, the old imperial capital.",
+  "hint": "It's famous for temples and geisha districts.",
+  "answer": {
+   "city": "Kyoto",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.0116,
+   "longitude": 135.7681,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/357794"
+  },
+  "story": "Nintendo was founded in 1889 by Yamauchi Fusajiro to make handmade hanafuda playing cards. Since its founding, the company has been headquartered in Kyoto.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Nintendo-Company-Ltd",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Since its founding, the company has been headquartered in Kyoto."
+   },
+   {
+    "url": "https://www.britannica.com/money/Nintendo-Company-Ltd",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Founded in 1889 by entrepreneur Yamauchi Fusajiro, Nintendo—then known as Nintendo Koppai—produced handmade playing cards, specifically for hanafuda"
+   }
+  ],
+  "entityId": "nintendo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "volkswagen-wolfsburg",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Brands",
+  "chapter": "The people's car",
+  "question": "The Volkswagen Group is headquartered in which German city, home of its giant car factory?",
+  "clue": "Lower Saxony, east of Hanover.",
+  "hint": "Its football club shares the city's name.",
+  "answer": {
+   "city": "Wolfsburg",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 52.4206,
+   "longitude": 10.7862,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62418"
+  },
+  "story": "The Volkswagen Group is headquartered in Wolfsburg, Germany, where models such as the Tiguan are assembled.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Volkswagen-Group",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Headquarters:Wolfsburg"
+   },
+   {
+    "url": "https://www.britannica.com/money/Volkswagen-Group",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "A Volkswagen Tiguan being assembled at a factory in Wolfsburg, Germany."
+   }
+  ],
+  "entityId": "volkswagen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "hyundai-seoul",
+  "primaryCategory": "business",
+  "subcategory": "global-brands",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Brands",
+  "chapter": "From construction",
+  "question": "The Hyundai Group was founded in 1947 as a construction firm by Chung Ju-yung and is based in which city?",
+  "clue": "On the Han River, north-western South Korea.",
+  "hint": "It's South Korea's capital.",
+  "answer": {
+   "city": "Seoul",
+   "country": "South Korea",
+   "countryCode": "KR",
+   "latitude": 37.5667,
+   "longitude": 126.9783,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2297418"
+  },
+  "story": "The Hyundai Group was founded in 1947 as a construction firm by Chung Ju-yung and is based in Seoul.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Hyundai-Group",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "It was founded in 1947 as a construction firm by Chung Ju-yung and is based in Seoul."
+   }
+  ],
+  "entityId": "hyundai",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "warren-buffett-omaha",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "The Oracle",
+  "question": "Investor Warren Buffett was born in 1930 in which Nebraska city — giving him the nickname 'the Oracle of' there?",
+  "clue": "Eastern Nebraska, on the Missouri River.",
+  "hint": "Nebraska's largest city.",
+  "answer": {
+   "city": "Omaha",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.2587,
+   "longitude": -95.9384,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/169759"
+  },
+  "story": "Warren Buffett was born in Omaha, Nebraska, in 1930. He is widely considered one of the most successful investors of the 20th and early 21st centuries.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Warren-Edward-Buffett",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Warren Buffett (born August 30, 1930, Omaha, Nebraska) is an American businessman and philanthropist, widely considered one of the most successful investors of the 20th and early 21st centuries"
+   }
+  ],
+  "entityId": "warren-buffett",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "george-soros-budapest",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Before Wall Street",
+  "question": "Financier George Soros was born in 1930 in which European capital?",
+  "clue": "On the Danube, in central Europe.",
+  "hint": "It's Hungary's capital.",
+  "answer": {
+   "city": "Budapest",
+   "country": "Hungary",
+   "countryCode": "HU",
+   "latitude": 47.4979,
+   "longitude": 19.0402,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1244004"
+  },
+  "story": "George Soros was born in Budapest in 1930. He moved to New York City in 1956 and in 1973 set up the Soros Fund, later the Quantum Endowment Fund.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/George-Soros",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "George Soros (born August 12, 1930, Budapest, Hungary) is a Hungarian-born American financier"
+   },
+   {
+    "url": "https://www.britannica.com/money/George-Soros",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1973 Soros established the Soros Fund (later Quantum Endowment Fund)"
+   }
+  ],
+  "entityId": "george-soros",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "jp-morgan-hartford",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "A Connecticut start",
+  "question": "J. P. Morgan, one of the world's foremost financiers, was born in 1837 in which Connecticut state capital?",
+  "clue": "Central Connecticut, on the Connecticut River.",
+  "hint": "It's called the 'Insurance Capital of the World'.",
+  "answer": {
+   "city": "Hartford",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.7662,
+   "longitude": -72.6733,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3909995"
+  },
+  "story": "J. P. Morgan was born in Hartford, Connecticut, in 1837. One of the foremost financial figures before World War I, in 1891 he arranged the merger that formed General Electric.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/J-P-Morgan",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "J.P. Morgan (born April 17, 1837, Hartford, Connecticut, U.S.—died March 31, 1913, Rome, Italy) was an American financier and industrial organizer"
+   },
+   {
+    "url": "https://www.britannica.com/money/J-P-Morgan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "His first venture, in 1891, was to arrange the merger of Edison General Electric and Thomson-Houston Electric Company to form General Electric"
+   }
+  ],
+  "entityId": "jp-morgan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "christine-lagarde-paris",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Business",
+  "chapter": "A first for France",
+  "question": "Christine Lagarde, France's first female finance minister and later head of the IMF, was born in 1956 in which city?",
+  "clue": "On the Seine.",
+  "hint": "It's France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8589,
+   "longitude": 2.32,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7444"
+  },
+  "story": "Christine Lagarde was born in Paris in 1956. She was the first woman to serve as France's finance minister (2007–11) and went on to lead the International Monetary Fund.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Christine-Lagarde",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Christine Lagarde (born January 1, 1956, Paris, France) is a French lawyer and politician who was the first woman to serve as France’s finance minister (2007–11)"
+   }
+  ],
+  "entityId": "christine-lagarde",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "janet-yellen-brooklyn",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Fed, Treasury",
+  "question": "Janet Yellen, the first person to lead the Fed, the Council of Economic Advisers and the Treasury, was born in 1946 in which New York borough?",
+  "clue": "Western Long Island.",
+  "hint": "Its bridge to Manhattan is famous.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.6526,
+   "longitude": -73.9497,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691750"
+  },
+  "story": "Janet Yellen was born in Brooklyn, New York, in 1946. She chaired the Federal Reserve (2014–18) and became the first person in US history to lead the Fed, the Council of Economic Advisers and the Treasury Department.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Janet-Yellen",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Janet Yellen (born August 13, 1946, Brooklyn, New York, U.S.) is an American economist, who was the chair (2014–18) of the Board of Governors of the Federal Reserve System"
+   },
+   {
+    "url": "https://www.britannica.com/money/Janet-Yellen",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "as well as the first person in U.S. history to lead the Federal Reserve, the Council of Economic Advisers, and the Treasury Department."
+   }
+  ],
+  "entityId": "janet-yellen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "ngozi-okonjo-iweala-ogwashi-uku",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "Head of the WTO",
+  "question": "Ngozi Okonjo-Iweala, the first woman and first African to head the WTO, was born in 1954 in which Nigerian town?",
+  "clue": "Delta State, west of the Niger River near Asaba.",
+  "hint": "Its name begins 'Ogwashi'.",
+  "answer": {
+   "city": "Ogwashi-Uku",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.1818,
+   "longitude": 6.5329,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/501515838"
+  },
+  "story": "Ngozi Okonjo-Iweala was born in Ogwashi-Uku, Delta State, in 1954. After two tenures at the World Bank she became director general of the WTO in 2021 — the first woman and first African to head it.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Ngozi-Okonjo-Iweala",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ngozi Okonjo-Iweala (born June 13, 1954, Ogwashi-Uku, Delta State, Nigeria) is a Nigerian-American economist who served as the seventh director general of the World Trade Organization (WTO) from 2021"
+   },
+   {
+    "url": "https://www.britannica.com/money/Ngozi-Okonjo-Iweala",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She was the first woman and the first African to head the WTO."
+   }
+  ],
+  "entityId": "ngozi-okonjo-iweala",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "mayer-rothschild-frankfurt",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "A banking dynasty",
+  "question": "Mayer Amschel Rothschild, founder of the Rothschild banking house, was born and died in which German city?",
+  "clue": "On the River Main, in Hesse.",
+  "hint": "Germany's banking capital, home of the European Central Bank.",
+  "answer": {
+   "city": "Frankfurt",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 50.1106,
+   "longitude": 8.6821,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62400"
+  },
+  "story": "The Rothschild banking house was founded by Mayer Amschel Rothschild (1744–1812) of Frankfurt; his five sons expanded it from Frankfurt to London, Paris, Vienna and Naples.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mayer-Amschel-Rothschild",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The house was founded by Mayer Amschel Rothschild (b. February 23, 1744, Frankfurt am Main—d. September 19, 1812, Frankfurt)"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mayer-Amschel-Rothschild",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "His five sons expanded the family's banking house from Frankfurt to London, Paris, Vienna, and Naples"
+   }
+  ],
+  "entityId": "mayer-amschel-rothschild",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "john-bogle-montclair",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "The index fund",
+  "question": "John Bogle, founder of Vanguard and pioneer of the index fund, was born in 1929 in which New Jersey township?",
+  "clue": "Essex County, New Jersey, about 12 miles west of Manhattan.",
+  "hint": "It sits on the slopes of the First Watchung Mountain.",
+  "answer": {
+   "city": "Montclair",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.8164,
+   "longitude": -74.2211,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170783"
+  },
+  "story": "John Bogle was born in Montclair, New Jersey, in 1929. He founded Vanguard in 1974, and two years later it launched the first index mutual fund available to individual investors.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/John-Bogle",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: May 8, 1929, Montclair, New Jersey"
+   },
+   {
+    "url": "https://www.britannica.com/money/John-Bogle",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1974, Bogle founded Vanguard Group"
+   },
+   {
+    "url": "https://www.britannica.com/money/John-Bogle",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Two years later, Vanguard launched the First Index Investment Trust, the first index mutual fund available to individual investors."
+   }
+  ],
+  "entityId": "john-bogle",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "mario-draghi-rome",
+  "primaryCategory": "business",
+  "subcategory": "finance-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Business",
+  "chapter": "Central banker",
+  "question": "Mario Draghi, president of the European Central Bank from 2011 to 2019, was born in 1947 in which city?",
+  "clue": "On the Tiber, central Italy.",
+  "hint": "It's Italy's capital.",
+  "answer": {
+   "city": "Rome",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 41.8933,
+   "longitude": 12.4829,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/41485"
+  },
+  "story": "Mario Draghi was born in Rome in 1947 and raised there, where his father worked for the Bank of Italy. He was president of the European Central Bank from 2011 to 2019.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mario-Draghi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mario Draghi (born September 3, 1947, Rome, Italy) is an Italian economist who served from 2011 to 2019 as president of the European Central Bank (ECB)"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mario-Draghi",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Draghi was raised in Rome, where his father worked for the Bank of Italy"
+   }
+  ],
+  "entityId": "mario-draghi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "sam-walton-bentonville",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Five-and-dime",
+  "question": "Before founding Walmart, Sam Walton moved his variety store in 1950 to which Arkansas town — still Walmart's home?",
+  "clue": "North-western Arkansas, in the Ozarks.",
+  "hint": "Its name begins 'Benton'.",
+  "answer": {
+   "city": "Bentonville",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 36.3729,
+   "longitude": -94.2088,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/111561"
+  },
+  "story": "Sam Walton opened a Ben Franklin variety store in Newport, Arkansas, in 1945 and moved it to Bentonville five years later. He founded Walmart in 1962 and made it the largest US retail chain by 1990.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Sam-Walton",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He opened his own Ben Franklin variety (five-and-dime) store in Newport, Arkansas, in 1945 and relocated the store to Bentonville, Arkansas, five years later."
+   },
+   {
+    "url": "https://www.britannica.com/money/Sam-Walton",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was an American retail magnate who founded Walmart in 1962"
+   }
+  ],
+  "entityId": "sam-walton",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "fred-smith-marks",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "FedEx",
+  "question": "Frederick W. Smith, who founded Federal Express in 1971, was born in 1944 in which small Mississippi town?",
+  "clue": "North-western Mississippi, in the Delta, south of Memphis.",
+  "hint": "Its name is a common word for scores or grades.",
+  "answer": {
+   "city": "Marks",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.2565,
+   "longitude": -90.272,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/7161811"
+  },
+  "story": "Frederick W. Smith was born in Marks, Mississippi, in 1944. In 1971 he founded Federal Express, later FedEx, one of the world's largest express-delivery companies.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Frederick-W-Smith",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Frederick W. Smith (born August 11, 1944, Marks, Mississippi, U.S.—died June 21, 2025) was an American business executive who founded (1971) Federal Express (later called FedEx), one of the largest express-delivery companies in the world."
+   }
+  ],
+  "entityId": "fred-smith",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "thomas-j-watson-campbell",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "IBM",
+  "question": "Thomas J. Watson Sr., who built IBM, was born in 1874 in which small town in upstate New York?",
+  "clue": "Southern Tier of New York State, near Corning.",
+  "hint": "It shares its name with a famous soup brand.",
+  "answer": {
+   "city": "Campbell",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.2331,
+   "longitude": -77.1975,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/13627933"
+  },
+  "story": "Thomas J. Watson Sr. was born in Campbell, New York, in 1874, the son of a lumber dealer. He built International Business Machines (IBM) into a giant of the industry.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Thomas-J-Watson-Sr",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Thomas J. Watson, Sr. (born February 17, 1874, Campbell, New York, U.S.—died June 19, 1956, New York, New York) was an American industrialist who built the International Business Machines Corporation (IBM)"
+   },
+   {
+    "url": "https://www.britannica.com/money/Thomas-J-Watson-Sr",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The son of a lumber dealer"
+   }
+  ],
+  "entityId": "thomas-j-watson",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "sakichi-toyoda-kariya",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "company_origin",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "Looms before cars",
+  "question": "Sakichi Toyoda founded a loom factory in the 1930s — a precursor of Toyota — in which Japanese city?",
+  "clue": "Aichi prefecture, south-east of Nagoya.",
+  "hint": "Many Toyota Group companies, such as Denso, are based there.",
+  "answer": {
+   "city": "Kariya",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 34.9747,
+   "longitude": 137.0028,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4548603"
+  },
+  "story": "Kariya was the site of a loom-manufacturing factory founded by Toyoda Sakichi, a precursor to the Toyota Motor Corporation, now headquartered in nearby Toyota.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/place/Kariya",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kariya was the site of a loom-manufacturing factory, founded there by Toyoda Sakichi in the 1930s, that was a precursor to the Toyota Motor Corporation, which now has its headquarters in nearby Toyota."
+   }
+  ],
+  "entityId": "sakichi-toyoda",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "masaru-ibuka-tokyo",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Tokyo Telecommunications",
+  "question": "Masaru Ibuka and Akio Morita incorporated Sony in 1946 as 'Tokyo Tsushin Kogyo' — in which city?",
+  "clue": "On a great bay on Honshu's Pacific coast.",
+  "hint": "Japan's capital.",
+  "answer": {
+   "city": "Tokyo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.6769,
+   "longitude": 139.7639,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1543125"
+  },
+  "story": "Sony was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo ('Tokyo Telecommunications Engineering Corporation'). Its first consumer product was an electric rice cooker; in 1950 it introduced the first Japanese-designed tape recorder.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Sony",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The company was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo (“Tokyo Telecommunications Engineering Corporation”)."
+   },
+   {
+    "url": "https://www.britannica.com/money/Sony",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The company’s first consumer product was an electric rice cooker."
+   },
+   {
+    "url": "https://www.britannica.com/money/Sony",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1950 Totsuko introduced the first Japanese-designed tape recorder."
+   }
+  ],
+  "entityId": "masaru-ibuka",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "clarence-birdseye-brooklyn",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Frozen food",
+  "question": "Clarence Birdseye, who developed packaged frozen food, was raised in which New York borough?",
+  "clue": "Western Long Island.",
+  "hint": "Its bridge to Manhattan is famous.",
+  "answer": {
+   "city": "New York City",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.6526,
+   "longitude": -73.9497,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691750"
+  },
+  "story": "Clarence Birdseye was born in New York in 1886 and raised in Brooklyn. He developed an efficient process for freezing foods in small retail packages that preserved their original taste.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Clarence-Birdseye",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Birdseye was raised in Brooklyn, New York, and from a young age was interested in the natural sciences."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Clarence-Birdseye",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was an American businessman and inventor best known for developing a process for freezing foods in small packages suitable for retailing"
+   }
+  ],
+  "entityId": "clarence-birdseye",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "king-gillette-fond-du-lac",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Business",
+  "chapter": "Disposable blades",
+  "question": "King C. Gillette, first maker of a razor with disposable blades, was born in 1855 in which Wisconsin city?",
+  "clue": "At the southern tip of Lake Winnebago, Wisconsin.",
+  "hint": "Its name is French for 'bottom of the lake'.",
+  "answer": {
+   "city": "Fond du Lac",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 43.7749,
+   "longitude": -88.4458,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/251921"
+  },
+  "story": "King Camp Gillette was born in Fond du Lac, Wisconsin, in 1855. The first manufacturer of a razor with disposable blades, his company made its first sale in 1903 and produced 90,000 razors by the end of 1904.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/King-Camp-Gillette",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "King Camp Gillette (born January 5, 1855, Fond du Lac, Wisconsin, U.S.—died July 9, 1932, Los Angeles, California) was an American inventor and the first manufacturer of a razor with disposable blades"
+   },
+   {
+    "url": "https://www.britannica.com/biography/King-Camp-Gillette",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "by the end of 1904, it had produced 90,000 razors and 12,400,000 blades."
+   }
+  ],
+  "entityId": "king-gillette",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "taiichi-ohno-toyota-city",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Business",
+  "chapter": "Production control",
+  "question": "Taiichi Ohno, the production-control expert of the Toyota Motor Co., died in 1990 in which Japanese city named after the company?",
+  "clue": "Aichi prefecture, east of Nagoya.",
+  "hint": "It shares the carmaker's name.",
+  "answer": {
+   "city": "Toyota",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.0835,
+   "longitude": 137.1567,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4567509"
+  },
+  "story": "Ohno Taiichi, born in Manchuria in 1912, was a production-control expert for the Toyota Motor Co. He died in Toyota City in 1990.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Ohno-Taiichi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ohno Taiichi (born 1912, Manchuria, China—died May 28, 1990, Toyota City, Japan) was a Japanese production-control expert for the Toyota Motor Co"
+   }
+  ],
+  "entityId": "taiichi-ohno",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ },
+ {
+  "id": "frederick-taylor-philadelphia",
+  "primaryCategory": "business",
+  "subcategory": "business-innovators",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Business",
+  "chapter": "Scientific management",
+  "question": "Frederick W. Taylor, 'father of scientific management', was born and died in which city?",
+  "clue": "South-eastern Pennsylvania, on the Delaware River.",
+  "hint": "The Liberty Bell is there.",
+  "answer": {
+   "city": "Philadelphia",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.9527,
+   "longitude": -75.1635,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/188022"
+  },
+  "story": "Frederick W. Taylor was born in Philadelphia in 1856 and died there in 1915. An inventor and engineer, he is known as the father of scientific management; the profession of time study grew from his work.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Frederick-W-Taylor",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Frederick W. Taylor (born March 20, 1856, Philadelphia, Pennsylvania, U.S.—died March 21, 1915, Philadelphia) was an American inventor and engineer who is known as the father of scientific management"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Frederick-W-Taylor",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The profession of time study was founded on the success of this project"
+   }
+  ],
+  "entityId": "frederick-taylor",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 14."
+   ]
+  }
+ }
+]

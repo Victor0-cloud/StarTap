@@ -1,0 +1,2452 @@
+{
+ "tom-hanks": {
+  "query": "Concord, California",
+  "results": [
+   {
+    "lat": 37.9768525,
+    "lon": -122.0335624,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Concord",
+    "display": "Concord, Contra Costa County, California, United States",
+    "cc": "US",
+    "osm": "relation/3705569"
+   },
+   {
+    "lat": 33.7714562,
+    "lon": -117.8923872,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Concord",
+    "display": "Concord, Santa Ana, Orange County, California, United States",
+    "cc": "US",
+    "osm": "relation/12045561"
+   }
+  ]
+ },
+ "denzel-washington": {
+  "query": "Mount Vernon, New York",
+  "results": [
+   {
+    "lat": 40.9125085,
+    "lon": -73.8386504,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Mount Vernon",
+    "display": "City of Mount Vernon, Westchester County, New York, United States",
+    "cc": "US",
+    "osm": "relation/174883"
+   }
+  ]
+ },
+ "leonardo-dicaprio": {
+  "query": "Los Angeles, California",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "brad-pitt": {
+  "query": "Shawnee, Oklahoma",
+  "results": [
+   {
+    "lat": 35.3272928,
+    "lon": -96.9253004,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shawnee",
+    "display": "Shawnee, Pottawatomie County, Oklahoma, United States",
+    "cc": "US",
+    "osm": "relation/185234"
+   }
+  ]
+ },
+ "aamir-khan": {
+  "query": "Mumbai, Maharashtra",
+  "results": [
+   {
+    "lat": 19.054999,
+    "lon": 72.8692035,
+    "type": "city",
+    "category": "place",
+    "name": "Mumbai",
+    "display": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "cc": "IN",
+    "osm": "node/16173235"
+   }
+  ]
+ },
+ "salman-khan": {
+  "query": "Indore, Madhya Pradesh",
+  "results": [
+   {
+    "lat": 22.7203616,
+    "lon": 75.8681996,
+    "type": "city",
+    "category": "place",
+    "name": "Indore",
+    "display": "Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India",
+    "cc": "IN",
+    "osm": "node/245709027"
+   },
+   {
+    "lat": 22.7108119,
+    "lon": 75.8076918,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Indore",
+    "display": "Indore, Madhya Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/1976160"
+   },
+   {
+    "lat": 22.6666672,
+    "lon": 75.749998,
+    "type": "county",
+    "category": "place",
+    "name": "Indore",
+    "display": "Indore, Madhya Pradesh, 451225, India",
+    "cc": "IN",
+    "osm": "node/316417076"
+   }
+  ]
+ },
+ "aishwarya-rai": {
+  "query": "Mangaluru, Karnataka",
+  "results": [
+   {
+    "lat": 12.8698101,
+    "lon": 74.8430082,
+    "type": "city",
+    "category": "place",
+    "name": "Mangaluru",
+    "display": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India",
+    "cc": "IN",
+    "osm": "node/245612641"
+   },
+   {
+    "lat": 14.4785094,
+    "lon": 74.9527363,
+    "type": "village",
+    "category": "place",
+    "name": "Mangaluru",
+    "display": "Mangaluru, Soraba taluk, Shimoga, Karnataka, India",
+    "cc": "IN",
+    "osm": "node/3006342908"
+   },
+   {
+    "lat": 15.5174526,
+    "lon": 76.1474562,
+    "type": "village",
+    "category": "place",
+    "name": "Mangaluru",
+    "display": "Mangaluru, Kukunoor taluku, Koppal, Karnataka, 583257, India",
+    "cc": "IN",
+    "osm": "node/245632244"
+   }
+  ]
+ },
+ "hrithik-roshan": {
+  "query": "Mumbai, Maharashtra",
+  "results": [
+   {
+    "lat": 19.054999,
+    "lon": 72.8692035,
+    "type": "city",
+    "category": "place",
+    "name": "Mumbai",
+    "display": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "cc": "IN",
+    "osm": "node/16173235"
+   }
+  ]
+ },
+ "dilip-kumar": {
+  "query": "Peshawar, Khyber Pakhtunkhwa",
+  "results": [
+   {
+    "lat": 34.0123846,
+    "lon": 71.5787458,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Peshawar City Tehsil",
+    "display": "Peshawar City Tehsil, Peshawar District, Peshawar Division, Khyber Pakhtunkhwa, Pakistan",
+    "cc": "PK",
+    "osm": "relation/16487008"
+   }
+  ]
+ },
+ "raj-kapoor": {
+  "query": "Peshawar, Khyber Pakhtunkhwa",
+  "results": [
+   {
+    "lat": 34.0123846,
+    "lon": 71.5787458,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Peshawar City Tehsil",
+    "display": "Peshawar City Tehsil, Peshawar District, Peshawar Division, Khyber Pakhtunkhwa, Pakistan",
+    "cc": "PK",
+    "osm": "relation/16487008"
+   }
+  ]
+ },
+ "madhubala": {
+  "query": "Delhi, India",
+  "results": [
+   {
+    "lat": 28.6328027,
+    "lon": 77.2197713,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Delhi",
+    "display": "Delhi, India",
+    "cc": "IN",
+    "osm": "relation/1942586"
+   },
+   {
+    "lat": 28.6664535,
+    "lon": 77.2169781,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Delhi",
+    "display": "Delhi, Old Delhi, Delhi, India",
+    "cc": "IN",
+    "osm": "relation/21180767"
+   }
+  ]
+ },
+ "priyanka-chopra": {
+  "query": "Jamshedpur, Jharkhand",
+  "results": [
+   {
+    "lat": 22.8015194,
+    "lon": 86.2029579,
+    "type": "city",
+    "category": "place",
+    "name": "Jamshedpur",
+    "display": "Jamshedpur, Golmuri-Cum-Jugsalai, East Singhbhum, Jharkhand, 831001, India",
+    "cc": "IN",
+    "osm": "node/566174729"
+   }
+  ]
+ },
+ "bae-yong-joon": {
+  "query": "Seoul, South Korea",
+  "results": [
+   {
+    "lat": 37.5666791,
+    "lon": 126.9782914,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seoul",
+    "display": "Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297418"
+   }
+  ]
+ },
+ "song-joong-ki": {
+  "query": "Daejeon, South Korea",
+  "results": [
+   {
+    "lat": 36.3497007,
+    "lon": 127.3849016,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Daejeon",
+    "display": "Daejeon, South Korea",
+    "cc": "KR",
+    "osm": "relation/2349984"
+   }
+  ]
+ },
+ "won-bin": {
+  "query": "Jeongseon-eup, Gangwon",
+  "results": [
+   {
+    "lat": 37.3796216,
+    "lon": 128.6618047,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jeongseon-eup",
+    "display": "Jeongseon-eup, Jeongseon-gun, Gangwon State, South Korea",
+    "cc": "KR",
+    "osm": "relation/14959433"
+   }
+  ]
+ },
+ "son-ye-jin": {
+  "query": "Daegu, South Korea",
+  "results": [
+   {
+    "lat": 35.8713,
+    "lon": 128.6018,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Daegu",
+    "display": "Daegu, South Korea",
+    "cc": "KR",
+    "osm": "relation/2395674"
+   }
+  ]
+ },
+ "song-hye-kyo": {
+  "query": "Abai Village, Sokcho",
+  "results": [
+   {
+    "lat": 38.2032817,
+    "lon": 128.5937982,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "Abai village",
+    "display": "Abai village, Abaimaeul 1-gil, Cheongho-dong, Sokcho-si, Gangwon State, 24882, South Korea",
+    "cc": "KR",
+    "osm": "node/5466151121"
+   }
+  ]
+ },
+ "gong-yoo": {
+  "query": "Quebec City, Quebec",
+  "results": [
+   {
+    "lat": 46.8137431,
+    "lon": -71.2084061,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Quebec",
+    "display": "Quebec, Urban agglomeration of Québec, Capitale-Nationale, Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/2319206"
+   }
+  ]
+ },
+ "kim-go-eun": {
+  "query": "Gangneung, Gangwon",
+  "results": [
+   {
+    "lat": 37.7525313,
+    "lon": 128.8759523,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Gangneung-si",
+    "display": "Gangneung-si, Gangwon State, South Korea",
+    "cc": "KR",
+    "osm": "relation/2537817"
+   }
+  ]
+ },
+ "kim-soo-hyun": {
+  "query": "Berlin, Germany",
+  "results": [
+   {
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Berlin",
+    "display": "Berlin, Germany",
+    "cc": "DE",
+    "osm": "relation/62422"
+   }
+  ]
+ },
+ "lee-young-ae": {
+  "query": "Yangpyeong-eup, Gyeonggi",
+  "results": [
+   {
+    "lat": 37.4913502,
+    "lon": 127.488585,
+    "type": "town",
+    "category": "place",
+    "name": "Yangpyeong",
+    "display": "Yangpyeong, Yangpyeong-gun, Gyeonggi, 12555, South Korea",
+    "cc": "KR",
+    "osm": "node/415154779"
+   }
+  ]
+ },
+ "im-kwon-taek": {
+  "query": "Jangseong-eup, Jeollanam-do",
+  "results": [
+   {
+    "lat": 35.3032378,
+    "lon": 126.7852363,
+    "type": "government",
+    "category": "office",
+    "name": "Jangseong-eup Office",
+    "display": "Jangseong-eup Office, 211, Yeongcheon-ro, Jangseong-eup, Jangseong-gun, Jeonnam-Gwangju Special Metropolitan City, 57220, South Korea",
+    "cc": "KR",
+    "osm": "way/622952186"
+   }
+  ]
+ },
+ "youn-yuh-jung": {
+  "query": "Union Station, Los Angeles",
+  "results": [
+   {
+    "lat": 34.0560576,
+    "lon": -118.2358962,
+    "type": "train_station",
+    "category": "building",
+    "name": "Union Station",
+    "display": "Union Station, 800, North Alameda Street, New Chinatown, Civic Center, Chinatown, Los Angeles, Los Angeles County, California, 90012, United States",
+    "cc": "US",
+    "osm": "relation/1483140"
+   },
+   {
+    "lat": 34.056135,
+    "lon": -118.234856,
+    "type": "station",
+    "category": "railway",
+    "name": "Union Station",
+    "display": "Union Station, Union Station Underground Walkway, Little Tokyo, Chinatown, Los Angeles, Los Angeles County, California, 90086, United States",
+    "cc": "US",
+    "osm": "node/5404056389"
+   },
+   {
+    "lat": 34.0563316,
+    "lon": -118.2349422,
+    "type": "stop",
+    "category": "railway",
+    "name": "Union Station",
+    "display": "Union Station, Union Station Underground Walkway, Little Tokyo, Chinatown, Los Angeles, Los Angeles County, California, 90086, United States",
+    "cc": "US",
+    "osm": "node/1842125316"
+   }
+  ]
+ },
+ "lee-chang-dong": {
+  "query": "Lido di Venezia, Venice",
+  "results": [
+   {
+    "lat": 45.4164594,
+    "lon": 12.3706115,
+    "type": "town",
+    "category": "place",
+    "name": "Lido",
+    "display": "Lido, Venice, Venezia, Veneto, 30132, Italy",
+    "cc": "IT",
+    "osm": "node/1915130697"
+   },
+   {
+    "lat": 45.4126742,
+    "lon": 12.3764896,
+    "type": "beach",
+    "category": "natural",
+    "name": "Venice Lido",
+    "display": "Venice Lido, Lido-Pellestrina, Lido, Venice, Venezia, Veneto, Italy",
+    "cc": "IT",
+    "osm": "way/264206535"
+   }
+  ]
+ },
+ "hong-sang-soo": {
+  "query": "Seoul, South Korea",
+  "results": [
+   {
+    "lat": 37.5666791,
+    "lon": 126.9782914,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seoul",
+    "display": "Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297418"
+   }
+  ]
+ },
+ "kim-ki-duk": {
+  "query": "Lido di Venezia, Venice",
+  "results": [
+   {
+    "lat": 45.4164594,
+    "lon": 12.3706115,
+    "type": "town",
+    "category": "place",
+    "name": "Lido",
+    "display": "Lido, Venice, Venezia, Veneto, 30132, Italy",
+    "cc": "IT",
+    "osm": "node/1915130697"
+   },
+   {
+    "lat": 45.4126742,
+    "lon": 12.3764896,
+    "type": "beach",
+    "category": "natural",
+    "name": "Venice Lido",
+    "display": "Venice Lido, Lido-Pellestrina, Lido, Venice, Venezia, Veneto, Italy",
+    "cc": "IT",
+    "osm": "way/264206535"
+   }
+  ]
+ },
+ "song-kang-ho": {
+  "query": "Locarno, Switzerland",
+  "results": [
+   {
+    "lat": 46.1695739,
+    "lon": 8.7954859,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Locarno",
+    "display": "Locarno, Circolo di Locarno, Distretto di Locarno, Ticino, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1684697"
+   },
+   {
+    "lat": 46.2406857,
+    "lon": 8.5489114,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Distretto di Locarno",
+    "display": "Distretto di Locarno, Ticino, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1688679"
+   }
+  ]
+ },
+ "jeon-do-yeon": {
+  "query": "Cannes, France",
+  "results": [
+   {
+    "lat": 43.5515198,
+    "lon": 7.0134418,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cannes",
+    "display": "Cannes, Grasse, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/91734"
+   }
+  ]
+ },
+ "bong-joon-ho": {
+  "query": "Daegu, South Korea",
+  "results": [
+   {
+    "lat": 35.8713,
+    "lon": 128.6018,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Daegu",
+    "display": "Daegu, South Korea",
+    "cc": "KR",
+    "osm": "relation/2395674"
+   }
+  ]
+ },
+ "ousmane-sembene": {
+  "query": "Ziguinchor, Senegal",
+  "results": [
+   {
+    "lat": 12.5634929,
+    "lon": -16.2724609,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ziguinchor",
+    "display": "Ziguinchor, Département de Ziguinchor, Ziguinchor Region, Senegal",
+    "cc": "SN",
+    "osm": "relation/13009661"
+   },
+   {
+    "lat": 12.7539797,
+    "lon": -16.4039297,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ziguinchor Region",
+    "display": "Ziguinchor Region, Senegal",
+    "cc": "SN",
+    "osm": "relation/2909649"
+   }
+  ]
+ },
+ "youssef-chahine": {
+  "query": "Alexandria, Egypt",
+  "results": [
+   {
+    "lat": 31.1991806,
+    "lon": 29.8951716,
+    "type": "city",
+    "category": "place",
+    "name": "Alexandria",
+    "display": "Alexandria, 21519, Egypt",
+    "cc": "EG",
+    "osm": "node/27565020"
+   },
+   {
+    "lat": 30.9432983,
+    "lon": 29.765645,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Alexandria",
+    "display": "Alexandria, Egypt",
+    "cc": "EG",
+    "osm": "relation/3061846"
+   }
+  ]
+ },
+ "idrissa-ouedraogo": {
+  "query": "Banfora, Burkina Faso",
+  "results": [
+   {
+    "lat": 10.642703,
+    "lon": -4.752639,
+    "type": "city",
+    "category": "place",
+    "name": "Banfora",
+    "display": "Banfora, Comoé, Waterfalls, Burkina Faso",
+    "cc": "BF",
+    "osm": "node/302737807"
+   },
+   {
+    "lat": 10.6083531,
+    "lon": -4.834936,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Banfora",
+    "display": "Banfora, Comoé, Waterfalls, Burkina Faso",
+    "cc": "BF",
+    "osm": "relation/5671515"
+   }
+  ]
+ },
+ "safi-faye": {
+  "query": "Dakar, Senegal",
+  "results": [
+   {
+    "lat": 14.693425,
+    "lon": -17.447938,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dakar",
+    "display": "Dakar, Dakar Region, Senegal",
+    "cc": "SN",
+    "osm": "relation/12982139"
+   },
+   {
+    "lat": 14.7765117,
+    "lon": -17.3226387,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dakar Region",
+    "display": "Dakar Region, Senegal",
+    "cc": "SN",
+    "osm": "relation/2892079"
+   }
+  ]
+ },
+ "faten-hamama": {
+  "query": "Mansoura, Egypt",
+  "results": [
+   {
+    "lat": 31.0407773,
+    "lon": 31.3581295,
+    "type": "university",
+    "category": "amenity",
+    "name": "Mansoura University",
+    "display": "Mansoura University, Al Hag Ali Al Malky Street, First Mit Talkha, El Mansura, Dakahlia Governorate, 35516, Egypt",
+    "cc": "EG",
+    "osm": "relation/17091862"
+   },
+   {
+    "lat": 31.0335399,
+    "lon": 31.3930786,
+    "type": "stadium",
+    "category": "leisure",
+    "name": "El-Mansoura Stadium",
+    "display": "El-Mansoura Stadium, Street 3, Sandob And Kafr Al Manasra, El Mansura, Dakahlia Governorate, 35517, Egypt",
+    "cc": "EG",
+    "osm": "way/614809959"
+   },
+   {
+    "lat": 31.0529627,
+    "lon": 31.4005283,
+    "type": "zoo",
+    "category": "tourism",
+    "name": "Mansoura Zoo",
+    "display": "Mansoura Zoo, Al Montaser Street, Al Mansoureyya, Gideila, Kafr al Badamas, Dakahlia Governorate, 35523, Egypt",
+    "cc": "EG",
+    "osm": "way/95827949"
+   }
+  ]
+ },
+ "abderrahmane-sissako": {
+  "query": "Kiffa, Mauritania",
+  "results": [
+   {
+    "lat": 16.6161559,
+    "lon": -11.4002038,
+    "type": "city",
+    "category": "place",
+    "name": "Kiffa",
+    "display": "Kiffa, Assaba, Mauritania",
+    "cc": "MR",
+    "osm": "node/330423418"
+   }
+  ]
+ },
+ "djibril-diop-mambety": {
+  "query": "Colobane, Dakar",
+  "results": [
+   {
+    "lat": 14.6951179,
+    "lon": -17.4454265,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Colobane",
+    "display": "Colobane, Commune de Gueule Tapée-Fass-Colobane, Arrondissement de Dakar-Plateau, Dakar, Dakar Region, Senegal",
+    "cc": "SN",
+    "osm": "relation/7000512"
+   },
+   {
+    "lat": 14.7002757,
+    "lon": -17.441582,
+    "type": "platform",
+    "category": "railway",
+    "name": "Colobane",
+    "display": "Colobane, Autoroute Seydina-Limamoulaye, Gibraltar, Commune de Hann Bel-Air, Arrondissement de Grand Dakar, Dakar, Dakar Region, 13500, Senegal",
+    "cc": "SN",
+    "osm": "way/1016285869"
+   },
+   {
+    "lat": 14.7004304,
+    "lon": -17.441666,
+    "type": "stop",
+    "category": "railway",
+    "name": "Colobane",
+    "display": "Colobane, Autoroute Seydina-Limamoulaye, Gibraltar, Commune de Hann Bel-Air, Arrondissement de Grand Dakar, Dakar, Dakar Region, 13500, Senegal",
+    "cc": "SN",
+    "osm": "node/9373889211"
+   }
+  ]
+ },
+ "wanuri-kahiu": {
+  "query": "Nairobi, Kenya",
+  "results": [
+   {
+    "lat": -1.2890006,
+    "lon": 36.8172812,
+    "type": "city",
+    "category": "place",
+    "name": "Nairobi",
+    "display": "Nairobi, Nairobi County, Kenya",
+    "cc": "KE",
+    "osm": "relation/9185096"
+   },
+   {
+    "lat": -1.302398,
+    "lon": 36.8288509,
+    "type": "historic:administrative",
+    "category": "boundary",
+    "name": "Nairobi",
+    "display": "Nairobi, Nairobi County, Kenya",
+    "cc": "KE",
+    "osm": "relation/9721587"
+   },
+   {
+    "lat": -1.302398,
+    "lon": 36.8288509,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Nairobi County",
+    "display": "Nairobi County, Kenya",
+    "cc": "KE",
+    "osm": "relation/3492709"
+   }
+  ]
+ },
+ "haile-gerima": {
+  "query": "Gondar, Ethiopia",
+  "results": [
+   {
+    "lat": 12.610368,
+    "lon": 37.466766,
+    "type": "city",
+    "category": "place",
+    "name": "Gonder",
+    "display": "Gonder, North Gondar, Amhara Region, 6200, Ethiopia",
+    "cc": "ET",
+    "osm": "node/71556493"
+   }
+  ]
+ },
+ "jennifer-aniston": {
+  "query": "Sherman Oaks, Los Angeles",
+  "results": [
+   {
+    "lat": 34.1508718,
+    "lon": -118.448986,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sherman Oaks Neighborhood Council District",
+    "display": "Sherman Oaks Neighborhood Council District, Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/18194737"
+   }
+  ]
+ },
+ "bryan-cranston": {
+  "query": "Los Angeles, California",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "david-attenborough": {
+  "query": "Isleworth, London",
+  "results": [
+   {
+    "lat": 51.4685202,
+    "lon": -0.325966,
+    "type": "town",
+    "category": "place",
+    "name": "Isleworth",
+    "display": "Isleworth, Greater London, England, TW7 7AL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/27529290"
+   }
+  ]
+ },
+ "phoebe-waller-bridge": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "sofia-vergara": {
+  "query": "Barranquilla, Colombia",
+  "results": [
+   {
+    "lat": 11.0101922,
+    "lon": -74.8231794,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Barranquilla",
+    "display": "Barranquilla, Atlántico, RAP Caribe, Colombia",
+    "cc": "CO",
+    "osm": "relation/1335179"
+   },
+   {
+    "lat": 10.9938599,
+    "lon": -74.7926118,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Perímetro Urbano Barranquilla",
+    "display": "Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, Colombia",
+    "cc": "CO",
+    "osm": "relation/13466699"
+   }
+  ]
+ },
+ "shonda-rhimes": {
+  "query": "Chicago, Illinois",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "johnny-carson": {
+  "query": "Corning, Iowa",
+  "results": [
+   {
+    "lat": 40.9901625,
+    "lon": -94.7347831,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Corning",
+    "display": "Corning, Adams County, Iowa, 50841, United States",
+    "cc": "US",
+    "osm": "relation/128950"
+   }
+  ]
+ },
+ "issa-rae": {
+  "query": "Los Angeles, California",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "millie-bobby-brown": {
+  "query": "Marbella, Spain",
+  "results": [
+   {
+    "lat": 36.5074781,
+    "lon": -4.8047219,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Marbella",
+    "display": "Marbella, Costa del Sol Occidental, Malaga, Andalusia, Spain",
+    "cc": "ES",
+    "osm": "relation/340756"
+   },
+   {
+    "lat": 36.508976,
+    "lon": -4.88562,
+    "type": "city",
+    "category": "place",
+    "name": "Marbella",
+    "display": "Marbella, Costa del Sol Occidental, Malaga, Andalusia, 29601, Spain",
+    "cc": "ES",
+    "osm": "node/1081751552"
+   }
+  ]
+ },
+ "pedro-pascal": {
+  "query": "Santiago, Chile",
+  "results": [
+   {
+    "lat": -33.4376995,
+    "lon": -70.6510671,
+    "type": "city",
+    "category": "place",
+    "name": "Santiago",
+    "display": "Santiago, Provincia de Santiago, Santiago Metropolitan Region, 8320000, Chile",
+    "cc": "CL",
+    "osm": "node/50016356"
+   },
+   {
+    "lat": -33.4377752,
+    "lon": -70.6505796,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Santiago",
+    "display": "Santiago, Provincia de Santiago, Santiago Metropolitan Region, 8320000, Chile",
+    "cc": "CL",
+    "osm": "relation/164609"
+   }
+  ]
+ },
+ "olivia-colman": {
+  "query": "Norwich, Norfolk",
+  "results": [
+   {
+    "lat": 52.6285576,
+    "lon": 1.2923954,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Norwich",
+    "display": "Norwich, Norfolk, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/172506"
+   }
+  ]
+ },
+ "elizabeth-debicki": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "lily-collins": {
+  "query": "Guildford, Surrey",
+  "results": [
+   {
+    "lat": 51.2356068,
+    "lon": -0.5732063,
+    "type": "town",
+    "category": "place",
+    "name": "Guildford",
+    "display": "Guildford, Surrey, England, GU1 3DP, United Kingdom",
+    "cc": "GB",
+    "osm": "node/1688821544"
+   },
+   {
+    "lat": 51.2524032,
+    "lon": -0.5629314,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Guildford",
+    "display": "Guildford, Surrey, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/108787"
+   },
+   {
+    "lat": 49.1930451,
+    "lon": -122.7971749,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Guildford",
+    "display": "Guildford, Surrey, Metro Vancouver Regional District, British Columbia, Canada",
+    "cc": "CA",
+    "osm": "relation/11750467"
+   }
+  ]
+ },
+ "winona-ryder": {
+  "query": "Winona, Minnesota",
+  "results": [
+   {
+    "lat": 44.0500054,
+    "lon": -91.6392294,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Winona",
+    "display": "Winona, Winona County, Minnesota, 55987, United States",
+    "cc": "US",
+    "osm": "relation/137560"
+   },
+   {
+    "lat": 43.9582272,
+    "lon": -91.7807784,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Winona County",
+    "display": "Winona County, Minnesota, United States",
+    "cc": "US",
+    "osm": "relation/1797832"
+   }
+  ]
+ },
+ "jason-bateman": {
+  "query": "Rye, New York",
+  "results": [
+   {
+    "lat": 40.9821371,
+    "lon": -73.6840902,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Rye",
+    "display": "City of Rye, Westchester County, New York, 10580, United States",
+    "cc": "US",
+    "osm": "relation/174873"
+   }
+  ]
+ },
+ "lucille-ball": {
+  "query": "Jamestown, New York",
+  "results": [
+   {
+    "lat": 42.0965167,
+    "lon": -79.2380322,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jamestown",
+    "display": "Jamestown, Chautauqua County, New York, United States",
+    "cc": "US",
+    "osm": "relation/174942"
+   }
+  ]
+ },
+ "robin-williams": {
+  "query": "Chicago, Illinois",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "eddie-murphy": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "jim-carrey": {
+  "query": "Newmarket, Ontario",
+  "results": [
+   {
+    "lat": 44.056258,
+    "lon": -79.461708,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Newmarket",
+    "display": "Newmarket, York Region, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/2407406"
+   }
+  ]
+ },
+ "rowan-atkinson": {
+  "query": "Newcastle upon Tyne, England",
+  "results": [
+   {
+    "lat": 54.9738474,
+    "lon": -1.6131572,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Newcastle upon Tyne",
+    "display": "Newcastle upon Tyne, Tyne and Wear, North East, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/142282"
+   }
+  ]
+ },
+ "steve-martin": {
+  "query": "Waco, Texas",
+  "results": [
+   {
+    "lat": 31.5545147,
+    "lon": -97.1325618,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Waco",
+    "display": "Waco, McLennan County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/113870"
+   }
+  ]
+ },
+ "will-ferrell": {
+  "query": "Irvine, California",
+  "results": [
+   {
+    "lat": 33.6856969,
+    "lon": -117.825981,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Irvine",
+    "display": "Irvine, Orange County, California, United States",
+    "cc": "US",
+    "osm": "relation/114485"
+   }
+  ]
+ },
+ "buster-keaton": {
+  "query": "Piqua, Kansas",
+  "results": [
+   {
+    "lat": 37.922813,
+    "lon": -95.535261,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Piqua",
+    "display": "Piqua, Woodson County, Kansas, 66761, United States",
+    "cc": "US",
+    "osm": "node/151864903"
+   }
+  ]
+ },
+ "cantinflas": {
+  "query": "Mexico City, Mexico",
+  "results": [
+   {
+    "lat": 19.3207722,
+    "lon": -99.1514678,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mexico City",
+    "display": "Mexico City, Mexico",
+    "cc": "MX",
+    "osm": "relation/1376330"
+   },
+   {
+    "lat": 19.4326296,
+    "lon": -99.1331785,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mexico City",
+    "display": "Mexico City, Cuauhtémoc, Mexico City, Mexico",
+    "cc": "MX",
+    "osm": "relation/17483459"
+   }
+  ]
+ },
+ "toto": {
+  "query": "Naples, Italy",
+  "results": [
+   {
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Naples",
+    "display": "Naples, Campania, Italy",
+    "cc": "IT",
+    "osm": "relation/40767"
+   },
+   {
+    "lat": 40.7944401,
+    "lon": 14.4635416,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Naples",
+    "display": "Naples, Campania, Italy",
+    "cc": "IT",
+    "osm": "relation/40600"
+   }
+  ]
+ },
+ "arnold-schwarzenegger": {
+  "query": "Graz, Austria",
+  "results": [
+   {
+    "lat": 47.0708678,
+    "lon": 15.4382786,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Graz",
+    "display": "Graz, Styria, Austria",
+    "cc": "AT",
+    "osm": "relation/34719"
+   }
+  ]
+ },
+ "sylvester-stallone": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "dwayne-johnson": {
+  "query": "Hayward, California",
+  "results": [
+   {
+    "lat": 37.6688205,
+    "lon": -122.080796,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hayward",
+    "display": "Hayward, Alameda County, California, United States",
+    "cc": "US",
+    "osm": "relation/253652"
+   },
+   {
+    "lat": 37.6427106,
+    "lon": -120.3713035,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Hayward",
+    "display": "Hayward, Mariposa County, California, United States",
+    "cc": "US",
+    "osm": "node/150938251"
+   }
+  ]
+ },
+ "jet-li": {
+  "query": "Beijing, China",
+  "results": [
+   {
+    "lat": 39.9057136,
+    "lon": 116.3912972,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beijing",
+    "display": "Beijing, China",
+    "cc": "CN",
+    "osm": "relation/912940"
+   }
+  ]
+ },
+ "jason-statham": {
+  "query": "Shirebrook, Derbyshire",
+  "results": [
+   {
+    "lat": 53.2063042,
+    "lon": -1.2205319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shirebrook",
+    "display": "Shirebrook, Bolsover, Derbyshire, East Midlands, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/957591"
+   },
+   {
+    "lat": 53.2041213,
+    "lon": -1.2025927,
+    "type": "station",
+    "category": "railway",
+    "name": "Shirebrook",
+    "display": "Shirebrook, Vernon Court, Shirebrook, Upper Langwith, Bolsover, Derbyshire, East Midlands, England, NG20 8SP, United Kingdom",
+    "cc": "GB",
+    "osm": "node/3170173968"
+   }
+  ]
+ },
+ "keanu-reeves": {
+  "query": "Beirut, Lebanon",
+  "results": [
+   {
+    "lat": 33.8892265,
+    "lon": 35.5025585,
+    "type": "harbour",
+    "category": "landuse",
+    "name": "Beirut",
+    "display": "Beirut, Basta Tahta, Bashura, Beirut Governorate, Lebanon",
+    "cc": "LB",
+    "osm": "relation/5466662"
+   },
+   {
+    "lat": 33.8959203,
+    "lon": 35.47843,
+    "type": "city",
+    "category": "place",
+    "name": "Beirut",
+    "display": "Beirut, Beirut Governorate, 2034 1111, Lebanon",
+    "cc": "LB",
+    "osm": "node/289346590"
+   },
+   {
+    "lat": 33.8883901,
+    "lon": 35.5008361,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beirut Governorate",
+    "display": "Beirut Governorate, Lebanon",
+    "cc": "LB",
+    "osm": "relation/316552"
+   }
+  ]
+ },
+ "bruce-willis": {
+  "query": "Idar-Oberstein, Germany",
+  "results": [
+   {
+    "lat": 49.7107134,
+    "lon": 7.3136563,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Idar-Oberstein",
+    "display": "Idar-Oberstein, Landkreis Birkenfeld, Rhineland-Palatinate, 55743, Germany",
+    "cc": "DE",
+    "osm": "relation/444934"
+   }
+  ]
+ },
+ "harrison-ford": {
+  "query": "Chicago, Illinois",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "sean-connery": {
+  "query": "Edinburgh, Scotland",
+  "results": [
+   {
+    "lat": 55.9533456,
+    "lon": -3.1883749,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Edinburgh",
+    "display": "City of Edinburgh, Scotland, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/1920901"
+   }
+  ]
+ },
+ "meryl-streep": {
+  "query": "Summit, New Jersey",
+  "results": [
+   {
+    "lat": 40.7182356,
+    "lon": -74.3592296,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Summit",
+    "display": "Summit, Union County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170521"
+   }
+  ]
+ },
+ "daniel-day-lewis": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "viola-davis": {
+  "query": "St. Matthews, South Carolina",
+  "results": [
+   {
+    "lat": 33.664876,
+    "lon": -80.7778681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "St. Matthews",
+    "display": "St. Matthews, Calhoun County, South Carolina, 29135, United States",
+    "cc": "US",
+    "osm": "relation/194125"
+   }
+  ]
+ },
+ "cate-blanchett": {
+  "query": "Melbourne, Victoria",
+  "results": [
+   {
+    "lat": -37.8142454,
+    "lon": 144.9631732,
+    "type": "city",
+    "category": "place",
+    "name": "Melbourne",
+    "display": "Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/4246124"
+   },
+   {
+    "lat": -37.8123825,
+    "lon": 144.9482613,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Melbourne",
+    "display": "City of Melbourne, Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2404870"
+   },
+   {
+    "lat": -37.8141705,
+    "lon": 144.9655616,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Melbourne",
+    "display": "Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2383266"
+   }
+  ]
+ },
+ "isabelle-huppert": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "anthony-hopkins": {
+  "query": "Port Talbot, Wales",
+  "results": [
+   {
+    "lat": 51.5952353,
+    "lon": -3.7824148,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Port Talbot",
+    "display": "Port Talbot, Neath Port Talbot, Wales, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/11075122"
+   }
+  ]
+ },
+ "javier-bardem": {
+  "query": "Las Palmas de Gran Canaria",
+  "results": [
+   {
+    "lat": 28.1288694,
+    "lon": -15.4349015,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Las Palmas",
+    "display": "Las Palmas, Canary Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/340783"
+   }
+  ]
+ },
+ "morgan-freeman": {
+  "query": "Memphis, Tennessee",
+  "results": [
+   {
+    "lat": 35.146026,
+    "lon": -90.0517786,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Memphis",
+    "display": "Memphis, Shelby County, West Tennessee, Tennessee, United States",
+    "cc": "US",
+    "osm": "relation/197239"
+   }
+  ]
+ },
+ "gong-li": {
+  "query": "Shenyang, Liaoning",
+  "results": [
+   {
+    "lat": 41.8026095,
+    "lon": 123.4279105,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shenyang City",
+    "display": "Shenyang City, Liaoning, China",
+    "cc": "CN",
+    "osm": "relation/2769604"
+   }
+  ]
+ },
+ "steven-spielberg": {
+  "query": "Cincinnati, Ohio",
+  "results": [
+   {
+    "lat": 39.1012809,
+    "lon": -84.5127405,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cincinnati",
+    "display": "Cincinnati, Hamilton County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/183453"
+   }
+  ]
+ },
+ "martin-scorsese": {
+  "query": "Queens, New York",
+  "results": [
+   {
+    "lat": 40.7135078,
+    "lon": -73.8283132,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens",
+    "display": "Queens, Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691819"
+   },
+   {
+    "lat": 40.6515585,
+    "lon": -73.7926754,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens County",
+    "display": "Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369519"
+   }
+  ]
+ },
+ "alfred-hitchcock": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "akira-kurosawa": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "stanley-kubrick": {
+  "query": "The Bronx, New York",
+  "results": [
+   {
+    "lat": 40.8466508,
+    "lon": -73.8785937,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "The Bronx",
+    "display": "The Bronx, Bronx County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691916"
+   },
+   {
+    "lat": 40.851039,
+    "lon": -73.8402503,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bronx County",
+    "display": "Bronx County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552450"
+   }
+  ]
+ },
+ "federico-fellini": {
+  "query": "Rimini, Italy",
+  "results": [
+   {
+    "lat": 43.9465433,
+    "lon": 12.630749,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rimini",
+    "display": "Rimini, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/42661"
+   },
+   {
+    "lat": 44.0593886,
+    "lon": 12.5684371,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rimini",
+    "display": "Rimini, Emilia-Romagna, 47921-47924, Italy",
+    "cc": "IT",
+    "osm": "relation/42791"
+   }
+  ]
+ },
+ "ingmar-bergman": {
+  "query": "Uppsala, Sweden",
+  "results": [
+   {
+    "lat": 59.8586126,
+    "lon": 17.6387436,
+    "type": "city",
+    "category": "place",
+    "name": "Uppsala",
+    "display": "Uppsala, Uppsala kommun, Uppsala County, 753 20, Sweden",
+    "cc": "SE",
+    "osm": "node/25735371"
+   },
+   {
+    "lat": 59.8661986,
+    "lon": 17.5984327,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Uppsala kommun",
+    "display": "Uppsala kommun, Uppsala County, Sweden",
+    "cc": "SE",
+    "osm": "relation/305455"
+   }
+  ]
+ },
+ "satyajit-ray": {
+  "query": "Kolkata, West Bengal",
+  "results": [
+   {
+    "lat": 22.5726459,
+    "lon": 88.3638953,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kolkata",
+    "display": "Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India",
+    "cc": "IN",
+    "osm": "relation/9381363"
+   },
+   {
+    "lat": 22.5354262,
+    "lon": 88.3633146,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kolkata",
+    "display": "Kolkata, West Bengal, India",
+    "cc": "IN",
+    "osm": "relation/10371838"
+   }
+  ]
+ },
+ "guillermo-del-toro": {
+  "query": "Guadalajara, Jalisco",
+  "results": [
+   {
+    "lat": 20.6720375,
+    "lon": -103.338396,
+    "type": "city",
+    "category": "place",
+    "name": "Guadalajara",
+    "display": "Guadalajara, Región Centro, Jalisco, 44450, Mexico",
+    "cc": "MX",
+    "osm": "node/1663173902"
+   },
+   {
+    "lat": 20.6782614,
+    "lon": -103.3357646,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Guadalajara",
+    "display": "Guadalajara, Región Centro, Jalisco, Mexico",
+    "cc": "MX",
+    "osm": "relation/5605820"
+   }
+  ]
+ },
+ "pedro-almodovar": {
+  "query": "Calzada de Calatrava, Spain",
+  "results": [
+   {
+    "lat": 38.7043087,
+    "lon": -3.7766972,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Calzada de Calatrava",
+    "display": "Calzada de Calatrava, Ciudad Real, Castile-La Mancha, 13779, Spain",
+    "cc": "ES",
+    "osm": "relation/343725"
+   }
+  ]
+ },
+ "taika-waititi": {
+  "query": "Raukokore, New Zealand",
+  "results": [
+   {
+    "lat": -37.6398417,
+    "lon": 177.8813193,
+    "type": "locality",
+    "category": "place",
+    "name": "Raukokore",
+    "display": "Raukokore, Ōpōtiki District, Bay of Plenty, New Zealand",
+    "cc": "NZ",
+    "osm": "node/1918590909"
+   },
+   {
+    "lat": -37.7629592,
+    "lon": 177.9354497,
+    "type": "river",
+    "category": "waterway",
+    "name": "Raukokore River",
+    "display": "Raukokore River, Ōpōtiki District, Bay of Plenty, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/18172642"
+   }
+  ]
+ },
+ "humphrey-bogart": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "clark-gable": {
+  "query": "Cadiz, Ohio",
+  "results": [
+   {
+    "lat": 40.2728452,
+    "lon": -80.9967628,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cadiz",
+    "display": "Cadiz, Cadiz Township, Harrison County, Ohio, 43907, United States",
+    "cc": "US",
+    "osm": "relation/182916"
+   }
+  ]
+ },
+ "james-dean": {
+  "query": "Marion, Indiana",
+  "results": [
+   {
+    "lat": 40.5583739,
+    "lon": -85.6591442,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Marion",
+    "display": "Marion, Grant County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/127576"
+   },
+   {
+    "lat": 39.7809406,
+    "lon": -86.1367647,
+    "type": "county",
+    "category": "place",
+    "name": "Marion",
+    "display": "Marion, Indiana, 46204, United States",
+    "cc": "US",
+    "osm": "node/316954348"
+   },
+   {
+    "lat": 39.779801,
+    "lon": -86.1394092,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Marion County",
+    "display": "Marion County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/1812962"
+   }
+  ]
+ },
+ "elizabeth-taylor": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "katharine-hepburn": {
+  "query": "Hartford, Connecticut",
+  "results": [
+   {
+    "lat": 41.7661621,
+    "lon": -72.6732726,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hartford",
+    "display": "Hartford, Capitol Planning Region, Connecticut, United States",
+    "cc": "US",
+    "osm": "relation/3909995"
+   },
+   {
+    "lat": 41.7923478,
+    "lon": -72.722324,
+    "type": "county",
+    "category": "place",
+    "name": "Hartford",
+    "display": "Hartford, Connecticut, 06117, United States",
+    "cc": "US",
+    "osm": "node/316945351"
+   }
+  ]
+ },
+ "cary-grant": {
+  "query": "Bristol, England",
+  "results": [
+   {
+    "lat": 51.4430141,
+    "lon": -2.5816622,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/57539"
+   },
+   {
+    "lat": 51.4538022,
+    "lon": -2.5972985,
+    "type": "city",
+    "category": "place",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/5746665"
+   }
+  ]
+ },
+ "greta-garbo": {
+  "query": "Stockholm, Sweden",
+  "results": [
+   {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "type": "city",
+    "category": "place",
+    "name": "Stockholm",
+    "display": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+    "cc": "SE",
+    "osm": "node/25929985"
+   },
+   {
+    "lat": 59.3336131,
+    "lon": 18.0275091,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Stockholm Municipality",
+    "display": "Stockholm Municipality, Stockholm County, Sweden",
+    "cc": "SE",
+    "osm": "relation/398021"
+   }
+  ]
+ },
+ "omar-sharif": {
+  "query": "Alexandria, Egypt",
+  "results": [
+   {
+    "lat": 31.1991806,
+    "lon": 29.8951716,
+    "type": "city",
+    "category": "place",
+    "name": "Alexandria",
+    "display": "Alexandria, 21519, Egypt",
+    "cc": "EG",
+    "osm": "node/27565020"
+   },
+   {
+    "lat": 30.9432983,
+    "lon": 29.765645,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Alexandria",
+    "display": "Alexandria, Egypt",
+    "cc": "EG",
+    "osm": "relation/3061846"
+   }
+  ]
+ },
+ "olu-jacobs": {
+  "query": "Kano, Nigeria",
+  "results": [
+   {
+    "lat": 11.9939978,
+    "lon": 8.5219738,
+    "type": "city",
+    "category": "place",
+    "name": "Kano",
+    "display": "Kano, Yakasai, Kano Municipal, Kano State, 700271, Nigeria",
+    "cc": "NG",
+    "osm": "node/501540880"
+   },
+   {
+    "lat": 11.8948389,
+    "lon": 8.5364136,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kano State",
+    "display": "Kano State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3710302"
+   }
+  ]
+ },
+ "tunde-kelani": {
+  "query": "Abeokuta, Ogun",
+  "results": [
+   {
+    "lat": 7.161,
+    "lon": 3.348,
+    "type": "city",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565109"
+   },
+   {
+    "lat": 7.1376758,
+    "lon": 3.3657283,
+    "type": "town",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "cc": "NG",
+    "osm": "node/5728563921"
+   }
+  ]
+ },
+ "patience-ozokwor": {
+  "query": "Enugu, Enugu North",
+  "results": [
+   {
+    "lat": 6.4496519,
+    "lon": 7.5136856,
+    "type": "city",
+    "category": "place",
+    "name": "Enugu",
+    "display": "Enugu, Enugu North, Enugu State, 400102, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565107"
+   }
+  ]
+ },
+ "nkem-owoh": {
+  "query": "Udi, Enugu",
+  "results": [
+   {
+    "lat": 6.4361489,
+    "lon": 7.3987364,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Udi",
+    "display": "Udi, Enugu State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3717228"
+   },
+   {
+    "lat": 6.3227337,
+    "lon": 7.397846,
+    "type": "town",
+    "category": "place",
+    "name": "Udi",
+    "display": "Udi, Enugu State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501431274"
+   }
+  ]
+ },
+ "pete-edochie": {
+  "query": "Zaria, Kaduna",
+  "results": [
+   {
+    "lat": 11.0248119,
+    "lon": 7.6518533,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zaria",
+    "display": "Zaria, Kaduna State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3709376"
+   },
+   {
+    "lat": 11.1134917,
+    "lon": 7.7188449,
+    "type": "city",
+    "category": "place",
+    "name": "Zaria",
+    "display": "Zaria, Chikaji, Sabon Gari, Kaduna State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501388581"
+   }
+  ]
+ },
+ "kate-henshaw": {
+  "query": "Calabar, Cross River",
+  "results": [
+   {
+    "lat": 4.9795999,
+    "lon": 8.3373597,
+    "type": "city",
+    "category": "place",
+    "name": "Calabar",
+    "display": "Calabar, Calabar Municipal, Cross River State, 540222, Nigeria",
+    "cc": "NG",
+    "osm": "node/251608378"
+   },
+   {
+    "lat": 5.3122837,
+    "lon": 8.3046241,
+    "type": "river",
+    "category": "waterway",
+    "name": "Calabar",
+    "display": "Calabar, Cross River State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/2697017"
+   }
+  ]
+ },
+ "ini-edo": {
+  "query": "Onna, Akwa Ibom",
+  "results": [
+   {
+    "lat": 4.6367584,
+    "lon": 7.8723707,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Onna",
+    "display": "Onna, Akwa Ibom State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3715383"
+   }
+  ]
+ },
+ "femi-adebayo": {
+  "query": "Ilorin, Kwara",
+  "results": [
+   {
+    "lat": 8.4963657,
+    "lon": 4.5480484,
+    "type": "city",
+    "category": "place",
+    "name": "Ilorin",
+    "display": "Ilorin, Ilorin East, Kwara State, 240212, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565089"
+   }
+  ]
+ },
+ "tom-cruise": {
+  "query": "Syracuse, New York",
+  "results": [
+   {
+    "lat": 43.0481221,
+    "lon": -76.1474244,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Syracuse",
+    "display": "City of Syracuse, Onondaga County, New York, United States",
+    "cc": "US",
+    "osm": "relation/174916"
+   }
+  ]
+ },
+ "julia-roberts": {
+  "query": "Smyrna, Georgia",
+  "results": [
+   {
+    "lat": 33.883887,
+    "lon": -84.5147454,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Smyrna",
+    "display": "Smyrna, Cobb County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/119643"
+   },
+   {
+    "lat": 33.5981814,
+    "lon": -83.4048862,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Smyrna",
+    "display": "Smyrna, Morgan County, Georgia, United States",
+    "cc": "US",
+    "osm": "node/154111482"
+   }
+  ]
+ },
+ "will-smith": {
+  "query": "Philadelphia, Pennsylvania",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   }
+  ]
+ },
+ "nicole-kidman": {
+  "query": "Honolulu, Hawaii",
+  "results": [
+   {
+    "lat": 21.304547,
+    "lon": -157.855676,
+    "type": "city",
+    "category": "place",
+    "name": "Honolulu",
+    "display": "Honolulu, Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/119231"
+   },
+   {
+    "lat": 21.468151,
+    "lon": -157.960511,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Honolulu County",
+    "display": "Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/3861844"
+   },
+   {
+    "lat": 21.418555,
+    "lon": -157.804184,
+    "type": "census",
+    "category": "boundary",
+    "name": "Kaneohe",
+    "display": "Kaneohe, Honolulu County, Hawaii, United States",
+    "cc": "US",
+    "osm": "relation/119237"
+   }
+  ]
+ },
+ "jeremy-allen-white": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "ayo-edebiri": {
+  "query": "Boston, Massachusetts",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   }
+  ]
+ }
+}

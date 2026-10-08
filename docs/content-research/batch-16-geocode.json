@@ -1,0 +1,1667 @@
+{
+ "naomi-campbell": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "kate-moss": {
+  "query": "Croydon, London",
+  "results": [
+   {
+    "lat": 51.3736962,
+    "lon": -0.1003062,
+    "type": "town",
+    "category": "place",
+    "name": "Croydon",
+    "display": "Croydon, Greater London, England, CR9 1PD, United Kingdom",
+    "cc": "GB",
+    "osm": "node/21262496"
+   },
+   {
+    "lat": 51.3550556,
+    "lon": -0.0643104,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "London Borough of Croydon",
+    "display": "London Borough of Croydon, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51907"
+   }
+  ]
+ },
+ "cindy-crawford": {
+  "query": "DeKalb, DeKalb County, Illinois",
+  "results": [
+   {
+    "lat": 41.9298644,
+    "lon": -88.7501925,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "DeKalb",
+    "display": "DeKalb, DeKalb Township, DeKalb County, Illinois, 60115, United States",
+    "cc": "US",
+    "osm": "relation/13498248"
+   }
+  ]
+ },
+ "tyra-banks": {
+  "query": "Inglewood, California",
+  "results": [
+   {
+    "lat": 33.9562003,
+    "lon": -118.353132,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Inglewood",
+    "display": "Inglewood, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/112090"
+   }
+  ]
+ },
+ "gisele-bundchen": {
+  "query": "Horizontina, Rio Grande do Sul",
+  "results": [
+   {
+    "lat": -27.627931,
+    "lon": -54.3090256,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Horizontina",
+    "display": "Horizontina, Rio Grande do Sul, South Region, 98920-000, Brazil",
+    "cc": "BR",
+    "osm": "relation/242370"
+   },
+   {
+    "lat": -27.6035778,
+    "lon": -54.3077091,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Horizontina",
+    "display": "Horizontina, Rio Grande do Sul, South Region, 98920-000, Brazil",
+    "cc": "BR",
+    "osm": "relation/7600504"
+   }
+  ]
+ },
+ "heidi-klum": {
+  "query": "Bergisch Gladbach, Germany",
+  "results": [
+   {
+    "lat": 50.9929303,
+    "lon": 7.1277379,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bergisch Gladbach",
+    "display": "Bergisch Gladbach, Rheinisch-Bergischer Kreis, North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/173103"
+   }
+  ]
+ },
+ "linda-evangelista": {
+  "query": "St. Catharines, Ontario",
+  "results": [
+   {
+    "lat": 43.1579812,
+    "lon": -79.2441003,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "St. Catharines",
+    "display": "St. Catharines, Niagara Region, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/2387995"
+   },
+   {
+    "lat": 43.1787941,
+    "lon": -79.2419493,
+    "type": "political",
+    "category": "boundary",
+    "name": "St. Catharines",
+    "display": "St. Catharines, Niagara Region, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/9615917"
+   }
+  ]
+ },
+ "christy-turlington": {
+  "query": "Walnut Creek, California",
+  "results": [
+   {
+    "lat": 37.9020731,
+    "lon": -122.0618702,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Walnut Creek",
+    "display": "Walnut Creek, Contra Costa County, California, United States",
+    "cc": "US",
+    "osm": "relation/3705576"
+   }
+  ]
+ },
+ "yves-saint-laurent": {
+  "query": "Oran, Algeria",
+  "results": [
+   {
+    "lat": 35.7044415,
+    "lon": -0.6502981,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Oran",
+    "display": "Oran, Oran District, Oran, 31000, Algeria",
+    "cc": "DZ",
+    "osm": "relation/1259562"
+   },
+   {
+    "lat": 35.6215862,
+    "lon": -0.7016143,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Oran",
+    "display": "Oran, 31000, Algeria",
+    "cc": "DZ",
+    "osm": "relation/1259187"
+   }
+  ]
+ },
+ "christian-dior": {
+  "query": "Granville, Manche",
+  "results": [
+   {
+    "lat": 48.8376296,
+    "lon": -1.5959177,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Granville",
+    "display": "Granville, Avranches, Manche, Normandy, Metropolitan France, 50400, France",
+    "cc": "FR",
+    "osm": "relation/1019742"
+   }
+  ]
+ },
+ "giorgio-armani": {
+  "query": "Piacenza, Italy",
+  "results": [
+   {
+    "lat": 44.8476352,
+    "lon": 9.6665313,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Piacenza",
+    "display": "Piacenza, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/43332"
+   },
+   {
+    "lat": 45.0534751,
+    "lon": 9.6947461,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Piacenza",
+    "display": "Piacenza, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/43981"
+   }
+  ]
+ },
+ "karl-lagerfeld": {
+  "query": "Hamburg, Germany",
+  "results": [
+   {
+    "lat": 53.5501721,
+    "lon": 10.0013165,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hamburg",
+    "display": "Hamburg, Germany",
+    "cc": "DE",
+    "osm": "relation/62782"
+   }
+  ]
+ },
+ "vivienne-westwood": {
+  "query": "Glossop, Derbyshire",
+  "results": [
+   {
+    "lat": 53.4433552,
+    "lon": -1.9499173,
+    "type": "town",
+    "category": "place",
+    "name": "Glossop",
+    "display": "Glossop, High Peak, Derbyshire, East Midlands, England, SK13 8AP, United Kingdom",
+    "cc": "GB",
+    "osm": "node/26419849"
+   },
+   {
+    "lat": 53.4448108,
+    "lon": -1.950017,
+    "type": "station",
+    "category": "railway",
+    "name": "Glossop",
+    "display": "Glossop, Norfolk Street, Whitfield, Glossop, High Peak, Derbyshire, East Midlands, England, SK13 7RA, United Kingdom",
+    "cc": "GB",
+    "osm": "node/35347898"
+   }
+  ]
+ },
+ "issey-miyake": {
+  "query": "Hiroshima, Japan",
+  "results": [
+   {
+    "lat": 34.3917241,
+    "lon": 132.4517589,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hiroshima",
+    "display": "Hiroshima, Hiroshima Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4097196"
+   }
+  ]
+ },
+ "oscar-de-la-renta": {
+  "query": "Santo Domingo, Distrito Nacional",
+  "results": [
+   {
+    "lat": 18.4713858,
+    "lon": -69.8918436,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Santo Domingo",
+    "display": "Santo Domingo, Distrito Nacional, 03201, Dominican Republic",
+    "cc": "DO",
+    "osm": "relation/7407678"
+   }
+  ]
+ },
+ "alexander-mcqueen": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "estee-lauder": {
+  "query": "Queens, New York",
+  "results": [
+   {
+    "lat": 40.7135078,
+    "lon": -73.8283132,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens",
+    "display": "Queens, Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691819"
+   },
+   {
+    "lat": 40.6515585,
+    "lon": -73.7926754,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens County",
+    "display": "Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369519"
+   }
+  ]
+ },
+ "helena-rubinstein": {
+  "query": "Melbourne, Victoria",
+  "results": [
+   {
+    "lat": -37.8142454,
+    "lon": 144.9631732,
+    "type": "city",
+    "category": "place",
+    "name": "Melbourne",
+    "display": "Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/4246124"
+   },
+   {
+    "lat": -37.8123825,
+    "lon": 144.9482613,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Melbourne",
+    "display": "City of Melbourne, Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2404870"
+   },
+   {
+    "lat": -37.8141705,
+    "lon": 144.9655616,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Melbourne",
+    "display": "Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2383266"
+   }
+  ]
+ },
+ "elizabeth-arden": {
+  "query": "Woodbridge, Vaughan, Ontario",
+  "results": [
+   {
+    "lat": 43.7848982,
+    "lon": -79.5923855,
+    "type": "suburb",
+    "category": "place",
+    "name": "Woodbridge",
+    "display": "Woodbridge, Vaughan, York Region, Ontario, L4L 9L9, Canada",
+    "cc": "CA",
+    "osm": "node/430535636"
+   }
+  ]
+ },
+ "madam-cj-walker": {
+  "query": "Pittsburgh, Pennsylvania",
+  "results": [
+   {
+    "lat": 40.4406968,
+    "lon": -80.0025666,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pittsburgh",
+    "display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188553"
+   }
+  ]
+ },
+ "charles-revson": {
+  "query": "Boston, Massachusetts",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   }
+  ]
+ },
+ "huda-kattan": {
+  "query": "Dubai, United Arab Emirates",
+  "results": [
+   {
+    "lat": 25.0742823,
+    "lon": 55.1885624,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dubai",
+    "display": "Dubai, Dubai Emirate, United Arab Emirates",
+    "cc": "AE",
+    "osm": "relation/4479752"
+   },
+   {
+    "lat": 25.2647227,
+    "lon": 55.2924146,
+    "type": "city",
+    "category": "place",
+    "name": "Dubai",
+    "display": "Dubai, Dubai Emirate, United Arab Emirates",
+    "cc": "AE",
+    "osm": "node/31248510"
+   },
+   {
+    "lat": 24.8047465,
+    "lon": 56.1460508,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dubai Emirate",
+    "display": "Dubai Emirate, United Arab Emirates",
+    "cc": "AE",
+    "osm": "relation/3766483"
+   }
+  ]
+ },
+ "anastasia-soare": {
+  "query": "Beverly Hills, California",
+  "results": [
+   {
+    "lat": 34.0696501,
+    "lon": -118.3963062,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beverly Hills",
+    "display": "Beverly Hills, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/3503615"
+   }
+  ]
+ },
+ "max-factor": {
+  "query": "Łódź, Poland",
+  "results": [
+   {
+    "lat": 51.7687323,
+    "lon": 19.4569911,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Łódź",
+    "display": "Łódź, Łódź Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/2413295"
+   },
+   {
+    "lat": 51.7728245,
+    "lon": 19.478486,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Łódź",
+    "display": "Łódź, Łódź Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/1582777"
+   },
+   {
+    "lat": 52.2584701,
+    "lon": 16.7440265,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Łódź",
+    "display": "Łódź, gmina Stęszew, Poznań County, Greater Poland Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/7003080"
+   }
+  ]
+ },
+ "bobbi-brown": {
+  "query": "Montclair, New Jersey",
+  "results": [
+   {
+    "lat": 40.8164458,
+    "lon": -74.2210643,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montclair",
+    "display": "Montclair, Essex County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170783"
+   }
+  ]
+ },
+ "gucci": {
+  "query": "Florence, Italy",
+  "results": [
+   {
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42602"
+   },
+   {
+    "lat": 43.8456527,
+    "lon": 11.3743092,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42472"
+   }
+  ]
+ },
+ "fendi": {
+  "query": "Rome, Italy",
+  "results": [
+   {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rome",
+    "display": "Rome, Roma Capitale, Lazio, Italy",
+    "cc": "IT",
+    "osm": "relation/41485"
+   },
+   {
+    "lat": 41.8520413,
+    "lon": 12.6312117,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Roma Capitale",
+    "display": "Roma Capitale, Lazio, Italy",
+    "cc": "IT",
+    "osm": "relation/41313"
+   }
+  ]
+ },
+ "burberry": {
+  "query": "Basingstoke, Hampshire",
+  "results": [
+   {
+    "lat": 51.262826,
+    "lon": -1.0861976,
+    "type": "town",
+    "category": "place",
+    "name": "Basingstoke",
+    "display": "Basingstoke, Basingstoke and Deane, Hampshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "way/21349688"
+   }
+  ]
+ },
+ "dolce-gabbana": {
+  "query": "Milan, Italy",
+  "results": [
+   {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Rodano, Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44915"
+   },
+   {
+    "lat": 45.4542119,
+    "lon": 9.111351,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44881"
+   }
+  ]
+ },
+ "louis-vuitton": {
+  "query": "Place Vendôme, Paris",
+  "results": [
+   {
+    "lat": 48.8674634,
+    "lon": 2.3294281,
+    "type": "square",
+    "category": "place",
+    "name": "Place Vendôme",
+    "display": "Place Vendôme, Quartier Vendôme, 1st Arrondissement, Paris, Ile-de-France, Metropolitan France, 75001, France",
+    "cc": "FR",
+    "osm": "way/54175774"
+   }
+  ]
+ },
+ "balenciaga": {
+  "query": "Donostia / San Sebastián, Gipuzkoa",
+  "results": [
+   {
+    "lat": 43.3224219,
+    "lon": -1.9838889,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Sebastián",
+    "display": "San Sebastián, Gipuzkoa, Autonomous Community of the Basque Country, Spain",
+    "cc": "ES",
+    "osm": "relation/346465"
+   }
+  ]
+ },
+ "valentino": {
+  "query": "Via dei Condotti, Rome",
+  "results": [
+   {
+    "lat": 41.904992,
+    "lon": 12.4801094,
+    "type": "residential",
+    "category": "highway",
+    "name": "Via dei Condotti",
+    "display": "Via dei Condotti, Campo Marzio, Municipio Roma I, Rome, Roma Capitale, Lazio, 00187, Italy",
+    "cc": "IT",
+    "osm": "way/23337313"
+   },
+   {
+    "lat": 41.9055912,
+    "lon": 12.4817113,
+    "type": "pedestrian",
+    "category": "highway",
+    "name": "Via dei Condotti",
+    "display": "Via dei Condotti, Campo Marzio, Municipio Roma I, Rome, Roma Capitale, Lazio, 00187, Italy",
+    "cc": "IT",
+    "osm": "way/299761484"
+   },
+   {
+    "lat": 41.7615386,
+    "lon": 12.7101384,
+    "type": "residential",
+    "category": "highway",
+    "name": "Via dei Condotti",
+    "display": "Via dei Condotti, Rocca di Papa, Roma Capitale, Lazio, 00079, Italy",
+    "cc": "IT",
+    "osm": "way/609679108"
+   }
+  ]
+ },
+ "versace": {
+  "query": "Milan, Italy",
+  "results": [
+   {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Rodano, Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44915"
+   },
+   {
+    "lat": 45.4542119,
+    "lon": 9.111351,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44881"
+   }
+  ]
+ },
+ "new-york-fashion-week": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "london-fashion-week": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "milan-fashion-week": {
+  "query": "Milan, Italy",
+  "results": [
+   {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Rodano, Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44915"
+   },
+   {
+    "lat": 45.4542119,
+    "lon": 9.111351,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44881"
+   }
+  ]
+ },
+ "paris-fashion-week": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "ginza": {
+  "query": "Ginza, Chuo, Tokyo",
+  "results": [
+   {
+    "lat": 35.6720135,
+    "lon": 139.7647202,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ginza",
+    "display": "Ginza, Chuo, Tokyo, 104-0061, Japan",
+    "cc": "JP",
+    "osm": "relation/4859036"
+   },
+   {
+    "lat": 35.6728947,
+    "lon": 139.7630946,
+    "type": "stop",
+    "category": "railway",
+    "name": "Ginza",
+    "display": "Ginza, Ginza 4, Ginza, Chuo, Tokyo, 104-0061, Japan",
+    "cc": "JP",
+    "osm": "node/6271999742"
+   },
+   {
+    "lat": 35.6720411,
+    "lon": 139.7638504,
+    "type": "stop",
+    "category": "railway",
+    "name": "Ginza",
+    "display": "Ginza, Harumi-dori Avenue, Ginza 5, Ginza, Chuo, Tokyo, 104-0061, Japan",
+    "cc": "JP",
+    "osm": "node/6272010121"
+   }
+  ]
+ },
+ "rodeo-drive": {
+  "query": "Rodeo Drive, Beverly Hills",
+  "results": [
+   {
+    "lat": 34.0676303,
+    "lon": -118.4013549,
+    "type": "secondary",
+    "category": "highway",
+    "name": "Rodeo Drive",
+    "display": "Rodeo Drive, Golden Triange, Beverly Hills, Los Angeles County, California, 90210, United States",
+    "cc": "US",
+    "osm": "way/601412033"
+   },
+   {
+    "lat": 34.0672658,
+    "lon": -118.4010609,
+    "type": "secondary",
+    "category": "highway",
+    "name": "Rodeo Drive",
+    "display": "Rodeo Drive, Golden Triange, Beverly Hills, Los Angeles County, California, 90212, United States",
+    "cc": "US",
+    "osm": "way/601412034"
+   },
+   {
+    "lat": 13.9253329,
+    "lon": 121.1597366,
+    "type": "residential",
+    "category": "highway",
+    "name": "Rodeo Drive",
+    "display": "Rodeo Drive, Beverly Hills, Kayumanggi, Malagonlong, Lipa, Batangas, Calabarzon, 4217, Philippines",
+    "cc": "PH",
+    "osm": "way/435096213"
+   }
+  ]
+ },
+ "savile-row": {
+  "query": "Savile Row, London",
+  "results": [
+   {
+    "lat": 51.5107338,
+    "lon": -0.1402191,
+    "type": "residential",
+    "category": "highway",
+    "name": "Savile Row",
+    "display": "Savile Row, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1S 3QF, United Kingdom",
+    "cc": "GB",
+    "osm": "way/18791974"
+   },
+   {
+    "lat": 51.5119652,
+    "lon": -0.1414077,
+    "type": "unclassified",
+    "category": "highway",
+    "name": "Savile Row",
+    "display": "Savile Row, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1S 2ET, United Kingdom",
+    "cc": "GB",
+    "osm": "way/4259249"
+   },
+   {
+    "lat": 51.5114261,
+    "lon": -0.140908,
+    "type": "unclassified",
+    "category": "highway",
+    "name": "Savile Row",
+    "display": "Savile Row, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1S 2EU, United Kingdom",
+    "cc": "GB",
+    "osm": "way/4370945"
+   }
+  ]
+ },
+ "lisa-price": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "pat-mcgrath": {
+  "query": "Northampton, England",
+  "results": [
+   {
+    "lat": 52.2343297,
+    "lon": -0.9028043,
+    "type": "historic",
+    "category": "boundary",
+    "name": "Northampton",
+    "display": "Northampton, West Northamptonshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/394021"
+   },
+   {
+    "lat": 52.2378853,
+    "lon": -0.8963639,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Northampton",
+    "display": "Northampton, West Northamptonshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/11755384"
+   },
+   {
+    "lat": 52.2877582,
+    "lon": -2.2421229,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Northampton",
+    "display": "Northampton, Ombersley, Wychavon, Worcestershire, England, WR9 0LJ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/5769890766"
+   }
+  ]
+ },
+ "charlotte-tilbury": {
+  "query": "Ibiza, Balearic Islands",
+  "results": [
+   {
+    "lat": 38.9743901,
+    "lon": 1.4197463,
+    "type": "island",
+    "category": "place",
+    "name": "Ibiza",
+    "display": "Ibiza, Balearic Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/6076060"
+   },
+   {
+    "lat": 38.910072,
+    "lon": 1.430454,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ibiza",
+    "display": "Ibiza, Balearic Islands, 07800, Spain",
+    "cc": "ES",
+    "osm": "relation/347249"
+   },
+   {
+    "lat": 38.9743901,
+    "lon": 1.4197463,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ibiza",
+    "display": "Ibiza, Balearic Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/2181664"
+   }
+  ]
+ },
+ "isamaya-ffrench": {
+  "query": "Cambridge, Cambridgeshire",
+  "results": [
+   {
+    "lat": 52.1975846,
+    "lon": 0.1391537,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cambridge",
+    "display": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/295355"
+   },
+   {
+    "lat": 52.2055314,
+    "lon": 0.1186637,
+    "type": "city",
+    "category": "place",
+    "name": "Cambridge",
+    "display": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3NR, United Kingdom",
+    "cc": "GB",
+    "osm": "node/20971094"
+   }
+  ]
+ },
+ "peter-philips": {
+  "query": "Antwerp, Belgium",
+  "results": [
+   {
+    "lat": 51.2211097,
+    "lon": 4.3997081,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Antwerp",
+    "display": "Antwerp, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/59518"
+   },
+   {
+    "lat": 51.2477367,
+    "lon": 4.776576,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Antwerp",
+    "display": "Antwerp, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/53114"
+   },
+   {
+    "lat": 51.2770465,
+    "lon": 4.5443047,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Antwerp",
+    "display": "Antwerp, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/1902793"
+   }
+  ]
+ },
+ "lucia-pieroni": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "shu-uemura": {
+  "query": "Hollywood, Los Angeles",
+  "results": [
+   {
+    "lat": 34.0980031,
+    "lon": -118.329523,
+    "type": "suburb",
+    "category": "place",
+    "name": "Hollywood",
+    "display": "Hollywood, Los Angeles, Los Angeles County, California, 90028, United States",
+    "cc": "US",
+    "osm": "node/1830231415"
+   }
+  ]
+ },
+ "mario-dedivanovic": {
+  "query": "The Bronx, New York",
+  "results": [
+   {
+    "lat": 40.8466508,
+    "lon": -73.8785937,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "The Bronx",
+    "display": "The Bronx, Bronx County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691916"
+   },
+   {
+    "lat": 40.851039,
+    "lon": -73.8402503,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bronx County",
+    "display": "Bronx County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552450"
+   }
+  ]
+ },
+ "val-garland": {
+  "query": "Bristol, England",
+  "results": [
+   {
+    "lat": 51.4430141,
+    "lon": -2.5816622,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/57539"
+   },
+   {
+    "lat": 51.4538022,
+    "lon": -2.5972985,
+    "type": "city",
+    "category": "place",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/5746665"
+   }
+  ]
+ },
+ "law-roach": {
+  "query": "Pilsen, Chicago",
+  "results": [
+   {
+    "lat": 41.8570402,
+    "lon": -87.6618834,
+    "type": "quarter",
+    "category": "place",
+    "name": "Pilsen",
+    "display": "Pilsen, Lower West Side, Chicago, West Chicago Township, Cook County, Illinois, 60608, United States",
+    "cc": "US",
+    "osm": "node/153715851"
+   }
+  ]
+ },
+ "carine-roitfeld": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "grace-coddington": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "edward-enninful": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "alastair-mckimm": {
+  "query": "Belfast, Northern Ireland",
+  "results": [
+   {
+    "lat": 54.596391,
+    "lon": -5.9301829,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Belfast City District",
+    "display": "Belfast City District, County Antrim, Northern Ireland, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/19414244"
+   }
+  ]
+ },
+ "isabella-blow": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "patricia-field": {
+  "query": "Queens, New York",
+  "results": [
+   {
+    "lat": 40.7135078,
+    "lon": -73.8283132,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens",
+    "display": "Queens, Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691819"
+   },
+   {
+    "lat": 40.6515585,
+    "lon": -73.7926754,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Queens County",
+    "display": "Queens County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369519"
+   }
+  ]
+ },
+ "jason-bolden": {
+  "query": "St. Louis, Missouri",
+  "results": [
+   {
+    "lat": 38.6254063,
+    "lon": -90.190009,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Louis",
+    "display": "Saint Louis, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/1180533"
+   }
+  ]
+ },
+ "mel-ottenberg": {
+  "query": "Washington, District of Columbia",
+  "results": [
+   {
+    "lat": 38.8950982,
+    "lon": -77.0363849,
+    "type": "city",
+    "category": "place",
+    "name": "Washington",
+    "display": "Washington, District of Columbia, United States",
+    "cc": "US",
+    "osm": "relation/5396194"
+   }
+  ]
+ },
+ "kate-young": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "harry-lambert": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "schiaparelli": {
+  "query": "Place Vendôme, Paris",
+  "results": [
+   {
+    "lat": 48.8674634,
+    "lon": 2.3294281,
+    "type": "square",
+    "category": "place",
+    "name": "Place Vendôme",
+    "display": "Place Vendôme, Quartier Vendôme, 1st Arrondissement, Paris, Ile-de-France, Metropolitan France, 75001, France",
+    "cc": "FR",
+    "osm": "way/54175774"
+   }
+  ]
+ },
+ "comme-des-garcons": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "cfda": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "british-fashion-council": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "camera-nazionale-della-moda": {
+  "query": "Milan, Italy",
+  "results": [
+   {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Rodano, Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44915"
+   },
+   {
+    "lat": 45.4542119,
+    "lon": 9.111351,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44881"
+   }
+  ]
+ },
+ "federation-haute-couture": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "omoyemi-akerele": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   },
+   {
+    "lat": 6.5269033,
+    "lon": 3.5774005,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lagos State",
+    "display": "Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718182"
+   }
+  ]
+ },
+ "royal-academy-fashion-department": {
+  "query": "Antwerp, Belgium",
+  "results": [
+   {
+    "lat": 51.2211097,
+    "lon": 4.3997081,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Antwerp",
+    "display": "Antwerp, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/59518"
+   },
+   {
+    "lat": 51.2477367,
+    "lon": 4.776576,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Antwerp",
+    "display": "Antwerp, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/53114"
+   },
+   {
+    "lat": 51.2770465,
+    "lon": 4.5443047,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Antwerp",
+    "display": "Antwerp, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/1902793"
+   }
+  ]
+ },
+ "avenue-montaigne": {
+  "query": "Avenue Montaigne, Paris",
+  "results": [
+   {
+    "lat": 48.8676934,
+    "lon": 2.307626,
+    "type": "secondary",
+    "category": "highway",
+    "name": "Avenue Montaigne",
+    "display": "Avenue Montaigne, Quartier des Champs-Élysées, 8th Arrondissement of Paris, Paris, Ile-de-France, Metropolitan France, 75008, France",
+    "cc": "FR",
+    "osm": "way/362231936"
+   }
+  ]
+ }
+}

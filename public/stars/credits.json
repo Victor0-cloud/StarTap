@@ -1,0 +1,52 @@
+{
+  "burna-boy": {
+    "imageUrl": "/stars/burna-boy.jpg",
+    "title": "Burna Boy",
+    "author": "Ameyaw Debrah",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burna_Boy.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Burna_Boy.jpg/500px-Burna_Boy.jpg",
+    "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+  },
+  "rihanna": {
+    "imageUrl": "/stars/rihanna.jpg",
+    "title": "Rihanna Met Gala 2017.jpg",
+    "author": "Danilo Lauria",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2017.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Rihanna_Met_Gala_2017.jpg/500px-Rihanna_Met_Gala_2017.jpg",
+    "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+  },
+  "adele": {
+    "imageUrl": "/stars/adele.jpg",
+    "title": "Adele.jpg",
+    "author": "Mpawsey",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Adele.jpg",
+    "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+  },
+  "messi": {
+    "imageUrl": "/stars/messi.jpg",
+    "title": "Lionel Messi close-up.jpg",
+    "author": "Fanny Schertzer; existing crop by CHUCAO",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg",
+    "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+  },
+  "shakira": {
+    "imageUrl": "/stars/shakira.jpg",
+    "title": "Shakira - Glastonbury Festival 2010.jpg",
+    "author": "jaswooduk",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakira_-_Glastonbury_Festival_2010.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shakira_-_Glastonbury_Festival_2010.jpg/500px-Shakira_-_Glastonbury_Festival_2010.jpg",
+    "changes": "Resized by Wikimedia where applicable; cropped to fit the portrait frame with CSS. Image adaptations retain the linked source licence."
+  }
+}

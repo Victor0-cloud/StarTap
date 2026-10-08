@@ -1,0 +1,382 @@
+{
+ "thegrefg": {
+  "query": "Alhama de Murcia, Murcia",
+  "results": [
+   {
+    "lat": 37.8515145,
+    "lon": -1.4251045,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Alhama de Murcia",
+    "display": "Alhama de Murcia, Bajo Guadalentín, Region of Murcia, Spain",
+    "cc": "ES",
+    "osm": "relation/344992"
+   }
+  ]
+ },
+ "casimiro": {
+  "query": "Rio de Janeiro, Brazil",
+  "results": [
+   {
+    "lat": -22.9110137,
+    "lon": -43.2093727,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/2697338"
+   },
+   {
+    "lat": -22.2752762,
+    "lon": -42.419415,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/57963"
+   }
+  ]
+ },
+ "rivers": {
+  "query": "Monterrey, Nuevo León",
+  "results": [
+   {
+    "lat": 25.6802019,
+    "lon": -100.315258,
+    "type": "city",
+    "category": "place",
+    "name": "Monterrey",
+    "display": "Monterrey, Nuevo León, 64490, Mexico",
+    "cc": "MX",
+    "osm": "node/4145210488"
+   },
+   {
+    "lat": 25.6397836,
+    "lon": -100.2931016,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Monterrey",
+    "display": "Monterrey, Nuevo León, Mexico",
+    "cc": "MX",
+    "osm": "relation/5606060"
+   }
+  ]
+ },
+ "westcol": {
+  "query": "Medellín, Antioquia",
+  "results": [
+   {
+    "lat": 6.2697324,
+    "lon": -75.6025597,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Medellín",
+    "display": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, 0500, Colombia",
+    "cc": "CO",
+    "osm": "relation/1343264"
+   },
+   {
+    "lat": 6.2443382,
+    "lon": -75.573553,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Medellín",
+    "display": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, Colombia",
+    "cc": "CO",
+    "osm": "relation/3541280"
+   }
+  ]
+ },
+ "alana-flores": {
+  "query": "Monterrey, Nuevo León",
+  "results": [
+   {
+    "lat": 25.6802019,
+    "lon": -100.315258,
+    "type": "city",
+    "category": "place",
+    "name": "Monterrey",
+    "display": "Monterrey, Nuevo León, 64490, Mexico",
+    "cc": "MX",
+    "osm": "node/4145210488"
+   },
+   {
+    "lat": 25.6397836,
+    "lon": -100.2931016,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Monterrey",
+    "display": "Monterrey, Nuevo León, Mexico",
+    "cc": "MX",
+    "osm": "relation/5606060"
+   }
+  ]
+ },
+ "theo-von": {
+  "query": "Covington, Louisiana",
+  "results": [
+   {
+    "lat": 30.4753525,
+    "lon": -90.1010474,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Covington",
+    "display": "Covington, Saint Tammany Parish, Louisiana, United States",
+    "cc": "US",
+    "osm": "relation/132007"
+   }
+  ]
+ },
+ "mel-robbins": {
+  "query": "Dorset, Vermont",
+  "results": [
+   {
+    "lat": 43.2397974,
+    "lon": -73.00927,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dorset",
+    "display": "Dorset, Bennington County, Vermont, United States",
+    "cc": "US",
+    "osm": "relation/8906727"
+   },
+   {
+    "lat": 43.2551125,
+    "lon": -73.1028446,
+    "type": "census",
+    "category": "boundary",
+    "name": "Dorset",
+    "display": "Dorset, Bennington County, Vermont, United States",
+    "cc": "US",
+    "osm": "relation/18306070"
+   },
+   {
+    "lat": 43.254874,
+    "lon": -73.0989385,
+    "type": "village",
+    "category": "place",
+    "name": "Dorset",
+    "display": "Dorset, Bennington County, Vermont, 05251, United States",
+    "cc": "US",
+    "osm": "node/158804960"
+   }
+  ]
+ },
+ "ihascupquake": {
+  "query": "Los Angeles, California",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "jacksepticeye": {
+  "query": "Cloghan, County Offaly",
+  "results": [
+   {
+    "lat": 53.2248823,
+    "lon": -7.8825828,
+    "type": "town",
+    "category": "place",
+    "name": "Cloghan",
+    "display": "Cloghan, Cloghan ED, The Municipal District of Birr, County Offaly, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/14571179"
+   },
+   {
+    "lat": 53.0357733,
+    "lon": -7.8330374,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cloghan",
+    "display": "Cloghan, Ettagh ED, The Municipal District of Birr, County Offaly, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/4261426"
+   },
+   {
+    "lat": 53.2224115,
+    "lon": -7.8891494,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cloghan",
+    "display": "Cloghan, Cloghan ED, The Municipal District of Birr, County Offaly, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/4147289"
+   }
+  ]
+ },
+ "keith-lee": {
+  "query": "Las Vegas, Nevada",
+  "results": [
+   {
+    "lat": 36.1674263,
+    "lon": -115.1484131,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Las Vegas",
+    "display": "Las Vegas, Clark County, Nevada, United States",
+    "cc": "US",
+    "osm": "relation/170117"
+   }
+  ]
+ },
+ "kris-collins": {
+  "query": "Vancouver, British Columbia",
+  "results": [
+   {
+    "lat": 49.2608724,
+    "lon": -123.113952,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vancouver",
+    "display": "Vancouver, Metro Vancouver Regional District, British Columbia, Canada",
+    "cc": "CA",
+    "osm": "relation/1852574"
+   },
+   {
+    "lat": 49.5929495,
+    "lon": -125.702557,
+    "type": "island",
+    "category": "place",
+    "name": "Vancouver Island",
+    "display": "Vancouver Island, British Columbia, Canada",
+    "cc": "CA",
+    "osm": "relation/2249770"
+   }
+  ]
+ },
+ "amelia-dimoldenberg": {
+  "query": "London, England",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "jake-shane": {
+  "query": "Los Angeles, California",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "haley-kalil": {
+  "query": "St. Cloud, Minnesota",
+  "results": [
+   {
+    "lat": 45.5616075,
+    "lon": -94.1642004,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Cloud",
+    "display": "Saint Cloud, Stearns County, Minnesota, United States",
+    "cc": "US",
+    "osm": "relation/137238"
+   },
+   {
+    "lat": 45.574643,
+    "lon": -94.1205808,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Cloud",
+    "display": "Saint Cloud, Benton County, Minnesota, United States",
+    "cc": "US",
+    "osm": "relation/18524868"
+   }
+  ]
+ },
+ "andy-warhol": {
+  "query": "Pittsburgh, Pennsylvania",
+  "results": [
+   {
+    "lat": 40.4406968,
+    "lon": -80.0025666,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pittsburgh",
+    "display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188553"
+   }
+  ]
+ },
+ "john-lennon": {
+  "query": "Liverpool, England",
+  "results": [
+   {
+    "lat": 53.3933411,
+    "lon": -2.9166389,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Liverpool",
+    "display": "Liverpool, Liverpool City Region, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/172987"
+   },
+   {
+    "lat": 53.4071991,
+    "lon": -2.99168,
+    "type": "city",
+    "category": "place",
+    "name": "Liverpool",
+    "display": "Liverpool, Liverpool City Region, England, L2 3SW, United Kingdom",
+    "cc": "GB",
+    "osm": "node/21421501"
+   }
+  ]
+ }
+}

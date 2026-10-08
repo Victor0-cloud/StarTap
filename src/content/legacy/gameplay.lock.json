@@ -1,0 +1,6200 @@
+{
+ "note": "Frozen from the original pre-V2 code. Never regenerate from V2 code. Protects saved scores and shared links.",
+ "defaultEdition": "global-v4",
+ "resolution": {
+  "": "global-v4",
+  "origins-v1": "origins-v1",
+  "stories-v2": "stories-v2",
+  "global-v3": "global-v3",
+  "global-v4": "global-v4",
+  "global-v5": "global-v4",
+  "ORIGINS-V1": "global-v4",
+  "bogus": "global-v4"
+ },
+ "editions": {
+  "origins-v1": {
+   "selector": "rolling",
+   "questions": [
+    {
+     "id": "adele-birthplace",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "naomi-osaka-birthplace",
+     "latitude": 34.6937,
+     "longitude": 135.5023
+    },
+    {
+     "id": "burna-boy-birthplace",
+     "latitude": 4.8156,
+     "longitude": 7.0498
+    },
+    {
+     "id": "hugh-jackman-birthplace",
+     "latitude": -33.8688,
+     "longitude": 151.2093
+    },
+    {
+     "id": "messi-birthplace",
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    {
+     "id": "jackie-chan-birthplace",
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    {
+     "id": "rihanna-birthplace",
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    {
+     "id": "serena-williams-birthplace",
+     "latitude": 43.4195,
+     "longitude": -83.9508
+    },
+    {
+     "id": "shah-rukh-khan-birthplace",
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    {
+     "id": "shakira-birthplace",
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    }
+   ]
+  },
+  "stories-v2": {
+   "selector": "rolling",
+   "questions": [
+    {
+     "id": "adele-brit-school",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "naomi-osaka-first-title",
+     "latitude": 33.7176,
+     "longitude": -116.3545
+    },
+    {
+     "id": "burna-boy-stadium",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "hugh-jackman-drama-school",
+     "latitude": -31.9523,
+     "longitude": 115.8613
+    },
+    {
+     "id": "messi-youth-club",
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    {
+     "id": "jackie-chan-opera-training",
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    {
+     "id": "rihanna-island-origins",
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    {
+     "id": "serena-first-slam",
+     "latitude": 40.7128,
+     "longitude": -74.006
+    },
+    {
+     "id": "shah-rukh-khan-theatre",
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    {
+     "id": "shakira-origins-giving-back",
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    }
+   ]
+  },
+  "global-v3": {
+   "selector": "blocks",
+   "questions": [
+    {
+     "id": "adele-brit-school",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "nadia-comaneci-global",
+     "latitude": 45.5019,
+     "longitude": -73.5674
+    },
+    {
+     "id": "bong-joon-ho-global",
+     "latitude": 43.5528,
+     "longitude": 7.0174
+    },
+    {
+     "id": "naomi-osaka-first-title",
+     "latitude": 33.7176,
+     "longitude": -116.3545
+    },
+    {
+     "id": "miriam-makeba-global",
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    {
+     "id": "hayao-miyazaki-global",
+     "latitude": 35.6835,
+     "longitude": 139.5596
+    },
+    {
+     "id": "burna-boy-stadium",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "angelique-kidjo-global",
+     "latitude": 6.3631,
+     "longitude": 2.0851
+    },
+    {
+     "id": "lupita-nyong-o-global",
+     "latitude": 19.4326,
+     "longitude": -99.1332
+    },
+    {
+     "id": "hugh-jackman-drama-school",
+     "latitude": -31.9523,
+     "longitude": 115.8613
+    },
+    {
+     "id": "youssou-n-dour-global",
+     "latitude": 14.7167,
+     "longitude": -17.4677
+    },
+    {
+     "id": "charlize-theron-global",
+     "latitude": -26.1885,
+     "longitude": 28.3208
+    },
+    {
+     "id": "messi-youth-club",
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    {
+     "id": "manny-pacquiao-global",
+     "latitude": 13.8019,
+     "longitude": 100.2972
+    },
+    {
+     "id": "trevor-noah-global",
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    {
+     "id": "jackie-chan-opera-training",
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    {
+     "id": "sachin-tendulkar-global",
+     "latitude": 19.076,
+     "longitude": 72.8777
+    },
+    {
+     "id": "dua-lipa-global",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "rihanna-island-origins",
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    {
+     "id": "yuzuru-hanyu-global",
+     "latitude": 43.6028,
+     "longitude": 39.7342
+    },
+    {
+     "id": "freddie-mercury-global",
+     "latitude": -6.1659,
+     "longitude": 39.2026
+    },
+    {
+     "id": "serena-first-slam",
+     "latitude": 40.7128,
+     "longitude": -74.006
+    },
+    {
+     "id": "roger-federer-global",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "bob-marley-global",
+     "latitude": 18.2975,
+     "longitude": -77.2786
+    },
+    {
+     "id": "shah-rukh-khan-theatre",
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    {
+     "id": "rafael-nadal-global",
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    {
+     "id": "bjork-global",
+     "latitude": 64.1466,
+     "longitude": -21.9426
+    },
+    {
+     "id": "shakira-origins-giving-back",
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    },
+    {
+     "id": "novak-djokovic-global",
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    {
+     "id": "lorde-global",
+     "latitude": -36.8485,
+     "longitude": 174.7633
+    },
+    {
+     "id": "celine-dion-global",
+     "latitude": 45.7167,
+     "longitude": -73.4833
+    },
+    {
+     "id": "li-na-global",
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    {
+     "id": "taika-waititi-global",
+     "latitude": -41.2866,
+     "longitude": 174.7756
+    },
+    {
+     "id": "bad-bunny-global",
+     "latitude": 18.4442,
+     "longitude": -66.3877
+    },
+    {
+     "id": "psy-global",
+     "latitude": 37.5665,
+     "longitude": 126.978
+    },
+    {
+     "id": "kylie-minogue-global",
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    {
+     "id": "taylor-swift-global",
+     "latitude": 36.1627,
+     "longitude": -86.7816
+    },
+    {
+     "id": "lisa-global",
+     "latitude": 13.7563,
+     "longitude": 100.5018
+    },
+    {
+     "id": "salma-hayek-global",
+     "latitude": 18.1345,
+     "longitude": -94.458
+    },
+    {
+     "id": "beyonce-global",
+     "latitude": 29.7604,
+     "longitude": -95.3698
+    },
+    {
+     "id": "a-r-rahman-global",
+     "latitude": 13.0827,
+     "longitude": 80.2707
+    },
+    {
+     "id": "penelope-cruz-global",
+     "latitude": 40.5373,
+     "longitude": -3.6372
+    },
+    {
+     "id": "usain-bolt-global",
+     "latitude": 39.9042,
+     "longitude": 116.4074
+    },
+    {
+     "id": "priyanka-chopra-global",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "cristiano-ronaldo-global",
+     "latitude": 32.6669,
+     "longitude": -16.9241
+    },
+    {
+     "id": "eliud-kipchoge-global",
+     "latitude": 48.2082,
+     "longitude": 16.3738
+    },
+    {
+     "id": "deepika-padukone-global",
+     "latitude": 55.6761,
+     "longitude": 12.5683
+    },
+    {
+     "id": "mohamed-salah-global",
+     "latitude": 30.0444,
+     "longitude": 31.2357
+    },
+    {
+     "id": "simone-biles-global",
+     "latitude": 51.2194,
+     "longitude": 4.4025
+    },
+    {
+     "id": "michelle-yeoh-global",
+     "latitude": 4.5975,
+     "longitude": 101.0901
+    }
+   ]
+  },
+  "global-v4": {
+   "selector": "blocks",
+   "questions": [
+    {
+     "id": "adele-brit-school",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "dua-lipa-global",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "psy-global",
+     "latitude": 37.5665,
+     "longitude": 126.978
+    },
+    {
+     "id": "rebeca-andrade-expanded",
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    {
+     "id": "naomi-osaka-first-title",
+     "latitude": 33.7176,
+     "longitude": -116.3545
+    },
+    {
+     "id": "freddie-mercury-global",
+     "latitude": -6.1659,
+     "longitude": 39.2026
+    },
+    {
+     "id": "lisa-global",
+     "latitude": 13.7563,
+     "longitude": 100.5018
+    },
+    {
+     "id": "didier-drogba-expanded",
+     "latitude": 48.1351,
+     "longitude": 11.582
+    },
+    {
+     "id": "burna-boy-stadium",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "bob-marley-global",
+     "latitude": 18.2975,
+     "longitude": -77.2786
+    },
+    {
+     "id": "a-r-rahman-global",
+     "latitude": 13.0827,
+     "longitude": 80.2707
+    },
+    {
+     "id": "anggun-expanded",
+     "latitude": -6.2088,
+     "longitude": 106.8456
+    },
+    {
+     "id": "hugh-jackman-drama-school",
+     "latitude": -31.9523,
+     "longitude": 115.8613
+    },
+    {
+     "id": "bjork-global",
+     "latitude": 64.1466,
+     "longitude": -21.9426
+    },
+    {
+     "id": "priyanka-chopra-global",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "omar-sy-expanded",
+     "latitude": 48.7744,
+     "longitude": 2.0083
+    },
+    {
+     "id": "messi-youth-club",
+     "latitude": -32.9442,
+     "longitude": -60.6505
+    },
+    {
+     "id": "lorde-global",
+     "latitude": -36.8485,
+     "longitude": 174.7633
+    },
+    {
+     "id": "deepika-padukone-global",
+     "latitude": 55.6761,
+     "longitude": 12.5683
+    },
+    {
+     "id": "tarkan-expanded",
+     "latitude": 49.7463,
+     "longitude": 8.1151
+    },
+    {
+     "id": "jackie-chan-opera-training",
+     "latitude": 22.3193,
+     "longitude": 114.1694
+    },
+    {
+     "id": "taika-waititi-global",
+     "latitude": -41.2866,
+     "longitude": 174.7756
+    },
+    {
+     "id": "michelle-yeoh-global",
+     "latitude": 4.5975,
+     "longitude": 101.0901
+    },
+    {
+     "id": "nadia-comaneci-global",
+     "latitude": 45.5019,
+     "longitude": -73.5674
+    },
+    {
+     "id": "rihanna-island-origins",
+     "latitude": 13.1,
+     "longitude": -59.6167
+    },
+    {
+     "id": "kylie-minogue-global",
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    {
+     "id": "p-v-sindhu-expanded",
+     "latitude": 47.5596,
+     "longitude": 7.5886
+    },
+    {
+     "id": "miriam-makeba-global",
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    {
+     "id": "serena-first-slam",
+     "latitude": 40.7128,
+     "longitude": -74.006
+    },
+    {
+     "id": "salma-hayek-global",
+     "latitude": 18.1345,
+     "longitude": -94.458
+    },
+    {
+     "id": "ons-jabeur-expanded",
+     "latitude": 40.4168,
+     "longitude": -3.7038
+    },
+    {
+     "id": "angelique-kidjo-global",
+     "latitude": 6.3631,
+     "longitude": 2.0851
+    },
+    {
+     "id": "shah-rukh-khan-theatre",
+     "latitude": 28.6139,
+     "longitude": 77.209
+    },
+    {
+     "id": "penelope-cruz-global",
+     "latitude": 40.5373,
+     "longitude": -3.6372
+    },
+    {
+     "id": "jung-kook-expanded",
+     "latitude": 35.1796,
+     "longitude": 129.0756
+    },
+    {
+     "id": "youssou-n-dour-global",
+     "latitude": 14.7167,
+     "longitude": -17.4677
+    },
+    {
+     "id": "shakira-origins-giving-back",
+     "latitude": 10.9685,
+     "longitude": -74.7813
+    },
+    {
+     "id": "cristiano-ronaldo-global",
+     "latitude": 32.6669,
+     "longitude": -16.9241
+    },
+    {
+     "id": "aitana-expanded",
+     "latitude": 41.3376,
+     "longitude": 1.9953
+    },
+    {
+     "id": "manny-pacquiao-global",
+     "latitude": 13.8019,
+     "longitude": 100.2972
+    },
+    {
+     "id": "celine-dion-global",
+     "latitude": 45.7167,
+     "longitude": -73.4833
+    },
+    {
+     "id": "mohamed-salah-global",
+     "latitude": 30.0444,
+     "longitude": 31.2357
+    },
+    {
+     "id": "diljit-dosanjh-expanded",
+     "latitude": 33.7206,
+     "longitude": -116.2156
+    },
+    {
+     "id": "sachin-tendulkar-global",
+     "latitude": 19.076,
+     "longitude": 72.8777
+    },
+    {
+     "id": "bad-bunny-global",
+     "latitude": 18.4442,
+     "longitude": -66.3877
+    },
+    {
+     "id": "pele-expanded",
+     "latitude": -23.9608,
+     "longitude": -46.3336
+    },
+    {
+     "id": "bong-joon-ho-global",
+     "latitude": 43.5528,
+     "longitude": 7.0174
+    },
+    {
+     "id": "yuzuru-hanyu-global",
+     "latitude": 43.6028,
+     "longitude": 39.7342
+    },
+    {
+     "id": "taylor-swift-global",
+     "latitude": 36.1627,
+     "longitude": -86.7816
+    },
+    {
+     "id": "sadio-mane-expanded",
+     "latitude": 50.9097,
+     "longitude": -1.4044
+    },
+    {
+     "id": "hayao-miyazaki-global",
+     "latitude": 35.6835,
+     "longitude": 139.5596
+    },
+    {
+     "id": "roger-federer-global",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "beyonce-global",
+     "latitude": 29.7604,
+     "longitude": -95.3698
+    },
+    {
+     "id": "david-rudisha-expanded",
+     "latitude": 51.5074,
+     "longitude": -0.1278
+    },
+    {
+     "id": "lupita-nyong-o-global",
+     "latitude": 19.4326,
+     "longitude": -99.1332
+    },
+    {
+     "id": "rafael-nadal-global",
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    {
+     "id": "usain-bolt-global",
+     "latitude": 39.9042,
+     "longitude": 116.4074
+    },
+    {
+     "id": "agnetha-faltskog-expanded",
+     "latitude": 57.7826,
+     "longitude": 14.1618
+    },
+    {
+     "id": "charlize-theron-global",
+     "latitude": -26.1885,
+     "longitude": 28.3208
+    },
+    {
+     "id": "novak-djokovic-global",
+     "latitude": -37.8136,
+     "longitude": 144.9631
+    },
+    {
+     "id": "eliud-kipchoge-global",
+     "latitude": 48.2082,
+     "longitude": 16.3738
+    },
+    {
+     "id": "tyla-expanded",
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    {
+     "id": "trevor-noah-global",
+     "latitude": -26.2041,
+     "longitude": 28.0473
+    },
+    {
+     "id": "li-na-global",
+     "latitude": 48.8566,
+     "longitude": 2.3522
+    },
+    {
+     "id": "simone-biles-global",
+     "latitude": 51.2194,
+     "longitude": 4.4025
+    }
+   ]
+  }
+ },
+ "days": {
+  "origins-v1": {
+   "2026-09-01": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-09-02": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-09-03": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-09-04": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-09-05": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-09-06": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-09-07": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-09-08": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-09-09": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-09-10": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-09-11": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-09-12": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-09-13": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-09-14": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-09-15": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-09-16": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-09-17": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-09-18": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-09-19": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-09-20": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-09-21": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-09-22": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-09-23": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-09-24": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-09-25": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-09-26": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-09-27": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-09-28": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-09-29": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-09-30": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-10-01": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-10-02": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-10-03": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-10-04": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-10-05": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-10-06": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-10-07": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-10-08": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-10-09": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-10-10": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-10-11": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-10-12": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-10-13": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-10-14": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-10-15": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-10-16": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-10-17": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-10-18": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-10-19": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-10-20": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-10-21": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-10-22": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-10-23": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-10-24": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-10-25": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-10-26": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-10-27": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-10-28": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-10-29": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-10-30": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-10-31": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-11-01": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-11-02": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-11-03": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-11-04": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-11-05": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-11-06": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-11-07": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-11-08": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-11-09": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-11-10": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-11-11": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-11-12": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-11-13": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-11-14": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-11-15": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-11-16": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-11-17": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-11-18": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-11-19": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-11-20": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2026-11-21": [
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace"
+   ],
+   "2026-11-22": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2026-11-23": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ],
+   "2026-11-24": [
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace"
+   ],
+   "2026-11-25": [
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace"
+   ],
+   "2026-11-26": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2026-11-27": [
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace",
+    "rihanna-birthplace"
+   ],
+   "2026-11-28": [
+    "jackie-chan-birthplace",
+    "rihanna-birthplace",
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace"
+   ],
+   "2026-11-29": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2026-11-30": [
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace",
+    "jackie-chan-birthplace"
+   ],
+   "2000-02-29": [
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace"
+   ],
+   "2025-01-01": [
+    "serena-williams-birthplace",
+    "shah-rukh-khan-birthplace",
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace"
+   ],
+   "2027-12-31": [
+    "shakira-birthplace",
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace"
+   ],
+   "2030-06-15": [
+    "adele-birthplace",
+    "naomi-osaka-birthplace",
+    "burna-boy-birthplace",
+    "hugh-jackman-birthplace",
+    "messi-birthplace"
+   ]
+  },
+  "stories-v2": {
+   "2026-09-01": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-09-02": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-09-03": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-09-04": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-09-05": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-09-06": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-09-07": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-09-08": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-09-09": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-09-10": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-09-11": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-09-12": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-09-13": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-09-14": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-09-15": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-09-16": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-09-17": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-09-18": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-09-19": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-09-20": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-09-21": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-09-22": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-09-23": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-09-24": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-09-25": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-09-26": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-09-27": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-09-28": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-09-29": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-09-30": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-10-01": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-10-02": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-10-03": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-10-04": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-10-05": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-10-06": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-10-07": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-10-08": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-10-09": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-10-10": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-10-11": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-10-12": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-10-13": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-10-14": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-10-15": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-10-16": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-10-17": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-10-18": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-10-19": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-10-20": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-10-21": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-10-22": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-10-23": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-10-24": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-10-25": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-10-26": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-10-27": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-10-28": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-10-29": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-10-30": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-10-31": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-11-01": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-11-02": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-11-03": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-11-04": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-11-05": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-11-06": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-11-07": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-11-08": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-11-09": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-11-10": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-11-11": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-11-12": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-11-13": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-11-14": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-11-15": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-11-16": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-11-17": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-11-18": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-11-19": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-11-20": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2026-11-21": [
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-11-22": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2026-11-23": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ],
+   "2026-11-24": [
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam"
+   ],
+   "2026-11-25": [
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school"
+   ],
+   "2026-11-26": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-11-27": [
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training",
+    "rihanna-island-origins"
+   ],
+   "2026-11-28": [
+    "jackie-chan-opera-training",
+    "rihanna-island-origins",
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back"
+   ],
+   "2026-11-29": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2026-11-30": [
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club",
+    "jackie-chan-opera-training"
+   ],
+   "2000-02-29": [
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium"
+   ],
+   "2025-01-01": [
+    "serena-first-slam",
+    "shah-rukh-khan-theatre",
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title"
+   ],
+   "2027-12-31": [
+    "shakira-origins-giving-back",
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school"
+   ],
+   "2030-06-15": [
+    "adele-brit-school",
+    "naomi-osaka-first-title",
+    "burna-boy-stadium",
+    "hugh-jackman-drama-school",
+    "messi-youth-club"
+   ]
+  },
+  "global-v3": {
+   "2026-09-01": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-09-02": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-09-03": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-09-04": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-09-05": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-09-06": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-09-07": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-09-08": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-09-09": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-09-10": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-09-11": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-09-12": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-09-13": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-09-14": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-09-15": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-09-16": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-09-17": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-09-18": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-09-19": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-09-20": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-09-21": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-09-22": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-09-23": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-09-24": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-09-25": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-09-26": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-09-27": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-09-28": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-09-29": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-09-30": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-10-01": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-10-02": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-10-03": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-10-04": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-10-05": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-10-06": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-10-07": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-10-08": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-10-09": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-10-10": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-10-11": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-10-12": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-10-13": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-10-14": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-10-15": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-10-16": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-10-17": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-10-18": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-10-19": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-10-20": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-10-21": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-10-22": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-10-23": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-10-24": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-10-25": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-10-26": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-10-27": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-10-28": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-10-29": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-10-30": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-10-31": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-11-01": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-11-02": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-11-03": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-11-04": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-11-05": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-11-06": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-11-07": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-11-08": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-11-09": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-11-10": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-11-11": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-11-12": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-11-13": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-11-14": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-11-15": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-11-16": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-11-17": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-11-18": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-11-19": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-11-20": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2026-11-21": [
+    "a-r-rahman-global",
+    "penelope-cruz-global",
+    "usain-bolt-global",
+    "priyanka-chopra-global",
+    "cristiano-ronaldo-global"
+   ],
+   "2026-11-22": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2026-11-23": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ],
+   "2026-11-24": [
+    "hayao-miyazaki-global",
+    "burna-boy-stadium",
+    "angelique-kidjo-global",
+    "lupita-nyong-o-global",
+    "hugh-jackman-drama-school"
+   ],
+   "2026-11-25": [
+    "youssou-n-dour-global",
+    "charlize-theron-global",
+    "messi-youth-club",
+    "manny-pacquiao-global",
+    "trevor-noah-global"
+   ],
+   "2026-11-26": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2026-11-27": [
+    "freddie-mercury-global",
+    "serena-first-slam",
+    "roger-federer-global",
+    "bob-marley-global",
+    "shah-rukh-khan-theatre"
+   ],
+   "2026-11-28": [
+    "rafael-nadal-global",
+    "bjork-global",
+    "shakira-origins-giving-back",
+    "novak-djokovic-global",
+    "lorde-global"
+   ],
+   "2026-11-29": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2026-11-30": [
+    "kylie-minogue-global",
+    "taylor-swift-global",
+    "lisa-global",
+    "salma-hayek-global",
+    "beyonce-global"
+   ],
+   "2000-02-29": [
+    "celine-dion-global",
+    "li-na-global",
+    "taika-waititi-global",
+    "bad-bunny-global",
+    "psy-global"
+   ],
+   "2025-01-01": [
+    "eliud-kipchoge-global",
+    "deepika-padukone-global",
+    "mohamed-salah-global",
+    "simone-biles-global",
+    "michelle-yeoh-global"
+   ],
+   "2027-12-31": [
+    "jackie-chan-opera-training",
+    "sachin-tendulkar-global",
+    "dua-lipa-global",
+    "rihanna-island-origins",
+    "yuzuru-hanyu-global"
+   ],
+   "2030-06-15": [
+    "adele-brit-school",
+    "nadia-comaneci-global",
+    "bong-joon-ho-global",
+    "naomi-osaka-first-title",
+    "miriam-makeba-global"
+   ]
+  },
+  "global-v4": {
+   "2026-09-01": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-09-02": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-09-03": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-09-04": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-09-05": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-09-06": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-09-07": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-09-08": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-09-09": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-09-10": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-09-11": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-09-12": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-09-13": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2026-09-14": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-09-15": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-09-16": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-09-17": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-09-18": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-09-19": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-09-20": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-09-21": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-09-22": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-09-23": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-09-24": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-09-25": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-09-26": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2026-09-27": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-09-28": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-09-29": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-09-30": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-10-01": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-10-02": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-10-03": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-10-04": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-10-05": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-10-06": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-10-07": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-10-08": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-10-09": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2026-10-10": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-10-11": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-10-12": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-10-13": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-10-14": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-10-15": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-10-16": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-10-17": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-10-18": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-10-19": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-10-20": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-10-21": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-10-22": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2026-10-23": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-10-24": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-10-25": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-10-26": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-10-27": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-10-28": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-10-29": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-10-30": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-10-31": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-11-01": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-11-02": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-11-03": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-11-04": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2026-11-05": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-11-06": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-11-07": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-11-08": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-11-09": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-11-10": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-11-11": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-11-12": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-11-13": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-11-14": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-11-15": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-11-16": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-11-17": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2026-11-18": [
+    "freddie-mercury-global",
+    "lisa-global",
+    "didier-drogba-expanded",
+    "burna-boy-stadium",
+    "bob-marley-global"
+   ],
+   "2026-11-19": [
+    "a-r-rahman-global",
+    "anggun-expanded",
+    "hugh-jackman-drama-school",
+    "bjork-global",
+    "priyanka-chopra-global"
+   ],
+   "2026-11-20": [
+    "omar-sy-expanded",
+    "messi-youth-club",
+    "lorde-global",
+    "deepika-padukone-global",
+    "tarkan-expanded"
+   ],
+   "2026-11-21": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2026-11-22": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2026-11-23": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2026-11-24": [
+    "youssou-n-dour-global",
+    "shakira-origins-giving-back",
+    "cristiano-ronaldo-global",
+    "aitana-expanded",
+    "manny-pacquiao-global"
+   ],
+   "2026-11-25": [
+    "celine-dion-global",
+    "mohamed-salah-global",
+    "diljit-dosanjh-expanded",
+    "sachin-tendulkar-global",
+    "bad-bunny-global"
+   ],
+   "2026-11-26": [
+    "pele-expanded",
+    "bong-joon-ho-global",
+    "yuzuru-hanyu-global",
+    "taylor-swift-global",
+    "sadio-mane-expanded"
+   ],
+   "2026-11-27": [
+    "hayao-miyazaki-global",
+    "roger-federer-global",
+    "beyonce-global",
+    "david-rudisha-expanded",
+    "lupita-nyong-o-global"
+   ],
+   "2026-11-28": [
+    "rafael-nadal-global",
+    "usain-bolt-global",
+    "agnetha-faltskog-expanded",
+    "charlize-theron-global",
+    "novak-djokovic-global"
+   ],
+   "2026-11-29": [
+    "eliud-kipchoge-global",
+    "tyla-expanded",
+    "trevor-noah-global",
+    "li-na-global",
+    "simone-biles-global"
+   ],
+   "2026-11-30": [
+    "adele-brit-school",
+    "dua-lipa-global",
+    "psy-global",
+    "rebeca-andrade-expanded",
+    "naomi-osaka-first-title"
+   ],
+   "2000-02-29": [
+    "kylie-minogue-global",
+    "p-v-sindhu-expanded",
+    "miriam-makeba-global",
+    "serena-first-slam",
+    "salma-hayek-global"
+   ],
+   "2025-01-01": [
+    "jackie-chan-opera-training",
+    "taika-waititi-global",
+    "michelle-yeoh-global",
+    "nadia-comaneci-global",
+    "rihanna-island-origins"
+   ],
+   "2027-12-31": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ],
+   "2030-06-15": [
+    "ons-jabeur-expanded",
+    "angelique-kidjo-global",
+    "shah-rukh-khan-theatre",
+    "penelope-cruz-global",
+    "jung-kook-expanded"
+   ]
+  }
+ },
+ "scoring": {
+  "guesses": [
+   {
+    "coordinates": {
+     "latitude": 0,
+     "longitude": 0
+    },
+    "hintUsed": false
+   },
+   {
+    "coordinates": {
+     "latitude": 51.5,
+     "longitude": -0.12
+    },
+    "hintUsed": true
+   },
+   {
+    "coordinates": {
+     "latitude": -33.9,
+     "longitude": 151.2
+    },
+    "hintUsed": false
+   },
+   {
+    "coordinates": {
+     "latitude": 40.7,
+     "longitude": -74
+    },
+    "hintUsed": true
+   },
+   {
+    "coordinates": {
+     "latitude": 6.5,
+     "longitude": 3.4
+    },
+    "hintUsed": false
+   }
+  ],
+  "results": {
+   "origins-v1": {
+    "2026-09-01": [
+     {
+      "questionId": "naomi-osaka-birthplace",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 14000.168687,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-birthplace",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 5233.415946,
+      "score": 0
+     },
+     {
+      "questionId": "hugh-jackman-birthplace",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 3.573926,
+      "score": 1000
+     },
+     {
+      "questionId": "messi-birthplace",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 8302.723467,
+      "score": 0
+     },
+     {
+      "questionId": "jackie-chan-birthplace",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 11835.141708,
+      "score": 50
+     }
+    ],
+    "2026-09-10": [
+     {
+      "questionId": "shah-rukh-khan-birthplace",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8761.384811,
+      "score": 50
+     },
+     {
+      "questionId": "shakira-birthplace",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 7995.649959,
+      "score": 0
+     },
+     {
+      "questionId": "adele-birthplace",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16996.019589,
+      "score": 50
+     },
+     {
+      "questionId": "naomi-osaka-birthplace",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 11104.647107,
+      "score": 0
+     },
+     {
+      "questionId": "burna-boy-birthplace",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 445.16586,
+      "score": 600
+     }
+    ],
+    "2026-09-19": [
+     {
+      "questionId": "jackie-chan-birthplace",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12482.425923,
+      "score": 50
+     },
+     {
+      "questionId": "rihanna-birthplace",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6780.514795,
+      "score": 0
+     },
+     {
+      "questionId": "serena-williams-birthplace",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 15201.081999,
+      "score": 50
+     },
+     {
+      "questionId": "shah-rukh-khan-birthplace",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 11755.800719,
+      "score": 0
+     },
+     {
+      "questionId": "shakira-birthplace",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8585.749744,
+      "score": 50
+     }
+    ],
+    "2026-09-28": [
+     {
+      "questionId": "burna-boy-birthplace",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 948.569526,
+      "score": 400
+     },
+     {
+      "questionId": "hugh-jackman-birthplace",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 16993.888379,
+      "score": 0
+     },
+     {
+      "questionId": "messi-birthplace",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 11871.112504,
+      "score": 50
+     },
+     {
+      "questionId": "jackie-chan-birthplace",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 12956.90066,
+      "score": 0
+     },
+     {
+      "questionId": "rihanna-birthplace",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 6928.1893,
+      "score": 50
+     }
+    ],
+    "2026-10-07": [
+     {
+      "questionId": "shakira-birthplace",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8346.953574,
+      "score": 50
+     },
+     {
+      "questionId": "adele-birthplace",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "naomi-osaka-birthplace",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 7800.558397,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-birthplace",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 8904.493875,
+      "score": 0
+     },
+     {
+      "questionId": "hugh-jackman-birthplace",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 15519.998598,
+      "score": 50
+     }
+    ],
+    "2026-10-16": [
+     {
+      "questionId": "rihanna-birthplace",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 6725.865423,
+      "score": 50
+     },
+     {
+      "questionId": "serena-williams-birthplace",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6014.611447,
+      "score": 0
+     },
+     {
+      "questionId": "shah-rukh-khan-birthplace",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 10429.347935,
+      "score": 50
+     },
+     {
+      "questionId": "shakira-birthplace",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3306.885365,
+      "score": 0
+     },
+     {
+      "questionId": "adele-birthplace",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 5015.149738,
+      "score": 50
+     }
+    ],
+    "2026-10-25": [
+     {
+      "questionId": "hugh-jackman-birthplace",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 15199.471184,
+      "score": 50
+     },
+     {
+      "questionId": "messi-birthplace",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 11086.814911,
+      "score": 0
+     },
+     {
+      "questionId": "jackie-chan-birthplace",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 7377.74712,
+      "score": 50
+     },
+     {
+      "questionId": "rihanna-birthplace",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3373.46172,
+      "score": 0
+     },
+     {
+      "questionId": "serena-williams-birthplace",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 9297.85883,
+      "score": 50
+     }
+    ],
+    "2026-11-03": [
+     {
+      "questionId": "adele-birthplace",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5727.382079,
+      "score": 50
+     },
+     {
+      "questionId": "naomi-osaka-birthplace",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 9499.759388,
+      "score": 0
+     },
+     {
+      "questionId": "burna-boy-birthplace",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 15103.102115,
+      "score": 50
+     },
+     {
+      "questionId": "hugh-jackman-birthplace",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 15989.183408,
+      "score": 0
+     },
+     {
+      "questionId": "messi-birthplace",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8044.349844,
+      "score": 50
+     }
+    ],
+    "2026-11-12": [
+     {
+      "questionId": "serena-williams-birthplace",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 9519.420127,
+      "score": 50
+     },
+     {
+      "questionId": "shah-rukh-khan-birthplace",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6710.863746,
+      "score": 0
+     },
+     {
+      "questionId": "shakira-birthplace",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 14705.448732,
+      "score": 50
+     },
+     {
+      "questionId": "adele-birthplace",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5570.727333,
+      "score": 0
+     },
+     {
+      "questionId": "naomi-osaka-birthplace",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 13221.049496,
+      "score": 50
+     }
+    ],
+    "2026-11-21": [
+     {
+      "questionId": "messi-birthplace",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 7306.860277,
+      "score": 50
+     },
+     {
+      "questionId": "jackie-chan-birthplace",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 9622.993727,
+      "score": 0
+     },
+     {
+      "questionId": "rihanna-birthplace",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16140.363116,
+      "score": 50
+     },
+     {
+      "questionId": "serena-williams-birthplace",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 874.705948,
+      "score": 200
+     },
+     {
+      "questionId": "shah-rukh-khan-birthplace",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8083.550058,
+      "score": 50
+     }
+    ],
+    "2026-11-30": [
+     {
+      "questionId": "naomi-osaka-birthplace",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 14000.168687,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-birthplace",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 5233.415946,
+      "score": 0
+     },
+     {
+      "questionId": "hugh-jackman-birthplace",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 3.573926,
+      "score": 1000
+     },
+     {
+      "questionId": "messi-birthplace",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 8302.723467,
+      "score": 0
+     },
+     {
+      "questionId": "jackie-chan-birthplace",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 11835.141708,
+      "score": 50
+     }
+    ]
+   },
+   "stories-v2": {
+    "2026-09-01": [
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12417.074311,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 3289.231674,
+      "score": 50
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 8302.723467,
+      "score": 0
+     },
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 11835.141708,
+      "score": 50
+     }
+    ],
+    "2026-09-10": [
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8761.384811,
+      "score": 50
+     },
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 7995.649959,
+      "score": 0
+     },
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16996.019589,
+      "score": 50
+     },
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3792.551112,
+      "score": 0
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 5015.149738,
+      "score": 50
+     }
+    ],
+    "2026-09-19": [
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12482.425923,
+      "score": 50
+     },
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6780.514795,
+      "score": 0
+     },
+     {
+      "questionId": "serena-first-slam",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 15990.991489,
+      "score": 50
+     },
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 11755.800719,
+      "score": 0
+     },
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8585.749744,
+      "score": 50
+     }
+    ],
+    "2026-09-28": [
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5727.382079,
+      "score": 50
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 14478.434063,
+      "score": 0
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 11871.112504,
+      "score": 50
+     },
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 12956.90066,
+      "score": 0
+     },
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 6928.1893,
+      "score": 50
+     }
+    ],
+    "2026-10-07": [
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8346.953574,
+      "score": 50
+     },
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 12211.418547,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5570.727333,
+      "score": 0
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 12504.719906,
+      "score": 50
+     }
+    ],
+    "2026-10-16": [
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 6725.865423,
+      "score": 50
+     },
+     {
+      "questionId": "serena-first-slam",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 5571.001187,
+      "score": 0
+     },
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 10429.347935,
+      "score": 50
+     },
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3306.885365,
+      "score": 0
+     },
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 5015.149738,
+      "score": 50
+     }
+    ],
+    "2026-10-25": [
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12422.953096,
+      "score": 50
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 11086.814911,
+      "score": 0
+     },
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 7377.74712,
+      "score": 50
+     },
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3373.46172,
+      "score": 0
+     },
+     {
+      "questionId": "serena-first-slam",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8476.242866,
+      "score": 50
+     }
+    ],
+    "2026-11-03": [
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5727.382079,
+      "score": 50
+     },
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 8688.689738,
+      "score": 0
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16996.019589,
+      "score": 50
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 18702.890416,
+      "score": 0
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8044.349844,
+      "score": 50
+     }
+    ],
+    "2026-11-12": [
+     {
+      "questionId": "serena-first-slam",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8667.080126,
+      "score": 50
+     },
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6710.863746,
+      "score": 0
+     },
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 14705.448732,
+      "score": 50
+     },
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5570.727333,
+      "score": 0
+     },
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 12267.352596,
+      "score": 50
+     }
+    ],
+    "2026-11-21": [
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 7306.860277,
+      "score": 50
+     },
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 9622.993727,
+      "score": 0
+     },
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16140.363116,
+      "score": 50
+     },
+     {
+      "questionId": "serena-first-slam",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 1.510485,
+      "score": 800
+     },
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8083.550058,
+      "score": 50
+     }
+    ],
+    "2026-11-30": [
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12417.074311,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 3289.231674,
+      "score": 50
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 8302.723467,
+      "score": 0
+     },
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 11835.141708,
+      "score": 50
+     }
+    ]
+   },
+   "global-v3": {
+    "2026-09-01": [
+     {
+      "questionId": "kylie-minogue-global",
+      "starName": "Kylie Minogue",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 14489.188116,
+      "score": 50
+     },
+     {
+      "questionId": "taylor-swift-global",
+      "starName": "Taylor Swift",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6737.216297,
+      "score": 0
+     },
+     {
+      "questionId": "lisa-global",
+      "starName": "Lisa",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 7537.7507,
+      "score": 50
+     },
+     {
+      "questionId": "salma-hayek-global",
+      "starName": "Salma Hayek",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3179.952498,
+      "score": 0
+     },
+     {
+      "questionId": "beyonce-global",
+      "starName": "Beyoncé",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 10487.839371,
+      "score": 50
+     }
+    ],
+    "2026-09-10": [
+     {
+      "questionId": "celine-dion-global",
+      "starName": "Céline Dion",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8734.478809,
+      "score": 50
+     },
+     {
+      "questionId": "li-na-global",
+      "starName": "Li Na",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 342.572681,
+      "score": 400
+     },
+     {
+      "questionId": "taika-waititi-global",
+      "starName": "Taika Waititi",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 2224.805294,
+      "score": 200
+     },
+     {
+      "questionId": "bad-bunny-global",
+      "starName": "Bad Bunny",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 2579.261794,
+      "score": 0
+     },
+     {
+      "questionId": "psy-global",
+      "starName": "PSY",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 12398.61435,
+      "score": 50
+     }
+    ],
+    "2026-09-19": [
+     {
+      "questionId": "rafael-nadal-global",
+      "starName": "Rafael Nadal",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5437.302106,
+      "score": 50
+     },
+     {
+      "questionId": "bjork-global",
+      "starName": "Björk",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 1890.725049,
+      "score": 0
+     },
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 14705.448732,
+      "score": 50
+     },
+     {
+      "questionId": "novak-djokovic-global",
+      "starName": "Novak Djokovic",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 16672.564207,
+      "score": 0
+     },
+     {
+      "questionId": "lorde-global",
+      "starName": "Lorde",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 16528.501349,
+      "score": 50
+     }
+    ],
+    "2026-09-28": [
+     {
+      "questionId": "freddie-mercury-global",
+      "starName": "Freddie Mercury",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 4404.127443,
+      "score": 50
+     },
+     {
+      "questionId": "serena-first-slam",
+      "starName": "Serena Williams",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 5571.001187,
+      "score": 0
+     },
+     {
+      "questionId": "roger-federer-global",
+      "starName": "Roger Federer",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16996.019589,
+      "score": 50
+     },
+     {
+      "questionId": "bob-marley-global",
+      "starName": "Bob Marley",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 2510.669402,
+      "score": 0
+     },
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8083.550058,
+      "score": 50
+     }
+    ],
+    "2026-10-07": [
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12482.425923,
+      "score": 50
+     },
+     {
+      "questionId": "sachin-tendulkar-global",
+      "starName": "Sachin Tendulkar",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 7191.15505,
+      "score": 0
+     },
+     {
+      "questionId": "dua-lipa-global",
+      "starName": "Dua Lipa",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16996.019589,
+      "score": 50
+     },
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3373.46172,
+      "score": 0
+     },
+     {
+      "questionId": "yuzuru-hanyu-global",
+      "starName": "Yuzuru Hanyu",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 5434.957648,
+      "score": 50
+     }
+    ],
+    "2026-10-16": [
+     {
+      "questionId": "youssou-n-dour-global",
+      "starName": "Youssou N'Dour",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 2523.22353,
+      "score": 50
+     },
+     {
+      "questionId": "charlize-theron-global",
+      "starName": "Charlize Theron",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 9075.29319,
+      "score": 0
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 11871.112504,
+      "score": 50
+     },
+     {
+      "questionId": "manny-pacquiao-global",
+      "starName": "Manny Pacquiao",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 13926.301384,
+      "score": 0
+     },
+     {
+      "questionId": "trevor-noah-global",
+      "starName": "Trevor Noah",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 4504.899383,
+      "score": 50
+     }
+    ],
+    "2026-10-25": [
+     {
+      "questionId": "hayao-miyazaki-global",
+      "starName": "Hayao Miyazaki",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 14253.433361,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "angelique-kidjo-global",
+      "starName": "Angélique Kidjo",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 15604.079329,
+      "score": 50
+     },
+     {
+      "questionId": "lupita-nyong-o-global",
+      "starName": "Lupita Nyong'o",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3358.928582,
+      "score": 0
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 12504.719906,
+      "score": 50
+     }
+    ],
+    "2026-11-03": [
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5727.382079,
+      "score": 50
+     },
+     {
+      "questionId": "nadia-comaneci-global",
+      "starName": "Nadia Comăneci",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 5221.649351,
+      "score": 0
+     },
+     {
+      "questionId": "bong-joon-ho-global",
+      "starName": "Bong Joon-ho",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16757.262197,
+      "score": 50
+     },
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3792.551112,
+      "score": 0
+     },
+     {
+      "questionId": "miriam-makeba-global",
+      "starName": "Miriam Makeba",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 4504.899383,
+      "score": 50
+     }
+    ],
+    "2026-11-12": [
+     {
+      "questionId": "eliud-kipchoge-global",
+      "starName": "Eliud Kipchoge",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5587.896421,
+      "score": 50
+     },
+     {
+      "questionId": "deepika-padukone-global",
+      "starName": "Deepika Padukone",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 955.574329,
+      "score": 200
+     },
+     {
+      "questionId": "mohamed-salah-global",
+      "starName": "Mohamed Salah",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 14416.50681,
+      "score": 50
+     },
+     {
+      "questionId": "simone-biles-global",
+      "starName": "Simone Biles",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5877.450514,
+      "score": 0
+     },
+     {
+      "questionId": "michelle-yeoh-global",
+      "starName": "Michelle Yeoh",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 10796.089821,
+      "score": 50
+     }
+    ],
+    "2026-11-21": [
+     {
+      "questionId": "a-r-rahman-global",
+      "starName": "A. R. Rahman",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8954.049375,
+      "score": 50
+     },
+     {
+      "questionId": "penelope-cruz-global",
+      "starName": "Penélope Cruz",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 1248.499778,
+      "score": 0
+     },
+     {
+      "questionId": "usain-bolt-global",
+      "starName": "Usain Bolt",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 8950.928707,
+      "score": 50
+     },
+     {
+      "questionId": "priyanka-chopra-global",
+      "starName": "Priyanka Chopra",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5570.727333,
+      "score": 0
+     },
+     {
+      "questionId": "cristiano-ronaldo-global",
+      "starName": "Cristiano Ronaldo",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 3589.467314,
+      "score": 50
+     }
+    ],
+    "2026-11-30": [
+     {
+      "questionId": "kylie-minogue-global",
+      "starName": "Kylie Minogue",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 14489.188116,
+      "score": 50
+     },
+     {
+      "questionId": "taylor-swift-global",
+      "starName": "Taylor Swift",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 6737.216297,
+      "score": 0
+     },
+     {
+      "questionId": "lisa-global",
+      "starName": "Lisa",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 7537.7507,
+      "score": 50
+     },
+     {
+      "questionId": "salma-hayek-global",
+      "starName": "Salma Hayek",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 3179.952498,
+      "score": 0
+     },
+     {
+      "questionId": "beyonce-global",
+      "starName": "Beyoncé",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 10487.839371,
+      "score": 50
+     }
+    ]
+   },
+   "global-v4": {
+    "2026-09-01": [
+     {
+      "questionId": "freddie-mercury-global",
+      "starName": "Freddie Mercury",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 4404.127443,
+      "score": 50
+     },
+     {
+      "questionId": "lisa-global",
+      "starName": "Lisa",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 9531.552767,
+      "score": 0
+     },
+     {
+      "questionId": "didier-drogba-expanded",
+      "starName": "Didier Drogba",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 16329.866543,
+      "score": 50
+     },
+     {
+      "questionId": "burna-boy-stadium",
+      "starName": "Burna Boy",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5570.727333,
+      "score": 0
+     },
+     {
+      "questionId": "bob-marley-global",
+      "starName": "Bob Marley",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 8800.466424,
+      "score": 50
+     }
+    ],
+    "2026-09-10": [
+     {
+      "questionId": "hayao-miyazaki-global",
+      "starName": "Hayao Miyazaki",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 14253.433361,
+      "score": 50
+     },
+     {
+      "questionId": "roger-federer-global",
+      "starName": "Roger Federer",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "beyonce-global",
+      "starName": "Beyoncé",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 13820.268235,
+      "score": 50
+     },
+     {
+      "questionId": "david-rudisha-expanded",
+      "starName": "David Rudisha",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5570.727333,
+      "score": 0
+     },
+     {
+      "questionId": "lupita-nyong-o-global",
+      "starName": "Lupita Nyong'o",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 11067.900952,
+      "score": 50
+     }
+    ],
+    "2026-09-19": [
+     {
+      "questionId": "ons-jabeur-expanded",
+      "starName": "Ons Jabeur",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 4509.75316,
+      "score": 50
+     },
+     {
+      "questionId": "angelique-kidjo-global",
+      "starName": "Angélique Kidjo",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 5023.117848,
+      "score": 0
+     },
+     {
+      "questionId": "shah-rukh-khan-theatre",
+      "starName": "Shah Rukh Khan",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 10429.347935,
+      "score": 50
+     },
+     {
+      "questionId": "penelope-cruz-global",
+      "starName": "Penélope Cruz",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5767.622708,
+      "score": 0
+     },
+     {
+      "questionId": "jung-kook-expanded",
+      "starName": "Jung Kook",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 12687.771153,
+      "score": 50
+     }
+    ],
+    "2026-09-28": [
+     {
+      "questionId": "a-r-rahman-global",
+      "starName": "A. R. Rahman",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8954.049375,
+      "score": 50
+     },
+     {
+      "questionId": "anggun-expanded",
+      "starName": "Anggun",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 11717.762878,
+      "score": 0
+     },
+     {
+      "questionId": "hugh-jackman-drama-school",
+      "starName": "Hugh Jackman",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 3289.231674,
+      "score": 50
+     },
+     {
+      "questionId": "bjork-global",
+      "starName": "Björk",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 4203.662286,
+      "score": 0
+     },
+     {
+      "questionId": "priyanka-chopra-global",
+      "starName": "Priyanka Chopra",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 5015.149738,
+      "score": 50
+     }
+    ],
+    "2026-10-07": [
+     {
+      "questionId": "rafael-nadal-global",
+      "starName": "Rafael Nadal",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5437.302106,
+      "score": 50
+     },
+     {
+      "questionId": "usain-bolt-global",
+      "starName": "Usain Bolt",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 8141.254961,
+      "score": 0
+     },
+     {
+      "questionId": "agnetha-faltskog-expanded",
+      "starName": "Agnetha Fältskog",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 15869.921944,
+      "score": 50
+     },
+     {
+      "questionId": "charlize-theron-global",
+      "starName": "Charlize Theron",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 12860.298604,
+      "score": 0
+     },
+     {
+      "questionId": "novak-djokovic-global",
+      "starName": "Novak Djokovic",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 14808.462797,
+      "score": 50
+     }
+    ],
+    "2026-10-16": [
+     {
+      "questionId": "youssou-n-dour-global",
+      "starName": "Youssou N'Dour",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 2523.22353,
+      "score": 50
+     },
+     {
+      "questionId": "shakira-origins-giving-back",
+      "starName": "Shakira",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 7995.649959,
+      "score": 0
+     },
+     {
+      "questionId": "cristiano-ronaldo-global",
+      "starName": "Cristiano Ronaldo",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 18903.344788,
+      "score": 50
+     },
+     {
+      "questionId": "aitana-expanded",
+      "starName": "Aitana",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 6155.4202,
+      "score": 0
+     },
+     {
+      "questionId": "manny-pacquiao-global",
+      "starName": "Manny Pacquiao",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 10574.463981,
+      "score": 50
+     }
+    ],
+    "2026-10-25": [
+     {
+      "questionId": "omar-sy-expanded",
+      "starName": "Omar Sy",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5426.901458,
+      "score": 50
+     },
+     {
+      "questionId": "messi-youth-club",
+      "starName": "Lionel Messi",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 11086.814911,
+      "score": 0
+     },
+     {
+      "questionId": "lorde-global",
+      "starName": "Lorde",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 2155.799407,
+      "score": 200
+     },
+     {
+      "questionId": "deepika-padukone-global",
+      "starName": "Deepika Padukone",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 6188.883852,
+      "score": 0
+     },
+     {
+      "questionId": "tarkan-expanded",
+      "starName": "Tarkan",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 4828.946063,
+      "score": 50
+     }
+    ],
+    "2026-11-03": [
+     {
+      "questionId": "eliud-kipchoge-global",
+      "starName": "Eliud Kipchoge",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5587.896421,
+      "score": 50
+     },
+     {
+      "questionId": "tyla-expanded",
+      "starName": "Tyla",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 9068.806677,
+      "score": 0
+     },
+     {
+      "questionId": "trevor-noah-global",
+      "starName": "Trevor Noah",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 11037.626831,
+      "score": 50
+     },
+     {
+      "questionId": "li-na-global",
+      "starName": "Li Na",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5837.683937,
+      "score": 0
+     },
+     {
+      "questionId": "simone-biles-global",
+      "starName": "Simone Biles",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 4973.439699,
+      "score": 50
+     }
+    ],
+    "2026-11-12": [
+     {
+      "questionId": "celine-dion-global",
+      "starName": "Céline Dion",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 8734.478809,
+      "score": 50
+     },
+     {
+      "questionId": "mohamed-salah-global",
+      "starName": "Mohamed Salah",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 3510.432701,
+      "score": 0
+     },
+     {
+      "questionId": "diljit-dosanjh-expanded",
+      "starName": "Diljit Dosanjh",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 12222.90299,
+      "score": 50
+     },
+     {
+      "questionId": "sachin-tendulkar-global",
+      "starName": "Sachin Tendulkar",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 12538.929376,
+      "score": 0
+     },
+     {
+      "questionId": "bad-bunny-global",
+      "starName": "Bad Bunny",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 7651.341862,
+      "score": 50
+     }
+    ],
+    "2026-11-21": [
+     {
+      "questionId": "jackie-chan-opera-training",
+      "starName": "Jackie Chan",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 12482.425923,
+      "score": 50
+     },
+     {
+      "questionId": "taika-waititi-global",
+      "starName": "Taika Waititi",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 18814.610657,
+      "score": 0
+     },
+     {
+      "questionId": "michelle-yeoh-global",
+      "starName": "Michelle Yeoh",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 6775.085688,
+      "score": 50
+     },
+     {
+      "questionId": "nadia-comaneci-global",
+      "starName": "Nadia Comăneci",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 535.099114,
+      "score": 200
+     },
+     {
+      "questionId": "rihanna-island-origins",
+      "starName": "Rihanna",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 6928.1893,
+      "score": 50
+     }
+    ],
+    "2026-11-30": [
+     {
+      "questionId": "adele-brit-school",
+      "starName": "Adele",
+      "playerCoordinates": {
+       "latitude": 0,
+       "longitude": 0
+      },
+      "distanceKm": 5727.382079,
+      "score": 50
+     },
+     {
+      "questionId": "dua-lipa-global",
+      "starName": "Dua Lipa",
+      "playerCoordinates": {
+       "latitude": 51.5,
+       "longitude": -0.12
+      },
+      "distanceKm": 0.984143,
+      "score": 800
+     },
+     {
+      "questionId": "psy-global",
+      "starName": "PSY",
+      "playerCoordinates": {
+       "latitude": -33.9,
+       "longitude": 151.2
+      },
+      "distanceKm": 8332.244498,
+      "score": 50
+     },
+     {
+      "questionId": "rebeca-andrade-expanded",
+      "starName": "Rebeca Andrade",
+      "playerCoordinates": {
+       "latitude": 40.7,
+       "longitude": -74
+      },
+      "distanceKm": 5837.683937,
+      "score": 0
+     },
+     {
+      "questionId": "naomi-osaka-first-title",
+      "starName": "Naomi Osaka",
+      "playerCoordinates": {
+       "latitude": 6.5,
+       "longitude": 3.4
+      },
+      "distanceKm": 12267.352596,
+      "score": 50
+     }
+    ]
+   }
+  }
+ },
+ "share": [
+  {
+   "day": "2026-09-01",
+   "edition": "origins-v1",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    1000,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜⬜🟩⬜⬜\n1,100 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=origins-v1"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "origins-v1",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    1000,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜⬜🟩⬜⬜\n1,100 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "origins-v1",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    1000,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜⬜🟩⬜⬜\n1,100 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=origins-v1"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "origins-v1",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    1000,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜⬜🟩⬜⬜\n1,100 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "origins-v1",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    600
+   ],
+   "text": "StarTap · 2026-09-10\n⬜⬜⬜⬜🟨\n700 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=origins-v1"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "origins-v1",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    600
+   ],
+   "text": "StarTap · 2026-09-10\n⬜⬜⬜⬜🟨\n700 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "origins-v1",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    600
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜⬜⬜⬜🟨\n700 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=origins-v1"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "origins-v1",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    600
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜⬜⬜⬜🟨\n700 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "stories-v2",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=stories-v2"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "stories-v2",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "stories-v2",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=stories-v2"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "stories-v2",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "stories-v2",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=stories-v2"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "stories-v2",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "stories-v2",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=stories-v2"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "stories-v2",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v3",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=global-v3"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v3",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v3",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=global-v3"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v3",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v3",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    400,
+    200,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10\n⬜🟧🟧⬜⬜\n700 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=global-v3"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v3",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    400,
+    200,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10\n⬜🟧🟧⬜⬜\n700 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v3",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    400,
+    200,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜🟧🟧⬜⬜\n700 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=global-v3"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v3",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    400,
+    200,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜🟧🟧⬜⬜\n700 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v4",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=global-v4"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v4",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v4",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-01&edition=global-v4"
+  },
+  {
+   "day": "2026-09-01",
+   "edition": "global-v4",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    0,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-01 · Practice\n⬜⬜⬜⬜⬜\n150 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v4",
+   "practice": false,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=global-v4"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v4",
+   "practice": false,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v4",
+   "practice": true,
+   "native": false,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?\nhttp://localhost:3001/play?day=2026-09-10&edition=global-v4"
+  },
+  {
+   "day": "2026-09-10",
+   "edition": "global-v4",
+   "practice": true,
+   "native": true,
+   "origin": "http://localhost:3001",
+   "scores": [
+    50,
+    800,
+    50,
+    0,
+    50
+   ],
+   "text": "StarTap · 2026-09-10 · Practice\n⬜🟨⬜⬜⬜\n950 / 5,000\nFive stars. How close can you get?"
+  }
+ ]
+}

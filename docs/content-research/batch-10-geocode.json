@@ -1,0 +1,512 @@
+{
+ "focalistic": {
+  "query": "Pretoria, Gauteng, South Africa",
+  "results": [
+   {
+    "lat": -25.7459277,
+    "lon": 28.1879101,
+    "type": "city",
+    "category": "place",
+    "name": "Pretoria",
+    "display": "Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0142, South Africa",
+    "cc": "ZA",
+    "osm": "node/25503669"
+   }
+  ]
+ },
+ "dj-maphorisa": {
+  "query": "Soshanguve, Gauteng, South Africa",
+  "results": [
+   {
+    "lat": -25.5263889,
+    "lon": 28.0994444,
+    "type": "suburb",
+    "category": "place",
+    "name": "Soshanguve",
+    "display": "Soshanguve, Tshwane Ward 35, City of Tshwane Metropolitan Municipality, Gauteng, 0152, South Africa",
+    "cc": "ZA",
+    "osm": "node/262716150"
+   }
+  ]
+ },
+ "musa-keys": {
+  "query": "Polokwane, Limpopo, South Africa",
+  "results": [
+   {
+    "lat": -23.9058333,
+    "lon": 29.4613889,
+    "type": "city",
+    "category": "place",
+    "name": "Polokwane",
+    "display": "Polokwane, Polokwane Local Municipality, Capricorn District Municipality, Limpopo, 0699, South Africa",
+    "cc": "ZA",
+    "osm": "node/304577692"
+   }
+  ]
+ },
+ "johnny-cash": {
+  "query": "Kingsland, Cleveland County, Arkansas, United States",
+  "results": [
+   {
+    "lat": 33.8600701,
+    "lon": -92.2946707,
+    "type": "village",
+    "category": "boundary",
+    "name": "Kingsland",
+    "display": "Kingsland, Cleveland County, Arkansas, United States",
+    "cc": "US",
+    "osm": "relation/13578566"
+   }
+  ]
+ },
+ "giorgio-moroder": {
+  "query": "Munich, Bavaria, Germany",
+  "results": [
+   {
+    "lat": 48.1371079,
+    "lon": 11.5753822,
+    "type": "city",
+    "category": "boundary",
+    "name": "Munich",
+    "display": "Munich, Bavaria, Germany",
+    "cc": "DE",
+    "osm": "relation/62428"
+   }
+  ]
+ },
+ "elvis-presley": {
+  "query": "Tupelo, Mississippi, United States",
+  "results": [
+   {
+    "lat": 34.2576067,
+    "lon": -88.7033859,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tupelo",
+    "display": "Tupelo, Lee County, Mississippi, United States",
+    "cc": "US",
+    "osm": "relation/7155943"
+   }
+  ]
+ },
+ "peter-tosh": {
+  "query": "Kingston, Jamaica",
+  "results": [
+   {
+    "lat": 17.9712148,
+    "lon": -76.7928128,
+    "type": "city",
+    "category": "place",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "node/53371112"
+   }
+  ]
+ },
+ "nusrat-fateh-ali-khan": {
+  "query": "Faisalabad, Pakistan",
+  "results": [
+   {
+    "lat": 31.4220558,
+    "lon": 73.0923253,
+    "type": "subdistrict",
+    "category": "boundary",
+    "name": "Faisalabad City Tehsil",
+    "display": "Faisalabad City Tehsil, Faisalabad District, Faisalabad Division, Punjab, Pakistan",
+    "cc": "PK",
+    "osm": "relation/16108315"
+   }
+  ]
+ },
+ "muhammad-ali": {
+  "query": "Louisville, Kentucky, United States",
+  "results": [
+   {
+    "lat": 38.2542376,
+    "lon": -85.759407,
+    "type": "city",
+    "category": "boundary",
+    "name": "Louisville",
+    "display": "Louisville, Jefferson County, Kentucky, United States",
+    "cc": "US",
+    "osm": "relation/1804307"
+   }
+  ]
+ },
+ "mike-tyson": {
+  "query": "Brooklyn, New York, United States",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "conor-mcgregor": {
+  "query": "Crumlin, Dublin, Ireland",
+  "results": [
+   {
+    "lat": 53.3202316,
+    "lon": -6.3161673,
+    "type": "locality",
+    "category": "boundary",
+    "name": "Crumlin",
+    "display": "Crumlin, Walkinstown C Ward 1986, Dublin, County Dublin, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/5480742"
+   }
+  ]
+ },
+ "israel-adesanya": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   }
+  ]
+ },
+ "valentina-shevchenko": {
+  "query": "Bishkek, Kyrgyzstan",
+  "results": [
+   {
+    "lat": 42.8761424,
+    "lon": 74.6036724,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bishkek City",
+    "display": "Bishkek City, Kyrgyzstan",
+    "cc": "KG",
+    "osm": "relation/8493930"
+   }
+  ]
+ },
+ "alex-pereira": {
+  "query": "São Bernardo do Campo, São Paulo, Brazil",
+  "results": [
+   {
+    "lat": -23.7080345,
+    "lon": -46.5506747,
+    "type": "city",
+    "category": "boundary",
+    "name": "São Bernardo do Campo",
+    "display": "São Bernardo do Campo, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/297968"
+   },
+   {
+    "lat": -23.7180592,
+    "lon": -46.5613536,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "São Bernardo do Campo",
+    "display": "São Bernardo do Campo, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/5683272"
+   }
+  ]
+ },
+ "lewis-hamilton": {
+  "query": "Stevenage, Hertfordshire, United Kingdom",
+  "results": [
+   {
+    "lat": 51.9016663,
+    "lon": -0.2027155,
+    "type": "town",
+    "category": "boundary",
+    "name": "Stevenage",
+    "display": "Stevenage, Hertfordshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/2684172"
+   }
+  ]
+ },
+ "max-verstappen": {
+  "query": "Hasselt, Limburg, Belgium",
+  "results": [
+   {
+    "lat": 50.9303735,
+    "lon": 5.3378043,
+    "type": "city",
+    "category": "boundary",
+    "name": "Hasselt",
+    "display": "Hasselt, Limburg, Flanders, Belgium",
+    "cc": "BE",
+    "osm": "relation/1230716"
+   }
+  ]
+ },
+ "ayrton-senna": {
+  "query": "São Paulo, Brazil",
+  "results": [
+   {
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "type": "city",
+    "category": "boundary",
+    "name": "São Paulo",
+    "display": "São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/298285"
+   },
+   {
+    "lat": -1.2043218,
+    "lon": -47.1583944,
+    "type": "suburb",
+    "category": "place",
+    "name": "São Paulo",
+    "display": "São Paulo, Capanema, Pará, North Region, 68700-540, Brazil",
+    "cc": "BR",
+    "osm": "node/5390979124"
+   }
+  ]
+ },
+ "virat-kohli": {
+  "query": "Delhi, India",
+  "results": [
+   {
+    "lat": 28.6664535,
+    "lon": 77.2169781,
+    "type": "city",
+    "category": "boundary",
+    "name": "Delhi",
+    "display": "Delhi, Old Delhi, Delhi, India",
+    "cc": "IN",
+    "osm": "relation/21180767"
+   }
+  ]
+ },
+ "ms-dhoni": {
+  "query": "Ranchi, Jharkhand, India",
+  "results": [
+   {
+    "lat": 23.3700501,
+    "lon": 85.3250387,
+    "type": "city",
+    "category": "place",
+    "name": "Ranchi",
+    "display": "Ranchi, Kanke, Ranchi, Jharkhand, 834001, India",
+    "cc": "IN",
+    "osm": "node/2510123017"
+   }
+  ]
+ },
+ "shane-warne": {
+  "query": "Ferntree Gully, Victoria, Australia",
+  "results": [
+   {
+    "lat": -37.8840562,
+    "lon": 145.2817304,
+    "type": "suburb",
+    "category": "boundary",
+    "name": "Ferntree Gully",
+    "display": "Ferntree Gully, Melbourne, Victoria, Australia",
+    "cc": "AU",
+    "osm": "relation/2414901"
+   }
+  ]
+ },
+ "kohei-uchimura": {
+  "query": "Nagasaki, Japan",
+  "results": [
+   {
+    "lat": 32.7501611,
+    "lon": 129.8781002,
+    "type": "city",
+    "category": "boundary",
+    "name": "Nagasaki",
+    "display": "Nagasaki, Nagasaki Prefecture, 850-8685, Japan",
+    "cc": "JP",
+    "osm": "relation/4011885"
+   }
+  ]
+ },
+ "olga-korbut": {
+  "query": "Hrodna, Belarus",
+  "results": [
+   {
+    "lat": 53.6834599,
+    "lon": 23.8342648,
+    "type": "city",
+    "category": "boundary",
+    "name": "Hrodna",
+    "display": "Hrodna, Hrodna Region, Belarus",
+    "cc": "BY",
+    "osm": "relation/130921"
+   }
+  ]
+ },
+ "saina-nehwal": {
+  "query": "Hisar, Haryana, India",
+  "results": [
+   {
+    "lat": 29.1562688,
+    "lon": 75.7292303,
+    "type": "city",
+    "category": "place",
+    "name": "Hisar",
+    "display": "Hisar, Hisar I Block, Hisar, Haryana, 125001, India",
+    "cc": "IN",
+    "osm": "node/771232061"
+   }
+  ]
+ },
+ "jansher-khan": {
+  "query": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+  "results": [
+   {
+    "lat": 34.0123846,
+    "lon": 71.5787458,
+    "type": "city",
+    "category": "boundary",
+    "name": "Peshawar City Tehsil",
+    "display": "Peshawar City Tehsil, Peshawar District, Peshawar Division, Khyber Pakhtunkhwa, Pakistan",
+    "cc": "PK",
+    "osm": "relation/16487008"
+   }
+  ]
+ },
+ "carolina-marin": {
+  "query": "Huelva, Andalusia, Spain",
+  "results": [
+   {
+    "lat": 37.2575874,
+    "lon": -6.9484945,
+    "type": "city",
+    "category": "boundary",
+    "name": "Huelva",
+    "display": "Huelva, Comarca Metropolitana de Huelva, Huelva, Andalusia, Spain",
+    "cc": "ES",
+    "osm": "relation/347727"
+   }
+  ]
+ },
+ "viktor-axelsen": {
+  "query": "Dubai, United Arab Emirates",
+  "results": [
+   {
+    "lat": 25.2647227,
+    "lon": 55.2924146,
+    "type": "city",
+    "category": "place",
+    "name": "Dubai",
+    "display": "Dubai, Dubai Emirate, United Arab Emirates",
+    "cc": "AE",
+    "osm": "node/31248510"
+   }
+  ]
+ },
+ "lindsey-vonn": {
+  "query": "Saint Paul, Minnesota, United States",
+  "results": [
+   {
+    "lat": 44.9497487,
+    "lon": -93.0931028,
+    "type": "city",
+    "category": "boundary",
+    "name": "Saint Paul",
+    "display": "Saint Paul, Ramsey County, Minnesota, United States",
+    "cc": "US",
+    "osm": "relation/136612"
+   }
+  ]
+ },
+ "shaun-white": {
+  "query": "San Diego, California, United States",
+  "results": [
+   {
+    "lat": 32.7157062,
+    "lon": -117.1638284,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Diego",
+    "display": "San Diego, San Diego County, California, United States",
+    "cc": "US",
+    "osm": "relation/253832"
+   }
+  ]
+ },
+ "kim-yuna": {
+  "query": "Bucheon, Gyeonggi, South Korea",
+  "results": [
+   {
+    "lat": 37.5014422,
+    "lon": 126.7660139,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bucheon-si",
+    "display": "Bucheon-si, Gyeonggi, South Korea",
+    "cc": "KR",
+    "osm": "relation/2409162"
+   }
+  ]
+ },
+ "marit-bjorgen": {
+  "query": "Trondheim, Trøndelag, Norway",
+  "results": [
+   {
+    "lat": 63.4304475,
+    "lon": 10.3952118,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Trondheim",
+    "display": "Trondheim, Trøndelag, Norway",
+    "cc": "NO",
+    "osm": "relation/10143487"
+   }
+  ]
+ },
+ "garth-brooks": {
+  "query": "Tulsa, Oklahoma, United States",
+  "results": [
+   {
+    "lat": 36.1563122,
+    "lon": -95.9927516,
+    "type": "city",
+    "category": "boundary",
+    "name": "Tulsa",
+    "display": "Tulsa, Oklahoma, United States",
+    "cc": "US",
+    "osm": "relation/184985"
+   }
+  ]
+ },
+ "brian-eno": {
+  "query": "Woodbridge, Suffolk, United Kingdom",
+  "results": [
+   {
+    "lat": 52.0941323,
+    "lon": 1.3199383,
+    "type": "town",
+    "category": "boundary",
+    "name": "Woodbridge",
+    "display": "Woodbridge, East Suffolk, Suffolk, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/4660853"
+   }
+  ]
+ }
+}

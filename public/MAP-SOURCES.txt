@@ -1,0 +1,5 @@
+Country labels: Natural Earth, 1:50m Admin 0 Countries, public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+Source: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson
+Only English names, label ranks and label points are retained. Labels include countries and territories; boundaries use the existing map dataset.
+Font: Open Sans Semibold, SIL Open Font License (see fonts/OFL.txt), glyphs from https://demotiles.maplibre.org/font/.

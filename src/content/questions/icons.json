@@ -1,0 +1,5338 @@
+[
+ {
+  "id": "nelson-mandela-robben-island",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "A moment on the map",
+  "question": "On which island was Nelson Mandela imprisoned from 1964 to 1982?",
+  "clue": "Look off the coast of South Africa's Western Cape.",
+  "hint": "The island lies in Table Bay, off Cape Town.",
+  "answer": {
+   "city": "Robben Island",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -33.8053,
+   "longitude": 18.3689,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2302069"
+  },
+  "story": "From 1964 to 1982 Nelson Mandela was imprisoned on Robben Island, off Cape Town. He had been born in Mvezo, South Africa, in 1918, and went on to become the country's president from 1994 to 1999.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Nelson-Mandela",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: July 18, 1918, Mvezo, South Africa … Title / Office: president (1994-1999), South Africa … From 1964 to 1982 Mandela was imprisoned on Robben Island, off Cape Town."
+   }
+  ],
+  "entityId": "nelson-mandela",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "mahatma-gandhi-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which coastal town in western India was Mahatma Gandhi born?",
+  "clue": "Look on India's west coast, on the Arabian Sea.",
+  "hint": "The town is on the coast of Gujarat's Saurashtra peninsula.",
+  "answer": {
+   "city": "Porbandar",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 21.6409,
+   "longitude": 69.611,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/245696813"
+  },
+  "story": "Mahatma Gandhi was born in Porbandar in 1869. His father was the dewan (chief minister) of Porbandar, then the capital of a small principality in what is now Gujarat state.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: October 2, 1869, Porbandar, India … Karamchand Gandhi, who was the dewan (chief minister) of Porbandar, the capital of a small principality in western India (in what is now Gujarat state)"
+   }
+  ],
+  "entityId": "mahatma-gandhi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "marie-curie-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which city was Marie Curie born?",
+  "clue": "Look in Central Europe.",
+  "hint": "It is Poland's capital, on the Vistula River.",
+  "answer": {
+   "city": "Warsaw",
+   "country": "Poland",
+   "countryCode": "PL",
+   "latitude": 52.232,
+   "longitude": 21.0067,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/336075"
+  },
+  "story": "Marie Curie was born Maria Skłodowska in Warsaw in 1867. She later moved to Paris, became famous for her work on radioactivity and won the Nobel Prize twice.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Marie-Curie",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Marie Curie (born November 7, 1867, Warsaw, Congress Kingdom of Poland, Russian Empire …) was a Polish-born French physicist, famous for her work on radioactivity and twice a winner of the Nobel Prize. … Also known as: Maria Salomea Skłodowska … Move to Paris"
+   }
+  ],
+  "entityId": "marie-curie",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "albert-einstein-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which German city was Albert Einstein born?",
+  "clue": "Look in southern Germany.",
+  "hint": "The city is on the Danube, in Baden-Württemberg.",
+  "answer": {
+   "city": "Ulm",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 48.3985,
+   "longitude": 9.9912,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62495"
+  },
+  "story": "Albert Einstein was born in Ulm, in Württemberg, in 1879. The German-born physicist went on to develop the special and general theories of relativity.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Albert-Einstein",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Albert Einstein (born March 14, 1879, Ulm, Württemberg (now Baden-Württemberg), Germany …) was a German-born physicist who developed the special and general theories of relativity."
+   }
+  ],
+  "entityId": "albert-einstein",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "frida-kahlo-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which part of Mexico City was Frida Kahlo born?",
+  "clue": "Look in central Mexico.",
+  "hint": "It is a borough in the south of Mexico City.",
+  "answer": {
+   "city": "Coyoacán, Mexico City",
+   "country": "Mexico",
+   "countryCode": "MX",
+   "latitude": 19.3499,
+   "longitude": -99.162,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5605709"
+  },
+  "story": "Frida Kahlo was born in Coyoacán in 1907 and died there in 1954. When she was too ill to travel, she taught classes from her home, La Casa Azul (\"The Blue House\").",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Frida-Kahlo",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: July 6, 1907, Coyoacán, Mexico Died: July 13, 1954, Coyoacán … holding classes from her home at La Casa Azul (“The Blue House”) when she is too ill to travel."
+   }
+  ],
+  "entityId": "frida-kahlo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "chinua-achebe-hometown",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "World Icons",
+  "chapter": "Hometown roots",
+  "question": "In which Igbo town did novelist Chinua Achebe grow up?",
+  "clue": "Look in southeastern Nigeria.",
+  "hint": "The town is in Anambra State, near Onitsha.",
+  "answer": {
+   "city": "Ogidi",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.1527,
+   "longitude": 6.8668,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/501438288"
+  },
+  "story": "Chinua Achebe was born in Ogidi in 1930 and grew up in the Igbo town. The Nigerian novelist was acclaimed for his unsentimental depictions of the disorientation that accompanied Western customs and values.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Chinua-Achebe",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Chinua Achebe (born November 16, 1930, Ogidi, Nigeria …) was a Nigerian novelist acclaimed for his unsentimental depictions of the social and psychological disorientation accompanying the imposition of Western customs … Achebe grew up in the Igbo (Ibo) town of Ogidi, Nigeria."
+   }
+  ],
+  "entityId": "chinua-achebe",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "wangari-maathai-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "Near which Kenyan town was Nobel Peace Prize winner Wangari Maathai born?",
+  "clue": "Look in central Kenya.",
+  "hint": "The town lies between the Aberdare Range and Mount Kenya.",
+  "answer": {
+   "city": "Nyeri",
+   "country": "Kenya",
+   "countryCode": "KE",
+   "latitude": -0.4193,
+   "longitude": 36.9517,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/542138125"
+  },
+  "story": "Wangari Maathai was born in Nyeri, Kenya, in 1940. The Green Belt Movement she founded in 1977 had planted some 30 million trees by the early 21st century, and she was awarded the 2004 Nobel Prize for Peace.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Wangari-Maathai",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Wangari Maathai (born April 1, 1940, Nyeri, Kenya …) was a Kenyan politician and environmental activist who was awarded the 2004 Nobel Prize for Peace … The Green Belt Movement, an organization she founded in 1977, had by the early 21st century planted some 30 million trees."
+   }
+  ],
+  "entityId": "wangari-maathai",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2.",
+    "Batch 12: also in icons/humanitarians — Nobel Peace laureate, founder of the Green Belt Movement"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "humanitarians"
+   }
+  ]
+ },
+ {
+  "id": "malala-yousafzai-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which city in Pakistan's Swat valley was Malala Yousafzai born?",
+  "clue": "Look in northern Pakistan.",
+  "hint": "It is the main city of the Swat valley.",
+  "answer": {
+   "city": "Mingora",
+   "country": "Pakistan",
+   "countryCode": "PK",
+   "latitude": 34.7725,
+   "longitude": 72.3608,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/4832577118"
+  },
+  "story": "Malala Yousafzai was born in Mingora in 1997. Her father established and ran the school she attended in the city, Khushal Girls High School and College, and encouraged her to follow in his path.",
+  "trivia": "She won the Nobel Prize in 2014.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Malala-Yousafzai",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: July 12, 1997, Mingora, Swat valley, Pakistan … Awards And Honors: Nobel Prize (2014) … Her father—who established and administered the school she attended, Khushal Girls High School and College in the city of Mingora—encouraged her to follow in his path."
+   }
+  ],
+  "triviaCard": {
+   "type": "big_moment",
+   "text": "She won the Nobel Prize in 2014.",
+   "sourceUrl": "https://www.britannica.com/biography/Malala-Yousafzai",
+   "sourceName": "Britannica",
+   "quote": "Born: July 12, 1997, Mingora, Swat valley, Pakistan … Awards And Honors: Nobel Prize (2014) … Her father—who established and administered the school she attended, Khushal Girls High School and College in the city of Mingora—encouraged her to follow in his path."
+  },
+  "entityId": "malala-yousafzai",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2.",
+    "Batch 12: also in icons/humanitarians — Nobel Peace laureate campaigning for girls' education"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "humanitarians"
+   }
+  ]
+ },
+ {
+  "id": "martin-luther-king-jr-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which city was Martin Luther King Jr. born?",
+  "clue": "Look in the southeastern United States.",
+  "hint": "It is the capital of Georgia.",
+  "answer": {
+   "city": "Atlanta",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 33.7545,
+   "longitude": -84.3898,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/119557"
+  },
+  "story": "Martin Luther King Jr. was born in Atlanta in 1929. His father was pastor of the city's Ebenezer Baptist Church, and at 15 King entered Morehouse College in Atlanta.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: January 15, 1929, Atlanta, Georgia, U.S. … King’s father had succeeded his father-in-law as pastor of the prestigious Ebenezer Baptist Church in Atlanta. In 1944, at age 15, King entered Morehouse College in Atlanta"
+   }
+  ],
+  "entityId": "martin-luther-king-jr",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "zaha-hadid-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which city was architect Zaha Hadid born?",
+  "clue": "Look in the Middle East, on the Tigris River.",
+  "hint": "It is the capital of Iraq.",
+  "answer": {
+   "city": "Baghdad",
+   "country": "Iraq",
+   "countryCode": "IQ",
+   "latitude": 33.3062,
+   "longitude": 44.3872,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5638803"
+  },
+  "story": "Zaha Hadid was born in Baghdad in 1950. She studied mathematics at the American University of Beirut before moving to London in 1972 to study at the Architectural Association.",
+  "trivia": "She won the Pritzker Prize in 2004.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Zaha-Hadid",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born: October 31, 1950, Baghdad, Iraq … Pritzker Prize (2004) … Hadid studied mathematics at the American University of Beirut, before traveling to London in 1972 to study at the Architectural Association"
+   }
+  ],
+  "triviaCard": {
+   "type": "big_moment",
+   "text": "She won the Pritzker Prize in 2004.",
+   "sourceUrl": "https://www.britannica.com/biography/Zaha-Hadid",
+   "sourceName": "Britannica",
+   "quote": "Born: October 31, 1950, Baghdad, Iraq … Pritzker Prize (2004) … Hadid studied mathematics at the American University of Beirut, before traveling to London in 1972 to study at the Architectural Association"
+  },
+  "entityId": "zaha-hadid",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "naguib-mahfouz-hometown",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "World Icons",
+  "chapter": "Hometown roots",
+  "question": "In which city's historic Al-Jamāliyyah district did Nobel laureate Naguib Mahfouz grow up?",
+  "clue": "Look in North Africa, on the Nile.",
+  "hint": "It is Egypt's capital.",
+  "answer": {
+   "city": "Al-Jamāliyyah, Cairo",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 30.0518,
+   "longitude": 31.2649,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/394487247"
+  },
+  "story": "Naguib Mahfouz grew up in Cairo's Al-Jamāliyyah district. His Cairo Trilogy follows three generations of Cairo families, and in 1988 he became the first Arabic writer to win the Nobel Prize for Literature.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Naguib-Mahfouz",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "awarded the Nobel Prize for Literature in 1988, the first Arabic writer to be so honoured. Mahfouz was the son of a civil servant and grew up in Cairo’s Al-Jamāliyyah district. … The Cairo Trilogy … depict the lives of three generations of different families in Cairo"
+   }
+  ],
+  "entityId": "naguib-mahfouz",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 2."
+   ]
+  }
+ },
+ {
+  "id": "grace-jones-birthplace",
+  "primaryCategory": "icons",
+  "subcategory": "fashion-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "In which Jamaican town was style icon Grace Jones born?",
+  "clue": "Look in Jamaica, just west of Kingston.",
+  "hint": "The town was once Jamaica's capital.",
+  "answer": {
+   "city": "Spanish Town",
+   "country": "Jamaica",
+   "countryCode": "JM",
+   "latitude": 17.9957,
+   "longitude": -76.9541,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/247716893"
+  },
+  "story": "Grace Jones was born in Spanish Town, Jamaica, in 1948. Her striking androgynous look and avant-garde fashion sense made the singer, model and actress a style icon in the 1970s.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Grace-Jones",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Grace Jones (born May 19, 1948, Spanish Town, Jamaica) is a Jamaican singer, model, and actress whose striking androgynous appearance and avant-garde fashion sense propelled her to fame in the 1970s."
+   }
+  ],
+  "entityId": "grace-jones",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "steve-irwin-beerwah",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "famous_place",
+  "difficulty": "hard",
+  "displayCategory": "World Icons",
+  "chapter": "A moment on the map",
+  "question": "In which Sunshine Coast town did Steve Irwin's parents found the reptile park he later ran?",
+  "clue": "Look in southeastern Queensland, Australia.",
+  "hint": "The town is in the Glass House Mountains area, north of Brisbane.",
+  "answer": {
+   "city": "Beerwah, Queensland",
+   "country": "Australia",
+   "countryCode": "AU",
+   "latitude": -26.8573,
+   "longitude": 152.9604,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/11675249"
+  },
+  "story": "In 1970 Steve Irwin's family moved to Queensland's Sunshine Coast, where his parents founded the Beerwah Reptile Park. Irwin took over the park in 1991 and found worldwide fame as host of The Crocodile Hunter.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Steve-Irwin",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "achieved worldwide fame as the exuberant host of The Crocodile Hunter (1992–2006) … In 1970 the family moved from Victoria to Queensland’s Sunshine Coast, where Bob and Lyn Irwin founded the Beerwah Reptile Park … In 1991 Irwin took over direction of the Beerwah park from his father."
+   }
+  ],
+  "entityId": "steve-irwin",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "abraham-lincoln-hodgenville",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Kentucky cabin",
+  "question": "Abraham Lincoln, the 16th US president, was born in 1809 near which small Kentucky town?",
+  "clue": "Central Kentucky, south of Louisville.",
+  "hint": "His birthplace cabin site is now a national historical park.",
+  "answer": {
+   "city": "Hodgenville",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.5737,
+   "longitude": -85.7404,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/130589"
+  },
+  "story": "Abraham Lincoln was born near Hodgenville, Kentucky, in 1809. As the 16th president of the United States (1861–65) he preserved the Union during the American Civil War and brought about the emancipation of enslaved people.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Abraham-Lincoln",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Abraham Lincoln (born February 12, 1809, near Hodgenville, Kentucky, U.S.—died April 15, 1865, Washington, D.C.) was the 16th president of the United States (1861–65), who preserved the Union during the American Civil War and brought about the emancipation of enslaved peo"
+   }
+  ],
+  "entityId": "abraham-lincoln",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "winston-churchill-blenheim",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "Born in a palace",
+  "question": "Winston Churchill was born in 1874 at Blenheim Palace. Beside which Oxfordshire town does the palace stand?",
+  "clue": "About 8 miles north-west of Oxford.",
+  "hint": "The town shares its name with a famous 1969 music festival in New York State.",
+  "answer": {
+   "city": "Woodstock",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.8475,
+   "longitude": -1.3545,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4209853"
+  },
+  "story": "Winston Churchill was born at Blenheim Palace, Oxfordshire, in 1874. As prime minister (1940–45 and 1951–55) he rallied the British people during World War II.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Winston-Churchill",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Winston Churchill (born November 30, 1874, Blenheim Palace, Oxfordshire, England—died January 24, 1965, London) was a British statesman, orator, and author who as prime minister (1940–45, 1951–55) rallied the British people during World War II"
+   }
+  ],
+  "entityId": "winston-churchill",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "joan-of-arc-orleans",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The siege",
+  "question": "In 1429 Joan of Arc led the French army to a momentous victory that lifted the siege of which city on the Loire?",
+  "clue": "On the Loire, about 120 km south-west of Paris.",
+  "hint": "She is still known as 'the Maid of' this city.",
+  "answer": {
+   "city": "Orléans",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 47.9027,
+   "longitude": 1.9086,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/147559"
+  },
+  "story": "Joan of Arc, born about 1412 at Domrémy, was a peasant girl who, believing she was acting under divine guidance, led the French army in 1429 to a momentous victory at Orléans. She died at Rouen in 1431 and is a national heroine of France.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "is a national heroine of France, a peasant girl who, believing that she was acting under divine guidance, led the French army in 1429 to momentous victory at Orléans"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "St. Joan of Arc (born c. 1412, Domrémy, Bar, France—died May 30, 1431, Rouen"
+   }
+  ],
+  "entityId": "joan-of-arc",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "simon-bolivar-caracas",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "The Liberator's city",
+  "question": "Simón Bolívar, 'the Liberator', was born in 1783 in which city — today a South American capital?",
+  "clue": "In a valley just inland from the Caribbean coast.",
+  "hint": "It's Venezuela's capital.",
+  "answer": {
+   "city": "Caracas",
+   "country": "Venezuela",
+   "countryCode": "VE",
+   "latitude": 10.5061,
+   "longitude": -66.9146,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/11219583"
+  },
+  "story": "Simón Bolívar was born in Caracas in 1783. He led the revolutions against Spanish rule in the Viceroyalty of New Granada, and after three years in Spain returned to Caracas with his Spanish wife in 1801.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Simon-Bolivar",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Simón Bolívar (born July 24, 1783, Caracas, Venezuela, New Granada [now in Venezuela]—died December 17, 1830, near Santa Marta, Colombia) was a Venezuelan soldier and statesman who led the revolutions against Spanish rule in the Viceroyalty of New Granada"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Simon-Bolivar",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "For three years he lived in Spain, and in 1801 he married the daughter of a Spanish nobleman, with whom he returned to Caracas."
+   }
+  ],
+  "entityId": "simon-bolivar",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "kwame-nkrumah-nkroful",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "Before independence",
+  "question": "Kwame Nkrumah, who led Ghana to independence in 1957, was born in 1909 in which village in the far south-west of the country?",
+  "clue": "Western Region of Ghana, inland from the coast near the Côte d'Ivoire border.",
+  "hint": "His mausoleum is there; his remains were later moved to Accra.",
+  "answer": {
+   "city": "Nkroful",
+   "country": "Ghana",
+   "countryCode": "GH",
+   "latitude": 4.9677,
+   "longitude": -2.3229,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/4351401792"
+  },
+  "story": "Kwame Nkrumah was born at Nkroful in 1909. He led the Gold Coast's drive for independence from Britain, and when it became independent as Ghana in March 1957 he became the new nation's first prime minister.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Kwame-Nkrumah",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kwame Nkrumah (born September 1909, Nkroful, Gold Coast [now Ghana]—died April 27, 1972, Bucharest, Romania) was a Ghanaian nationalist leader who led the Gold Coast’s drive for independence from Britain"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Kwame-Nkrumah",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "When the Gold Coast and the British Togoland trust territory became an independent state within the British Commonwealth—as Ghana—in March 1957, Nkrumah became the new nation’s first prime minister."
+   }
+  ],
+  "entityId": "kwame-nkrumah",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "ataturk-thessaloniki",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "An Ottoman port",
+  "question": "Atatürk, founder of the Republic of Turkey, was born in 1881 in Salonika — a city now in Greece. What is it called today?",
+  "clue": "On the Aegean coast of northern Greece.",
+  "hint": "It's Greece's second-largest city.",
+  "answer": {
+   "city": "Thessaloniki",
+   "country": "Greece",
+   "countryCode": "GR",
+   "latitude": 40.6403,
+   "longitude": 22.9353,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/57554537"
+  },
+  "story": "Kemal Atatürk was born in Salonika — now Thessaloníki, Greece — in 1881. A soldier, statesman and reformer, he founded the Republic of Turkey and was its first president from 1923 to 1938.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Kemal-Ataturk",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kemal Atatürk (born 1881, Salonika [now Thessaloníki], Greece—died November 10, 1938, Istanbul, Turkey) was a soldier, statesman, and reformer who was the founder and first president (1923–38) of the Republic of Turkey."
+   }
+  ],
+  "entityId": "ataturk",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "george-washington-mount-vernon",
+  "primaryCategory": "icons",
+  "subcategory": "historic-icons",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Home on the Potomac",
+  "question": "George Washington, commander in the American Revolution and first US president, died in 1799 at which Virginia estate?",
+  "clue": "On the Potomac River, just south of Washington, D.C.",
+  "hint": "The estate shares its name with towns in several US states.",
+  "answer": {
+   "city": "Mount Vernon",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 38.7102,
+   "longitude": -77.0888,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/232724526"
+  },
+  "story": "George Washington, born in Westmoreland county, Virginia, in 1732, commanded the colonial armies in the American Revolution and became the first president of the United States. He died at Mount Vernon, Virginia, in 1799.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/George-Washington",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "George Washington (born February 22 [February 11, Old Style], 1732, Westmoreland county, Virginia [U.S.]—died December 14, 1799, Mount Vernon, Virginia, U.S.) was an American general and commander in chief of the colonial armies in the American Revolution (1775–83) and subsequently first president of the United State"
+   }
+  ],
+  "entityId": "george-washington",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "bruce-lee-san-francisco",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Born abroad",
+  "question": "Martial-arts film star Bruce Lee was born in 1940 in which US city — the one his Chinese first name refers to?",
+  "clue": "On a peninsula between the Pacific and a great bay in northern California.",
+  "hint": "Its Chinatown is one of the oldest in North America.",
+  "answer": {
+   "city": "San Francisco",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.7879,
+   "longitude": -122.4075,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/111968"
+  },
+  "story": "Bruce Lee was born in San Francisco in 1940 — his first name, Fan, represents the Cantonese nickname for the city of his birth. He set the standard for kung fu films as the genre's first global star.",
+  "secondary": [
+   {
+    "category": "screen",
+    "subcategory": "action"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Bruce-Lee",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The first name Fan is a Chinese character used to represent the Cantonese nickname for the city of his birth, San Francisco."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Bruce-Lee",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Bruce Lee set the standard for kung fu films as the genre’s first global star."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Bruce-Lee",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Born: November 27, 1940, San Francisco, California, U.S."
+   }
+  ],
+  "entityId": "bruce-lee",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "marilyn-monroe-los-angeles",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "Norma Jeane",
+  "question": "Marilyn Monroe — born Norma Jeane Mortenson — was born in 1926 in which city?",
+  "clue": "Southern California, on the Pacific coast.",
+  "hint": "It's home to Hollywood.",
+  "answer": {
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 34.0522,
+   "longitude": -118.2434,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/207359"
+  },
+  "story": "Marilyn Monroe was born Norma Jeane Mortenson in Los Angeles in 1926. She became a major star of the 1950s in a number of commercially successful films.",
+  "secondary": [
+   {
+    "category": "screen",
+    "subcategory": "classic-icons"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Marilyn-Monroe",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Marilyn Monroe (born June 1, 1926, Los Angeles, California, U.S.—found dead August 5, 1962, Los Angeles) was an American actress who became a major sex symbol, starring in a number of commercially successful films during the 1950s"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Marilyn-Monroe",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Marilyn Monroe was born Norma Jeane Mortenson, but for much of her early life she used Baker, the surname of her mother’s first husband."
+   }
+  ],
+  "entityId": "marilyn-monroe",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "princess-diana-sandringham",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Norfolk childhood",
+  "question": "Diana, Princess of Wales, was born in 1961 on which royal estate in Norfolk?",
+  "clue": "North-west Norfolk, near The Wash.",
+  "hint": "The royal family traditionally spends Christmas there.",
+  "answer": {
+   "city": "Sandringham",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.8428,
+   "longitude": 0.4318,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1022734"
+  },
+  "story": "Diana was born at Sandringham, Norfolk, in 1961, the youngest daughter of Viscount Althorp. She was princess of Wales as consort of Charles, prince of Wales (later Charles III), from 1981 to 1996.",
+  "secondary": [
+   {
+    "category": "icons",
+    "subcategory": "fashion-icons"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Diana-princess-of-Wales",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Diana, princess of Wales (born July 1, 1961, Sandringham, Norfolk, England—died August 31, 1997, Paris, France) was the princess of Wales, former consort (1981–96) of Charles, prince of Wales (later Charles III)"
+   }
+  ],
+  "entityId": "princess-diana",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "charlie-chaplin-london",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "A London boyhood",
+  "question": "Charlie Chaplin, widely regarded as the greatest comic artist of the screen, was born in 1889 in which city?",
+  "clue": "On the River Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5074,
+   "longitude": -0.1278,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175342"
+  },
+  "story": "Charlie Chaplin was born in London in 1889. A comedian, producer, writer, director and composer, he is widely regarded as the greatest comic artist of the screen. He died in Switzerland in 1977.",
+  "secondary": [
+   {
+    "category": "screen",
+    "subcategory": "classic-icons"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Charlie-Chaplin",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Charlie Chaplin (born April 16, 1889, London, England—died December 25, 1977, Corsier-sur-Vevey, Switzerland) was a British comedian, producer, writer, director, and composer who is widely regarded as the greatest comic artist of the screen"
+   }
+  ],
+  "entityId": "charlie-chaplin",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "mother-teresa-skopje",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "Before Calcutta",
+  "question": "Mother Teresa, founder of the Missionaries of Charity in India, was born in 1910 in which Balkan city?",
+  "clue": "On the Vardar River in the Balkans.",
+  "hint": "It's now the capital of North Macedonia.",
+  "answer": {
+   "city": "Skopje",
+   "country": "North Macedonia",
+   "countryCode": "MK",
+   "latitude": 41.9962,
+   "longitude": 21.4319,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6966465"
+  },
+  "story": "Mother Teresa was born in Skopje in 1910, the daughter of an ethnic Albanian grocer. She sailed to India as a teacher, founded the Missionaries of Charity — dedicated to the poor, particularly the destitute of India — and died in Calcutta (Kolkata) in 1997.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mother-Teresa",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mother Teresa (baptized August 27, 1910, Skopje, Macedonia, Ottoman Empire [now in North Macedonia]—died September 5, 1997, Calcutta [now Kolkata], India"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mother-Teresa",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was the founder of the Order of the Missionaries of Charity, a Roman Catholic congregation of women dedicated to the poor, particularly to the destitute of Ind"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mother-Teresa",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The daughter of an ethnic Albanian grocer, she went to Ireland in 1928 to join the Sisters of Loreto at the Institute of the Blessed Virgin Mary and sailed only six weeks later to India as a teacher."
+   }
+  ],
+  "entityId": "mother-teresa",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "florence-nightingale-florence",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Named for a city",
+  "question": "Florence Nightingale, the 'Lady with the Lamp', was born in 1820 in — and named after — which Italian city?",
+  "clue": "Tuscany, on the River Arno.",
+  "hint": "It's the city of Brunelleschi's great cathedral dome.",
+  "answer": {
+   "city": "Florence",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 43.7698,
+   "longitude": 11.2556,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/42602"
+  },
+  "story": "Florence Nightingale was born in Florence in 1820. Her night rounds caring for the wounded made her the 'Lady with the Lamp', and she founded the first scientifically based nursing school. In 1907 she became the first woman awarded the Order of Merit.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Florence-Nightingale",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Florence Nightingale (born May 12, 1820, Florence [Italy]—died August 13, 1910, London, England) was a British nurse, statistician, and social reformer who was the foundational philosopher of modern nursing"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Florence-Nightingale",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "her night rounds giving personal care to the wounded established her image as the “Lady with the Lamp.”"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Florence-Nightingale",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She was the first woman awarded the Order of Merit (1907)."
+   }
+  ],
+  "entityId": "florence-nightingale",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "albert-schweitzer-lambarene",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A hospital by the river",
+  "question": "Nobel Peace laureate Albert Schweitzer built his hospital on the Ogooué River at which town in Gabon?",
+  "clue": "Central-western Gabon, on the Ogooué River.",
+  "hint": "He died there in 1965; the hospital still bears his name.",
+  "answer": {
+   "city": "Lambaréné",
+   "country": "Gabon",
+   "countryCode": "GA",
+   "latitude": -0.6943,
+   "longitude": 10.2236,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/331144234"
+  },
+  "story": "Albert Schweitzer — theologian, philosopher, organist and mission doctor — built his hospital on the banks of the Ogooué River at Lambaréné, Gabon, and received the 1952 Nobel Prize for Peace. He died at Lambaréné in 1965.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Albert-Schweitzer",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "There, on the banks of the Ogooué (Ogowe) River, Schweitzer, with the help of the natives, built his hospital"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Albert-Schweitzer",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Albert Schweitzer (born Jan. 14, 1875, Kaysersberg, Upper Alsace, Ger. [now in France]—died Sept. 4, 1965, Lambaréné, Gabon) was an Alsatian-German theologian, philosopher, organist, and mission doctor in equatorial Africa, who received the 1952 Nobel Prize for Peace"
+   }
+  ],
+  "entityId": "albert-schweitzer",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "henry-dunant-geneva",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Founder of the Red Cross",
+  "question": "Henry Dunant, founder of the Red Cross and co-winner of the first Nobel Peace Prize, was born in 1828 in which Swiss city?",
+  "clue": "At the south-western tip of Switzerland, on a large lake.",
+  "hint": "The Geneva Conventions are named after it.",
+  "answer": {
+   "city": "Geneva",
+   "country": "Switzerland",
+   "countryCode": "CH",
+   "latitude": 46.2018,
+   "longitude": 6.1466,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1685488"
+  },
+  "story": "Henri Dunant was born in Geneva in 1828. In 1863 he founded what is now the International Committee of the Red Cross; the first Geneva Convention followed a year later. In 1901 he shared the first Nobel Prize for Peace.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Henri-Dunant",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Henri Dunant (born May 8, 1828, Geneva, Switzerland—died October 30, 1910, Heiden) was a Swiss humanitarian, founder of the Red Cross"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Henri-Dunant",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1863 he founded the International Committee for the Relief of the Wounded (now International Committee of the Red Cross), and the following year the first national societies and the first Geneva Convention came into being."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Henri-Dunant",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He was cowinner (with Frédéric Passy) of the first Nobel Prize for Peace in 1901."
+   }
+  ],
+  "entityId": "henry-dunant",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "desmond-tutu-johannesburg",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A first for the cathedral",
+  "question": "In 1975 Desmond Tutu became the first Black South African dean of St. Mary's Cathedral — in which city?",
+  "clue": "Gauteng province, on the Highveld.",
+  "hint": "South Africa's largest city, built on gold.",
+  "answer": {
+   "city": "Johannesburg",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -26.205,
+   "longitude": 28.0497,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/261833893"
+  },
+  "story": "Desmond Tutu, an Anglican cleric, was appointed dean of St. Mary's Cathedral in Johannesburg in 1975 — the first Black South African to hold the post. In 1984 he received the Nobel Prize for Peace for his role in opposing apartheid.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Desmond-Tutu",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He was appointed dean of St. Mary’s Cathedral in Johannesburg in 1975, the first Black South African to hold that position."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Desmond-Tutu",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was a South African Anglican cleric who in 1984 received the Nobel Prize for Peace for his role in the opposition to apartheid in South Africa"
+   }
+  ],
+  "entityId": "desmond-tutu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "kailash-satyarthi-vidisha",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "Before the Nobel",
+  "question": "Child-rights campaigner Kailash Satyarthi, 2014 Nobel Peace laureate, was born in 1954 in which city in Madhya Pradesh?",
+  "clue": "Central India, north-east of Bhopal.",
+  "hint": "Its nearby Buddhist stupas at Sanchi are a World Heritage site.",
+  "answer": {
+   "city": "Vidisha",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 23.8463,
+   "longitude": 77.837,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1976082"
+  },
+  "story": "Kailash Satyarthi was born in Vidisha, India, in 1954. He shared the 2014 Nobel Peace Prize.",
+  "sources": [
+   {
+    "url": "https://www.nobelprize.org/prizes/peace/2014/satyarthi/facts/",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Born: 11 January 1954, Vidisha, India"
+   }
+  ],
+  "entityId": "kailash-satyarthi",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "raoul-wallenberg-budapest",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The rescuer",
+  "question": "Swedish diplomat Raoul Wallenberg was sent in July 1944 to which city, where thousands of Jews were sheltered under his protection?",
+  "clue": "Straddling the Danube in central Europe.",
+  "hint": "It's Hungary's capital.",
+  "answer": {
+   "city": "Budapest",
+   "country": "Hungary",
+   "countryCode": "HU",
+   "latitude": 47.4979,
+   "longitude": 19.0402,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1244004"
+  },
+  "story": "Raoul Wallenberg, born in Stockholm in 1912, became legendary for his efforts to rescue Hungarian Jews during World War II. Sent to Budapest in July 1944 with a diplomatic passport, he enlisted and sheltered several thousand Jews. He was arrested by Soviet authorities in January 1945.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Raoul-Wallenberg",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "persuaded the Swedish Foreign Ministry to send him to Budapest on July 9 with a diplomatic passport."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Raoul-Wallenberg",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Raoul Wallenberg (born August 4, 1912, Stockholm, Sweden—died July 17, 1947?, Moscow, Russia, U.S.S.R.) was a Swedish businessman and diplomat who became legendary through his efforts to rescue Hungarian Jews during World War II"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Raoul-Wallenberg",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "There, several thousand Jews (estimates vary from 4,000 to 35,000) were enlisted and sheltered by Walle"
+   }
+  ],
+  "entityId": "raoul-wallenberg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "clara-barton-bordentown",
+  "primaryCategory": "icons",
+  "subcategory": "humanitarians",
+  "questionType": "career_location",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "A free school",
+  "question": "Before founding the American Red Cross, Clara Barton established a free school in 1852 in which New Jersey town?",
+  "clue": "On the Delaware River, south of Trenton.",
+  "hint": "Its name begins with the word for an edge or frontier.",
+  "answer": {
+   "city": "Bordentown",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.1463,
+   "longitude": -74.7115,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170924"
+  },
+  "story": "Clara Barton, born in Oxford, Massachusetts, in 1821, established a free school in Bordentown, New Jersey, in 1852. In 1881 she founded the American Red Cross.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Clara-Barton",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1852 in Bordentown, N.J., she established a free school that soon became so large that the townsmen would no longer allow a woman to run it."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Clara-Barton",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Clara Barton (born Dec. 25, 1821, Oxford, Mass., U.S.—died April 12, 1912, Glen Echo, Md.) was the founder of the American Red Cross"
+   }
+  ],
+  "entityId": "clara-barton",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "marco-polo-venice",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "Setting out",
+  "question": "Marco Polo set out for China in 1271 with his father and uncle from which home city?",
+  "clue": "Built on islands in a lagoon at the top of the Adriatic.",
+  "hint": "It's famous for canals and gondolas.",
+  "answer": {
+   "city": "Venice",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 45.4372,
+   "longitude": 12.3346,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44741"
+  },
+  "story": "Marco Polo was a Venetian merchant, born in Venice around 1254. He, his father and his uncle set out from Venice in 1271 and reached China in 1275; he stayed in China for 17 years.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Marco-Polo",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Marco, his father, and his uncle set out from Venice in 1271 and reached China in 1275."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Marco-Polo",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Marco Polo (born c. 1254, Venice [Italy]—died January 8, 1324, Venice) was a Venetian merchant and adventurer who traveled from Europe to Asia in 1271–95, remaining in China for 17 of those years"
+   }
+  ],
+  "entityId": "marco-polo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "ibn-battuta-tangier",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Born by the strait",
+  "question": "Ibn Battuta, the greatest medieval Muslim traveller, was born in 1304 in which Moroccan port?",
+  "clue": "On the Strait of Gibraltar, facing Spain.",
+  "hint": "Its airport is named after him.",
+  "answer": {
+   "city": "Tangier",
+   "country": "Morocco",
+   "countryCode": "MA",
+   "latitude": 35.7626,
+   "longitude": -5.8295,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2758781"
+  },
+  "story": "Ibn Battuta was born in Tangier, Morocco, in 1304. The greatest medieval Muslim traveller, he wrote one of the most famous travel books, the Riḥlah (Travels).",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ibn-Battuta",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ibn Battuta (born February 24, 1304, Tangier, Morocco—died 1368/69 or 1377, Morocco) was the greatest medieval Muslim traveler and the author of one of the most famous travel books, the Riḥlah (Travels)"
+   }
+  ],
+  "entityId": "ibn-battuta",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "zheng-he-kunming",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "From Yunnan to the oceans",
+  "question": "Ming admiral Zheng He, who led seven great voyages across the Indian Ocean, was born around 1371 near which city in Yunnan?",
+  "clue": "South-western China, on a high plateau beside Dian Lake.",
+  "hint": "It's nicknamed the 'City of Eternal Spring'.",
+  "answer": {
+   "city": "Kunming",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 25.0399,
+   "longitude": 102.7169,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2723597"
+  },
+  "story": "Zheng He was born around 1371 at Kunyang, near Kunming in Yunnan. An admiral and diplomat, he commanded seven naval expeditions almost a century before the Portuguese reached India by sailing around Africa.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Zheng-He",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Zheng He (born c. 1371, Kunyang, near Kunming, Yunnan province, China—died 1433, Calicut [now Kozhikode], India) was an admiral and diplomat who helped extend the maritime and commercial influence of China throughout the regions bordering the Indian Ocean"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Zheng-He",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He commanded seven naval expeditions almost a century before the Portuguese reached India by sailing around the southern tip of Africa."
+   }
+  ],
+  "entityId": "zheng-he",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "christopher-columbus-genoa",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "A sailor's city",
+  "question": "Christopher Columbus, whose four transatlantic voyages began in 1492, was born in 1451 in which Italian port?",
+  "clue": "North-west Italy, on the Ligurian Sea.",
+  "hint": "It's Italy's biggest seaport.",
+  "answer": {
+   "city": "Genoa",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 44.4073,
+   "longitude": 8.9339,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/44875"
+  },
+  "story": "Christopher Columbus was born in Genoa in 1451. A master navigator and admiral, his four transatlantic voyages (1492–1504) opened the way for European exploration of the Americas. He died in Valladolid, Spain, in 1506.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Christopher-Columbus",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Christopher Columbus (born between August 26 and October 31?, 1451, Genoa [Italy]—died May 20, 1506, Valladolid, Spain) was a master navigator and admiral whose four transatlantic voyages (1492–93, 1493–96, 1498–1500, and 1502–04) opened the way for European exploration"
+   }
+  ],
+  "entityId": "christopher-columbus",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "ferdinand-magellan-mactan",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "The voyage's end",
+  "question": "Ferdinand Magellan, leader of the first expedition across the Pacific, died in 1521 on which island in the Philippines?",
+  "clue": "In the central Philippines, just off Cebu.",
+  "hint": "Today the island hosts Cebu's international airport.",
+  "answer": {
+   "city": "Mactan",
+   "country": "Philippines",
+   "countryCode": "PH",
+   "latitude": 10.2883,
+   "longitude": 123.9723,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1506969"
+  },
+  "story": "Ferdinand Magellan, a Portuguese navigator sailing for Spain, sailed around South America — discovering the Strait of Magellan — and across the Pacific. He died at Mactan, in the Philippines, in 1521.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ferdinand-Magellan",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ferdinand Magellan (born 1480, Sabrosa or Porto?, Portugal—died April 27, 1521, Mactan, Philippines) was a Portuguese navigator and explorer who sailed under the flags of both Portugal (1505–13) and Spain (1519–21)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Ferdinand-Magellan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "From Spain, he sailed around South America, discovering the Strait of Magellan, and across the Pacific."
+   }
+  ],
+  "entityId": "ferdinand-magellan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "vasco-da-gama-lisbon",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "To India by sea",
+  "question": "In July 1497 Vasco da Gama sailed with four ships on the voyage that opened the sea route to India. From which city?",
+  "clue": "On the wide Tagus estuary, facing the Atlantic.",
+  "hint": "It's Portugal's capital.",
+  "answer": {
+   "city": "Lisbon",
+   "country": "Portugal",
+   "countryCode": "PT",
+   "latitude": 38.7078,
+   "longitude": -9.1366,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5400890"
+  },
+  "story": "Vasco da Gama, born at Sines, Portugal, opened the sea route from western Europe to the East by way of the Cape of Good Hope. On his first voyage he sailed from Lisbon on 8 July 1497 with a fleet of four vessels.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Vasco-da-Gama",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Da Gama sailed from Lisbon on July 8, 1497, with a fleet of four vessels"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Vasco-da-Gama",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Vasco da Gama (born c. 1460, Sines, Portugal—died December 24, 1524, Cochin, India) was a Portuguese navigator whose voyages to India (1497–99, 1502–03, 1524) opened up the sea route from western Europe to the East by way of the Cape of Good Hope."
+   }
+  ],
+  "entityId": "vasco-da-gama",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "roald-amundsen-borge",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "Born near Oslo",
+  "question": "Roald Amundsen, first person to reach the South Pole, was born in 1872 at Borge, near Oslo. Tap where Borge lies.",
+  "clue": "South-eastern Norway, near the Swedish border, at the mouth of the Glomma.",
+  "hint": "Today it's part of the town of Fredrikstad.",
+  "answer": {
+   "city": "Borge",
+   "country": "Norway",
+   "countryCode": "NO",
+   "latitude": 59.2327,
+   "longitude": 11.0467,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/6271664683"
+  },
+  "story": "Roald Amundsen was born at Borge, near Oslo, in 1872. He was the first person to reach the South Pole (1911), sailed with the first ship through the Northwest Passage (1905) and was among the first to fly over the North Pole (1927).",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Roald-Amundsen",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Roald Amundsen (born July 16, 1872, Borge, near Oslo, Norway—died June 18, 1928?, Arctic Ocean) was a Norwegian explorer who was the first to reach the South Pole"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Roald-Amundsen",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "First person to reach the South Pole (1911), part of the crew aboard the first vessel to traverse the Northwest Passage by ship (1905), and one of the first to fly over the North Pole (1927)."
+   }
+  ],
+  "entityId": "roald-amundsen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "edmund-hillary-auckland",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "From the City of Sails",
+  "question": "Edmund Hillary, who with Tenzing Norgay first reached the summit of Everest, was born in 1919 in which city?",
+  "clue": "On a narrow isthmus in New Zealand's North Island.",
+  "hint": "It's New Zealand's largest city.",
+  "answer": {
+   "city": "Auckland",
+   "country": "New Zealand",
+   "countryCode": "NZ",
+   "latitude": -36.8521,
+   "longitude": 174.7632,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/292806332"
+  },
+  "story": "Edmund Hillary was born in Auckland in 1919. A mountain climber and Antarctic explorer, he and Tenzing Norgay were the first to reach the summit of Mount Everest; in 1958 he reached the South Pole by tractor. He died in Auckland in 2008.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Edmund-Hillary",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Edmund Hillary (born July 20, 1919, Auckland, New Zealand—died January 11, 2008, Auckland) was a New Zealand mountain climber and Antarctic explorer who, with the Nepali-Indian Sherpa mountaineer Tenzing Norgay, was the first to reach the summit of M"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Edmund-Hillary",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He reached the South Pole by tractor on January 4, 1958"
+   }
+  ],
+  "entityId": "edmund-hillary",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "james-cook-marton",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "A Yorkshire start",
+  "question": "Captain James Cook, who led three Pacific expeditions, was born in 1728 in Marton, Yorkshire. Tap where it is.",
+  "clue": "North-east England, just south of the River Tees.",
+  "hint": "Marton is now a suburb of Middlesbrough.",
+  "answer": {
+   "city": "Marton",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 54.5442,
+   "longitude": -1.1984,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/7198940520"
+  },
+  "story": "James Cook was born at Marton-in-Cleveland, Yorkshire, in 1728. A British naval captain and navigator, he was given command of the first scientific expedition to the Pacific in 1768 and went on to lead three Pacific voyages.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/James-Cook",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "James Cook (born October 27, 1728, Marton-in-Cleveland, Yorkshire, England—died February 14, 1779, Kealakekua Bay, Hawaii) was a British naval captain, navigator, and explorer"
+   },
+   {
+    "url": "https://www.britannica.com/biography/James-Cook",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1768 the Royal Society, in conjunction with the Admiralty, was organizing the first scientific expedition to the Pacific, and the rather obscure 40-year-old James Cook was appointed commander of the expedition."
+   }
+  ],
+  "entityId": "james-cook",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "ernest-shackleton-kilkea",
+  "primaryCategory": "icons",
+  "subcategory": "explorers",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "An Irish beginning",
+  "question": "Antarctic explorer Ernest Shackleton was born in 1874 at Kilkea, in which Irish county?",
+  "clue": "South-west of Dublin, in the province of Leinster.",
+  "hint": "The county is famous for horse racing at the Curragh. Tap Kilkea, near Athy.",
+  "answer": {
+   "city": "Kilkea",
+   "country": "Ireland",
+   "countryCode": "IE",
+   "latitude": 52.9483,
+   "longitude": -6.8953,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/52247731"
+  },
+  "story": "Ernest Shackleton was born at Kilkea, County Kildare, Ireland, in 1874. An Anglo-Irish Antarctic explorer, he attempted to reach the South Pole and served on Robert Falcon Scott's Discovery expedition.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ernest-Henry-Shackleton",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ernest Shackleton (born February 15, 1874, Kilkea, County Kildare, Ireland—died January 5, 1922, Grytviken, South Georgia) was an Anglo-Irish Antarctic explorer who attempted to reach the South Pole"
+   }
+  ],
+  "entityId": "ernest-shackleton",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "thomas-edison-milan-ohio",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "An Ohio canal town",
+  "question": "Thomas Edison, who held a world-record 1,093 patents, was born in 1847 in which small Ohio town — named after a European city?",
+  "clue": "Northern Ohio, a few miles south of Lake Erie.",
+  "hint": "It shares its name with Italy's fashion capital.",
+  "answer": {
+   "city": "Milan",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.2976,
+   "longitude": -82.6055,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/182931"
+  },
+  "story": "Thomas Edison was born in Milan, Ohio, in 1847. Singly or jointly he held a world-record 1,093 patents, and he created the world's first industrial research laboratory.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Thomas-Edison",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Thomas Edison (born February 11, 1847, Milan, Ohio, U.S.—died October 18, 1931, West Orange, New Jersey) was an American inventor who, singly or jointly, held a world-record 1,093 patents"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Thomas-Edison",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In addition, he created the world’s first industrial research laboratory."
+   }
+  ],
+  "entityId": "thomas-edison",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "nikola-tesla-smiljan",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A village in Lika",
+  "question": "Nikola Tesla, discoverer of the rotating magnetic field, was born in 1856 in Smiljan — a village in which present-day country?",
+  "clue": "In the mountainous Lika region, inland from the Adriatic. Tap Smiljan.",
+  "hint": "The nearest town is Gospić.",
+  "answer": {
+   "city": "Smiljan",
+   "country": "Croatia",
+   "countryCode": "HR",
+   "latitude": 44.5618,
+   "longitude": 15.3214,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/15798092"
+  },
+  "story": "Nikola Tesla was born in Smiljan, in the Austrian Empire (now Croatia), in 1856. A Serbian American inventor and engineer, he discovered and patented the rotating magnetic field, the basis of most alternating-current machinery.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Nikola-Tesla",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Nikola Tesla (born July 9/10, 1856, Smiljan, Austrian Empire [now in Croatia]—died January 7, 1943, New York, New York, U.S.) was a Serbian American inventor and engineer who discovered and patented the rotating magnetic field, the basis of most alternating-current machinery."
+   }
+  ],
+  "entityId": "nikola-tesla",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "alexander-graham-bell-boston",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Teaching the deaf",
+  "question": "In 1871 Alexander Graham Bell moved to which US city to teach at its School for Deaf Mutes?",
+  "clue": "New England, on Massachusetts Bay.",
+  "hint": "It's the capital of Massachusetts.",
+  "answer": {
+   "city": "Boston",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3588,
+   "longitude": -71.0578,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2315704"
+  },
+  "story": "Alexander Graham Bell was born in Edinburgh in 1847. His family settled in Brantford, Ontario, but in April 1871 he moved to Boston, where he taught at the Boston School for Deaf Mutes.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Alexander-Graham-Bell",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The family settled in Brantford, Ontario, but in April 1871 Alexander moved to Boston, where he taught at the Boston School for Deaf Mutes."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Alexander-Graham-Bell",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Alexander Graham Bell (born March 3, 1847, Edinburgh, Scotland—died August 2, 1922, Beinn Bhreagh, Cape Breton Island, Nova Scotia, Canada) was an inventor, scientist, and teacher of the deaf"
+   }
+  ],
+  "entityId": "alexander-graham-bell",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "johannes-gutenberg-mainz",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The printer's city",
+  "question": "Johannes Gutenberg, who originated printing from movable type, was born and died in which German city on the Rhine?",
+  "clue": "Where the Main flows into the Rhine.",
+  "hint": "Its university and printing museum both bear his name.",
+  "answer": {
+   "city": "Mainz",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 49.9995,
+   "longitude": 8.2736,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62630"
+  },
+  "story": "Johannes Gutenberg was born in Mainz in the 14th century and died there, probably in 1468. A craftsman and inventor, he originated a method of printing from movable type.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Johannes-Gutenberg",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Johannes Gutenberg (born 14th century, Mainz [Germany]—died probably February 3, 1468, Mainz) was a German craftsman and inventor who originated a method of printing from movable type"
+   }
+  ],
+  "entityId": "johannes-gutenberg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "guglielmo-marconi-bologna",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The radio pioneer",
+  "question": "Guglielmo Marconi, inventor of a successful wireless telegraph (radio), was born in 1874 in which Italian city?",
+  "clue": "Emilia-Romagna, at the foot of the Apennines.",
+  "hint": "It has Europe's oldest university.",
+  "answer": {
+   "city": "Bologna",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 44.4938,
+   "longitude": 11.3426,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/43172"
+  },
+  "story": "Guglielmo Marconi was born in Bologna in 1874. A physicist and inventor, he developed a successful wireless telegraph, or radio (1896), filing his first patent in England that June.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Guglielmo-Marconi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Guglielmo Marconi (born April 25, 1874, Bologna, Italy—died July 20, 1937, Rome) was an Italian physicist and inventor of a successful wireless telegraph, or radio (1896)"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Guglielmo-Marconi",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Marconi filed his first patent in England in June 1896"
+   }
+  ],
+  "entityId": "guglielmo-marconi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "karl-benz-mannheim",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "Benz & Co.",
+  "question": "Karl Benz, builder of the first practical petrol-engined car, founded Benz & Co. in 1883 in which German city?",
+  "clue": "Baden-Württemberg, where the Neckar meets the Rhine.",
+  "hint": "Its city centre is laid out in a grid of lettered and numbered blocks.",
+  "answer": {
+   "city": "Mannheim",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 49.4893,
+   "longitude": 8.4673,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62691"
+  },
+  "story": "Karl Benz designed and in 1885 built the world's first practical automobile powered by an internal-combustion engine. Benz & Co. was founded in Mannheim in 1883 and completed its first four-wheeled car in 1893.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Karl-Benz",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Benz & Co. was founded in Mannheim in 1883 to build stationary internal-combustion engines; the company completed its first four-wheeled automobile in 1893"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Karl-Benz",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was a German mechanical engineer who designed and in 1885 built the world’s first practical automobile to be powered by an internal-combustion engine"
+   }
+  ],
+  "entityId": "karl-benz",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "louis-braille-coupvray",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "A village near Paris",
+  "question": "Louis Braille, creator of the reading system for the blind, was born in 1809 in which village east of Paris?",
+  "clue": "Seine-et-Marne, near the Marne, east of Paris.",
+  "hint": "It's close to Disneyland Paris.",
+  "answer": {
+   "city": "Coupvray",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8919,
+   "longitude": 2.7948,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/954801"
+  },
+  "story": "Louis Braille was born in Coupvray, near Paris, in 1809. He developed the Braille system of printing and writing used by the blind. When his remains were moved to the Panthéon, his hands were kept in his birthplace of Coupvray.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Louis-Braille",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Louis Braille (born January 4, 1809, Coupvray, near Paris, France—died January 6, 1852, Paris) was a French educator who developed a system of printing and writing, called Braille, that is extensively used by the blind"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Louis-Braille",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "A century after his death, Braille’s remains (minus his hands, which were kept in his birthplace of Coupvray) were moved to Paris for burial in the Panthéon."
+   }
+  ],
+  "entityId": "louis-braille",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "james-watt-glasgow",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The instrument maker",
+  "question": "In 1757 James Watt, whose steam engine powered the Industrial Revolution, opened a shop at the university of which Scottish city?",
+  "clue": "On the River Clyde in west-central Scotland.",
+  "hint": "It's Scotland's largest city.",
+  "answer": {
+   "city": "Glasgow",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 55.8612,
+   "longitude": -4.2502,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/11127374"
+  },
+  "story": "James Watt, born in Greenock in 1736, trained as a mathematical-instrument maker in London. Returning to Glasgow, he opened a shop at the university in 1757. His steam engine contributed substantially to the Industrial Revolution.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/James-Watt",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Returning to Glasgow, he opened a shop in 1757 at the university and made mathematical instruments"
+   },
+   {
+    "url": "https://www.britannica.com/biography/James-Watt",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "James Watt (born January 19, 1736, Greenock, Renfrewshire, Scotland—died August 25, 1819, Heathfield Hall, near Birmingham, Warwick, England) was a Scottish instrument maker and inventor whose steam engine contributed substantially to the Industrial Revolution"
+   }
+  ],
+  "entityId": "james-watt",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "orville-wright-dayton",
+  "primaryCategory": "icons",
+  "subcategory": "inventors",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The bicycle shop",
+  "question": "Orville and Wilbur Wright opened a bicycle repair shop in 1892 — where their flight experiments began — in which Ohio city?",
+  "clue": "South-western Ohio, on the Great Miami River.",
+  "hint": "It's home to the National Museum of the US Air Force.",
+  "answer": {
+   "city": "Dayton",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.7589,
+   "longitude": -84.1916,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/182954"
+  },
+  "story": "Orville Wright was born in Dayton in 1871. In 1892 he and his brother Wilbur opened a bicycle repair shop in Dayton, where their experiments led to the first successful powered, sustained and controlled airplane flight on 17 December 1903.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Orville-Wright",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1892 Wilbur and Orville Wright opened their bicycle repair shop in Dayton"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Orville-Wright",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "They are credited with achieving the first successful powered, sustained, and controlled airplane flight on December 17, 1903."
+   }
+  ],
+  "entityId": "orville-wright",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "isaac-newton-woolsthorpe",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "A tiny baby",
+  "question": "Isaac Newton, culminating figure of the Scientific Revolution, was born in 1642 at Woolsthorpe — in which English county?",
+  "clue": "East Midlands, near Grantham. Tap Woolsthorpe.",
+  "hint": "The county shares its name with a US president.",
+  "answer": {
+   "city": "Woolsthorpe-by-Colsterworth",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.8096,
+   "longitude": -0.6322,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/244180893"
+  },
+  "story": "Isaac Newton was born at Woolsthorpe, Lincolnshire, in 1642 — a tiny, weak baby not expected to survive his first day. The English physicist and mathematician became the culminating figure of the Scientific Revolution.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Isaac-Newton",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Isaac Newton (born December 25, 1642 [January 4, 1643, New Style], Woolsthorpe, Lincolnshire, England—died March 20 [March 31], 1727, London) was an English physicist and mathematician who was the culminating figure of the Scientific Revolution of the 17th century"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Isaac-Newton",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "A tiny and weak baby, Newton was not expected to survive his first day of life, much less 84 years."
+   }
+  ],
+  "entityId": "isaac-newton",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "galileo-pisa",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "The leaning tower",
+  "question": "Galileo was born in 1564 in which Italian city — where he is said to have dropped weights from its famous leaning tower?",
+  "clue": "Tuscany, near the mouth of the Arno.",
+  "hint": "Its tower leans.",
+  "answer": {
+   "city": "Pisa",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 43.4715,
+   "longitude": 10.6798,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/42338"
+  },
+  "story": "Galileo was born in Pisa in 1564. According to his first biographer, he demonstrated by dropping bodies of different weights from the top of the Leaning Tower that the speed of fall is not proportional to weight.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Galileo-Galilei",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Galileo (born February 15, 1564, Pisa [Italy]—died January 8, 1642, Arcetri, near Florence) was an Italian natural philosopher, astronomer, and mathematician"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Galileo-Galilei",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Galileo demonstrated, by dropping bodies of different weights from the top of the famous Leaning Tower, that the speed of fall of a heavy object is not proportional to its weight"
+   }
+  ],
+  "entityId": "galileo-galilei",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "charles-darwin-shrewsbury",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Shropshire boyhood",
+  "question": "Charles Darwin, whose theory of evolution by natural selection founded modern evolutionary studies, was born in 1809 in which English town?",
+  "clue": "Shropshire, in a loop of the River Severn near the Welsh border.",
+  "hint": "It's the county town of Shropshire.",
+  "answer": {
+   "city": "Shrewsbury",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.7078,
+   "longitude": -2.7541,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4581086"
+  },
+  "story": "Charles Darwin was born in Shrewsbury, Shropshire, in 1809. His theory of evolution by natural selection became the foundation of modern evolutionary studies. He died at Downe, Kent, in 1882.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Charles-Darwin",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Charles Darwin (born February 12, 1809, Shrewsbury, Shropshire, England—died April 19, 1882, Downe, Kent) was an English naturalist whose scientific theory of evolution by natural selection became the foundation of modern evolutionary studies"
+   }
+  ],
+  "entityId": "charles-darwin",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "nicolaus-copernicus-torun",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Hanseatic town",
+  "question": "Nicolaus Copernicus, who put the Sun at the centre of the planets' motions, was born in 1473 in which Polish city on the Vistula?",
+  "clue": "Northern Poland, on the Vistula, south of Gdańsk.",
+  "hint": "Its university is named after him; it's also famous for gingerbread.",
+  "answer": {
+   "city": "Toruń",
+   "country": "Poland",
+   "countryCode": "PL",
+   "latitude": 53.0145,
+   "longitude": 18.5966,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2633746"
+  },
+  "story": "Nicolaus Copernicus was born in Toruń in 1473. The Polish astronomer proposed that the planets have the Sun as the fixed point to which their motions are referred. He died at Frauenburg, now Frombork, in 1543.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Nicolaus Copernicus (born February 19, 1473, Toruń, Royal Prussia, Poland—died May 24, 1543, Frauenburg, East Prussia [now Frombork, Poland]) Polish astronomer who proposed that the planets have the Sun as the fixed point to which their motions are to be referred"
+   }
+  ],
+  "entityId": "nicolaus-copernicus",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "louis-pasteur-dole",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A town in the Jura",
+  "question": "Louis Pasteur, father of pasteurization and vaccines against anthrax and rabies, was born in 1822 in which French town?",
+  "clue": "Eastern France, in the Jura, between Dijon and Besançon.",
+  "hint": "Its name has three letters plus an 'e'.",
+  "answer": {
+   "city": "Dole",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 47.0921,
+   "longitude": 5.4925,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/148676"
+  },
+  "story": "Louis Pasteur was born in Dole, France, in 1822. One of the founders of medical microbiology, he discovered that microorganisms cause fermentation and disease, originated pasteurization, and developed vaccines against anthrax and rabies.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Louis-Pasteur",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Louis Pasteur (born December 27, 1822, Dole, France—died September 28, 1895, Saint-Cloud) was a French chemist and microbiologist who was one of the most important founders of medical microbiology"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Louis-Pasteur",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "discovered that microorganisms cause fermentation and disease; originated the process of pasteurization; saved the beer, wine, and silk industries in France; and developed vaccines against anthrax and rabies."
+   }
+  ],
+  "entityId": "louis-pasteur",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "cv-raman-tiruchirappalli",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Tamil beginning",
+  "question": "Nobel physicist C. V. Raman was born in 1888 in Trichinopoly — which Indian city is that today?",
+  "clue": "Tamil Nadu, on the Kaveri River.",
+  "hint": "Its Rock Fort temple sits on a huge outcrop above the city.",
+  "answer": {
+   "city": "Tiruchirappalli",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 10.8071,
+   "longitude": 78.6881,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/10318360"
+  },
+  "story": "C. V. Raman was born in Trichinopoly — now Tiruchirappalli — in 1888. An Indian physicist whose work was influential in the growth of science in India, he died in Bangalore (Bengaluru) in 1970.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/C-V-Raman",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "C.V. Raman (born November 7, 1888, Trichinopoly [now Tiruchirappalli], India—died November 21, 1970, Bangalore [now Bengaluru]) was an Indian physicist whose work was influential in the growth of science in India"
+   }
+  ],
+  "entityId": "cv-raman",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "tu-youyou-beijing",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Studying medicine",
+  "question": "Tu Youyou, who isolated the antimalarial artemisinin, studied pharmaceutics at the medical college of which city?",
+  "clue": "Northern China, on the North China Plain.",
+  "hint": "It's China's capital.",
+  "answer": {
+   "city": "Beijing",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 39.9057,
+   "longitude": 116.3913,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/912940"
+  },
+  "story": "Tu Youyou was born in Ningbo in 1930 and studied in the department of pharmaceutics at Beijing Medical College. She discovered that the leaves of sweet wormwood contain artemisinin, now one of the world's key antimalarial treatments.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Tu-Youyou",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Tu studied at the department of pharmaceutics of Beijing Medical College."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Tu-Youyou",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Tu Youyou (born December 30, 1930, Ningbo, Zhejiang province, China) is a Chinese scientist and phytochemist known for her isolation and study of the antimalarial substance qinghaosu, later known as artemisinin"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Tu-Youyou",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Eventually, however, Tu discovered that the leaves of sweet wormwood contain artemisinin"
+   }
+  ],
+  "entityId": "tu-youyou",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "rosalind-franklin-paris",
+  "primaryCategory": "icons",
+  "subcategory": "scientists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Learning X-rays",
+  "question": "Before her DNA work in London, Rosalind Franklin studied X-ray diffraction at the State Chemical Laboratory in which city (1947–50)?",
+  "clue": "On the Seine in northern France.",
+  "hint": "It's France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8535,
+   "longitude": 2.3484,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/71525"
+  },
+  "story": "Rosalind Franklin, born in London in 1920, worked from 1947 to 1950 at the State Chemical Laboratory in Paris, studying X-ray diffraction. In 1951 she joined King's College London, where she contributed to the discovery of the structure of DNA.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Rosalind-Franklin",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "From 1947 to 1950 she worked with Jacques Méring at the State Chemical Laboratory in Paris, studying X-ray diffraction technology."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Rosalind-Franklin",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Rosalind Franklin (born July 25, 1920, London, England—died April 16, 1958, London) was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA)"
+   }
+  ],
+  "entityId": "rosalind-franklin",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "william-shakespeare-stratford",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "Home on the Avon",
+  "question": "William Shakespeare was baptized in 1564 and died in 1616 in which Warwickshire town?",
+  "clue": "The English Midlands, on the River Avon.",
+  "hint": "The Royal Shakespeare Company is based there.",
+  "answer": {
+   "city": "Stratford-upon-Avon",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 52.1928,
+   "longitude": -1.7063,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3558037"
+  },
+  "story": "William Shakespeare, often called the English national poet, was baptized in Stratford-upon-Avon in 1564 and died there in 1616.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/William-Shakespeare",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "William Shakespeare (baptized April 26, 1564, Stratford-upon-Avon, Warwickshire, England—died April 23, 1616, Stratford-upon-Avon) was a poet, dramatist, and actor often called the English national poet"
+   }
+  ],
+  "entityId": "william-shakespeare",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "leo-tolstoy-yasnaya-polyana",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "The family estate",
+  "question": "Leo Tolstoy, author of War and Peace, was born in 1828 on the Yasnaya Polyana estate — in which Russian province?",
+  "clue": "South of Moscow, near the city of Tula. Tap Yasnaya Polyana.",
+  "hint": "The province is famous for samovars and gingerbread.",
+  "answer": {
+   "city": "Yasnaya Polyana",
+   "country": "Russia",
+   "countryCode": "RU",
+   "latitude": 54.0701,
+   "longitude": 37.5267,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/19409728"
+  },
+  "story": "Leo Tolstoy was born at Yasnaya Polyana, in Tula province, in 1828. A master of realistic fiction and one of the world's greatest novelists, his first published work, Childhood (1852), was a fictionalized account of his early years.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Leo-Tolstoy",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Leo Tolstoy (born August 28 [September 9, New Style], 1828, Yasnaya Polyana, Tula province, Russian Empire—died November 7 [November 20], 1910, Astapovo, Ryazan province) was a Russian author, a master of realistic fiction, and one of the world’s greatest novelists"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Leo-Tolstoy",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "His first published work, Detstvo (1852; Childhood), was a fictionalized and nostalgic account of his early years."
+   }
+  ],
+  "entityId": "leo-tolstoy",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "garcia-marquez-aracataca",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "The sleepy town",
+  "question": "Gabriel García Márquez was born in 1927 in a 'sleepy provincial town' in Colombia where he spent his first eight years. Which one?",
+  "clue": "Northern Colombia, inland from Santa Marta near the Caribbean.",
+  "hint": "It inspired the fictional town of Macondo.",
+  "answer": {
+   "city": "Aracataca",
+   "country": "Colombia",
+   "countryCode": "CO",
+   "latitude": 10.5906,
+   "longitude": -74.1877,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/11890329"
+  },
+  "story": "Gabriel García Márquez was born in the sleepy provincial town of Aracataca, Colombia, in 1927, and spent his first eight years with his maternal grandparents. One of the greatest writers of the 20th century, he died in Mexico City in 2014.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Gabriel-Garcia-Marquez",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in the sleepy provincial town of Aracataca, Colombia, García Márquez and his parents spent the first eight years of his life with his maternal grandparents"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Gabriel-Garcia-Marquez",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Gabriel García Márquez (born March 6, 1927, Aracataca, Colombia—died April 17, 2014, Mexico City, Mexico) was a Colombian novelist and one of the greatest writers of the 20th century"
+   }
+  ],
+  "entityId": "gabriel-garcia-marquez",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "wole-soyinka-abeokuta",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Yoruba city",
+  "question": "Wole Soyinka, Africa's first Nobel laureate in Literature (1986), was born in 1934 in which Nigerian city?",
+  "clue": "South-western Nigeria, north of Lagos, beneath a famous granite outcrop.",
+  "hint": "Its Olumo Rock was a historic refuge.",
+  "answer": {
+   "city": "Abeokuta",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 7.161,
+   "longitude": 3.348,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565109"
+  },
+  "story": "Wole Soyinka was born in Abeokuta, Nigeria, in 1934. A playwright and political activist, he received the Nobel Prize for Literature in 1986. His first important play, A Dance of the Forests, was written for Nigeria's independence celebrations.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Wole-Soyinka",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Wole Soyinka (born July 13, 1934, Abeokuta, Nigeria) is a Nigerian playwright and political activist who received the Nobel Prize for Literature in 1986"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Wole-Soyinka",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "he founded an acting company and wrote his first important play, A Dance of the Forests (produced 1960; published 1963), for the Nigerian independence celebrations."
+   }
+  ],
+  "entityId": "wole-soyinka",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "toni-morrison-lorain",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Midwest childhood",
+  "question": "Toni Morrison, the first Black female writer to win the Nobel Prize for Literature, was born in 1931 in which Ohio city?",
+  "clue": "On Lake Erie, west of Cleveland.",
+  "hint": "Its name is also a region of eastern France (minus an 'e').",
+  "answer": {
+   "city": "Lorain",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.4673,
+   "longitude": -82.1782,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/182299"
+  },
+  "story": "Toni Morrison was born in Lorain, Ohio, in 1931, and grew up in the Midwest. In 1993 she received the Nobel Prize for Literature — the first Black female writer in history to be so honoured.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Toni-Morrison",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Toni Morrison (born February 18, 1931, Lorain, Ohio, U.S.—died August 5, 2019, Bronx, New York) was an American writer"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Toni-Morrison",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "she received the Nobel Prize for Literature in 1993, becoming the first Black female writer in history to be honored with the prize."
+   }
+  ],
+  "entityId": "toni-morrison",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "jane-austen-steventon",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "A Hampshire rectory",
+  "question": "Jane Austen, who gave the novel its distinctly modern character, was born in 1775 in which Hampshire village?",
+  "clue": "North Hampshire, near Basingstoke.",
+  "hint": "Her father was its rector.",
+  "answer": {
+   "city": "Steventon",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.2289,
+   "longitude": -1.2191,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3811715"
+  },
+  "story": "Jane Austen was born in Steventon, Hampshire, in 1775. She first gave the novel its distinctly modern character through her treatment of ordinary people in everyday life. She died in Winchester in 1817.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Jane-Austen",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Jane Austen (born December 16, 1775, Steventon, Hampshire, England—died July 18, 1817, Winchester, Hampshire) was an English writer who first gave the novel its distinctly modern character through her treatment of ordinary people in everyday life."
+   }
+  ],
+  "entityId": "jane-austen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "rabindranath-tagore-kolkata",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Bengali poet",
+  "question": "Rabindranath Tagore, the first non-European Nobel laureate in Literature (1913), was born in 1861 in which city?",
+  "clue": "On the Hooghly River in eastern India.",
+  "hint": "Formerly Calcutta, capital of West Bengal.",
+  "answer": {
+   "city": "Kolkata",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 22.5726,
+   "longitude": 88.3639,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9381363"
+  },
+  "story": "Rabindranath Tagore was born in Calcutta (now Kolkata) in 1861. A Bengali poet, story writer, composer, playwright and painter, he became in 1913 the first non-European to receive the Nobel Prize for Literature.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Rabindranath-Tagore",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Rabindranath Tagore (born May 7, 1861, Calcutta [now Kolkata], India—died August 7, 1941, Calcutta) was a Bengali poet, short-story writer, song composer, playwright, essayist, and painter"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Rabindranath-Tagore",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1913 he became the first non-European to receive the Nobel Prize for Literature."
+   }
+  ],
+  "entityId": "rabindranath-tagore",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "cervantes-alcala-de-henares",
+  "primaryCategory": "icons",
+  "subcategory": "authors",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A university town",
+  "question": "Miguel de Cervantes, creator of Don Quixote, was born in 1547 in which university town near Madrid?",
+  "clue": "Just east of Madrid, on the Henares River.",
+  "hint": "The town's name begins 'Alcalá'.",
+  "answer": {
+   "city": "Alcalá de Henares",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 40.482,
+   "longitude": -3.364,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/345879"
+  },
+  "story": "Miguel de Cervantes was born in Alcalá de Henares in 1547. The creator of Don Quixote is the most important figure in Spanish literature. He died in Madrid in 1616.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Miguel-de-Cervantes",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Miguel de Cervantes (born September 29?, 1547, Alcalá de Henares, Spain—died April 22, 1616, Madrid) was a Spanish novelist, playwright, and poet, the creator of Don Quixote (1605, 1615) and the most important and celebrated figure in Spanish literature"
+   }
+  ],
+  "entityId": "miguel-de-cervantes",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "leonardo-da-vinci-vinci",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "His name says it",
+  "question": "Leonardo da Vinci was born in 1452 at Anchiano, near which Tuscan town that gave him his name?",
+  "clue": "Tuscany, west of Florence.",
+  "hint": "'da Vinci' means 'from' this town.",
+  "answer": {
+   "city": "Vinci",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 43.7874,
+   "longitude": 10.9271,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/42603"
+  },
+  "story": "Leonardo was born in 1452 at Anchiano, near Vinci, in the Republic of Florence. A painter, draftsman, sculptor, architect and engineer, he trained in Verrocchio's renowned workshop and died at Cloux (Clos-Lucé), France, in 1519.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Leonardo-da-Vinci",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Leonardo da Vinci (born April 15, 1452, Anchiano, near Vinci, Republic of Florence [Italy]—died May 2, 1519, Cloux [now Clos-Lucé], France) was an Italian painter, draftsman, sculptor, architect, and engineer"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Leonardo-da-Vinci",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In Verrocchio’s renowned workshop Leonardo received a multifaceted training that included painting and sculpture as well as the technical-mechanical arts."
+   }
+  ],
+  "entityId": "leonardo-da-vinci",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "pablo-picasso-barcelona",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Art school",
+  "question": "In 1895 Pablo Picasso's family moved to which city, where the teenager entered the art academy La Llotja?",
+  "clue": "Catalonia, on the Mediterranean.",
+  "hint": "It's home to Gaudí's Sagrada Família.",
+  "answer": {
+   "city": "Barcelona",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 41.3826,
+   "longitude": 2.1771,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/347950"
+  },
+  "story": "Pablo Picasso was born in Málaga in 1881. His family moved to Barcelona in autumn 1895, and he entered the local art academy, La Llotja, where his father taught drawing.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Pablo-Picasso",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The family moved to Barcelona in the autumn of 1895, and Pablo entered the local art academy (La Llotja), where his father had assumed his last post as professor of drawing."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Pablo-Picasso",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Pablo Picasso (born October 25, 1881, Málaga, Spain—died April 8, 1973, Mougins, France) was a Spanish expatriate painter"
+   }
+  ],
+  "entityId": "pablo-picasso",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "vincent-van-gogh-zundert",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Brabant village",
+  "question": "Vincent van Gogh was born in 1853 in which Dutch village near the Belgian border?",
+  "clue": "North Brabant, south-west of Breda.",
+  "hint": "It's famous for a yearly parade of giant flower floats.",
+  "answer": {
+   "city": "Zundert",
+   "country": "Netherlands",
+   "countryCode": "NL",
+   "latitude": 51.4859,
+   "longitude": 4.6542,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2078298"
+  },
+  "story": "Vincent van Gogh was born in Zundert, Netherlands, in 1853, and is considered one of the greatest Post-Impressionists. He died at Auvers-sur-Oise, near Paris, in 1890.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Vincent-van-Gogh",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Vincent van Gogh (born March 30, 1853, Zundert, Netherlands—died July 29, 1890, Auvers-sur-Oise, near Paris, France) was a Dutch painter, generally considered one of the greatest of the Post-Impressionists"
+   }
+  ],
+  "entityId": "vincent-van-gogh",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "michelangelo-caprese",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "A hill town",
+  "question": "Michelangelo was born in 1475 in Caprese, in the Republic of Florence — a village that now carries his name. Tap it.",
+  "clue": "Eastern Tuscany, in the hills near Arezzo.",
+  "hint": "Today it's called Caprese Michelangelo.",
+  "answer": {
+   "city": "Caprese Michelangelo",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 43.6406,
+   "longitude": 11.9874,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/42542"
+  },
+  "story": "Michelangelo was born in Caprese, in the Republic of Florence, in 1475. A towering figure of the Italian Renaissance — sculptor, painter and architect — he was the first Western artist whose biography was published in his lifetime. He died in Rome in 1564.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Michelangelo",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Michelangelo (born March 6, 1475, Caprese, Republic of Florence [Italy]—died February 18, 1564, Rome, Papal States) was one of the towering figures of the Italian Renaissance, celebrated as a sculptor, painter, and architect"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Michelangelo",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He was the first Western artist whose biography was published while he was alive"
+   }
+  ],
+  "entityId": "michelangelo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "claude-monet-giverny",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "His garden",
+  "question": "Claude Monet, leader of the Impressionists, died in 1926 in which Normandy village, home of his famous water-lily garden?",
+  "clue": "On the Seine, about 75 km north-west of Paris.",
+  "hint": "Its Japanese bridge and lily pond appear in many of his paintings.",
+  "answer": {
+   "city": "Giverny",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 49.0766,
+   "longitude": 1.529,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/74718"
+  },
+  "story": "Claude Monet was born in Paris in 1840 and became the initiator, leader and unswerving advocate of the Impressionist style. He died at Giverny in 1926.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Claude-Monet",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Claude Monet (born November 14, 1840, Paris, France—died December 5, 1926, Giverny) was a French painter who became the initiator, leader, and unswerving advocate of the Impressionist style"
+   }
+  ],
+  "entityId": "claude-monet",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "hokusai-tokyo",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The floating world",
+  "question": "Ukiyo-e master Hokusai was born in 1760 in Edo. What is Edo called today?",
+  "clue": "On a great bay on Honshu's Pacific coast.",
+  "hint": "It's Japan's capital.",
+  "answer": {
+   "city": "Tokyo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.6769,
+   "longitude": 139.7639,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1543125"
+  },
+  "story": "Hokusai was born in Edo — now Tokyo — in 1760 and died there in 1849. He was a master artist and printmaker of the ukiyo-e ('pictures of the floating world') school.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Hokusai",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Hokusai (born October 1760, Edo [now Tokyo], Japan—died May 10, 1849, Edo) was a Japanese master artist and printmaker of the ukiyo-e (“pictures of the floating world”) school"
+   }
+  ],
+  "entityId": "hokusai",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "salvador-dali-figueres",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "Home in Catalonia",
+  "question": "Surrealist Salvador Dalí was born in 1904 and died in 1989 in which Catalan town?",
+  "clue": "North-east Catalonia, near the French border.",
+  "hint": "His Theatre-Museum, topped with giant eggs, is there.",
+  "answer": {
+   "city": "Figueres",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 42.2666,
+   "longitude": 2.9638,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/347769"
+  },
+  "story": "Salvador Dalí was born in Figueras (Figueres), Spain, in 1904 and died there in 1989. An artist and filmmaker, he was part of the Surrealist group early in his career.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Salvador-Dali",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Salvador Dalí (born May 11, 1904, Figueras, Spain—died January 23, 1989, Figueras) was a Spanish artist and filmmaker, who was part of the Surrealist group in his early career"
+   }
+  ],
+  "entityId": "salvador-dali",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "diego-rivera-guanajuato",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A silver city",
+  "question": "Muralist Diego Rivera was born in 1886 in which colonial silver-mining city in central Mexico?",
+  "clue": "Central Mexico, in a narrow mountain valley north-west of Mexico City.",
+  "hint": "The city shares its name with its state.",
+  "answer": {
+   "city": "Guanajuato",
+   "country": "Mexico",
+   "countryCode": "MX",
+   "latitude": 20.9877,
+   "longitude": -101,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2340909"
+  },
+  "story": "Diego Rivera was born in Guanajuato in 1886. He established a new iconography based on socialist ideals and Mexico's indigenous and popular heritage, and died in Mexico City in 1957.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Diego-Rivera",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Diego Rivera (born December 8, 1886, Guanajuato, Mexico—died November 25, 1957, Mexico City) was a Mexican painter who established a new iconography based on socialist ideologies and Mexico’s indigenous and popular heritage"
+   }
+  ],
+  "entityId": "diego-rivera",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "el-anatsui-nsukka",
+  "primaryCategory": "icons",
+  "subcategory": "artists",
+  "questionType": "career_location",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "The studio",
+  "question": "Ghanaian sculptor El Anatsui, famous for metal tapestries of bottle caps, kept his studio in which Nigerian university town?",
+  "clue": "Enugu State, in south-eastern Nigeria.",
+  "hint": "It's home to the University of Nigeria.",
+  "answer": {
+   "city": "Nsukka",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 6.8561,
+   "longitude": 7.3927,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3717225"
+  },
+  "story": "El Anatsui was born in Anyako, Ghana, in 1944, and is best known for large-scale metal tapestries made from bottle caps and copper wire. He remained in Nsukka, Nigeria, where he had a studio, and opened workspaces in Enugu and in Tema, Ghana.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/El-Anatsui",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He remained in Nsukka, where he had a studio, but he also opened work spaces in Enugu, Nigeria, and Tema, Ghana."
+   },
+   {
+    "url": "https://www.britannica.com/biography/El-Anatsui",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "El Anatsui (born February 4, 1944, Anyako, Ghana) is a Ghanaian sculptor who is best known for his large-scale metal tapestries constructed from bottle caps and copper wire."
+   }
+  ],
+  "entityId": "el-anatsui",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "audrey-hepburn-brussels",
+  "primaryCategory": "icons",
+  "subcategory": "fashion-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Belgian birth",
+  "question": "Audrey Hepburn, known for her radiant beauty and style, was born in 1929 in which European capital?",
+  "clue": "Central Belgium.",
+  "hint": "It's also the seat of the European Commission.",
+  "answer": {
+   "city": "Brussels",
+   "country": "Belgium",
+   "countryCode": "BE",
+   "latitude": 50.8467,
+   "longitude": 4.3525,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/58274"
+  },
+  "story": "Audrey Hepburn was born in Brussels in 1929 — a Belgian-born British actress known for her radiant beauty and style. Her first major American film, Roman Holiday (1953), was shot in Rome.",
+  "secondary": [
+   {
+    "category": "screen",
+    "subcategory": "classic-icons"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Audrey-Hepburn",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Audrey Hepburn (born May 4, 1929, Brussels, Belgium—died January 20, 1993, Tolochenaz, Switzerland) was a Belgian-born British actress known for her radiant beauty and style"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Audrey-Hepburn",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Her next project took her to Rome, where she starred in her first major American film, Roman Holiday (1953)."
+   }
+  ],
+  "entityId": "audrey-hepburn",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "twiggy-london",
+  "primaryCategory": "icons",
+  "subcategory": "fashion-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "The mod look",
+  "question": "Twiggy, one of the world's first supermodels, was born in 1949 in Neasden — part of which city?",
+  "clue": "North-west part of a great capital on the Thames.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5543,
+   "longitude": -0.2507,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/6307174159"
+  },
+  "story": "Twiggy was born in Neasden, London, in 1949. Her gamine frame and mod look defined fashion for much of the late 20th century, and she is widely considered one of the world's first supermodels.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Twiggy",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Twiggy (born September 19, 1949, Neasden, London, England) is a British fashion model and actress whose gamine frame and mod look defined the fashion industry during much of the late 20th century"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Twiggy",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She is widely considered to have been one of the world’s first supermodels"
+   }
+  ],
+  "entityId": "twiggy",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12.",
+    "Batch 16: also in fashion/supermodels — Britannica: widely considered one of the world's first supermodels"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "fashion",
+    "subcategory": "supermodels"
+   }
+  ]
+ },
+ {
+  "id": "jacqueline-kennedy-southampton",
+  "primaryCategory": "icons",
+  "subcategory": "fashion-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "Long Island",
+  "question": "First lady Jacqueline Kennedy, famous for her style, was born in 1929 in which Long Island town?",
+  "clue": "On the South Fork of Long Island, New York.",
+  "hint": "It shares its name with an English port city.",
+  "answer": {
+   "city": "Southampton",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.8842,
+   "longitude": -72.3897,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/175537"
+  },
+  "story": "Jacqueline Kennedy Onassis was born in Southampton, New York, in 1929. As first lady (1961–63) — the youngest in nearly 80 years — she left a distinct mark on the role.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Jacqueline-Kennedy-Onassis",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Jacqueline Kennedy Onassis (born July 28, 1929, Southampton, New York, U.S.—died May 19, 1994, New York City) was an American first lady (1961–63)"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Jacqueline-Kennedy-Onassis",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The youngest first lady in nearly 80 years, Jacqueline left a distinct mark on the job."
+   }
+  ],
+  "entityId": "jacqueline-kennedy-onassis",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "josephine-baker-st-louis",
+  "primaryCategory": "icons",
+  "subcategory": "fashion-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Before Paris",
+  "question": "Josephine Baker, who took Paris by storm in the 1920s, was born in 1906 in which US city?",
+  "clue": "On the Mississippi, just below where the Missouri joins it.",
+  "hint": "Its Gateway Arch is the tallest arch in the world.",
+  "answer": {
+   "city": "St. Louis",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 38.6254,
+   "longitude": -90.19,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1180533"
+  },
+  "story": "Josephine Baker was born in St. Louis, Missouri, in 1906. The American-born French dancer and singer symbolized the beauty and vitality of Black American culture, which took Paris by storm in the 1920s.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Josephine-Baker",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Josephine Baker (born June 3, 1906, St. Louis, Missouri, U.S.—died April 12, 1975, Paris, France) was an American-born French dancer and singer who symbolized the beauty and vitality of Black American culture, which took Paris by storm in the 1920s"
+   }
+  ],
+  "entityId": "josephine-baker",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "grace-kelly-philadelphia",
+  "primaryCategory": "icons",
+  "subcategory": "fashion-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Philadelphia family",
+  "question": "Grace Kelly, the actress known for her stately beauty who became princess of Monaco, was born in 1929 in which US city?",
+  "clue": "South-eastern Pennsylvania, on the Delaware River.",
+  "hint": "The Liberty Bell is there.",
+  "answer": {
+   "city": "Philadelphia",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.9527,
+   "longitude": -75.1635,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/188022"
+  },
+  "story": "Grace Kelly was born into a wealthy family in Philadelphia in 1929. An actress of film and television known for her stately beauty and reserve, she died in Monte Carlo, Monaco, in 1982.",
+  "secondary": [
+   {
+    "category": "screen",
+    "subcategory": "classic-icons"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Grace-Kelly",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Grace Kelly (born November 12, 1929, Philadelphia, Pennsylvania, U.S.—died September 14, 1982, Monte Carlo, Monaco) was an American actress of films and television, known for her stately beauty and reserve."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Grace-Kelly",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Kelly was born into a wealthy Irish Catholic family in Philadelphia"
+   }
+  ],
+  "entityId": "grace-kelly",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "frank-lloyd-wright-richland-center",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "Wisconsin roots",
+  "question": "Frank Lloyd Wright, master of American architecture, was born in 1867 in which small Wisconsin city?",
+  "clue": "South-western Wisconsin, west of Madison.",
+  "hint": "Its name combines 'rich' land and a 'center'.",
+  "answer": {
+   "city": "Richland Center",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 43.3355,
+   "longitude": -90.3854,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/251082"
+  },
+  "story": "Frank Lloyd Wright was born in Richland Center, Wisconsin, in 1867. He worked under Louis Sullivan until 1893, then opened his own practice, and built about 50 Prairie houses between 1900 and 1910.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Frank Lloyd Wright (born June 8, 1867, Richland Center, Wisconsin, U.S.—died April 9, 1959, Phoenix, Arizona) was an architect and writer, an abundantly creative master of American architecture"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He worked under Sullivan until 1893, at which time he opened his own architectural practice."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Wright alone built about 50 Prairie houses from 1900 to 1910."
+   }
+  ],
+  "entityId": "frank-lloyd-wright",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "le-corbusier-la-chaux-de-fonds",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A watchmaking town",
+  "question": "Le Corbusier, the Swiss-born pioneer of modern architecture, was born in 1887 in which watchmaking town in the Jura?",
+  "clue": "Swiss Jura mountains, near the French border.",
+  "hint": "The town's name begins 'La Chaux'.",
+  "answer": {
+   "city": "La Chaux-de-Fonds",
+   "country": "Switzerland",
+   "countryCode": "CH",
+   "latitude": 47.1031,
+   "longitude": 6.8326,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1685495"
+  },
+  "story": "Le Corbusier was born in La Chaux-de-Fonds, Switzerland, in 1887. An internationally influential architect and city planner, he was the first architect to make a studied use of rough-cast concrete.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Le-Corbusier",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Le Corbusier (born October 6, 1887, La Chaux-de-Fonds, Switzerland—died August 27, 1965, Cap Martin, France) was an internationally influential Swiss architect and city planner"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Le-Corbusier",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He was the first architect to make a studied use of rough-cast concrete"
+   }
+  ],
+  "entityId": "le-corbusier",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "antoni-gaudi-barcelona",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "His great church",
+  "question": "Antoni Gaudí spent his last years living in the workshop of his great unfinished church — in which city, where he died in 1926?",
+  "clue": "Catalonia, on the Mediterranean coast.",
+  "hint": "The church is the Sagrada Família.",
+  "answer": {
+   "city": "Barcelona",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 41.3826,
+   "longitude": 2.1771,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/347950"
+  },
+  "story": "Antoni Gaudí was a Catalan architect whose style is known for freedom of form, colour and texture. In the 1910s he abandoned virtually all other work, eventually living in the workshop of his church on its site; he died in Barcelona in 1926.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Antoni-Gaudi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In the 1910s he abandoned virtually all other work and even eventually secluded himself on its site and resided in its workshop."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Antoni-Gaudi",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "died June 10, 1926, Barcelona) was a Catalan architect, whose distinctive style is characterized by freedom of form, voluptuous color and texture, and organic unity"
+   }
+  ],
+  "entityId": "antoni-gaudi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "im-pei-guangzhou",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Born in China",
+  "question": "Architect I. M. Pei, creator of the Louvre's glass pyramid, was born in 1917 in which southern Chinese city?",
+  "clue": "On the Pearl River delta, north-west of Hong Kong.",
+  "hint": "It was once known in English as Canton.",
+  "answer": {
+   "city": "Guangzhou",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 23.1288,
+   "longitude": 113.259,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3287346"
+  },
+  "story": "I. M. Pei was born in Guangzhou in 1917; his family moved to Hong Kong when he was a baby and to Shanghai when he was 10. The Chinese-born American architect was noted for large, elegantly designed urban buildings.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/I-M-Pei",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "I.M. Pei (born April 26, 1917, Guangzhou, China—died May 16, 2019, New York, New York, U.S.) was a Chinese-born American architect noted for his large, elegantly designed urban buildings and complexes"
+   },
+   {
+    "url": "https://www.britannica.com/biography/I-M-Pei",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The family moved to Hong Kong when I.M. Pei was still a baby and then to Shanghai when he was age 10."
+   }
+  ],
+  "entityId": "im-pei",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "oscar-niemeyer-brasilia",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A new capital",
+  "question": "Oscar Niemeyer is particularly noted for his work on which city, built as Brazil's new capital?",
+  "clue": "On Brazil's central plateau, far inland.",
+  "hint": "From the air its plan looks like an aeroplane.",
+  "answer": {
+   "city": "Brasília",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -15.794,
+   "longitude": -47.8828,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/34567423"
+  },
+  "story": "Oscar Niemeyer was born in Rio de Janeiro in 1907. An early exponent of modern architecture in Latin America, he is particularly noted for his work on Brasília, Brazil's new capital.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Oscar Niemeyer (born December 15, 1907, Rio de Janeiro, Brazil—died December 5, 2012, Rio de Janeiro) was a Brazilian architect, an early exponent of modern architecture in Latin America, particularly noted for his work on Brasília, the new capital of Brazil."
+   }
+  ],
+  "entityId": "oscar-niemeyer",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "tadao-ando-osaka",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "From the ring",
+  "question": "Tadao Ando, a former professional boxer, opened his self-taught architecture practice in 1969 in which Japanese city?",
+  "clue": "Kansai region, on Honshu's Osaka Bay.",
+  "hint": "It's Japan's third-largest city, famous for street food.",
+  "answer": {
+   "city": "Osaka",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 34.6938,
+   "longitude": 135.5015,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/358674"
+  },
+  "story": "Tadao Andō was born in Ōsaka in 1941. He had various careers, including professional boxer, before becoming a self-taught architect and opening his own practice in Ōsaka in 1969.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ando-Tadao",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Andō had various careers, including professional boxer, before he became a self-taught architect and opened his own practice in Ōsaka in 1969."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Ando-Tadao",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Tadao Andō (born September 13, 1941, Ōsaka, Japan) is one of Japan’s leading contemporary architects"
+   }
+  ],
+  "entityId": "tadao-ando",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "norman-foster-manchester",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A northern start",
+  "question": "Norman Foster, known for sleek steel-and-glass buildings such as Apple Park, was born in 1935 in which English city?",
+  "clue": "North-west England, between the Pennines and Liverpool.",
+  "hint": "Its two Premier League clubs are United and City.",
+  "answer": {
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 53.4425,
+   "longitude": -2.2325,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/146656"
+  },
+  "story": "Norman Foster was born in Manchester in 1935. Known for sleek modern buildings of steel and glass, he founded Foster Associates (later Foster + Partners) in 1967 and designed Apple Park, Apple's headquarters in Cupertino.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Norman Foster (born June 1, 1935, Manchester, England) is a British architect known for his sleek modern buildings made of steel and glass"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1967 he established his own firm called Foster Associates (later Foster + Partners)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He also designed Apple Park (2018), the headquarters of Apple, Inc., in Cupertino, California"
+   }
+  ],
+  "entityId": "norman-foster",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "frank-gehry-toronto",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Canadian start",
+  "question": "Frank Gehry, the architect of audacious sculptural buildings, was born in 1929 in which Canadian city?",
+  "clue": "On the north-western shore of Lake Ontario.",
+  "hint": "It's Canada's largest city.",
+  "answer": {
+   "city": "Toronto",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 43.6535,
+   "longitude": -79.3839,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/324211"
+  },
+  "story": "Frank Gehry was born in Toronto in 1929. The Canadian American architect's original, sculptural, often audacious work won him worldwide renown. He set up his own firm in 1962.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Frank-Gehry",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Frank Gehry (born February 28, 1929, Toronto, Ontario, Canada—died December 5, 2025, Santa Monica, California, U.S.) was a Canadian American architect and designer whose original, sculptural, often audacious work won him worldwide renown"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Frank-Gehry",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "he established his own company, Frank O. Gehry & Associates, in 1962"
+   }
+  ],
+  "entityId": "frank-gehry",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "kenzo-tange-hiroshima",
+  "primaryCategory": "icons",
+  "subcategory": "architects",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "First major commission",
+  "question": "Architect Kenzo Tange's first major commission involved rebuilding which Japanese city after World War II?",
+  "clue": "Western Honshu, on the Ōta River delta.",
+  "hint": "Its Peace Memorial Park was part of his work.",
+  "answer": {
+   "city": "Hiroshima",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 34.3917,
+   "longitude": 132.4518,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4097196"
+  },
+  "story": "Tange Kenzō, born in Ōsaka in 1913, was one of the foremost Japanese architects after World War II. His first major commission involved the reconstruction of Hiroshima.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Tange-Kenzo",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "his first major commission involved the reconstruction of Hiroshima."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Tange-Kenzo",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Tange Kenzō (born September 4, 1913, Ōsaka, Japan—died March 22, 2005, Tokyo) was one of the foremost Japanese architects in the decades following World War II"
+   }
+  ],
+  "entityId": "kenzo-tange",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "henry-ford-detroit",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "Off the farm",
+  "question": "In 1879 a young Henry Ford left his father's farm for which Michigan city — later the heart of the car industry?",
+  "clue": "South-eastern Michigan, on the river facing Windsor, Canada.",
+  "hint": "It's nicknamed the Motor City.",
+  "answer": {
+   "city": "Detroit",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 42.3316,
+   "longitude": -83.0466,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/134591"
+  },
+  "story": "Henry Ford, born in Wayne county, Michigan, in 1863, revolutionized factory production with his assembly-line methods. He left his father's farm for Detroit in 1879 and died in Dearborn in 1947.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Henry-Ford",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "When young Ford left his father’s farm in 1879 for Detroit"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Henry-Ford",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Henry Ford (born July 30, 1863, Wayne county, Michigan, U.S.—died April 7, 1947, Dearborn, Michigan) was an American industrialist who revolutionized factory production with his assembly-line methods"
+   }
+  ],
+  "entityId": "henry-ford",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12.",
+    "Batch 14: also in business/business-innovators — revolutionized factory production with the assembly line"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "business",
+    "subcategory": "business-innovators"
+   }
+  ]
+ },
+ {
+  "id": "andrew-carnegie-dunfermline",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A Scottish weaver's son",
+  "question": "Steel magnate Andrew Carnegie was born in 1835 in which Scottish town?",
+  "clue": "Fife, just north of the Firth of Forth.",
+  "hint": "It was Scotland's ancient royal capital.",
+  "answer": {
+   "city": "Dunfermline",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 56.0714,
+   "longitude": -3.4616,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/14164364"
+  },
+  "story": "Andrew Carnegie was born in Dunfermline, Scotland, in 1835. The Scottish-born American industrialist led the enormous expansion of the American steel industry in the late 19th century.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Andrew-Carnegie",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Andrew Carnegie (born November 25, 1835, Dunfermline, Fife, Scotland—died August 11, 1919, Lenox, Massachusetts, U.S.) was a Scottish-born American industrialist who led the enormous expansion of the American steel industry in the late 19th century"
+   }
+  ],
+  "entityId": "andrew-carnegie",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "john-d-rockefeller-cleveland",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "company_origin",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The first refinery",
+  "question": "John D. Rockefeller, founder of Standard Oil, built his first oil refinery in 1863 near which Ohio city?",
+  "clue": "North-east Ohio, on Lake Erie.",
+  "hint": "It's home to the Rock and Roll Hall of Fame.",
+  "answer": {
+   "city": "Cleveland",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.4997,
+   "longitude": -81.6937,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/182130"
+  },
+  "story": "John D. Rockefeller, born in Richford, New York, in 1839, founded the Standard Oil Company, which dominated the oil industry. Sensing the potential of the oil boom, he built his first refinery near Cleveland in 1863.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/John-D-Rockefeller",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Rockefeller built his first oil refinery, near Cleveland, in 1863."
+   },
+   {
+    "url": "https://www.britannica.com/money/John-D-Rockefeller",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "John D. Rockefeller (born July 8, 1839, Richford, New York, U.S.—died May 23, 1937, Ormond Beach, Florida) was an American industrialist and philanthropist who founded the Standard Oil Company"
+   }
+  ],
+  "entityId": "john-d-rockefeller",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "walt-disney-chicago",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "A Midwest start",
+  "question": "Walt Disney, pioneer of animated cartoon films and creator of Disneyland, was born in 1901 in which US city?",
+  "clue": "On the south-western shore of Lake Michigan.",
+  "hint": "It's Illinois's largest city.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.8756,
+   "longitude": -87.6244,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/122604"
+  },
+  "story": "Walt Disney was born in Chicago in 1901. A pioneer of animated cartoon films, he planned and built Disneyland, which opened near Los Angeles in 1955; the company he founded became one of the world's largest entertainment conglomerates.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Walt-Disney",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Walt Disney (born December 5, 1901, Chicago, Illinois, U.S.—died December 15, 1966, Burbank, California) was an American motion-picture and television producer and showman, famous as a pioneer of animated cartoon films"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Walt-Disney",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He also planned and built Disneyland, a huge amusement park that opened near Los Angeles in 1955"
+   }
+  ],
+  "entityId": "walt-disney",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "konosuke-matsushita-osaka",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "From errand boy",
+  "question": "Konosuke Matsushita, founder of Japan's giant electrical-appliance maker, began work at 16 for the Electric Light Company of which city?",
+  "clue": "Kansai region, on Osaka Bay.",
+  "hint": "It's Japan's third-largest city.",
+  "answer": {
+   "city": "Osaka",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 34.6938,
+   "longitude": 135.5015,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/358674"
+  },
+  "story": "Matsushita Konosuke began work at age 9 as an errand boy. At 16 he joined the Ōsaka Electric Light Company, and at 23 left to start his own company, which became Matsushita Electric Industrial — the world's largest maker of consumer electric appliances.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Matsushita-Konosuke",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "At age 16 he began working for the Ōsaka Electric Light Company, and he quit his job as an inspector there at age 23 to start a company that would sell electric plug attachments of his own design"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Matsushita-Konosuke",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was a Japanese industrialist who founded the Matsushita Electric Industrial Co., Ltd., the largest manufacturer of consumer electric appliances in the world."
+   }
+  ],
+  "entityId": "konosuke-matsushita",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "soichiro-honda-hamamatsu",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "The repair shop",
+  "question": "Before founding Honda Motor Company, Soichiro Honda opened his own repair shop in which Japanese city?",
+  "clue": "Shizuoka prefecture, on the Pacific coast between Tokyo and Nagoya.",
+  "hint": "It's famous for musical-instrument makers and eel dishes.",
+  "answer": {
+   "city": "Hamamatsu",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 34.711,
+   "longitude": 137.7259,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4674741"
+  },
+  "story": "Honda Soichiro started as a mechanic in Tokyo at 15 and six years later opened his own repair shop in Hamamatsu. In 1948 his Honda Technical Research Institute was incorporated as Honda Motor Company.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Honda-Soichiro",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Honda began working as a mechanic in Tokyo at age 15 and six years later opened his own repair shop in Hamamatsu."
+   },
+   {
+    "url": "https://www.britannica.com/money/Honda-Soichiro",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "he founded the Honda Technical Research Institute, which was incorporated in 1948 as Honda Motor Company."
+   }
+  ],
+  "entityId": "soichiro-honda",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12.",
+    "Batch 14: also in business/founders — founded Honda Motor Company"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "business",
+    "subcategory": "founders"
+   }
+  ]
+ },
+ {
+  "id": "ingvar-kamprad-almhult",
+  "primaryCategory": "icons",
+  "subcategory": "business-icons",
+  "questionType": "company_origin",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "The first showroom",
+  "question": "Ingvar Kamprad founded IKEA at 17 in 1943 and soon opened its showroom in which Swedish town?",
+  "clue": "Småland, in southern Sweden.",
+  "hint": "IKEA's first store and its museum are there.",
+  "answer": {
+   "city": "Älmhult",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "latitude": 56.5514,
+   "longitude": 14.1391,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/755927892"
+  },
+  "story": "Ingvar Kamprad founded IKEA in 1943, at age 17 — the name came from his initials and the farm and village where he grew up. Two years later he opened a showroom in Älmhult, Sweden.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Ingvar-Kamprad",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Two years later he opened a showroom in Almhult, Sweden."
+   },
+   {
+    "url": "https://www.britannica.com/money/Ingvar-Kamprad",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1943, at age 17, he founded a company called IKEA, the name of which was based on his own initials and on the first letters of the farm (Elmtaryd) and the village (Agunnaryd) where he grew up."
+   }
+  ],
+  "entityId": "ingvar-kamprad",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12.",
+    "Batch 14: also in business/founders — founded IKEA"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "business",
+    "subcategory": "founders"
+   }
+  ]
+ },
+ {
+  "id": "greta-thunberg-stockholm",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Icons",
+  "chapter": "A school strike",
+  "question": "Climate activist Greta Thunberg, founder of Fridays for Future, was born in 2003 in which city?",
+  "clue": "On islands where Lake Mälaren meets the Baltic.",
+  "hint": "It's Sweden's capital.",
+  "answer": {
+   "city": "Stockholm",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "latitude": 59.3251,
+   "longitude": 18.0711,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/25929985"
+  },
+  "story": "Greta Thunberg was born in Stockholm in 2003. By the time she was 15 she had founded Fridays for Future (School Strike for Climate), becoming one of the most recognizable faces of the climate change movement.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Greta-Thunberg",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Birthplace: Stockholm, Sweden"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Greta-Thunberg",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "By the time she was 15, she had founded Fridays for Future (also called School Strike for Climate), which garnered international attention and made her one of the most recognizable faces of the climate change movement."
+   }
+  ],
+  "entityId": "greta-thunberg",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "rosa-parks-montgomery",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "The bus",
+  "question": "Rosa Parks' refusal to give up her bus seat in 1955 sparked a famous bus boycott in which Alabama city?",
+  "clue": "Central Alabama, on the Alabama River.",
+  "hint": "It's Alabama's state capital.",
+  "answer": {
+   "city": "Montgomery",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.3777,
+   "longitude": -86.3091,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/110842"
+  },
+  "story": "Rosa Parks was born in Tuskegee, Alabama, in 1913. Her refusal to give up her seat on a public bus precipitated the 1955–56 Montgomery bus boycott in Alabama.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Rosa-Parks",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Rosa Parks (born February 4, 1913, Tuskegee, Alabama, U.S.—died October 24, 2005, Detroit, Michigan) was an American civil rights activist whose refusal to relinquish her seat on a public bus precipitated the 1955–56 Montgomery bus boycott in Alabama"
+   }
+  ],
+  "entityId": "rosa-parks",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "ellen-johnson-sirleaf-monrovia",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Africa's first",
+  "question": "Ellen Johnson Sirleaf, the first woman elected head of state of an African country, was born in 1938 in which capital?",
+  "clue": "On Africa's Atlantic coast, at the mouth of the St. Paul River.",
+  "hint": "It's Liberia's capital, named after a US president.",
+  "answer": {
+   "city": "Monrovia",
+   "country": "Liberia",
+   "countryCode": "LR",
+   "latitude": 6.3204,
+   "longitude": -10.806,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27564980"
+  },
+  "story": "Ellen Johnson Sirleaf was born in Monrovia in 1938. A politician and economist, she was president of Liberia from 2006 to 2018 — the first woman elected head of state of an African country.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ellen-Johnson-Sirleaf",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Ellen Johnson Sirleaf (born October 29, 1938, Monrovia, Liberia) is a Liberian politician and economist who was president of Liberia (2006–18)"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Ellen-Johnson-Sirleaf",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She was the first woman to be elected head of state of an African country."
+   }
+  ],
+  "entityId": "ellen-johnson-sirleaf",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "muhammad-yunus-chittagong",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "The microcredit pioneer",
+  "question": "Muhammad Yunus, founder of the microcredit Grameen Bank, was born in 1940 in which Bangladeshi port city?",
+  "clue": "South-eastern Bangladesh, on the Bay of Bengal.",
+  "hint": "It's Bangladesh's main seaport, also spelled Chattogram.",
+  "answer": {
+   "city": "Chittagong",
+   "country": "Bangladesh",
+   "countryCode": "BD",
+   "latitude": 22.3338,
+   "longitude": 91.8344,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/8541366252"
+  },
+  "story": "Muhammad Yunus was born in Chittagong in 1940. The Bangladeshi economist founded the Grameen Bank, which provides microcredit — small loans to poor people with no collateral.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/money/Muhammad-Yunus",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Muhammad Yunus (born June 28, 1940, Chittagong, East Bengal [now Bangladesh]) is a Bangladeshi economist and founder of the Grameen Bank, an institution that provides microcredit (small loans to poor people possessing no collateral)"
+   }
+  ],
+  "entityId": "muhammad-yunus",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12.",
+    "Batch 14: also in business/finance-icons — founder of the microcredit Grameen Bank"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "business",
+    "subcategory": "finance-icons"
+   }
+  ]
+ },
+ {
+  "id": "kofi-annan-kumasi",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Born in Asante",
+  "question": "Kofi Annan, UN secretary-general from 1997 to 2006, was born in 1938 in which Ghanaian city?",
+  "clue": "Inland in southern Ghana, in the forest belt.",
+  "hint": "It's the historic capital of the Asante.",
+  "answer": {
+   "city": "Kumasi",
+   "country": "Ghana",
+   "countryCode": "GH",
+   "latitude": 6.6986,
+   "longitude": -1.6233,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/261702404"
+  },
+  "story": "Kofi Annan was born in Kumasi in 1938 and studied at the University of Science and Technology there. He was secretary-general of the United Nations from 1997 to 2006.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Kofi-Annan",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kofi Annan (born April 8, 1938, Kumasi, Gold Coast [now Ghana]—died August 18, 2018, Bern, Switzerland) was a Ghanaian international civil servant, who was the secretary-general of the United Nations (UN) from 1997 to 2006"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Kofi-Annan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "studied at the University of Science and Technology in Kumasi"
+   }
+  ],
+  "entityId": "kofi-annan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "emmeline-pankhurst-manchester",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Icons",
+  "chapter": "Votes for women",
+  "question": "Emmeline Pankhurst, militant champion of votes for women, was born in 1858 in which English city?",
+  "clue": "North-west England, beneath the Pennines.",
+  "hint": "It was the cotton capital of the Industrial Revolution.",
+  "answer": {
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 53.4425,
+   "longitude": -2.2325,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/146656"
+  },
+  "story": "Emmeline Pankhurst was born in Manchester in 1858. Her 40-year campaign for woman suffrage achieved complete success in the year of her death, 1928, when British women obtained full voting equality.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Emmeline-Pankhurst",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "1858, Manchester, England—died June 14, 1928, London) was a militant champion of woman suffrage whose 40-year campaign achieved complete success in the year of her death"
+   }
+  ],
+  "entityId": "emmeline-pankhurst",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "cesar-chavez-yuma",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Icons",
+  "chapter": "A farmworker's son",
+  "question": "Cesar Chavez, organizer of migrant farmworkers and co-founder of the National Farm Workers Association, was born in 1927 in which Arizona city?",
+  "clue": "South-western Arizona, on the Colorado River near California and Mexico.",
+  "hint": "It's often called the sunniest city in the world.",
+  "answer": {
+   "city": "Yuma",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.721,
+   "longitude": -114.6203,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/16326705"
+  },
+  "story": "Cesar Chavez was born in Yuma, Arizona, in 1927. After his family lost their farm in the Great Depression they became migrant workers in California; in 1962 he co-founded the National Farm Workers Association with Dolores Huerta.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Cesar-Chavez",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Cesar Chavez (born March 31, 1927, Yuma, Arizona, U.S.—died April 23, 1993, San Luis, Arizona) was an organizer of migrant American farmworkers and a cofounder with Dolores Huerta of the National Farm Workers Association (NFWA) in 1962"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cesar-Chavez",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "After his parents lost their farm during the Great Depression, the family moved to California, where they became migrant workers."
+   }
+  ],
+  "entityId": "cesar-chavez",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "nadia-murad-kocho",
+  "primaryCategory": "icons",
+  "subcategory": "global-changemakers",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Icons",
+  "chapter": "Kocho",
+  "question": "Yazidi human-rights activist Nadia Murad was born in 1993 in Kocho, a village in which country?",
+  "clue": "Northern Iraq, south of the Sinjar mountains. Tap Kocho.",
+  "hint": "The village lies in Nineveh province.",
+  "answer": {
+   "city": "Kocho",
+   "country": "Iraq",
+   "countryCode": "IQ",
+   "latitude": 36.1661,
+   "longitude": 41.7347,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/8594390250"
+  },
+  "story": "Nadia Murad was born in Kocho (Kawjū), Iraq, in 1993. A Yazidi, she was kidnapped by ISIL in 2014; after escaping she became a human rights activist.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Nadia-Murad",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Nadia Murad (born 1993, Kawjū (Kocho), Iraq) is a Yazīdī human rights activist who was kidnapped by the Islamic State in Iraq and the Levant (ISIL; also called ISIS) in August 2014"
+   }
+  ],
+  "entityId": "nadia-murad",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 12."
+   ]
+  }
+ },
+ {
+  "id": "andy-warhol-pittsburgh",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "Pop art pioneer Andy Warhol was born in which Pennsylvania city?",
+  "clue": "Where three rivers meet.",
+  "hint": "The Steel City.",
+  "answer": {
+   "city": "Pittsburgh",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.4407,
+   "longitude": -80.0026,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/188553"
+  },
+  "story": "Andy Warhol was born in Pittsburgh in 1928. An artist and filmmaker, he led the Pop art movement of the 1960s.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Andy-Warhol",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Andy Warhol (born August 6, 1928, Pittsburgh, Pennsylvania, U.S.—died February 22, 1987, New York, New York) was an American artist and filmmaker, an initiator and leading exponent of the Pop art movement of the 1960s"
+   }
+  ],
+  "entityId": "andy-warhol",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ },
+ {
+  "id": "john-lennon-liverpool",
+  "primaryCategory": "icons",
+  "subcategory": "cultural-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "World Icons",
+  "chapter": "Where the story began",
+  "question": "John Lennon, coleader of the Beatles, was born in which English port city?",
+  "clue": "On the River Mersey.",
+  "hint": "Home of the Cavern Club.",
+  "answer": {
+   "city": "Liverpool",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 53.3933,
+   "longitude": -2.9166,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/172987"
+  },
+  "story": "John Lennon was born in Liverpool in 1940 and became a coleader of the revolutionary rock group the Beatles.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/John-Lennon",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "John Lennon (born October 9, 1940, Liverpool, England—died December 8, 1980, New York, New York, U.S.) was a coleader of the revolutionary British rock group the Beatles"
+   }
+  ],
+  "entityId": "john-lennon",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 18."
+   ]
+  }
+ }
+]

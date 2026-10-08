@@ -1,0 +1,1148 @@
+{
+ "batch": 10,
+ "researched": "2026-10-04",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "focalistic",
+    "name": "Focalistic",
+    "monogram": "F",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "focalistic-pretoria",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "In which South African city was amapiano rapper Focalistic born and bred — the city whose street slang he raps in?",
+    "clue": "Look in Gauteng province, north of Johannesburg.",
+    "hint": "It's South Africa's executive capital; locals call it \"Pitori\".",
+    "answer": {
+     "city": "Pretoria",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "Focalistic (Lethabo Sebetso) was born and bred in Pretoria, in the large settlement of Ga-Rankuwa. His breakout amapiano hit was \"Ke Star\".",
+    "sources": [
+     {
+      "url": "https://www.forbesafrica.com/entertainment/2021/10/22/10-of-south-africas-leading-amapiano-artists",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The 25-year-old artist was born and bred in South Africa’s capital city, Pretoria, in the large settlement of Ga-Rankuwa."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dj-maphorisa",
+    "name": "DJ Maphorisa",
+    "monogram": "DM",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "dj-maphorisa-soshanguve",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Which small Pretoria township does amapiano producer DJ Maphorisa hail from?",
+    "clue": "Look on the northern edge of the City of Tshwane.",
+    "hint": "Its name begins with \"Sosha\".",
+    "answer": {
+     "city": "Soshanguve",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "DJ Maphorisa (Themba Sekowe) hails from Soshanguve in Pretoria. With Kabza De Small he forms the Scorpion Kings, whose album of the same name was an amapiano hit.",
+    "sources": [
+     {
+      "url": "https://www.forbesafrica.com/entertainment/2021/10/22/10-of-south-africas-leading-amapiano-artists",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "DJ Maphorisa (Themba Sekowe) is an award-nominated producer and DJ who hails from the small township of Soshanguve in Pretoria."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "musa-keys",
+    "name": "Musa Keys",
+    "monogram": "MK",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "musa-keys-polokwane",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "In which Limpopo city — nicknamed the \"city of progress\" — was amapiano star Musa Keys raised?",
+    "clue": "Look in South Africa's far north, on the road to Zimbabwe.",
+    "hint": "It was once called Pietersburg.",
+    "answer": {
+     "city": "Polokwane",
+     "country": "South Africa",
+     "countryCode": "ZA"
+    },
+    "story": "Musa Keys (Musa Makamu) was raised in Polokwane, Limpopo. Music wasn't his first choice — he planned on civil engineering before his breakout song \"Samarian Boy\".",
+    "sources": [
+     {
+      "url": "https://www.forbesafrica.com/entertainment/2021/10/22/10-of-south-africas-leading-amapiano-artists",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "For 21-year-old Musa Makamu, raised in the “city of progress”, Polokwane in Limpopo, a province in South Africa, music was not his first choice; civil engineering was."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "johnny-cash",
+    "name": "Johnny Cash",
+    "monogram": "JC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "johnny-cash-kingsland",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "In which small Arkansas town was the \"Man in Black\", Johnny Cash, born?",
+    "clue": "Look in southern Arkansas, near the Louisiana border.",
+    "hint": "Its name sounds royal.",
+    "answer": {
+     "city": "Kingsland",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Johnny Cash was born in Kingsland, Arkansas, in 1932. Songs such as \"Folsom Prison Blues\" and \"I Walk the Line\" made him the top recording artist in country and western by 1957.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Johnny-Cash",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Johnny Cash (born February 26, 1932, Kingsland, Arkansas, U.S.—died September 12, 2003, Nashville, Tennessee) was an American singer and songwriter whose work broadened the scope of country and western music."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "garth-brooks",
+    "name": "Garth Brooks",
+    "monogram": "GB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "garth-brooks-tulsa",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "In which Oklahoma city was Garth Brooks — the top-selling solo artist of all time — born?",
+    "clue": "Look in northeast Oklahoma, on the Arkansas River.",
+    "hint": "It was once called the \"Oil Capital of the World\".",
+    "answer": {
+     "city": "Tulsa",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Garth Brooks was born in Tulsa, Oklahoma, into a musical family. His 1989 debut began a run that made him the top-selling solo artist of all time.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Garth-Brooks",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Garth Brooks (born February 7, 1962, Tulsa, Oklahoma, U.S.) is an American country music singer-songwriter whose crossover appeal to the pop market made him the top-selling solo artist of all time."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "brian-eno",
+    "name": "Brian Eno",
+    "monogram": "BE",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "brian-eno-woodbridge",
+    "primaryCategory": "music",
+    "subcategory": "electronic",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Electronic",
+    "chapter": "Where the story began",
+    "question": "In which Suffolk town was ambient-music pioneer Brian Eno born?",
+    "clue": "Look in East Anglia, on the River Deben.",
+    "hint": "Its name pairs a tree-filled place with a bridge.",
+    "answer": {
+     "city": "Woodbridge",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Brian Eno was born in Woodbridge, Suffolk. He began experimenting with electronic music as an art student, joined Roxy Music in 1971 and went on to create ambient music.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Brian-Eno",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Brian Eno (born May 15, 1948, Woodbridge, Suffolk, England) is a British producer, composer, keyboardist, and singer who helped define and reinvent the sound of some of the most popular bands of the 1980s and ’90s and who created the genre of ambient music."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Brian-Eno",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "While an art student in the late 1960s, Eno began experimenting with electronic music, and in 1971 he joined the fledgling band Roxy Music as keyboardist and technical adviser.",
+      "note": "Electronic / DJ: genre evidence."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "giorgio-moroder",
+    "name": "Giorgio Moroder",
+    "monogram": "GM",
+    "countryOfOrigin": "IT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "giorgio-moroder-munich",
+    "primaryCategory": "music",
+    "subcategory": "electronic",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Electronic",
+    "chapter": "The studio years",
+    "question": "In which German city's Musicland Studios did Giorgio Moroder make his electronic disco hits with Donna Summer?",
+    "clue": "Look in southern Germany, in Bavaria.",
+    "hint": "It's home to Oktoberfest.",
+    "answer": {
+     "city": "Munich",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Giorgio Moroder, a pioneer of electronic dance music and disco, worked mainly at Musicland Studios in Munich, where he and Donna Summer created hits like \"Love to Love You Baby\".",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Giorgio-Moroder",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Working primarily at Musicland Studios in Munich, he collaborated with Donna Summer to create influential hits like \"Love to Love You Baby\"."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Giorgio-Moroder",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Giorgio Moroder is an Italian musician, songwriter, and producer, widely recognized as a pioneer of electronic dance music and disco.",
+      "note": "Electronic / DJ: genre evidence."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "elvis-presley",
+    "name": "Elvis Presley",
+    "monogram": "EP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "elvis-presley-tupelo",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Rock",
+    "chapter": "Where the story began",
+    "question": "In which Mississippi town was \"the King of Rock 'n' Roll\", Elvis Presley, born?",
+    "clue": "Look in northeast Mississippi.",
+    "hint": "Its name starts with \"Tup\".",
+    "answer": {
+     "city": "Tupelo",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Elvis Presley was born in Tupelo, Mississippi, in 1935. One of rock music's dominant performers from the mid-1950s, he became known as \"the King of Rock 'n' Roll\".",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Elvis-Presley",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Elvis Presley (born January 8, 1935, Tupelo, Mississippi, U.S.—died August 16, 1977, Memphis, Tennessee) was an American popular singer and actor widely known as “the King of Rock ’n’ Roll.”"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "peter-tosh",
+    "name": "Peter Tosh",
+    "monogram": "PT",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "peter-tosh-kingston",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Reggae & Dancehall",
+    "chapter": "Forming the Wailers",
+    "question": "In which city's Trench Town did Peter Tosh, Bob Marley and Bunny Wailer form the Wailers in 1963?",
+    "clue": "Look on Jamaica's south coast.",
+    "hint": "It's Jamaica's capital.",
+    "answer": {
+     "city": "Kingston",
+     "country": "Jamaica",
+     "countryCode": "JM"
+    },
+    "story": "Peter Tosh, a founding member of the Wailers, formed the group with Bob Marley and Bunny Wailer in 1963 in Kingston's Trench Town.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Peter-Tosh",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Tosh, Bob Marley, and Bunny Wailer formed the Wailers in 1963 in the Kingston ghetto of Trench Town."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Peter-Tosh",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Peter Tosh (born October 19, 1944, Grange Hill, Jamaica—died September 11, 1987, Kingston) was a Jamaican singer-songwriter and a founding member of the Wailers, a popular reggae band of the 1960s and early 1970s.",
+      "note": "Reggae & Dancehall: genre evidence."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "nusrat-fateh-ali-khan",
+    "name": "Nusrat Fateh Ali Khan",
+    "monogram": "NF",
+    "countryOfOrigin": "PK",
+    "region": "asia"
+   },
+   "question": {
+    "id": "nusrat-fateh-ali-khan-faisalabad",
+    "primaryCategory": "music",
+    "subcategory": "global-icons",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Global Icons",
+    "chapter": "Where the story began",
+    "question": "Qawwali legend Nusrat Fateh Ali Khan was born in Lyallpur. What is that Pakistani city called today?",
+    "clue": "Look in Pakistan's Punjab province, west of Lahore.",
+    "hint": "It's named after an Arabic word for a king; its clock tower anchors eight bazaars.",
+    "answer": {
+     "city": "Faisalabad",
+     "country": "Pakistan",
+     "countryCode": "PK"
+    },
+    "story": "Nusrat Fateh Ali Khan was born in Lyallpur, now Faisalabad, Pakistan. He is considered one of the greatest performers of qawwali and took it to audiences worldwide.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Nusrat-Fateh-Ali-Khan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Nusrat Fateh Ali Khan (born October 13, 1948, Lyallpur [now Faisalabad], Pakistan—died August 16, 1997, London, England) was a Pakistani singer who is considered one of the greatest performers of qawwali, a Sufi Muslim devotional music characterized by simple melodies, forceful rhythms, and energetic improvisations that encourage a state of euphoria in the listener."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "muhammad-ali",
+    "name": "Muhammad Ali",
+    "monogram": "MA",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "muhammad-ali-louisville",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Boxing",
+    "chapter": "Where the story began",
+    "question": "In which Kentucky city was Muhammad Ali — then Cassius Clay — born?",
+    "clue": "Look on the Ohio River in Kentucky.",
+    "hint": "It's home to the Kentucky Derby.",
+    "answer": {
+     "city": "Louisville",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Muhammad Ali was born in Louisville, Kentucky. He won Olympic gold in Rome in 1960 and became the first fighter to win the world heavyweight title three times.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Muhammad-Ali-boxer",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Muhammad Ali (born January 17, 1942, Louisville, Kentucky, U.S.—died June 3, 2016, Scottsdale, Arizona) was an American professional boxer and social activist."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mike-tyson",
+    "name": "Mike Tyson",
+    "monogram": "MT",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "mike-tyson-brooklyn",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Boxing",
+    "chapter": "Where the story began",
+    "question": "In which New York City borough was Mike Tyson, the youngest heavyweight champion in history, born?",
+    "clue": "Look across the East River from Manhattan.",
+    "hint": "It's New York City's most populous borough.",
+    "answer": {
+     "city": "Brooklyn",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Mike Tyson was born in Brooklyn, New York. At 20 he became the youngest heavyweight champion in history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Mike-Tyson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Mike Tyson (born June 30, 1966, Brooklyn, New York, U.S.) is an American boxer who, at age 20, became the youngest heavyweight champion in history."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "conor-mcgregor",
+    "name": "Conor McGregor",
+    "monogram": "CM",
+    "countryOfOrigin": "IE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "conor-mcgregor-crumlin",
+    "primaryCategory": "sports",
+    "subcategory": "mma",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "MMA",
+    "chapter": "Growing up",
+    "question": "In which working-class suburb of Dublin did Conor McGregor grow up?",
+    "clue": "Look in southwest Dublin.",
+    "hint": "Its name begins with \"Crum\".",
+    "answer": {
+     "city": "Crumlin",
+     "country": "Ireland",
+     "countryCode": "IE"
+    },
+    "story": "Conor McGregor grew up in Crumlin, Dublin, and trained at Straight Blast Gym Ireland under John Kavanagh before winning UFC titles in two weight classes in 2015–16.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Conor-McGregor",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The youngest of three children, McGregor grew up in Crumlin, a working-class suburb of Dublin."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "israel-adesanya",
+    "name": "Israel Adesanya",
+    "monogram": "IA",
+    "countryOfOrigin": "NZ",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "israel-adesanya-lagos",
+    "primaryCategory": "sports",
+    "subcategory": "mma",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "MMA",
+    "chapter": "Born abroad",
+    "question": "Before moving to New Zealand, in which Nigerian city was UFC champion Israel Adesanya born?",
+    "clue": "Look on Nigeria's Atlantic coast.",
+    "hint": "It's Nigeria's biggest city.",
+    "answer": {
+     "city": "Lagos",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Israel Adesanya was born in Lagos, Nigeria, and trains at City Kickboxing in New Zealand. He made his UFC debut in 2018.",
+    "sources": [
+     {
+      "url": "https://www.ufc.com/athlete/israel-adesanya",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH LAGOS, NIGERIA"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "valentina-shevchenko",
+    "name": "Valentina Shevchenko",
+    "monogram": "VS",
+    "countryOfOrigin": "KG",
+    "region": "asia"
+   },
+   "question": {
+    "id": "valentina-shevchenko-bishkek",
+    "primaryCategory": "sports",
+    "subcategory": "mma",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "MMA",
+    "chapter": "Where the story began",
+    "question": "In which Central Asian capital was UFC champion Valentina Shevchenko born?",
+    "clue": "Look in Kyrgyzstan, near the border with Kazakhstan.",
+    "hint": "It was once called Frunze.",
+    "answer": {
+     "city": "Bishkek",
+     "country": "Kyrgyzstan",
+     "countryCode": "KG"
+    },
+    "story": "Valentina Shevchenko was born in Bishkek, Kyrgyzstan. A Muay Thai specialist, she trains at Tiger Muay Thai in Phuket and debuted in the UFC in 2015.",
+    "sources": [
+     {
+      "url": "https://www.ufc.com/athlete/valentina-shevchenko",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH BISHKEK, KYRGYZSTAN"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alex-pereira",
+    "name": "Alex Pereira",
+    "monogram": "AP",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "alex-pereira-sao-bernardo-do-campo",
+    "primaryCategory": "sports",
+    "subcategory": "mma",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "MMA",
+    "chapter": "Where the story began",
+    "question": "In which São Paulo-area city, a hub of Brazil's car industry, was UFC champion Alex Pereira born?",
+    "clue": "Look in Greater São Paulo, to the southeast.",
+    "hint": "Its name honours St Bernard.",
+    "answer": {
+     "city": "São Bernardo do Campo",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Alex Pereira was born in São Bernardo do Campo, Brazil. A kickboxer by style, he made his UFC debut in 2021.",
+    "sources": [
+     {
+      "url": "https://www.ufc.com/athlete/alex-pereira",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH SÃO BERNARDO DO CAMPO, BRAZIL"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lewis-hamilton",
+    "name": "Lewis Hamilton",
+    "monogram": "LH",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "lewis-hamilton-stevenage",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "In which English town, about 30 miles north of London, was Lewis Hamilton born?",
+    "clue": "Look in Hertfordshire.",
+    "hint": "It was Britain's first post-war \"new town\".",
+    "answer": {
+     "city": "Stevenage",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Lewis Hamilton was born in Stevenage and began racing at eight. In 2008 he became the first Black driver to win the F1 world drivers' championship.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lewis-Hamilton",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Hamilton was born in Stevenage, England, a town about 30 miles (48 km) north of London."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "max-verstappen",
+    "name": "Max Verstappen",
+    "monogram": "MV",
+    "countryOfOrigin": "NL",
+    "region": "europe"
+   },
+   "question": {
+    "id": "max-verstappen-hasselt",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Formula 1",
+    "chapter": "Born abroad",
+    "question": "Max Verstappen races under the Dutch flag — but in which Belgian city was he born?",
+    "clue": "Look in Belgium's Limburg province, near the Dutch border.",
+    "hint": "It's Limburg's capital; its name begins with \"Has\".",
+    "answer": {
+     "city": "Hasselt",
+     "country": "Belgium",
+     "countryCode": "BE"
+    },
+    "story": "Max Verstappen was born in Hasselt, Belgium, to Dutch former F1 driver Jos Verstappen and Belgian kart racer Sophie Kumpen. He won his first kart race by age seven.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Max-Verstappen",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Max Verstappen (born September 30, 1997, Hasselt, Belgium) is a race-car driver competing in Formula One (F1) under the Dutch flag."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ayrton-senna",
+    "name": "Ayrton Senna",
+    "monogram": "AS",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "ayrton-senna-sao-paulo",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "In which Brazilian city was three-time F1 champion Ayrton Senna born?",
+    "clue": "Look in southeast Brazil.",
+    "hint": "It's Brazil's biggest city.",
+    "answer": {
+     "city": "São Paulo",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Ayrton Senna was born in São Paulo. He got his first full-size go-kart at 10 and began driving in Formula One for Toleman in 1984.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Ayrton-Senna",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ayrton Senna (born March 21, 1960, São Paulo, Brazil—died May 1, 1994, Bologna, Italy) was a Brazilian race-car driver who gained fame for being a fierce competitor renowned for his ruthless and risky maneuvers on the Grand Prix circuit."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "virat-kohli",
+    "name": "Virat Kohli",
+    "monogram": "VK",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "virat-kohli-delhi",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "hometown",
+    "difficulty": "easy",
+    "displayCategory": "Cricket",
+    "chapter": "Growing up",
+    "question": "In which Indian city did Virat Kohli grow up, training at its western cricket academy?",
+    "clue": "Look in northern India.",
+    "hint": "India's capital territory shares its name.",
+    "answer": {
+     "city": "Delhi",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Virat Kohli grew up in Delhi and was one of the first to train at the West Delhi Cricket Academy. He is considered one of the greatest batsmen in the game's history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Virat-Kohli",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He grew up in Delhi and was one of the first to train at the West Delhi Cricket Academy, created in 1998."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ms-dhoni",
+    "name": "MS Dhoni",
+    "monogram": "MD",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "ms-dhoni-ranchi",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "In which city, now Jharkhand's capital, was 2011 World Cup-winning captain MS Dhoni born?",
+    "clue": "Look in eastern India, on the Chota Nagpur plateau.",
+    "hint": "Its name starts with \"Ran\".",
+    "answer": {
+     "city": "Ranchi",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "MS Dhoni was born in Ranchi, now in Jharkhand. He captained India to the one-day Cricket World Cup title in 2011.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/M-S-Dhoni",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Dhoni (born July 7, 1981, Ranchi, Bihar [now Jharkhand] state, India) is an Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shane-warne",
+    "name": "Shane Warne",
+    "monogram": "SW",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "shane-warne-ferntree-gully",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "In which Melbourne-area suburb at the foot of the Dandenong Ranges was spin legend Shane Warne born?",
+    "clue": "Look in Victoria, east of central Melbourne.",
+    "hint": "Its name mixes a fern and a gully.",
+    "answer": {
+     "city": "Ferntree Gully",
+     "country": "Australia",
+     "countryCode": "AU"
+    },
+    "story": "Shane Warne was born in Ferntree Gully, Victoria. In 2006 he became the first bowler to take 700 Test wickets.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Shane-Warne",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shane Warne (born September 13, 1969, Ferntree Gully, Victoria, Australia—died March 4, 2022, Ko Samui, Thailand) was an Australian cricketer who was one of the most effective bowlers in history, with good disguise on his top-spinner and fine control on two or three different googlies (balls bowled with fingerspin that break unexpectedly in the opposite direction from that anticipated)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kohei-uchimura",
+    "name": "Kohei Uchimura",
+    "monogram": "KU",
+    "countryOfOrigin": "JP",
+    "region": "asia"
+   },
+   "question": {
+    "id": "kohei-uchimura-nagasaki",
+    "primaryCategory": "sports",
+    "subcategory": "gymnastics",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Gymnastics",
+    "chapter": "First training",
+    "question": "In which Japanese city did Kohei Uchimura start gymnastics at three, at his parents' sports club?",
+    "clue": "Look on the western coast of Kyushu.",
+    "hint": "It's a port city famous for its harbour and its 1945 history.",
+    "answer": {
+     "city": "Nagasaki",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Kohei Uchimura began training at three at his parents' sports club in Nagasaki. He went on to win six straight world all-around titles (2009–15).",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kohei-Uchimura",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Uchimura’s parents, Kazuhisa and Shuko Uchimura, were both former gymnasts, and they opened a sports club in Nagasaki, where he began gymnastics training at the age of three."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "olga-korbut",
+    "name": "Olga Korbut",
+    "monogram": "OK",
+    "countryOfOrigin": "BY",
+    "region": "europe"
+   },
+   "question": {
+    "id": "olga-korbut-grodno",
+    "primaryCategory": "sports",
+    "subcategory": "gymnastics",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Gymnastics",
+    "chapter": "Where the story began",
+    "question": "In which city, now in Belarus, was gymnast Olga Korbut born?",
+    "clue": "Look in western Belarus, near the Polish and Lithuanian borders.",
+    "hint": "Today it's spelled Hrodna.",
+    "answer": {
+     "city": "Grodno",
+     "country": "Belarus",
+     "countryCode": "BY"
+    },
+    "story": "Olga Korbut was born in Grodno, now Hrodna in Belarus. She was the first gymnast to perform a backward aerial somersault on the balance beam — the \"Korbut salto\".",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Olga-Korbut",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Olga Korbut (born May 16, 1955, Grodno, Belorussia, U.S.S.R."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "saina-nehwal",
+    "name": "Saina Nehwal",
+    "monogram": "SN",
+    "countryOfOrigin": "IN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "saina-nehwal-hisar",
+    "primaryCategory": "sports",
+    "subcategory": "racket-sports",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Badminton",
+    "chapter": "Growing up",
+    "question": "Saina Nehwal took up badminton after leaving her hometown. Which Haryana city was it?",
+    "clue": "Look in India's Haryana state, northwest of Delhi.",
+    "hint": "Its name starts with \"His\".",
+    "answer": {
+     "city": "Hisar",
+     "country": "India",
+     "countryCode": "IN"
+    },
+    "story": "Saina Nehwal moved from her hometown of Hisar to Hyderabad, where she started playing badminton in 1998. She became the first Indian badminton player to win an Olympic medal.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Saina-Nehwal",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Nehwal, whose parents are both former professional badminton players, started playing the game in 1998, after moving from her hometown of Hisar to Hyderabad."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jansher-khan",
+    "name": "Jansher Khan",
+    "monogram": "JK",
+    "countryOfOrigin": "PK",
+    "region": "asia"
+   },
+   "question": {
+    "id": "jansher-khan-peshawar",
+    "primaryCategory": "sports",
+    "subcategory": "racket-sports",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Squash",
+    "chapter": "Where the story began",
+    "question": "In which Pakistani city was squash great Jansher Khan born?",
+    "clue": "Look in northwest Pakistan, near the Khyber Pass.",
+    "hint": "It's the capital of Khyber Pakhtunkhwa.",
+    "answer": {
+     "city": "Peshawar",
+     "country": "Pakistan",
+     "countryCode": "PK"
+    },
+    "story": "Jansher Khan was born in Peshawar. He won the world junior squash championship in 1986 and his first men's World Open in 1987.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Jansher-Khan",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Jansher Khan (born June 15, 1969, Peshawar, Pak.) is a Pakistani squash player considered to be among the sport’s most illustrious figures."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "carolina-marin",
+    "name": "Carolina Marín",
+    "monogram": "CM",
+    "countryOfOrigin": "ES",
+    "region": "europe"
+   },
+   "question": {
+    "id": "carolina-marin-huelva",
+    "primaryCategory": "sports",
+    "subcategory": "racket-sports",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Badminton",
+    "chapter": "Where the story began",
+    "question": "In which city in the south of Spain was Olympic badminton champion Carolina Marín born?",
+    "clue": "Look in Andalusia, near the Portuguese border.",
+    "hint": "It's the port Columbus sailed near in 1492.",
+    "answer": {
+     "city": "Huelva",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Carolina Marín was born in Huelva, Spain, and discovered badminton when a schoolmate invited her to a training session. She broke Asia's dominance of the sport.",
+    "sources": [
+     {
+      "url": "https://www.olympics.com/en/athletes/carolina-marin",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born in Huelva in the south of Spain on 15 June 1993, young Carolina discovered her love for badminton at an early age when a schoolmate invited her to a training session."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "viktor-axelsen",
+    "name": "Viktor Axelsen",
+    "monogram": "VA",
+    "countryOfOrigin": "DK",
+    "region": "europe"
+   },
+   "question": {
+    "id": "viktor-axelsen-dubai",
+    "primaryCategory": "sports",
+    "subcategory": "racket-sports",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Badminton",
+    "chapter": "A new base",
+    "question": "Viktor Axelsen left Denmark to settle in which Gulf city, seeking more opportunities closer to Asia?",
+    "clue": "Look on the Persian Gulf coast.",
+    "hint": "It's home to the world's tallest building.",
+    "answer": {
+     "city": "Dubai",
+     "country": "United Arab Emirates",
+     "countryCode": "AE"
+    },
+    "story": "Olympic champion Viktor Axelsen uprooted from Denmark to settle in Dubai, and learned Mandarin to connect with Chinese fans and rivals.",
+    "sources": [
+     {
+      "url": "https://www.olympics.com/en/athletes/viktor-axelsen",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "As the reigning world number one in badminton, his commitment to the sport led him to uproot from Denmark and settle in Dubai, seeking more opportunities in the heart of Asia."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lindsey-vonn",
+    "name": "Lindsey Vonn",
+    "monogram": "LV",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "lindsey-vonn-saint-paul",
+    "primaryCategory": "sports",
+    "subcategory": "winter-sports",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Alpine skiing",
+    "chapter": "Where the story began",
+    "question": "In which Minnesota capital was Alpine ski champion Lindsey Vonn born?",
+    "clue": "Look on the Mississippi River in Minnesota.",
+    "hint": "It's the \"Twin City\" across the river from Minneapolis.",
+    "answer": {
+     "city": "Saint Paul",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Lindsey Vonn was born in St. Paul, Minnesota. In 2019 she became the first woman to win 82 World Cup races.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lindsey-Vonn",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Lindsey Vonn (born October 18, 1984, St. Paul, Minnesota, U.S.) is an American Alpine skier who has won four women’s World Cup overall championships (2008–10 and 2012) and became, in 2019, the first woman to win 82 World Cup races."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shaun-white",
+    "name": "Shaun White",
+    "monogram": "SW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "shaun-white-san-diego",
+    "primaryCategory": "sports",
+    "subcategory": "winter-sports",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Snowboarding",
+    "chapter": "Where the story began",
+    "question": "In which Californian city was snowboard legend Shaun White born?",
+    "clue": "Look in Southern California, near the Mexican border.",
+    "hint": "It's famous for its zoo and its naval base.",
+    "answer": {
+     "city": "San Diego",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Shaun White was born in San Diego. He took up snowboarding at six; his red hair earned him the nickname \"the Flying Tomato\".",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Shaun-White",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shaun White (born September 3, 1986, San Diego, California, U.S.) is an American snowboarder who was one of the most dominant and influential figures in the sport in the early 21st century."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kim-yuna",
+    "name": "Kim Yuna",
+    "monogram": "KY",
+    "countryOfOrigin": "KR",
+    "region": "asia"
+   },
+   "question": {
+    "id": "kim-yuna-bucheon",
+    "primaryCategory": "sports",
+    "subcategory": "winter-sports",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Figure skating",
+    "chapter": "Where the story began",
+    "question": "In which South Korean city, between Seoul and Incheon, was Olympic figure skating champion Kim Yuna born?",
+    "clue": "Look in Gyeonggi province, west of Seoul.",
+    "hint": "Its name begins with \"Buch\".",
+    "answer": {
+     "city": "Bucheon",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "Kim Yuna was born in Bucheon, South Korea, and began skating at six. She won Olympic gold at Vancouver 2010.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Kim-Yu-Na",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Kim Yuna (born September 5, 1990, Puch’ŏn [Bucheon], South Korea) is a South Korean figure skater who won a gold medal at the 2010 Winter Olympic Games in Vancouver."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marit-bjorgen",
+    "name": "Marit Bjørgen",
+    "monogram": "MB",
+    "countryOfOrigin": "NO",
+    "region": "europe"
+   },
+   "question": {
+    "id": "marit-bjorgen-trondheim",
+    "primaryCategory": "sports",
+    "subcategory": "winter-sports",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Cross-country skiing",
+    "chapter": "Where the story began",
+    "question": "In which Norwegian city was Marit Bjørgen — once the most-decorated Winter Olympian — born?",
+    "clue": "Look in central Norway, on a long fjord.",
+    "hint": "It was Norway's Viking-age capital.",
+    "answer": {
+     "city": "Trondheim",
+     "country": "Norway",
+     "countryCode": "NO"
+    },
+    "story": "Marit Bjørgen was born in Trondheim and grew up on a farm in Rognes. Her record 15 Olympic medals included 8 golds.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Marit-Bjorgen",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Marit Bjørgen (born March 21, 1980, Trondheim, Norway) is a Norwegian cross-country skier who was the greatest female athlete in the sport and who was also the most-decorated Winter Olympian in history; her record 15 medals included 8 golds."
+     }
+    ]
+   }
+  }
+ ]
+}

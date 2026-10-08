@@ -1,0 +1,2560 @@
+[
+ {
+  "id": "queen-rania-amman",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "career_location",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "The turning point",
+  "question": "To which city did Rania Yasin move in 1991, two years before she married Prince Abdullah of Jordan?",
+  "clue": "Look in the Middle East, east of the Jordan River.",
+  "hint": "It is Jordan's capital.",
+  "answer": {
+   "city": "Amman",
+   "country": "Jordan",
+   "countryCode": "JO",
+   "latitude": 31.9516,
+   "longitude": 35.924,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/1643504896"
+  },
+  "story": "Rania Yasin was born in Kuwait to Palestinian parents and studied business at the American University in Cairo. In 1991 she moved to Amman, where her parents had settled after the Gulf War. A dinner party in January 1993 led to her meeting Prince Abdullah, and they married five months later.",
+  "sources": [
+   {
+    "url": "https://www.queenrania.jo/en/media/news/queen-rania-jordan",
+    "role": "primary",
+    "quality": "primary",
+    "quote": "Rania Yasin was born on August 31, 1970, in Kuwait to Palestinian parents. … the American University in Cairo, where she graduated with a business degree. In 1991 she moved to Amman, where her parents had settled after fleeing Kuwait … a dinner party hosted by Prince Abdullah's sister in January 1993 … they were married just five months later."
+   }
+  ],
+  "entityId": "queen-rania",
+  "sourceQuality": "primary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-01",
+   "notes": [
+    "Batch 3."
+   ]
+  }
+ },
+ {
+  "id": "mansa-musa-timbuktu",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "The golden king",
+  "question": "Mansa Musa of Mali built the Great Mosque in which Saharan trading city, which his reign helped make a centre of Islamic learning?",
+  "clue": "Look in today's Mali, near the great northern bend of the Niger River.",
+  "hint": "In English its name has come to mean 'the middle of nowhere'.",
+  "answer": {
+   "city": "Timbuktu",
+   "country": "Mali",
+   "countryCode": "ML",
+   "latitude": 16.7719,
+   "longitude": -3.0087,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/89381749"
+  },
+  "story": "Mansa Musa came to the throne of Mali in 1307. He built the Great Mosque at Timbuktu, and his reign helped establish the city as a major centre of commerce and Islamic learning. He is best remembered for the splendour of his pilgrimage to Mecca in 1324.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Musa-I-of-Mali",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He built the Great Mosque at Timbuktu and is best remembered in the Middle East and Europe for the splendor of his pilgrimage to Mecca (1324)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Musa-I-of-Mali",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "His reign strengthened Mali’s position within trans-Saharan trade networks and helped establish Timbuktu as a major center of commerce and Islamic learning."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Musa-I-of-Mali",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Mansa Mūsā, either the grandson or the grandnephew of Sundiata, the founder of his dynasty, came to the throne in 1307."
+   }
+  ],
+  "entityId": "mansa-musa",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "haile-selassie-harar",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "Before the crown",
+  "question": "Haile Selassie I, Ethiopia's last emperor, was born in 1892 near which walled city in the east of the country?",
+  "clue": "Head east from Addis Ababa towards the Somali region.",
+  "hint": "Its old walled town is famous for its nightly hyena feeding.",
+  "answer": {
+   "city": "Harar",
+   "country": "Ethiopia",
+   "countryCode": "ET",
+   "latitude": 9.3118,
+   "longitude": 42.1284,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/298296166"
+  },
+  "story": "Haile Selassie I was born near Harer (Harar) in 1892. Crowned emperor on 2 November 1930, he ruled Ethiopia until 1974, seeking to modernize his country, and in 1924 became the first Ethiopian ruler ever to go abroad.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Haile-Selassie-I",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Haile Selassie I (born July 23, 1892, near Harer, Ethiopia—died August 27, 1975, Addis Ababa) was the emperor of Ethiopia from 1930 to 1974 who sought to modernize his country"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Haile-Selassie-I",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1928 he assumed the title of negus (“king”), and, two years later, when Zauditu died, he was crowned emperor (November 2, 1930) and took the name of Haile Selassie (“Might of the Trinity”)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Haile-Selassie-I",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In the following year he visited Jerusalem, Rome, Paris, and London, becoming the first Ethiopian ruler ever to go abroad."
+   }
+  ],
+  "entityId": "haile-selassie",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "menelik-ii-addis-ababa",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Building a nation",
+  "question": "Emperor Menelik II built a railway from Djibouti to which highland city — his new capital?",
+  "clue": "Ethiopia's central highlands.",
+  "hint": "Its name means 'new flower' in Amharic.",
+  "answer": {
+   "city": "Addis Ababa",
+   "country": "Ethiopia",
+   "countryCode": "ET",
+   "latitude": 9,
+   "longitude": 38.75,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1707699"
+  },
+  "story": "Born at Ankober in 1844, Menelik II was emperor of Ethiopia from 1889 to 1913. His reign brought ministries, modern education, telephone and telegraph systems, and a railway from Djibouti to Addis Ababa, his new capital in the highlands of Shewa.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Menilek-II",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Menilek’s later activities as emperor included the creation of ministries, the initiation of modern education, and the construction of telephone and telegraph systems and of a railway from Djibouti, on the Gulf of Aden, to Addis Ababa, the emperor’s new capital in the highlands of Shewa."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Menilek-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Menilek II (born August 17, 1844, Ankober, Shewa [Shoa], Ethiopia—died December 12, 1913, Addis Ababa) was the king of Shewa (or Shoa; 1865–89) and emperor of Ethiopia (1889–1913)."
+   }
+  ],
+  "entityId": "menelik-ii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "moshoeshoe-i-thaba-bosiu",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "legend",
+  "displayCategory": "Royalty",
+  "chapter": "Founder of a nation",
+  "question": "Moshoeshoe I, founder of the Sotho nation, died in 1870 at which place in present-day Lesotho — near where his forces beat a British army in 1852?",
+  "clue": "A short way east of Lesotho's capital, Maseru.",
+  "hint": "Its name is often translated as 'mountain at night'.",
+  "answer": {
+   "city": "Thaba-Bosiu",
+   "country": "Lesotho",
+   "countryCode": "LS",
+   "latitude": -29.3563,
+   "longitude": 27.6698,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/1202576922"
+  },
+  "story": "Moshoeshoe I was the founder and first paramount chief of the Sotho nation. His forces twice defeated British armies — at Viervoet in 1851 and at the battle of Berea, near Thaba Bosiu, in 1852. He died at Thaba Bosiu in 1870.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Moshoeshoe",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "1786, near the upper Caledon River, northern Basutoland [now in Lesotho]—died March 11, 1870, Thaba Bosiu, Basutoland) was the founder and first paramount chief of the Sotho (Basuto, Basotho) nation."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Moshoeshoe",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Moshoeshoe’s Sotho forces twice defeated overconfident and undersupported British armies, first in 1851 at Viervoet and again in late 1852 at the battle of Berea near Thaba Bosiu."
+   }
+  ],
+  "entityId": "moshoeshoe-i",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "osei-tutu-kumasi",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "A new empire",
+  "question": "Osei Tutu founded the Asante empire and was installed as its first king. Which city was the new state's capital?",
+  "clue": "Inland from Ghana's coast, in the forest belt.",
+  "hint": "Today it's Ghana's second-largest city.",
+  "answer": {
+   "city": "Kumasi",
+   "country": "Ghana",
+   "countryCode": "GH",
+   "latitude": 6.6986,
+   "longitude": -1.6233,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/261702404"
+  },
+  "story": "Osei Tutu was the founder and first ruler of the Asante empire in present-day Ghana. After campaigns that crushed all opposition, he was installed as Asantehene — king of the new Asante state, whose capital was named Kumasi — and during his reign Asante roughly tripled in size.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Osei-Tutu",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "After a series of campaigns that crushed all opposition, he was installed as Asantehene, or king of the new Asante state, whose capital was named Kumasi."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Osei-Tutu",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "During Osei Tutu’s reign as Asantehene (king of Asante), the area of Asante approximately tripled"
+   }
+  ],
+  "entityId": "osei-tutu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "cetshwayo-ulundi",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "The last great king",
+  "question": "Cetshwayo, last great king of the independent Zulus, ruled from which capital — reached and burned by the British in July 1879?",
+  "clue": "KwaZulu-Natal, inland from the Indian Ocean coast.",
+  "hint": "It later served as capital of the KwaZulu homeland.",
+  "answer": {
+   "city": "Ulundi",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -28.2919,
+   "longitude": 31.4294,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/262722327"
+  },
+  "story": "Cetshwayo reigned as king of the independent Zulus from 1872 to 1879. During the Anglo-Zulu War the British reached his capital, Ulundi, and burned it in July 1879; Cetshwayo was captured in August and exiled to Cape Town.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Cetshwayo",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The British recovered from their defeat and later reached Ulundi (the capital of Zululand), seizing and burning it in July of that year; this was followed by Cetshwayo’s capture in August and his subsequent exile to Cape Town."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cetshwayo",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was the last great king of the independent Zulus (reigned 1872–79)"
+   }
+  ],
+  "entityId": "cetshwayo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "askia-muhammad-gao",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "Songhai's builder",
+  "question": "Askia Muhammad, who greatly expanded the Songhai empire, reorganised its taxes and government during long stays in which Niger River capital?",
+  "clue": "Follow the Niger downstream (east) from Timbuktu.",
+  "hint": "His pyramid-shaped mud-brick tomb still stands there.",
+  "answer": {
+   "city": "Gao",
+   "country": "Mali",
+   "countryCode": "ML",
+   "latitude": 16.2788,
+   "longitude": -0.0412,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/89918976"
+  },
+  "story": "Muhammad I Askia seized the Songhai throne in 1493 and greatly expanded the empire. During long stays in the capital, Gao, he set up systems of tithes and taxes and trained his administrators and governors. He died at Gao in 1538.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Muhammad-I-Askia",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "During the course of his lengthy sojourns in the capital, Gao (1502–04 and 1506–07), he set up with rare talent the system of tithes and taxes, the regulation of agriculture and fishing, and the recruitment and training of his administrators and governors."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Muhammad-I-Askia",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Muḥammad I Askia (died March 2, 1538, Gao, Songhai empire) was a West African statesman and military leader who usurped the throne of the Songhai empire (1493)"
+   }
+  ],
+  "entityId": "askia-muhammad",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "khama-iii-serowe",
+  "primaryCategory": "royalty",
+  "subcategory": "african-royalty",
+  "questionType": "historic_location",
+  "difficulty": "legend",
+  "displayCategory": "Royalty",
+  "chapter": "Khama the Good",
+  "question": "Khama III — 'Khama the Good', chief of the Ngwato — died in 1923 in which town in present-day Botswana?",
+  "clue": "Central-eastern Botswana, well north of Gaborone.",
+  "hint": "His grandson Seretse Khama, Botswana's first president, was born there too.",
+  "answer": {
+   "city": "Serowe",
+   "country": "Botswana",
+   "countryCode": "BW",
+   "latitude": -22.3978,
+   "longitude": 26.7033,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/133578644"
+  },
+  "story": "Khama III, also known as Khama the Good, was born about 1835 in Bechuanaland, now Botswana, and became a Tswana chief of the Ngwato. He converted to Christianity in 1860 and died at Serowe in 1923.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Khama-III",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Khama III (born c. 1835, Mushu, Bechuanaland [now Botswana]—died Feb. 21, 1923, Serowe) was a Southern African Tswana"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Khama-III",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Khama was converted to Christianity in 1860"
+   }
+  ],
+  "entityId": "khama-iii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "queen-victoria-london",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "A simple upbringing",
+  "question": "Queen Victoria was born in 1819 at Kensington Palace, where she said she 'was brought up very simply'. In which city?",
+  "clue": "A royal palace in a park in the west of the British capital.",
+  "hint": "It's the UK's capital, on the Thames.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5051,
+   "longitude": -0.1876,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/904705"
+  },
+  "story": "Victoria was born at Kensington Palace, London, in 1819 and, by her own account, 'was brought up very simply', principally at Kensington Palace. She was queen of the United Kingdom from 1837 to 1901 and empress of India from 1876.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Victoria (born May 24, 1819, Kensington Palace, London, England—died January 22, 1901, Osborne, near Cowes, Isle of Wight) was the queen of the United Kingdom of Great Britain and Ireland (1837–1901) and empress of India (1876–1901)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Victoria, by her own account, “was brought up very simply,” principally at Kensington Palace"
+   }
+  ],
+  "entityId": "queen-victoria",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "henry-viii-greenwich",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Tudor beginnings",
+  "question": "Henry VIII, the Tudor king of the English Reformation, was born in 1491 at which riverside place near London?",
+  "clue": "Downstream from central London, on the south bank of the Thames.",
+  "hint": "The Prime Meridian runs through it.",
+  "answer": {
+   "city": "Greenwich",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.4821,
+   "longitude": -0.0045,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27365302"
+  },
+  "story": "Henry VIII was born at Greenwich, near London, in 1491. King of England from 1509 to 1547, he presided over the beginnings of the English Renaissance and the English Reformation.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Henry-VIII-king-of-England",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Henry VIII (born June 28, 1491, Greenwich, near London, England—died January 28, 1547, London) was the king of England (1509–47) who presided over the beginnings of the English Renaissance and the English Reformation."
+   }
+  ],
+  "entityId": "henry-viii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "elizabeth-i-richmond",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "The end of an age",
+  "question": "Elizabeth I, queen of the Elizabethan Age, died in 1603 at which Thames-side place, then in Surrey?",
+  "clue": "Upstream from central London, south-west of the city.",
+  "hint": "Its great park is famous for free-roaming deer.",
+  "answer": {
+   "city": "Richmond",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.4406,
+   "longitude": -0.3076,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/151795"
+  },
+  "story": "Elizabeth I was born at Greenwich Palace in 1533, the daughter of Henry VIII and Anne Boleyn. She was queen of England from 1558 to 1603 — the Elizabethan Age — and died at Richmond, Surrey, in March 1603.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Elizabeth-I",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Elizabeth I (born September 7, 1533, Greenwich, near London, England—died March 24, 1603, Richmond, Surrey) was the queen of England (1558–1603)"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Elizabeth-I",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She was born at Greenwich Palace, the daughter of the Tudor king Henry VIII and his second wife, Anne Boleyn."
+   }
+  ],
+  "entityId": "elizabeth-i",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "louis-xiv-saint-germain-en-laye",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "Born a king's son",
+  "question": "Louis XIV, who ruled France from his palace at Versailles, was born in 1638 in which royal town west of Paris?",
+  "clue": "On a bend of the Seine, just west of Paris, beside a great forest.",
+  "hint": "Paris Saint-Germain football club takes part of its name from it.",
+  "answer": {
+   "city": "Saint-Germain-en-Laye",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.9313,
+   "longitude": 2.0913,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9165902"
+  },
+  "story": "Louis XIV was born at Saint-Germain-en-Laye in 1638 and succeeded his father in 1643. King of France until 1715, he ruled principally from his great palace at Versailles.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Louis-XIV-king-of-France",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Louis XIV (born September 5, 1638, Saint-Germain-en-Laye, France—died September 1, 1715, Versailles, France) was the king of France (1643–1715) who ruled his country, principally from his great palace at Versailles"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Louis-XIV-king-of-France",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He succeeded his father on May 14, 1643."
+   }
+  ],
+  "entityId": "louis-xiv",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "catherine-the-great-szczecin",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "A German princess",
+  "question": "Catherine the Great, Russia's German-born empress, was born in 1729 in a Prussian port city that is now in Poland. Which one?",
+  "clue": "On the Oder River, near the German border and the Baltic.",
+  "hint": "In German it was called Stettin.",
+  "answer": {
+   "city": "Szczecin",
+   "country": "Poland",
+   "countryCode": "PL",
+   "latitude": 53.4298,
+   "longitude": 14.5929,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/342935"
+  },
+  "story": "Catherine the Great was born in 1729 in Stettin, Prussia — now Szczecin, Poland. Empress of Russia from 1762 to 1796, she was crowned with great ceremony in Moscow in September 1762.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Catherine-the-Great",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Catherine the Great (born April 21 [May 2, New Style], 1729, Stettin, Prussia [now Szczecin, Poland]"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Catherine-the-Great",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In September 1762, she was crowned with great ceremony in Moscow, the ancient capital of the tsars"
+   }
+  ],
+  "entityId": "catherine-the-great",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "peter-the-great-st-petersburg",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "historic_location",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "A new capital",
+  "question": "In 1703 Peter the Great began building which city on the Neva River, making it Russia's new capital in 1712?",
+  "clue": "Where the Neva flows into the Gulf of Finland.",
+  "hint": "For much of the 20th century it was called Leningrad.",
+  "answer": {
+   "city": "Saint Petersburg",
+   "country": "Russia",
+   "countryCode": "RU",
+   "latitude": 59.9607,
+   "longitude": 30.1587,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/337422"
+  },
+  "story": "Peter I was born in Moscow in 1672. In 1703, on the banks of the Neva where it flows into the Gulf of Finland, he began building the city of St. Petersburg, and in 1712 he made it Russia's new capital. In 1721 he was proclaimed emperor.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Peter-the-Great",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "In 1703, on the banks of the Neva River, where it flows into the Gulf of Finland, Peter began construction of the city of St. Petersburg and established it as the new capital of Russia in 1712."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Peter-the-Great",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Born: June 9 [May 30, Old Style], 1672, Moscow, Russia"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Peter-the-Great",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "and who in 1721 was proclaimed emperor (imperator)"
+   }
+  ],
+  "entityId": "peter-the-great",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "marie-antoinette-vienna",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "An Austrian archduchess",
+  "question": "Marie-Antoinette, queen of France, was born in 1755 in which capital city?",
+  "clue": "The Habsburg capital, on the Danube.",
+  "hint": "It's famous for its coffee houses and waltzes.",
+  "answer": {
+   "city": "Vienna",
+   "country": "Austria",
+   "countryCode": "AT",
+   "latitude": 48.2084,
+   "longitude": 16.3725,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/109166"
+  },
+  "story": "Marie-Antoinette was born in Vienna in 1755 and became the Austrian queen consort of King Louis XVI of France. She died in Paris in 1793, during the French Revolution.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Marie-Antoinette (born November 2, 1755, Vienna, Austria—died October 16, 1793, Paris, France) was the Austrian queen consort of King Louis XVI of France (1774–93)."
+   }
+  ],
+  "entityId": "marie-antoinette",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "charlemagne-aachen",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Father of Europe",
+  "question": "Charlemagne — king of the Franks and first emperor of what became the Holy Roman Empire — died in 814 in which city?",
+  "clue": "Germany's westernmost city, close to the Belgian and Dutch borders.",
+  "hint": "Its cathedral, begun as his palace chapel, is a World Heritage site.",
+  "answer": {
+   "city": "Aachen",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 50.7764,
+   "longitude": 6.0839,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62564"
+  },
+  "story": "Charlemagne was king of the Franks from 768 and, from 800, the first emperor of the Romans and of what was later called the Holy Roman Empire. He died at Aachen in 814.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Charlemagne",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Charlemagne (born April 2, 747?—died January 28, 814, Aachen, Austrasia [now in Germany]) was the king of the Franks (768–814), king of the Lombards (774–814), and first emperor (800–814) of the Romans and of what was later called the Holy Roman Empire."
+   }
+  ],
+  "entityId": "charlemagne",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "isabella-i-granada",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "1492",
+  "question": "Isabella I and Ferdinand completed the Reconquista when which city — the last Muslim stronghold in Spain — fell to them on 2 January 1492?",
+  "clue": "Andalusia, at the foot of the Sierra Nevada.",
+  "hint": "It's home to the Alhambra palace.",
+  "answer": {
+   "city": "Granada",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 37.1735,
+   "longitude": -3.5995,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/344685"
+  },
+  "story": "Isabella I was queen of Castile from 1474 and ruled jointly with her husband Ferdinand. Together they aimed to end the Reconquista by taking the kingdom of Granada, the last Muslim stronghold in Spain; Granada fell on 2 January 1492.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Isabella-I-queen-of-Spain",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The two sovereigns were certainly united in aiming to end the long process of Reconquista by taking over the kingdom of Granada—the last Muslim stronghold in Spain."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Isabella-I-queen-of-Spain",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1491 she and Ferdinand set up a forward headquarters at Santa Fe, close to their ultimate objective, and there they stayed until Granada fell on January 2, 1492."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Isabella-I-queen-of-Spain",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was the queen of Castile (1474–1504) and of Aragon (1479–1504), ruling the two kingdoms jointly from 1479 with her husband, Ferdinand II of Aragon"
+   }
+  ],
+  "entityId": "isabella-i-castile",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "ludwig-ii-fussen",
+  "primaryCategory": "royalty",
+  "subcategory": "european-royalty",
+  "questionType": "famous_place",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "The fairy-tale king",
+  "question": "Bavaria's King Ludwig II ordered fairy-tale Neuschwanstein Castle built in the Alps near which town?",
+  "clue": "Southern Bavaria, right by the Austrian border.",
+  "hint": "It's the southern end of Germany's Romantic Road.",
+  "answer": {
+   "city": "Füssen",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 47.5676,
+   "longitude": 10.6993,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/448298"
+  },
+  "story": "Ludwig (Louis) II was born at Nymphenburg Palace, Munich, in 1845 and was king of Bavaria from 1864 to 1886, a patron of the composer Richard Wagner. He ordered Neuschwanstein Castle built on a rock ledge above the Pöllat Gorge, near Füssen.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Louis-II-king-of-Bavaria",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Neuschwanstein Castle, elaborate castle near Füssen, Germany, built atop a rock ledge over the Pöllat Gorge in the Bavarian Alps by order of Bavaria’s King Louis II (“Mad King Ludwig”)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Louis-II-king-of-Bavaria",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Louis II (born August 25, 1845, Nymphenburg Palace, Munich—died June 13, 1886, Starnberger See, Bavaria) was an eccentric king of Bavaria from 1864 to 1886 and an admirer and patron of the composer Richard Wagner."
+   }
+  ],
+  "entityId": "ludwig-ii-bavaria",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "akbar-umerkot",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Royalty",
+  "chapter": "Born in exile",
+  "question": "Akbar, the great Mughal emperor, was born in 1542 in which town in today's Sindh province, Pakistan?",
+  "clue": "On the edge of the Thar Desert, close to the Indian border.",
+  "hint": "Its name is also spelled Umarkot.",
+  "answer": {
+   "city": "Umerkot",
+   "country": "Pakistan",
+   "countryCode": "PK",
+   "latitude": 25.3655,
+   "longitude": 69.7401,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/767462154"
+  },
+  "story": "Akbar was born in 1542 at Umarkot, now in Sindh province, Pakistan, while his father Humayun — driven from his capital, Delhi — was trying to establish his authority in Sindh. Akbar later governed as an absolute monarch.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Akbar",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Akbar (born October 15?, 1542, Umarkot [now in Sindh province, Pakistan]"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Akbar",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "His father, Humayun, driven from his capital of Delhi by the Afghan usurper Sher Shah of Sur, was vainly trying to establish his authority in the Sindh region (now Sindh province, Pakistan)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Akbar",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "began to govern on his own—at first still under household influences but soon as an absolute monarch"
+   }
+  ],
+  "entityId": "akbar",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "suleiman-manisa",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "career_location",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "A prince's apprenticeship",
+  "question": "Before becoming sultan, the young Süleyman the Magnificent was governor of which city in western Asia Minor?",
+  "clue": "Inland from Izmir, Turkey's Aegean port.",
+  "hint": "It lies below Mount Sipylus.",
+  "answer": {
+   "city": "Manisa",
+   "country": "Turkey",
+   "countryCode": "TR",
+   "latitude": 38.8574,
+   "longitude": 28.0566,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/223168"
+  },
+  "story": "Süleyman the Magnificent was sultan of the Ottoman Empire from 1520 to 1566. As a prince he was governor of Kaffa in Crimea and then of Manisa in western Asia Minor. As sultan he completed the transformation of Byzantine Constantinople into Istanbul.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Suleyman-the-Magnificent",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He became sancak beyi (governor) of Kaffa in Crimea during the reign of his grandfather Bayezid II and of Manisa in western Asia Minor in the reign of Selim I."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Suleyman-the-Magnificent",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In general, Süleyman completed the task of transforming the previously Byzantine city of Constantinople into Istanbul, a worthy centre for a great Turkish and Islamic empire."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Suleyman-the-Magnificent",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was the sultan of the Ottoman Empire from 1520 to 1566"
+   }
+  ],
+  "entityId": "suleiman-the-magnificent",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "shah-jahan-agra",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "famous_place",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "A monument to love",
+  "question": "Mughal emperor Shah Jahan built the Taj Mahal in memory of his favourite queen. In which city?",
+  "clue": "Uttar Pradesh, on the Yamuna River south of Delhi.",
+  "hint": "It was his first capital, before he moved to Delhi.",
+  "answer": {
+   "city": "Agra",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 27.1753,
+   "longitude": 78.0098,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/567267943"
+  },
+  "story": "Shah Jahan, born in Lahore in 1592, was the fifth Mughal emperor of India (1628–58). At his first capital, Agra, he built the Taj Mahal in memory of his favourite queen, Mumtaz Mahal; in 1648 he moved his capital to Delhi.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Shah-Jahan",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He built the Taj Mahal, a white marble mausoleum complex in Agra, Uttar Pradesh."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Shah-Jahan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The Taj Mahal is the masterpiece of his reign and was erected in memory of the favorite of his three queens, Arjumand (Mumtaz Maḥal; the mother of Aurangzeb)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Shah-Jahan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Shah Jahan transferred his capital from Agra to Delhi in 1648, creating the new city of Shahjahanabad there."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Shah-Jahan",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Shah Jahan (born January 5, 1592, Lahore [now in Pakistan]—died January 22, 1666, Agra [now in India]) was the fifth Mughal emperor of India (1628–58)"
+   }
+  ],
+  "entityId": "shah-jahan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "liliuokalani-honolulu",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Hawaii's queen",
+  "question": "Liliuokalani, the only reigning queen of Hawaii, was born in 1838 in which city?",
+  "clue": "On the island of Oahu.",
+  "hint": "Today it's the capital of the US state of Hawaii.",
+  "answer": {
+   "city": "Honolulu",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 21.3045,
+   "longitude": -157.8557,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/119231"
+  },
+  "story": "Liliuokalani was born in Honolulu in 1838. On King Kalakaua's death in January 1891 she ascended the throne, the first woman ever to occupy it — the only reigning Hawaiian queen and the last Hawaiian sovereign. The islands were annexed by the United States in 1898.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Liliuokalani",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Liliuokalani (born September 2, 1838, Honolulu, Hawaii [U.S.]—died November 11, 1917, Honolulu) was the first and only reigning Hawaiian queen and the last Hawaiian sovereign to govern the islands, which were annexed by the United States in 1898."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Liliuokalani",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "On the death of King Kalakaua in January 1891, Liliuokalani ascended the throne, becoming the first woman ever to occupy it."
+   }
+  ],
+  "entityId": "liliuokalani",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "sejong-seoul",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "The king of Hangul",
+  "question": "King Sejong, in whose reign the Korean alphabet Hangul was invented, ruled Joseon from its capital Hanyang. What is that city called today?",
+  "clue": "On the Han River, in the north-west of South Korea.",
+  "hint": "His statue stands in its Gwanghwamun Square.",
+  "answer": {
+   "city": "Seoul",
+   "country": "South Korea",
+   "countryCode": "KR",
+   "latitude": 37.5667,
+   "longitude": 126.9783,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2297418"
+  },
+  "story": "Sejong reigned from 1419 to 1450, when Joseon dynasty culture reached its highest point; in 1443, during his reign, the Korean phonetic alphabet Hangul was invented. The dynasty's founder had established the capital at Hanyang — present-day Seoul.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Sejong-Korean-ruler",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Sejong (born 1397—died 1450) was a monarch of the Joseon (Yi) dynasty during whose reign (1419–50) cultural achievements in Korea reached their highest point."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Sejong-Korean-ruler",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Scholarship flourished under the Joseon dynasty, and in 1443, during the reign of King Sejong, the Korean phonetic alphabet, Hangul (han’gŭl), was invented."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Sejong-Korean-ruler",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Yi Seong-Gye, who established the capital at Hanyang (present-day Seoul), the kingdom was named Joseon"
+   }
+  ],
+  "entityId": "sejong-the-great",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "moctezuma-ii-mexico-city",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "The island capital",
+  "question": "Aztec emperor Montezuma II welcomed Hernán Cortés into his island capital, Tenochtitlán. Which modern capital stands on its site?",
+  "clue": "In the Valley of Mexico, on the old bed of Lake Texcoco.",
+  "hint": "Its main square, the Zócalo, sits beside the ruins of the Aztec Templo Mayor.",
+  "answer": {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "countryCode": "MX",
+   "latitude": 19.3208,
+   "longitude": -99.1515,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1376330"
+  },
+  "story": "Montezuma II became Aztec emperor in 1502, when the empire had reached its greatest extent. He welcomed Hernán Cortés into the capital, Tenochtitlán — founded on an island in Lake Texcoco — where Cortés made him prisoner. The city that superseded the Aztec capital took its name from the Mexica.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Montezuma-II",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Welcomed into the capital city of Tenochtitlán by Montezuma, Cortés realized it was a trap and, instead, made the emperor his prisoner"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Montezuma-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "From Tenochca was derived the name of their great city, Tenochtitlán, founded on an island in Lake Texcoco, in the Valley of Mexico."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Montezuma-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "From Mexica came the name for the city that superseded the Aztec capital and for the surrounding valley"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Montezuma-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1502 Montezuma succeeded his uncle Ahuitzotl as the leader of an empire that had reached its greatest extent"
+   }
+  ],
+  "entityId": "moctezuma-ii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "atahualpa-quito",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "A divided empire",
+  "question": "When the Inca Empire was divided around 1527, Atahualpa ruled its northern part from which city — today a national capital?",
+  "clue": "High in the northern Andes.",
+  "hint": "It's now the capital of Ecuador, almost on the equator.",
+  "answer": {
+   "city": "Quito",
+   "country": "Ecuador",
+   "countryCode": "EC",
+   "latitude": -0.2202,
+   "longitude": -78.5123,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/58950371"
+  },
+  "story": "Atahualpa was a younger son of the Inca ruler Huayna Capac. When the old Inca chief died around 1527, the empire was divided: Atahualpa ruled the northern part from Quito, while Huáscar, the legitimate heir, ruled from Cuzco, the traditional Inca capital.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Atahuallpa",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "his empire was divided between Atahuallpa, who ruled the northern part from Quito, and Huáscar, the legitimate heir, who ruled from Cuzco, the traditional Inca capital."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Atahuallpa",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was a younger son of the Inca ruler Huayna Capac and an Ecuadoran princess"
+   }
+  ],
+  "entityId": "atahualpa",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "pachacuti-cusco",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Designing a capital",
+  "question": "Inca ruler Pachacuti is said to have devised the city plan for his capital. Which Andean city?",
+  "clue": "High in the Andes of southern Peru.",
+  "hint": "It's the gateway city for trips to Machu Picchu.",
+  "answer": {
+   "city": "Cusco",
+   "country": "Peru",
+   "countryCode": "PE",
+   "latitude": -13.5171,
+   "longitude": -71.9785,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/59115290"
+  },
+  "story": "Pachacuti conquered peoples in what is now southern Peru and extended his power north-west as far as Quito, Ecuador. He is said to have devised the city plan adopted for his capital, Cuzco.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Pachacuti-Inca-Yupanqui",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He is said to have devised the city plan adopted for his capital, Cuzco (in present southern Peru)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Pachacuti-Inca-Yupanqui",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Pachacuti first conquered various peoples in what is now southern Peru and then extended his power northwesterly to Quito, Ecuador."
+   }
+  ],
+  "entityId": "pachacuti",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "emperor-meiji-kyoto",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Born in the old capital",
+  "question": "Emperor Meiji, under whom Japan became a modern world power, was born in 1852 in which city?",
+  "clue": "In the Kansai region, west of Tokyo.",
+  "hint": "It was Japan's imperial capital for more than a thousand years.",
+  "answer": {
+   "city": "Kyoto",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.0116,
+   "longitude": 135.7681,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/357794"
+  },
+  "story": "The emperor Meiji (Mutsuhito) was born in Kyōto in 1852. He reigned from 1867 to 1912, as Japan was dramatically transformed from a feudal country into one of the great powers of the modern world, and died in Tokyo.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Meiji",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Meiji (born Nov. 3, 1852, Kyōto—died July 30, 1912, Tokyo) was the emperor of Japan from 1867 to 1912, during whose reign Japan was dramatically transformed from a feudal country into one of the great powers of the modern world."
+   }
+  ],
+  "entityId": "emperor-meiji",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "lakshmi-bai-jhansi",
+  "primaryCategory": "royalty",
+  "subcategory": "kings-queens",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "The queen who fought",
+  "question": "Lakshmi Bai, a leader of the Indian Rebellion of 1857–58, was the rani (queen) of which kingdom in today's Uttar Pradesh?",
+  "clue": "Bundelkhand, south of Agra.",
+  "hint": "Its hilltop fort was where she made her stand against the British.",
+  "answer": {
+   "city": "Jhansi",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 25.5299,
+   "longitude": 78.6528,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1959122"
+  },
+  "story": "Born Manikarnika Tambe in Kashi (now Varanasi) in about 1828, Lakshmi Bai became the rani of Jhansi and a leader of the Indian Rebellion of 1857–58. She died near Gwalior in 1858.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Lakshmi-Bai",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Lakshmi Bai (born c. November 19, 1828?, Kashi, India—died June 17/18, 1858, Kotah-ki-Serai, near Gwalior) was the rani (queen) of Jhansi (now in Uttar Pradesh, India) and a leader of the Indian Rebellion of 1857–58."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Lakshmi-Bai",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Manikarnika Tambe was born in Kashi (now Varanasi)"
+   }
+  ],
+  "entityId": "lakshmi-bai",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "cleopatra-alexandria",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "historic_location",
+  "difficulty": "easy",
+  "displayCategory": "Dynasties",
+  "chapter": "The last Ptolemy",
+  "question": "Cleopatra VII, last queen of Egypt's Ptolemaic dynasty, died in 30 BCE in which Mediterranean city?",
+  "clue": "On Egypt's Mediterranean coast, at the western edge of the Nile Delta.",
+  "hint": "It was founded by — and named after — Alexander the Great.",
+  "answer": {
+   "city": "Alexandria",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 31.1992,
+   "longitude": 29.8952,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565020"
+  },
+  "story": "Cleopatra VII became queen on the death of her father, Ptolemy XII, in 51 BCE. She was the last queen of the Ptolemaic dynasty — the Macedonian dynasty that ruled Egypt from the death of Alexander the Great until Rome's annexation in 30 BCE — and she died at Alexandria that year.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Cleopatra (born 70/69 BCE—died August 30 BCE, Alexandria) was an Egyptian queen of the Ptolemaic dynasty"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Cleopatra VII was destined to become the last queen of the Ptolemaic dynasty—the Macedonian dynasty that ruled Egypt between the death of Alexander the Great in 323 BCE and its annexation by Rome in 30 BCE."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She became queen on the death of her father, Ptolemy XII, in 51 BCE"
+   }
+  ],
+  "entityId": "cleopatra",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "tutankhamun-luxor",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Dynasties",
+  "chapter": "The boy king's monument",
+  "question": "Tutankhamun's chief surviving monument is a colonnade he decorated in a great temple — in which city on the Nile?",
+  "clue": "Upper Egypt, on the site of ancient Thebes.",
+  "hint": "Across the river lies the Valley of the Kings, where his tomb was found.",
+  "answer": {
+   "city": "Luxor",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 25.7021,
+   "longitude": 32.6472,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/1667671370"
+  },
+  "story": "Under Tutankhamun, powerful advisers restored Egypt's traditional religion and art after the Amarna revolution. His chief surviving monument is the Colonnade of the Temple of Luxor, which he decorated with reliefs of the annual Opet festival.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Tutankhamun",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "the chief extant monument of Tutankhamun is the Colonnade of the Temple of Luxor, which he decorated with reliefs depicting the Opet festival"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Tutankhamun",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "During his reign, powerful advisers restored the traditional Egyptian religion and art, both of which had been set aside by his predecessor Akhenaten"
+   }
+  ],
+  "entityId": "tutankhamun",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "ramesses-ii-abu-simbel",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "famous_place",
+  "difficulty": "medium",
+  "displayCategory": "Dynasties",
+  "chapter": "Giants in stone",
+  "question": "Colossal sandstone figures of Ramesses II sit in front of the main temple at which site in far southern Egypt?",
+  "clue": "In Aswan governorate, beside Lake Nasser, near the Sudanese border.",
+  "hint": "In the 1960s its temples were moved to higher ground to escape a dam's rising waters.",
+  "answer": {
+   "city": "Abu Simbel",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 22.3371,
+   "longitude": 31.6258,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/594065767"
+  },
+  "story": "Ramesses II was the third king of the 19th dynasty, and his reign (1279–1213 BCE) was the second longest in Egyptian history. Sandstone figures of Ramesses II stand in front of the main temple at Abu Simbel, near Aswan.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ramses-II-king-of-Egypt",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Sandstone figures of Ramses II in front of the main temple at Abu Simbel near Aswān, Egypt."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Ramses-II-king-of-Egypt",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Ramses II (flourished 13th century BCE) was the third king of the 19th dynasty (1292–1191 BCE) of ancient Egypt whose reign (1279–1213 BCE) was the second longest in Egyptian history."
+   }
+  ],
+  "entityId": "ramesses-ii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "khufu-giza",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "famous_place",
+  "difficulty": "easy",
+  "displayCategory": "Dynasties",
+  "chapter": "The Great Pyramid",
+  "question": "Pharaoh Khufu built the Great Pyramid — the largest single building of its time — at which site beside modern Cairo?",
+  "clue": "On the Nile's west bank, at the edge of greater Cairo.",
+  "hint": "The Great Sphinx stands nearby.",
+  "answer": {
+   "city": "Giza",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 29.9871,
+   "longitude": 31.2118,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565120"
+  },
+  "story": "Khufu was the second king of Egypt's 4th dynasty and the builder of the Great Pyramid at Giza, the largest single building to that time. It and two nearby pyramids are known as the Pyramids of Giza.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Khufu",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Khufu (flourished 25th century BCE) was the second king of the 4th dynasty (c. 2543–c. 2436 BCE) of Egypt and builder of the Great Pyramid at Giza, the largest single building to that time."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Khufu",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "It and two nearby pyramids are collectively known as the Pyramids of Giza."
+   }
+  ],
+  "entityId": "khufu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "qin-shi-huang-xianyang",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Dynasties",
+  "chapter": "The first emperor",
+  "question": "China's first emperor, Qin Shi Huang, forced the wealthy aristocratic families to live in his capital. Which city?",
+  "clue": "Shaanxi province, on the Wei River, just north-west of Xi'an.",
+  "hint": "His Terracotta Army was found not far away.",
+  "answer": {
+   "city": "Xianyang",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 34.3323,
+   "longitude": 108.7128,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3221020"
+  },
+  "story": "Zheng became king of Qin at 13, in 246 BCE, and by 221 BCE had eliminated the rival states, proclaiming himself Qin Shi Huang, 'First Sovereign Emperor'. He abolished territorial feudal power and forced the wealthy aristocratic families to live in the capital, Xianyang.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Qin-Shi-Huang",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "forced the wealthy aristocratic families to live in the capital, Xianyang, and divided the country into 36 military districts"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Qin-Shi-Huang",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "To herald his achievement, Zheng assumed the sacred titles of legendary rulers and proclaimed himself Qin Shi Huang (“First Sovereign Emperor”)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Qin-Shi-Huang",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "When Zheng, at age 13, formally ascended the throne in 246 BCE"
+   }
+  ],
+  "entityId": "qin-shi-huang",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "cyrus-the-great-pasargadae",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "historic_location",
+  "difficulty": "legend",
+  "displayCategory": "Dynasties",
+  "chapter": "A capital for an empire",
+  "question": "Cyrus the Great, founder of the Achaemenid Persian Empire, built a new capital in Persis. Which site in today's Iran?",
+  "clue": "Fars province, north-east of Shiraz.",
+  "hint": "His simple stone tomb still stands there.",
+  "answer": {
+   "city": "Pasargadae",
+   "country": "Iran",
+   "countryCode": "IR",
+   "latitude": 30.2017,
+   "longitude": 53.1787,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/203395269"
+  },
+  "story": "Cyrus the Great founded the Achaemenid Empire, centred on Persia and reaching from the Aegean Sea to the Indus River. He built a new capital, Pasargadae, in Persis — said to be on the site where he won the battle against Astyages.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Cyrus-the-Great",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "was a conqueror who founded the Achaemenid Empire, centered on Persia and comprising the ancient Middle East from the Aegean Sea eastward to the Indus River."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Cyrus-the-Great",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "another was a new capital of the empire, Pasargadae, in Persis, said to be on the site where Cyrus had won the battle against Astyages"
+   }
+  ],
+  "entityId": "cyrus-the-great",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "alexander-the-great-pella",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Dynasties",
+  "chapter": "A Macedonian prince",
+  "question": "Alexander the Great was born in 356 BCE in which town of ancient Macedonia, north-west of today's Thessaloniki?",
+  "clue": "Northern Greece, on the Macedonian plain.",
+  "hint": "Its ruins lie beside a modern village of the same name.",
+  "answer": {
+   "city": "Pella",
+   "country": "Greece",
+   "countryCode": "GR",
+   "latitude": 40.7604,
+   "longitude": 22.5271,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/296269474"
+  },
+  "story": "Alexander was born at Pella in Macedonia in 356 BCE, the son of Philip II and Olympias. King of Macedonia from 336 BCE, he overthrew the Achaemenid Empire, carried Macedonian arms to India, and died at Babylon in 323 BCE.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Alexander-the-Great",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "He was born in 356 BCE at Pella in Macedonia, the son of Philip II and Olympias (daughter of King Neoptolemus of Epirus)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Alexander-the-Great",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "was the king of Macedonia (336–323 BCE), who overthrew the Achaemenid Empire, carried Macedonian arms to India"
+   }
+  ],
+  "entityId": "alexander-the-great",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "hammurabi-babylon",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Dynasties",
+  "chapter": "A young king",
+  "question": "Hammurabi, the Babylonian king remembered for his laws, was born in which ancient city on the Euphrates?",
+  "clue": "Central Iraq, south of Baghdad.",
+  "hint": "Its ruins lie near the modern city of Hillah.",
+  "answer": {
+   "city": "Babylon",
+   "country": "Iraq",
+   "countryCode": "IQ",
+   "latitude": 32.5447,
+   "longitude": 44.4318,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/961272499"
+  },
+  "story": "Hammurabi was born in Babylon, now in Iraq, and succeeded Sin-muballit as king about 1792 BCE, while still young.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Hammurabi",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Hammurabi (born, Babylon [now in Iraq]"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Hammurabi",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "When Hammurabi succeeded Sin-muballit about 1792 BCE, he was still young"
+   }
+  ],
+  "entityId": "hammurabi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "ashoka-patna",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "historic_location",
+  "difficulty": "medium",
+  "displayCategory": "Dynasties",
+  "chapter": "The emperor's capital",
+  "question": "Emperor Ashoka ruled the Mauryan empire, which was centred at Pataliputra. What is that city called today?",
+  "clue": "Bihar, on the south bank of the Ganges.",
+  "hint": "It's the capital of the Indian state of Bihar.",
+  "answer": {
+   "city": "Patna",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 25.6093,
+   "longitude": 85.1235,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/383774533"
+  },
+  "story": "Ashoka was a Buddhist emperor of the Mauryan empire, a state centred at Pataliputra, later Patna. His edicts were inscribed on stone pillars across his realm — the lion capital of one, found at Sarnath, has become India's national emblem.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Ashoka",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mauryan empire, in ancient India, a state centred at Pataliputra (later Patna) near the junction of the Son and Ganges (Ganga) rivers."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Ashoka",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "These inscriptions—the rock edicts and pillar edicts (e.g., the lion capital of the pillar found at Sarnath, which has become India’s national emblem)"
+   }
+  ],
+  "entityId": "ashoka",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "darius-i-persepolis",
+  "primaryCategory": "royalty",
+  "subcategory": "ancient-dynasties",
+  "questionType": "historic_location",
+  "difficulty": "hard",
+  "displayCategory": "Dynasties",
+  "chapter": "A royal residence",
+  "question": "Darius I founded a new royal residence in his native Persis, replacing the earlier capital at Pasargadae. Which site?",
+  "clue": "Fars province, near Shiraz.",
+  "hint": "Alexander the Great burned it in 330 BCE.",
+  "answer": {
+   "city": "Persepolis",
+   "country": "Iran",
+   "countryCode": "IR",
+   "latitude": 29.9352,
+   "longitude": 52.8904,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/95531795"
+  },
+  "story": "Darius I was king of Persia from 522 to 486 BCE, noted for his administrative genius and great building projects. He made Susa his administrative capital and, in his native Persis, founded a new royal residence at Persepolis to replace the earlier capital at Pasargadae.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Darius-I",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "At Persepolis, in his native country of Fars (Persis), he founded a new royal residence to replace the earlier capital at Pasargadae."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Darius-I",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Darius I (born 550 BCE—died 486) was the king of Persia in 522–486 BCE, one of the greatest rulers of the Achaemenid Empire, who was noted for his administrative genius and for his great building projects."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Darius-I",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 521 BCE he made Susa his administrative capital"
+   }
+  ],
+  "entityId": "darius-i",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "charles-iii-london",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "Born at the palace",
+  "question": "King Charles III was born in 1948 at Buckingham Palace and crowned at Westminster Abbey in 2023. In which city?",
+  "clue": "On the Thames, in south-east England.",
+  "hint": "It's the UK's capital.",
+  "answer": {
+   "city": "London",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.5008,
+   "longitude": -0.143,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5208404"
+  },
+  "story": "Charles III was born at Buckingham Palace, London, in 1948. After being the longest-serving monarch-in-waiting in British history, he became king in September 2022 and was crowned on 6 May 2023 — the first coronation in seven decades.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Charles-III-king-of-the-United-Kingdom",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Charles III (born November 14, 1948, Buckingham Palace, London, England) is the king of the United Kingdom of Great Britain and Northern Ireland from September 8, 2022."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Charles-III-king-of-the-United-Kingdom",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He was crowned in the first coronation in seven decades on May 6, 2023."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Charles-III-king-of-the-United-Kingdom",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "After being the longest-serving monarch-in-waiting in British history, Charles ascended the throne at age 73."
+   }
+  ],
+  "entityId": "charles-iii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "felipe-vi-madrid",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "A prince of Spain",
+  "question": "King Felipe VI of Spain was born in 1968 in which city?",
+  "clue": "Right in the middle of the Iberian Peninsula.",
+  "hint": "It's home to the Prado museum.",
+  "answer": {
+   "city": "Madrid",
+   "country": "Spain",
+   "countryCode": "ES",
+   "latitude": 40.4168,
+   "longitude": -3.7035,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5326784"
+  },
+  "story": "Felipe VI was born in Madrid in 1968 and became king of Spain in 2014. As a teenager he studied at a private school in Lakefield, Ontario, Canada, and on his 18th birthday he swore allegiance to his father, Juan Carlos.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Felipe-VI",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Felipe VI (born January 30, 1968, Madrid, Spain) is the king of Spain from 2014."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Felipe-VI",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "From 1984 to 1985 he studied at a private school in Lakefield, Ontario, Canada."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Felipe-VI",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "In 1986, on his 18th birthday, Felipe swore allegiance to Juan Carlos and was officially named heir to the throne."
+   }
+  ],
+  "entityId": "felipe-vi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "mswati-iii-manzini",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Royalty",
+  "chapter": "Prince Makhosetive",
+  "question": "King Mswati III of Eswatini was born in 1968 in which town?",
+  "clue": "Central Eswatini, between Mbabane and the lowveld.",
+  "hint": "It's the kingdom's biggest commercial hub — not the capital, Mbabane.",
+  "answer": {
+   "city": "Manzini",
+   "country": "Eswatini",
+   "countryCode": "SZ",
+   "latitude": -26.4976,
+   "longitude": 31.3751,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/243838438"
+  },
+  "story": "Mswati III was born in Manzini in 1968, a son of King Sobhuza II, and was given the title Prince Makhosetive. He was crowned on 25 April 1986, taking the name Mswati III.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mswati-III",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mswati III (born April 19, 1968, Manzini, Swaziland) is a member of the Swazi royal family who became king of Swaziland in 1986."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mswati-III",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Born to King Sobhuza II and one of his wives, Ntombi Twala, he was given the title of Prince Makhosetive (King of All Nations)."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mswati-III",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "His coronation was held on April 25, 1986."
+   }
+  ],
+  "entityId": "mswati-iii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11.",
+    "Batch 11: also in royalty/african-royalty — reigning king of Eswatini"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "royalty",
+    "subcategory": "african-royalty"
+   }
+  ]
+ },
+ {
+  "id": "naruhito-tokyo",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "Raised in the palace",
+  "question": "Japan's 126th emperor, Naruhito, was born in 1960 and raised in the imperial palace of which city?",
+  "clue": "On Japan's main island, Honshu, beside a great bay.",
+  "hint": "It's Japan's capital.",
+  "answer": {
+   "city": "Tokyo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.6769,
+   "longitude": 139.7639,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1543125"
+  },
+  "story": "Naruhito was born in Tokyo in 1960 and raised in the imperial palace in central Tokyo, graduating in history from Gakushuin University in 1982. He became emperor in 2019 — Japan's 126th.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Naruhito",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Naruhito (born February 23, 1960, Tokyo, Japan) is the emperor of Japan from 2019."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Naruhito",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Naruhito was raised in the imperial palace in central Tokyo and attended Gakushuin University in the city, graduating in 1982 with a bachelor’s degree in history."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Naruhito",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He is Japan’s 126th emperor"
+   }
+  ],
+  "entityId": "naruhito",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "vajiralongkorn-bangkok",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "Born at Dusit Palace",
+  "question": "Thailand's King Vajiralongkorn, 10th king of the Chakri Dynasty, was born in 1952 in the Dusit Palace of which city?",
+  "clue": "On the Chao Phraya River, near the Gulf of Thailand.",
+  "hint": "It's Thailand's capital.",
+  "answer": {
+   "city": "Bangkok",
+   "country": "Thailand",
+   "countryCode": "TH",
+   "latitude": 13.7525,
+   "longitude": 100.4935,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/92277"
+  },
+  "story": "Vajiralongkorn was born in the Dusit Palace of Bangkok in 1952, the only son of King Bhumibol and Queen Sirikit. He is the 10th king of Thailand's Chakri Dynasty; his coronation was held on 4 May 2019.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Vajiralongkorn",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in the Dusit Palace of Bangkok, Vajiralongkorn was the second child and only son of King Bhumibol and Queen Sikrit."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Vajiralongkorn",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Vajiralongkorn (born July 28, 1952, Bangkok, Thailand) is the 10th king of Thailand’s Chakri Dynasty."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Vajiralongkorn",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Vajiralongkorn’s coronation was held on May 4, 2019."
+   }
+  ],
+  "entityId": "maha-vajiralongkorn",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "mohammed-vi-rabat",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Heir to the throne",
+  "question": "King Mohammed VI of Morocco was born in 1963 in which Atlantic-coast city?",
+  "clue": "On Morocco's Atlantic coast, north-east of Casablanca.",
+  "hint": "It's Morocco's capital.",
+  "answer": {
+   "city": "Rabat",
+   "country": "Morocco",
+   "countryCode": "MA",
+   "latitude": 34.0218,
+   "longitude": -6.8409,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2799215"
+  },
+  "story": "Mohammed VI was born in Rabat in 1963. He took the throne hours after the death of his father, King Hassan II, on 23 July 1999, and has been king of Morocco since.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Mohammed-VI",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mohammed VI (born August 21, 1963, Rabat, Morocco) is the king of Morocco since 1999."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Mohammed-VI",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Hours after the death of his father on July 23, 1999, Mohammed took the throne as Mohammed VI."
+   }
+  ],
+  "entityId": "mohammed-vi",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11.",
+    "Batch 11: also in royalty/african-royalty — reigning king of Morocco"
+   ]
+  },
+  "secondary": [
+   {
+    "category": "royalty",
+    "subcategory": "african-royalty"
+   }
+  ]
+ },
+ {
+  "id": "abdullah-ii-amman",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "Crown prince again",
+  "question": "King Abdullah II of Jordan, who succeeded his father Hussein in 1999, was born in 1962 in which city?",
+  "clue": "On the hills of north-western Jordan, east of the Jordan River.",
+  "hint": "It's Jordan's capital.",
+  "answer": {
+   "city": "Amman",
+   "country": "Jordan",
+   "countryCode": "JO",
+   "latitude": 31.9516,
+   "longitude": 35.924,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/1643504896"
+  },
+  "story": "Abdullah II was born in Amman in 1962, the eldest son of King Hussein. He graduated from the Royal Military Academy at Sandhurst in 1980 and became king of Jordan in 1999.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Abdullah-II",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Abdullah II (born January 30, 1962, Amman, Jordan) is the king of Jordan from 1999."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Abdullah-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He succeeded his father, Hussein, who had named Abdullah crown prince just weeks before his death."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Abdullah-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "in 1980 he graduated from the Royal Military Academy in Sandhurst, England"
+   }
+  ],
+  "entityId": "abdullah-ii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "margrethe-ii-copenhagen",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Royalty",
+  "chapter": "Fifty-two years",
+  "question": "Margrethe II, who occupied the Danish throne for exactly 52 years, was born in 1940 in which city?",
+  "clue": "On the island of Zealand, facing Sweden across the Øresund.",
+  "hint": "It's Denmark's capital.",
+  "answer": {
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "countryCode": "DK",
+   "latitude": 55.6867,
+   "longitude": 12.5701,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/13707878"
+  },
+  "story": "Margrethe II was born in Copenhagen in 1940 and went to school there. Known for her passion for archaeology and the arts, she occupied the Danish throne for exactly 52 years before abdicating in favour of her son, Frederik.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Margrethe-II",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Margrethe II (born April 16, 1940, Copenhagen, Denmark) was the queen of Denmark who ascended to the throne upon the death of her father, King Frederik IX, and occupied the Danish throne for exactly 52 years."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Margrethe-II",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Throughout her reign she has been known for her passion for archaeology and the arts."
+   }
+  ],
+  "entityId": "margrethe-ii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ },
+ {
+  "id": "willem-alexander-utrecht",
+  "primaryCategory": "royalty",
+  "subcategory": "modern-royal-families",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Royalty",
+  "chapter": "Prince of Orange",
+  "question": "King Willem-Alexander of the Netherlands was born in 1967 in which city?",
+  "clue": "In the centre of the Netherlands, south-east of Amsterdam.",
+  "hint": "Its medieval Dom Tower is the tallest church tower in the country.",
+  "answer": {
+   "city": "Utrecht",
+   "country": "Netherlands",
+   "countryCode": "NL",
+   "latitude": 52.0907,
+   "longitude": 5.1216,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/419203"
+  },
+  "story": "Willem-Alexander was born in Utrecht in 1967. He studied history at the University of Leiden, married Máxima Zorreguieta in Amsterdam in 2002, and became king in 2013 when his mother, Beatrix, abdicated.",
+  "sources": [
+   {
+    "url": "https://www.britannica.com/biography/Willem-Alexander-king-of-the-Netherlands",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Willem-Alexander, king of the Netherlands (born April 27, 1967, Utrecht, Netherlands) ascended to the Dutch throne in 2013, when his mother, Beatrix, abdicated."
+   },
+   {
+    "url": "https://www.britannica.com/biography/Willem-Alexander-king-of-the-Netherlands",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "he studied history at the University of Leiden from 1987 to 1993"
+   },
+   {
+    "url": "https://www.britannica.com/biography/Willem-Alexander-king-of-the-Netherlands",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "On February 2, 2002, Willem-Alexander married Argentine-born Máxima Zorreguieta (thereafter Princess Máxima) in Amsterdam."
+   }
+  ],
+  "entityId": "willem-alexander",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-07",
+   "notes": [
+    "Batch 11."
+   ]
+  }
+ }
+]

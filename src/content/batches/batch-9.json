@@ -1,0 +1,91 @@
+{
+ "batch": 9,
+ "researched": "2026-10-04",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "lionel-richie",
+    "name": "Lionel Richie",
+    "monogram": "LR",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "lionel-richie-joliet",
+    "primaryCategory": "music",
+    "subcategory": "soul-legends-80s-90s",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Soul Legends",
+    "chapter": "High-school years",
+    "question": "In which Illinois city did Lionel Richie attend high school after his family moved north?",
+    "clue": "Look in northern Illinois, southwest of Chicago.",
+    "hint": "It sits on the Des Plaines River; its name sounds French.",
+    "answer": {
+     "city": "Joliet",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Lionel Richie moved with his family to Illinois as a youth and attended Joliet East High School. He became known for smooth, soulful love ballads, and his 1982 album Lionel Richie launched his solo career.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Lionel-Richie",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "As a youth, Richie moved with his family to Illinois, where he attended Joliet East High School."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Lionel-Richie",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Lionel Richie (born June 20, 1949, Tuskegee, Alabama, U.S.) is an American singer, songwriter, and producer most admired for his smooth and soulful love ballads of the 1970s and ’80s.",
+      "note": "80s/90s Soul Legends: era evidence."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "anita-baker",
+    "name": "Anita Baker",
+    "monogram": "AB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "anita-baker-detroit",
+    "primaryCategory": "music",
+    "subcategory": "soul-legends-80s-90s",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Soul Legends",
+    "chapter": "Growing up",
+    "question": "In which Michigan city did Anita Baker grow up singing in church choirs?",
+    "clue": "Look in southeast Michigan, across the river from Canada.",
+    "hint": "It's the Motor City — and Motown's home.",
+    "answer": {
+     "city": "Detroit",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Anita Baker grew up in Detroit, where her talent first showed in church choirs. Her three-octave range and emotional delivery brought her international acclaim in the 1980s and ’90s.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Anita-Baker",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Baker’s talent first became apparent when she sang in church choirs in Detroit, where she grew up."
+     },
+     {
+      "url": "https://www.britannica.com/biography/Anita-Baker",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Anita Baker (born January 26, 1958, Toledo, Ohio, U.S.) is an American singer whose three-octave range and powerful, emotional delivery brought her international acclaim in the 1980s and ’90s.",
+      "note": "80s/90s Soul Legends: era evidence."
+     }
+    ]
+   }
+  }
+ ]
+}

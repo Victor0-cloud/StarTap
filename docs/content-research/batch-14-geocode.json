@@ -1,0 +1,992 @@
+{
+ "richard-branson": {
+  "query": "Shamley Green, Surrey",
+  "results": [
+   {
+    "lat": 51.1860798,
+    "lon": -0.5272657,
+    "type": "village",
+    "category": "place",
+    "name": "Shamley Green",
+    "display": "Shamley Green, Waverley, Surrey, England, GU5 0UJ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/248830697"
+   }
+  ]
+ },
+ "sara-blakely": {
+  "query": "Clearwater, Florida",
+  "results": [
+   {
+    "lat": 27.9658533,
+    "lon": -82.8001026,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Clearwater",
+    "display": "Clearwater, Pinellas County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/118909"
+   }
+  ]
+ },
+ "li-ka-shing": {
+  "query": "Chaozhou, China",
+  "results": [
+   {
+    "lat": 23.656593,
+    "lon": 116.6204223,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chaozhou",
+    "display": "Chaozhou, Guangdong, China",
+    "cc": "CN",
+    "osm": "relation/3244431"
+   }
+  ]
+ },
+ "mukesh-ambani": {
+  "query": "Aden, Yemen",
+  "results": [
+   {
+    "lat": 12.789585,
+    "lon": 45.028504,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Aden City",
+    "display": "Aden City, Aden Governorate, Yemen",
+    "cc": "YE",
+    "osm": "relation/9134191"
+   },
+   {
+    "lat": 12.833333,
+    "lon": 44.916667,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Aden Governorate",
+    "display": "Aden Governorate, Yemen",
+    "cc": "YE",
+    "osm": "relation/383893"
+   }
+  ]
+ },
+ "amancio-ortega": {
+  "query": "A Coruña, Spain",
+  "results": [
+   {
+    "lat": 43.3454621,
+    "lon": -8.4138519,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "A Coruña",
+    "display": "A Coruña, Galicia, Spain",
+    "cc": "ES",
+    "osm": "relation/346810"
+   },
+   {
+    "lat": 43.1539943,
+    "lon": -8.5805076,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "A Coruña",
+    "display": "A Coruña, Galicia, Spain",
+    "cc": "ES",
+    "osm": "relation/349021"
+   },
+   {
+    "lat": 43.2712595,
+    "lon": -8.4267389,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "A Coruña",
+    "display": "A Coruña, Galicia, Spain",
+    "cc": "ES",
+    "osm": "relation/10041850"
+   }
+  ]
+ },
+ "ray-kroc": {
+  "query": "Des Plaines, Illinois",
+  "results": [
+   {
+    "lat": 42.0415823,
+    "lon": -87.8873916,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Des Plaines",
+    "display": "Des Plaines, Maine Township, Cook County, Illinois, 60016, United States",
+    "cc": "US",
+    "osm": "relation/126562"
+   }
+  ]
+ },
+ "howard-schultz": {
+  "query": "Milan, Italy",
+  "results": [
+   {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Rodano, Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44915"
+   },
+   {
+    "lat": 45.4542119,
+    "lon": 9.111351,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Lombardy, Italy",
+    "cc": "IT",
+    "osm": "relation/44881"
+   }
+  ]
+ },
+ "arianna-huffington": {
+  "query": "Athens, Greece",
+  "results": [
+   {
+    "lat": 37.9755648,
+    "lon": 23.7348324,
+    "type": "city",
+    "category": "place",
+    "name": "Athens",
+    "display": "Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 57, Greece",
+    "cc": "GR",
+    "osm": "node/441183"
+   }
+  ]
+ },
+ "phil-knight": {
+  "query": "Eastmoreland, Portland, Oregon",
+  "results": [
+   {
+    "lat": 45.4735532,
+    "lon": -122.6308994,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Eastmoreland",
+    "display": "Eastmoreland, Portland, Multnomah County, Oregon, 97202, United States",
+    "cc": "US",
+    "osm": "relation/7714441"
+   }
+  ]
+ },
+ "dhirubhai-ambani": {
+  "query": "Chorwad, SH31, Malia Taluka, Gujarat",
+  "results": [
+   {
+    "lat": 21.029833,
+    "lon": 70.236435,
+    "type": "centre",
+    "category": "healthcare",
+    "name": "CHC, Chorwad",
+    "display": "CHC, Chorwad, SH31, Malia Taluka, Junagadh, Gujarat, 362250, India",
+    "cc": "IN",
+    "osm": "node/7595998556"
+   }
+  ]
+ },
+ "milton-hershey": {
+  "query": "Hershey, Pennsylvania",
+  "results": [
+   {
+    "lat": 40.2850285,
+    "lon": -76.6534662,
+    "type": "census",
+    "category": "boundary",
+    "name": "Hershey",
+    "display": "Hershey, Derry Township, Dauphin County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188234"
+   },
+   {
+    "lat": 40.2854881,
+    "lon": -76.6506001,
+    "type": "town",
+    "category": "place",
+    "name": "Hershey",
+    "display": "Hershey, Derry Township, Dauphin County, Pennsylvania, 17036, United States",
+    "cc": "US",
+    "osm": "node/25930002"
+   }
+  ]
+ },
+ "levi-strauss": {
+  "query": "San Francisco, United States",
+  "results": [
+   {
+    "lat": 37.7879363,
+    "lon": -122.4075201,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Francisco",
+    "display": "San Francisco, California, United States",
+    "cc": "US",
+    "osm": "relation/111968"
+   }
+  ]
+ },
+ "wk-kellogg": {
+  "query": "Battle Creek, Michigan",
+  "results": [
+   {
+    "lat": 42.3192548,
+    "lon": -85.1824269,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Battle Creek",
+    "display": "Battle Creek, Calhoun County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134475"
+   },
+   {
+    "lat": 42.4455938,
+    "lon": -84.9757325,
+    "type": "river",
+    "category": "waterway",
+    "name": "Battle Creek",
+    "display": "Battle Creek, Eaton County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/14723372"
+   }
+  ]
+ },
+ "enzo-ferrari": {
+  "query": "Modena, Italy",
+  "results": [
+   {
+    "lat": 44.5384728,
+    "lon": 10.9359609,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Modena",
+    "display": "Modena, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/42884"
+   },
+   {
+    "lat": 44.6458885,
+    "lon": 10.9255707,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Modena",
+    "display": "Modena, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/43336"
+   }
+  ]
+ },
+ "patrice-motsepe": {
+  "query": "Soweto, Gauteng, South Africa",
+  "results": [
+   {
+    "lat": -26.2227778,
+    "lon": 27.89,
+    "type": "city",
+    "category": "place",
+    "name": "Soweto",
+    "display": "Soweto, City of Johannesburg Metropolitan Municipality, Gauteng, 1852, South Africa",
+    "cc": "ZA",
+    "osm": "node/27565050"
+   }
+  ]
+ },
+ "tony-elumelu": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   },
+   {
+    "lat": 6.5269033,
+    "lon": 3.5774005,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lagos State",
+    "display": "Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718182"
+   }
+  ]
+ },
+ "nassef-sawiris": {
+  "query": "Cairo, Egypt",
+  "results": [
+   {
+    "lat": 30.0443879,
+    "lon": 31.2357257,
+    "type": "city",
+    "category": "place",
+    "name": "Cairo",
+    "display": "Cairo, Egypt",
+    "cc": "EG",
+    "osm": "relation/5466227"
+   },
+   {
+    "lat": 30.0332516,
+    "lon": 31.5621651,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cairo",
+    "display": "Cairo, Egypt",
+    "cc": "EG",
+    "osm": "relation/4103336"
+   }
+  ]
+ },
+ "mohammed-dewji": {
+  "query": "Dar es Salaam, Tanzania",
+  "results": [
+   {
+    "lat": -6.8160837,
+    "lon": 39.2803583,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dar es Salaam",
+    "display": "Dar es Salaam, Coastal Zone, Tanzania",
+    "cc": "TZ",
+    "osm": "relation/7202037"
+   }
+  ]
+ },
+ "koos-bekker": {
+  "query": "Cape Town, South Africa",
+  "results": [
+   {
+    "lat": -33.9288301,
+    "lon": 18.4172197,
+    "type": "city",
+    "category": "place",
+    "name": "Cape Town",
+    "display": "Cape Town, City of Cape Town, Western Cape, 8001, South Africa",
+    "cc": "ZA",
+    "osm": "node/32675806"
+   }
+  ]
+ },
+ "othman-benjelloun": {
+  "query": "Casablanca, Morocco",
+  "results": [
+   {
+    "lat": 33.5945144,
+    "lon": -7.6200284,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Casablanca",
+    "display": "Casablanca, Pachalik de Casablanca باشوية الدار البيضاء, Prefecture of Casablanca, Casablanca-Settat, Morocco",
+    "cc": "MA",
+    "osm": "relation/4072985"
+   }
+  ]
+ },
+ "mike-adenuga": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   },
+   {
+    "lat": 6.5269033,
+    "lon": 3.5774005,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lagos State",
+    "display": "Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718182"
+   }
+  ]
+ },
+ "johann-rupert": {
+  "query": "Cape Town, South Africa",
+  "results": [
+   {
+    "lat": -33.9288301,
+    "lon": 18.4172197,
+    "type": "city",
+    "category": "place",
+    "name": "Cape Town",
+    "display": "Cape Town, City of Cape Town, Western Cape, 8001, South Africa",
+    "cc": "ZA",
+    "osm": "node/32675806"
+   }
+  ]
+ },
+ "coca-cola": {
+  "query": "Atlanta, Georgia",
+  "results": [
+   {
+    "lat": 33.7544657,
+    "lon": -84.3898151,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Atlanta",
+    "display": "Atlanta, Fulton County, Georgia, United States",
+    "cc": "US",
+    "osm": "relation/119557"
+   }
+  ]
+ },
+ "lego": {
+  "query": "Billund, Denmark",
+  "results": [
+   {
+    "lat": 55.7247018,
+    "lon": 9.1195835,
+    "type": "town",
+    "category": "place",
+    "name": "Billund",
+    "display": "Billund, Billund Municipality, Region of Southern Denmark, 7190, Denmark",
+    "cc": "DK",
+    "osm": "node/26559022"
+   },
+   {
+    "lat": 55.7446002,
+    "lon": 8.9933056,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Billund Municipality",
+    "display": "Billund Municipality, Region of Southern Denmark, Denmark",
+    "cc": "DK",
+    "osm": "relation/1801753"
+   }
+  ]
+ },
+ "toyota": {
+  "query": "Toyota, Aichi",
+  "results": [
+   {
+    "lat": 35.0834524,
+    "lon": 137.156737,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Toyota",
+    "display": "Toyota, Aichi Prefecture, 471-8501, Japan",
+    "cc": "JP",
+    "osm": "relation/4567509"
+   }
+  ]
+ },
+ "samsung": {
+  "query": "Daegu, South Korea",
+  "results": [
+   {
+    "lat": 35.8713,
+    "lon": 128.6018,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Daegu",
+    "display": "Daegu, South Korea",
+    "cc": "KR",
+    "osm": "relation/2395674"
+   }
+  ]
+ },
+ "nestle": {
+  "query": "Cham, Zug, Switzerland",
+  "results": [
+   {
+    "lat": 47.1823761,
+    "lon": 8.4611036,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cham",
+    "display": "Cham, Zug, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1683139"
+   }
+  ]
+ },
+ "starbucks": {
+  "query": "Seattle, United States",
+  "results": [
+   {
+    "lat": 47.6038321,
+    "lon": -122.330062,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seattle",
+    "display": "Seattle, King County, Washington, United States",
+    "cc": "US",
+    "osm": "relation/237385"
+   }
+  ]
+ },
+ "rolex": {
+  "query": "Geneva, Switzerland",
+  "results": [
+   {
+    "lat": 46.2017559,
+    "lon": 6.1466014,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Geneva",
+    "display": "Geneva, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1685488"
+   },
+   {
+    "lat": 46.2256509,
+    "lon": 6.1439209,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Geneva",
+    "display": "Geneva, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1702419"
+   }
+  ]
+ },
+ "nintendo": {
+  "query": "Kyoto, Japan",
+  "results": [
+   {
+    "lat": 35.0115754,
+    "lon": 135.7681441,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kyoto",
+    "display": "Kyoto, Kyoto Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/357794"
+   }
+  ]
+ },
+ "volkswagen": {
+  "query": "Wolfsburg, Germany",
+  "results": [
+   {
+    "lat": 52.4205588,
+    "lon": 10.7861682,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Wolfsburg",
+    "display": "Wolfsburg, Lower Saxony, Germany",
+    "cc": "DE",
+    "osm": "relation/62418"
+   }
+  ]
+ },
+ "hyundai": {
+  "query": "Seoul, South Korea",
+  "results": [
+   {
+    "lat": 37.5666791,
+    "lon": 126.9782914,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seoul",
+    "display": "Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297418"
+   }
+  ]
+ },
+ "warren-buffett": {
+  "query": "Omaha, Nebraska",
+  "results": [
+   {
+    "lat": 41.2587459,
+    "lon": -95.9383758,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Omaha",
+    "display": "Omaha, Douglas County, Nebraska, United States",
+    "cc": "US",
+    "osm": "relation/169759"
+   }
+  ]
+ },
+ "george-soros": {
+  "query": "Budapest, Hungary",
+  "results": [
+   {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/1244004"
+   },
+   {
+    "lat": 47.481849,
+    "lon": 19.1449053,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/37244"
+   }
+  ]
+ },
+ "jp-morgan": {
+  "query": "Hartford, Connecticut",
+  "results": [
+   {
+    "lat": 41.7661621,
+    "lon": -72.6732726,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hartford",
+    "display": "Hartford, Capitol Planning Region, Connecticut, United States",
+    "cc": "US",
+    "osm": "relation/3909995"
+   },
+   {
+    "lat": 41.7923478,
+    "lon": -72.722324,
+    "type": "county",
+    "category": "place",
+    "name": "Hartford",
+    "display": "Hartford, Connecticut, 06117, United States",
+    "cc": "US",
+    "osm": "node/316945351"
+   }
+  ]
+ },
+ "christine-lagarde": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "janet-yellen": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "ngozi-okonjo-iweala": {
+  "query": "Ogwashi-Uku, Delta State, Nigeria",
+  "results": [
+   {
+    "lat": 6.1817718,
+    "lon": 6.532877,
+    "type": "town",
+    "category": "place",
+    "name": "Ogwashi-Uku",
+    "display": "Ogwashi-Uku, Aniocha South, Delta State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501515838"
+   }
+  ]
+ },
+ "mayer-amschel-rothschild": {
+  "query": "Frankfurt, Germany",
+  "results": [
+   {
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Frankfurt",
+    "display": "Frankfurt, Hesse, Germany",
+    "cc": "DE",
+    "osm": "relation/62400"
+   },
+   {
+    "lat": 52.3412273,
+    "lon": 14.549452,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Frankfurt (Oder)",
+    "display": "Frankfurt (Oder), Brandenburg, Germany",
+    "cc": "DE",
+    "osm": "relation/62523"
+   }
+  ]
+ },
+ "john-bogle": {
+  "query": "Montclair, New Jersey",
+  "results": [
+   {
+    "lat": 40.8164458,
+    "lon": -74.2210643,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montclair",
+    "display": "Montclair, Essex County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170783"
+   }
+  ]
+ },
+ "mario-draghi": {
+  "query": "Rome, Italy",
+  "results": [
+   {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rome",
+    "display": "Rome, Roma Capitale, Lazio, Italy",
+    "cc": "IT",
+    "osm": "relation/41485"
+   },
+   {
+    "lat": 41.8520413,
+    "lon": 12.6312117,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Roma Capitale",
+    "display": "Roma Capitale, Lazio, Italy",
+    "cc": "IT",
+    "osm": "relation/41313"
+   }
+  ]
+ },
+ "sam-walton": {
+  "query": "Bentonville, Arkansas",
+  "results": [
+   {
+    "lat": 36.3728608,
+    "lon": -94.208787,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bentonville",
+    "display": "Bentonville, Benton County, Arkansas, United States",
+    "cc": "US",
+    "osm": "relation/111561"
+   }
+  ]
+ },
+ "fred-smith": {
+  "query": "Marks, Mississippi",
+  "results": [
+   {
+    "lat": 34.2565001,
+    "lon": -90.2720375,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Marks",
+    "display": "Marks, Quitman County, Mississippi, 38646, United States",
+    "cc": "US",
+    "osm": "relation/7161811"
+   }
+  ]
+ },
+ "thomas-j-watson": {
+  "query": "Campbell, Steuben County, New York",
+  "results": [
+   {
+    "lat": 42.2331295,
+    "lon": -77.1974748,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Campbell",
+    "display": "Town of Campbell, Steuben County, New York, 14821, United States",
+    "cc": "US",
+    "osm": "relation/13627933"
+   },
+   {
+    "lat": 42.2343559,
+    "lon": -77.1956026,
+    "type": "census",
+    "category": "boundary",
+    "name": "Campbell",
+    "display": "Campbell, Town of Campbell, Steuben County, New York, United States",
+    "cc": "US",
+    "osm": "relation/13627934"
+   }
+  ]
+ },
+ "sakichi-toyoda": {
+  "query": "Kariya, Aichi",
+  "results": [
+   {
+    "lat": 34.974678,
+    "lon": 137.002791,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kariya",
+    "display": "Kariya, Aichi Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4548603"
+   }
+  ]
+ },
+ "masaru-ibuka": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "clarence-birdseye": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "king-gillette": {
+  "query": "Fond du Lac, Fond du Lac County, Wisconsin, United States",
+  "results": [
+   {
+    "lat": 43.7748763,
+    "lon": -88.4458033,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Fond du Lac",
+    "display": "Fond du Lac, Fond du Lac County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/251921"
+   },
+   {
+    "lat": 43.7629005,
+    "lon": -88.5023345,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Fond du Lac",
+    "display": "Town of Fond du Lac, Fond du Lac County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/12094270"
+   }
+  ]
+ },
+ "taiichi-ohno": {
+  "query": "Toyota, Aichi",
+  "results": [
+   {
+    "lat": 35.0834524,
+    "lon": 137.156737,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Toyota",
+    "display": "Toyota, Aichi Prefecture, 471-8501, Japan",
+    "cc": "JP",
+    "osm": "relation/4567509"
+   }
+  ]
+ },
+ "frederick-taylor": {
+  "query": "Philadelphia, United States",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   },
+   {
+    "lat": 32.7703841,
+    "lon": -89.1153488,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Neshoba County, Mississippi, 39350, United States",
+    "cc": "US",
+    "osm": "relation/5740653"
+   }
+  ]
+ }
+}

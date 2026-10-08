@@ -1,0 +1,1747 @@
+{
+ "jeff-bezos": {
+  "query": "Seattle, United States",
+  "results": [
+   {
+    "lat": 47.6038321,
+    "lon": -122.330062,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seattle",
+    "display": "Seattle, King County, Washington, United States",
+    "cc": "US",
+    "osm": "relation/237385"
+   }
+  ]
+ },
+ "larry-page": {
+  "query": "East Lansing, Michigan",
+  "results": [
+   {
+    "lat": 42.7320307,
+    "lon": -84.4721678,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "East Lansing",
+    "display": "East Lansing, Ingham County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134923"
+   }
+  ]
+ },
+ "sergey-brin": {
+  "query": "Moscow, Russia",
+  "results": [
+   {
+    "lat": 55.625578,
+    "lon": 37.6063916,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Moscow",
+    "display": "Moscow, Central Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/102269"
+   },
+   {
+    "lat": 55.7505412,
+    "lon": 37.6174782,
+    "type": "city",
+    "category": "place",
+    "name": "Moscow",
+    "display": "Moscow, Central Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/2555133"
+   }
+  ]
+ },
+ "mark-zuckerberg": {
+  "query": "White Plains, New York",
+  "results": [
+   {
+    "lat": 41.0339862,
+    "lon": -73.7629097,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of White Plains",
+    "display": "City of White Plains, Westchester County, New York, United States",
+    "cc": "US",
+    "osm": "relation/174495"
+   }
+  ]
+ },
+ "akio-morita": {
+  "query": "Nagoya, Japan",
+  "results": [
+   {
+    "lat": 35.1851045,
+    "lon": 136.8998438,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Nagoya",
+    "display": "Nagoya, Aichi Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4576938"
+   }
+  ]
+ },
+ "geoffrey-hinton": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "john-mccarthy": {
+  "query": "Boston, United States",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   },
+   {
+    "lat": 33.4415086,
+    "lon": -94.4196452,
+    "type": "village",
+    "category": "place",
+    "name": "Boston",
+    "display": "Boston, New Boston, Bowie County, Texas, 75570, United States",
+    "cc": "US",
+    "osm": "node/151534347"
+   },
+   {
+    "lat": 42.6289858,
+    "lon": -78.7376213,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Boston",
+    "display": "Town of Boston, Erie County, New York, 14025, United States",
+    "cc": "US",
+    "osm": "relation/13642223"
+   }
+  ]
+ },
+ "marvin-minsky": {
+  "query": "Massachusetts Institute of Technology",
+  "results": [
+   {
+    "lat": 42.3582529,
+    "lon": -71.0966272,
+    "type": "university",
+    "category": "amenity",
+    "name": "Massachusetts Institute of Technology",
+    "display": "Massachusetts Institute of Technology, Storrow Drive, Back Bay, Cambridge, Suffolk County, Massachusetts, 02199, United States",
+    "cc": "US",
+    "osm": "relation/65066"
+   }
+  ]
+ },
+ "demis-hassabis": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "fei-fei-li": {
+  "query": "Beijing, China",
+  "results": [
+   {
+    "lat": 39.9057136,
+    "lon": 116.3912972,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beijing",
+    "display": "Beijing, China",
+    "cc": "CN",
+    "osm": "relation/912940"
+   }
+  ]
+ },
+ "herbert-simon": {
+  "query": "Milwaukee, United States",
+  "results": [
+   {
+    "lat": 43.0386475,
+    "lon": -87.9090751,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milwaukee",
+    "display": "Milwaukee, Milwaukee County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/251075"
+   }
+  ]
+ },
+ "allen-newell": {
+  "query": "San Francisco, United States",
+  "results": [
+   {
+    "lat": 37.7879363,
+    "lon": -122.4075201,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Francisco",
+    "display": "San Francisco, California, United States",
+    "cc": "US",
+    "osm": "relation/111968"
+   }
+  ]
+ },
+ "judea-pearl": {
+  "query": "Tel Aviv, Israel",
+  "results": [
+   {
+    "lat": 32.0852997,
+    "lon": 34.7818064,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tel-Aviv",
+    "display": "Tel-Aviv, Tel Aviv Subdistrict, Tel-Aviv District, Israel",
+    "cc": "IL",
+    "osm": "relation/1382494"
+   },
+   {
+    "lat": 32.0956658,
+    "lon": 34.8062579,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tel-Aviv District",
+    "display": "Tel-Aviv District, Israel",
+    "cc": "IL",
+    "osm": "relation/1400916"
+   }
+  ]
+ },
+ "yann-lecun": {
+  "query": "Soisy-sous-Montmorency, France",
+  "results": [
+   {
+    "lat": 48.9875044,
+    "lon": 2.3002885,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Soisy-sous-Montmorency",
+    "display": "Soisy-sous-Montmorency, Sarcelles, Val-d'Oise, Ile-de-France, Metropolitan France, 95230, France",
+    "cc": "FR",
+    "osm": "relation/76374"
+   }
+  ]
+ },
+ "linus-torvalds": {
+  "query": "Helsinki, Finland",
+  "results": [
+   {
+    "lat": 60.1666204,
+    "lon": 24.9435408,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Helsinki",
+    "display": "Helsinki, Helsinki sub-region, Uusimaa, Mainland Finland, Finland",
+    "cc": "FI",
+    "osm": "relation/34914"
+   }
+  ]
+ },
+ "dennis-ritchie": {
+  "query": "Bronxville, New York",
+  "results": [
+   {
+    "lat": 40.9381544,
+    "lon": -73.8320784,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Village of Bronxville",
+    "display": "Village of Bronxville, Town of Eastchester, Westchester County, New York, 10708, United States",
+    "cc": "US",
+    "osm": "relation/174496"
+   }
+  ]
+ },
+ "ken-thompson": {
+  "query": "New Orleans, United States",
+  "results": [
+   {
+    "lat": 29.9574657,
+    "lon": -90.0629493,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New Orleans",
+    "display": "New Orleans, Orleans Parish, Louisiana, United States",
+    "cc": "US",
+    "osm": "relation/131885"
+   }
+  ]
+ },
+ "margaret-hamilton": {
+  "query": "Paoli, Indiana",
+  "results": [
+   {
+    "lat": 38.5561663,
+    "lon": -86.468321,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paoli",
+    "display": "Paoli, Orange County, Indiana, 47454, United States",
+    "cc": "US",
+    "osm": "relation/127747"
+   }
+  ]
+ },
+ "niklaus-wirth": {
+  "query": "Winterthur, Switzerland",
+  "results": [
+   {
+    "lat": 47.4991723,
+    "lon": 8.7291498,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Winterthur",
+    "display": "Winterthur, Bezirk Winterthur, Zurich, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1682243"
+   },
+   {
+    "lat": 47.4971759,
+    "lon": 8.7757789,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bezirk Winterthur",
+    "display": "Bezirk Winterthur, Zurich, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1691239"
+   }
+  ]
+ },
+ "donald-knuth": {
+  "query": "Milwaukee, United States",
+  "results": [
+   {
+    "lat": 43.0386475,
+    "lon": -87.9090751,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milwaukee",
+    "display": "Milwaukee, Milwaukee County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/251075"
+   }
+  ]
+ },
+ "john-backus": {
+  "query": "Philadelphia, United States",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   },
+   {
+    "lat": 32.7703841,
+    "lon": -89.1153488,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Neshoba County, Mississippi, 39350, United States",
+    "cc": "US",
+    "osm": "relation/5740653"
+   }
+  ]
+ },
+ "richard-stallman": {
+  "query": "Manhattan, New York",
+  "results": [
+   {
+    "lat": 40.7579554,
+    "lon": -73.9855319,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manhattan",
+    "display": "Manhattan, New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/8398124"
+   },
+   {
+    "lat": 40.7886553,
+    "lon": -73.9602966,
+    "type": "island",
+    "category": "place",
+    "name": "Manhattan Island",
+    "display": "Manhattan Island, New York, United States",
+    "cc": "US",
+    "osm": "relation/3954665"
+   },
+   {
+    "lat": 40.7814865,
+    "lon": -73.9590532,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York County",
+    "display": "New York County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552485"
+   }
+  ]
+ },
+ "vint-cerf": {
+  "query": "New Haven, Connecticut",
+  "results": [
+   {
+    "lat": 41.3082138,
+    "lon": -72.9250518,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New Haven",
+    "display": "New Haven, South Central Connecticut Planning Region, Connecticut, United States",
+    "cc": "US",
+    "osm": "relation/270191"
+   },
+   {
+    "lat": 41.4082,
+    "lon": -72.9330283,
+    "type": "county",
+    "category": "place",
+    "name": "New Haven",
+    "display": "New Haven, Connecticut, 06518, United States",
+    "cc": "US",
+    "osm": "node/2000823162"
+   }
+  ]
+ },
+ "bob-kahn": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "marc-andreessen": {
+  "query": "Cedar Falls, Iowa",
+  "results": [
+   {
+    "lat": 42.5361805,
+    "lon": -92.447758,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cedar Falls",
+    "display": "Cedar Falls, Black Hawk County, Iowa, United States",
+    "cc": "US",
+    "osm": "relation/128359"
+   }
+  ]
+ },
+ "jimmy-wales": {
+  "query": "Huntsville, Alabama",
+  "results": [
+   {
+    "lat": 34.729847,
+    "lon": -86.5859011,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Huntsville",
+    "display": "Huntsville, Madison County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/110673"
+   }
+  ]
+ },
+ "paul-baran": {
+  "query": "Hrodna, Belarus",
+  "results": [
+   {
+    "lat": 53.6834599,
+    "lon": 23.8342648,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hrodna",
+    "display": "Hrodna, Hrodna Region, Belarus",
+    "cc": "BY",
+    "osm": "relation/130921"
+   }
+  ]
+ },
+ "leonard-kleinrock": {
+  "query": "New York City",
+  "results": [
+   {
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "New York",
+    "display": "New York, United States",
+    "cc": "US",
+    "osm": "relation/175905"
+   }
+  ]
+ },
+ "donald-davies": {
+  "query": "Teddington, London",
+  "results": [
+   {
+    "lat": 51.4277844,
+    "lon": -0.333653,
+    "type": "town",
+    "category": "place",
+    "name": "Teddington",
+    "display": "Teddington, Greater London, England, TW11 8EE, United Kingdom",
+    "cc": "GB",
+    "osm": "node/16486527"
+   },
+   {
+    "lat": 51.4244662,
+    "lon": -0.3325731,
+    "type": "station",
+    "category": "railway",
+    "name": "Teddington",
+    "display": "Teddington, Station Road, Strawberry Hill, London Borough of Richmond upon Thames, Greater London, England, TW11 0BA, United Kingdom",
+    "cc": "GB",
+    "osm": "node/6023649381"
+   }
+  ]
+ },
+ "jcr-licklider": {
+  "query": "St. Louis, Missouri",
+  "results": [
+   {
+    "lat": 38.6254063,
+    "lon": -90.190009,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Louis",
+    "display": "Saint Louis, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/1180533"
+   }
+  ]
+ },
+ "robert-metcalfe": {
+  "query": "Palo Alto, California",
+  "results": [
+   {
+    "lat": 37.4443293,
+    "lon": -122.1598465,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Palo Alto",
+    "display": "Palo Alto, Santa Clara County, California, United States",
+    "cc": "US",
+    "osm": "relation/1544955"
+   }
+  ]
+ },
+ "martin-cooper": {
+  "query": "Chicago, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "shuji-nakamura": {
+  "query": "Ikata, Ehime, Japan",
+  "results": [
+   {
+    "lat": 33.4896014,
+    "lon": 132.3560996,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ikata",
+    "display": "Ikata, Nishi-Uwa County, Ehime Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4047630"
+   }
+  ]
+ },
+ "charles-kao": {
+  "query": "Shanghai, China",
+  "results": [
+   {
+    "lat": 31.2312707,
+    "lon": 121.4700152,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shanghai",
+    "display": "Shanghai, China",
+    "cc": "CN",
+    "osm": "relation/913067"
+   },
+   {
+    "lat": 31.2323437,
+    "lon": 121.4691024,
+    "type": "city",
+    "category": "place",
+    "name": "Shanghai",
+    "display": "Shanghai, Huangpu District, Shanghai, 200001, China",
+    "cc": "CN",
+    "osm": "node/778910398"
+   }
+  ]
+ },
+ "jack-kilby": {
+  "query": "Jefferson City, Missouri",
+  "results": [
+   {
+    "lat": 38.577359,
+    "lon": -92.1724265,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jefferson City",
+    "display": "Jefferson City, Cole County, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/140392"
+   }
+  ]
+ },
+ "hedy-lamarr": {
+  "query": "Vienna, Austria",
+  "results": [
+   {
+    "lat": 48.2083537,
+    "lon": 16.3725042,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vienna",
+    "display": "Vienna, Austria",
+    "cc": "AT",
+    "osm": "relation/109166"
+   }
+  ]
+ },
+ "philo-farnsworth": {
+  "query": "Beaver, Beaver County, Utah, United States",
+  "results": [
+   {
+    "lat": 38.2765305,
+    "lon": -112.640278,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beaver",
+    "display": "Beaver, Beaver County, Utah, United States",
+    "cc": "US",
+    "osm": "relation/198976"
+   }
+  ]
+ },
+ "john-logie-baird": {
+  "query": "Helensburgh, United Kingdom",
+  "results": [
+   {
+    "lat": 56.0033464,
+    "lon": -4.7342935,
+    "type": "town",
+    "category": "place",
+    "name": "Helensburgh",
+    "display": "Helensburgh, Argyll and Bute, Scotland, G84 7NY, United Kingdom",
+    "cc": "GB",
+    "osm": "node/26585673"
+   }
+  ]
+ },
+ "james-dyson": {
+  "query": "Cromer, United Kingdom",
+  "results": [
+   {
+    "lat": 52.9311367,
+    "lon": 1.3012758,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cromer",
+    "display": "Cromer, North Norfolk, Norfolk, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/1022284"
+   },
+   {
+    "lat": 52.9300536,
+    "lon": 1.2916476,
+    "type": "station",
+    "category": "railway",
+    "name": "Cromer",
+    "display": "Cromer, Holt Road, Cromer, East Runton, North Norfolk, Norfolk, England, NR27 9ST, United Kingdom",
+    "cc": "GB",
+    "osm": "node/82605869"
+   },
+   {
+    "lat": 51.9403297,
+    "lon": -0.1129736,
+    "type": "village",
+    "category": "place",
+    "name": "Cromer",
+    "display": "Cromer, East Hertfordshire, Hertfordshire, England, SG2 7PZ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/279799490"
+   }
+  ]
+ },
+ "willard-boyle": {
+  "query": "Amherst, Nova Scotia",
+  "results": [
+   {
+    "lat": 45.8192941,
+    "lon": -64.2333504,
+    "type": "bus_station",
+    "category": "amenity",
+    "name": "Amherst",
+    "display": "Amherst, Highway 6, West Amherst, Municipality of the County of Cumberland, Cumberland County, Nova Scotia, B4H 3Y4, Canada",
+    "cc": "CA",
+    "osm": "node/5856737089"
+   },
+   {
+    "lat": 45.8304907,
+    "lon": -64.2125854,
+    "type": "station",
+    "category": "railway",
+    "name": "Amherst",
+    "display": "Amherst, 27, Station Street, Amherst, Town of Amherst, Cumberland County, Nova Scotia, B4H 3A7, Canada",
+    "cc": "CA",
+    "osm": "node/1628593424"
+   },
+   {
+    "lat": 45.8286903,
+    "lon": -64.2040548,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Amherst",
+    "display": "Amherst, Town of Amherst, Cumberland County, Nova Scotia, Canada",
+    "cc": "CA",
+    "osm": "relation/9181806"
+   }
+  ]
+ },
+ "robert-noyce": {
+  "query": "Grinnell, Iowa",
+  "results": [
+   {
+    "lat": 41.7430237,
+    "lon": -92.7239637,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Grinnell",
+    "display": "Grinnell, Grant Township, Poweshiek County, Iowa, 50112, United States",
+    "cc": "US",
+    "osm": "relation/128866"
+   }
+  ]
+ },
+ "shigeru-miyamoto": {
+  "query": "Sonobe, Nantan, Kyoto",
+  "results": [
+   {
+    "lat": 35.1024868,
+    "lon": 135.483138,
+    "type": "station",
+    "category": "railway",
+    "name": "Sonobe",
+    "display": "Sonobe, Sonobe Station Line, Sonobecho-Oyamahigashimachi, Nantan, Kyoto Prefecture, 622-0041, Japan",
+    "cc": "JP",
+    "osm": "node/265963108"
+   },
+   {
+    "lat": 35.1020075,
+    "lon": 135.4836518,
+    "type": "platform",
+    "category": "railway",
+    "name": "Sonobe",
+    "display": "Sonobe, Sonobe Station Line, Sonobecho-Oyamahigashimachi, Nantan, Kyoto Prefecture, 622-0041, Japan",
+    "cc": "JP",
+    "osm": "way/488342332"
+   },
+   {
+    "lat": 35.1028446,
+    "lon": 135.4827944,
+    "type": "stop",
+    "category": "railway",
+    "name": "Sonobe",
+    "display": "Sonobe, Sonobe Station Line, Sonobecho-Oyamahigashimachi, Nantan, Kyoto Prefecture, 622-0041, Japan",
+    "cc": "JP",
+    "osm": "node/5382820679"
+   }
+  ]
+ },
+ "toru-iwatani": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "yuji-horii": {
+  "query": "Waseda University, Tokyo",
+  "results": [
+   {
+    "lat": 35.7091798,
+    "lon": 139.7197213,
+    "type": "university",
+    "category": "amenity",
+    "name": "Waseda University Waseda Campus",
+    "display": "Waseda University Waseda Campus, 1, Nishi-Waseda 1, Shinjuku, Tokyo, 169-8050, Japan",
+    "cc": "JP",
+    "osm": "relation/8115838"
+   }
+  ]
+ },
+ "roberta-williams": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "ralph-baer": {
+  "query": "Pirmasens, Germany",
+  "results": [
+   {
+    "lat": 49.1996961,
+    "lon": 7.6087847,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pirmasens",
+    "display": "Pirmasens, Rhineland-Palatinate, Germany",
+    "cc": "DE",
+    "osm": "relation/62642"
+   }
+  ]
+ },
+ "richard-garriott": {
+  "query": "Cambridge, England",
+  "results": [
+   {
+    "lat": 52.1975846,
+    "lon": 0.1391537,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cambridge",
+    "display": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/295355"
+   },
+   {
+    "lat": 52.2055314,
+    "lon": 0.1186637,
+    "type": "city",
+    "category": "place",
+    "name": "Cambridge",
+    "display": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3NR, United Kingdom",
+    "cc": "GB",
+    "osm": "node/20971094"
+   }
+  ]
+ },
+ "john-carmack": {
+  "query": "Kansas City, Missouri",
+  "results": [
+   {
+    "lat": 39.100105,
+    "lon": -94.5781416,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kansas City",
+    "display": "Kansas City, Jackson County, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/141008"
+   }
+  ]
+ },
+ "william-higinbotham": {
+  "query": "Brookhaven National Laboratory",
+  "results": [
+   {
+    "lat": 40.8745102,
+    "lon": -72.8667428,
+    "type": "commercial",
+    "category": "landuse",
+    "name": "Brookhaven National Laboratory",
+    "display": "Brookhaven National Laboratory, Ridge, Town of Brookhaven, Suffolk County, New York, 11973, United States",
+    "cc": "US",
+    "osm": "relation/18896697"
+   }
+  ]
+ },
+ "steve-russell": {
+  "query": "Massachusetts Institute of Technology",
+  "results": [
+   {
+    "lat": 42.3582529,
+    "lon": -71.0966272,
+    "type": "university",
+    "category": "amenity",
+    "name": "Massachusetts Institute of Technology",
+    "display": "Massachusetts Institute of Technology, Storrow Drive, Back Bay, Cambridge, Suffolk County, Massachusetts, 02199, United States",
+    "cc": "US",
+    "osm": "relation/65066"
+   }
+  ]
+ },
+ "nolan-bushnell": {
+  "query": "University of Utah",
+  "results": [
+   {
+    "lat": 40.7628137,
+    "lon": -111.8368719,
+    "type": "university",
+    "category": "amenity",
+    "name": "University of Utah",
+    "display": "University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States",
+    "cc": "US",
+    "osm": "way/238655718"
+   }
+  ]
+ },
+ "george-devol": {
+  "query": "Louisville, Kentucky",
+  "results": [
+   {
+    "lat": 38.2542376,
+    "lon": -85.759407,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Louisville",
+    "display": "Louisville, Jefferson County, Kentucky, United States",
+    "cc": "US",
+    "osm": "relation/1804307"
+   }
+  ]
+ },
+ "joseph-engelberger": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "hiroshi-ishiguro": {
+  "query": "Osaka University, Suita",
+  "results": [
+   {
+    "lat": 34.8230803,
+    "lon": 135.5199462,
+    "type": "bicycle_rental",
+    "category": "amenity",
+    "name": "Osaka University Suita Campus, Senri-mon Gate",
+    "display": "Osaka University Suita Campus, Senri-mon Gate, さくら環状通り, Yamadaoka, Suita, Osaka Prefecture, 565-0871, Japan",
+    "cc": "JP",
+    "osm": "node/11036637425"
+   },
+   {
+    "lat": 34.8229392,
+    "lon": 135.5257577,
+    "type": "research_institute",
+    "category": "amenity",
+    "name": "Institute of Social and Economic Research, University of Osaka",
+    "display": "Institute of Social and Economic Research, University of Osaka, さくら環状通り, Yamadaoka, Suita, Osaka Prefecture, 565-0871, Japan",
+    "cc": "JP",
+    "osm": "node/13742756337"
+   },
+   {
+    "lat": 34.8172209,
+    "lon": 135.5229717,
+    "type": "bicycle_rental",
+    "category": "amenity",
+    "name": "Osaka University Suita Campus, Gymnasium",
+    "display": "Osaka University Suita Campus, Gymnasium, 中央通り, Yamadaoka, Suita, Osaka Prefecture, 565-0871, Japan",
+    "cc": "JP",
+    "osm": "node/11036637422"
+   }
+  ]
+ },
+ "daniela-rus": {
+  "query": "Massachusetts Institute of Technology",
+  "results": [
+   {
+    "lat": 42.3582529,
+    "lon": -71.0966272,
+    "type": "university",
+    "category": "amenity",
+    "name": "Massachusetts Institute of Technology",
+    "display": "Massachusetts Institute of Technology, Storrow Drive, Back Bay, Cambridge, Suffolk County, Massachusetts, 02199, United States",
+    "cc": "US",
+    "osm": "relation/65066"
+   }
+  ]
+ },
+ "rodney-brooks": {
+  "query": "Adelaide, Australia",
+  "results": [
+   {
+    "lat": -34.9281805,
+    "lon": 138.5999312,
+    "type": "city",
+    "category": "place",
+    "name": "Adelaide",
+    "display": "Adelaide, South Australia, Australia",
+    "cc": "AU",
+    "osm": "relation/11381689"
+   },
+   {
+    "lat": -34.9261502,
+    "lon": 138.6006231,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Adelaide",
+    "display": "Adelaide, South Australia, 5000, Australia",
+    "cc": "AU",
+    "osm": "relation/3114051"
+   },
+   {
+    "lat": -34.9211019,
+    "lon": 138.5972625,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Adelaide City Council",
+    "display": "Adelaide City Council, South Australia, Australia",
+    "cc": "AU",
+    "osm": "relation/3093825"
+   }
+  ]
+ },
+ "hans-moravec": {
+  "query": "Carnegie Mellon University",
+  "results": [
+   {
+    "lat": 40.4439193,
+    "lon": -79.9428267,
+    "type": "university",
+    "category": "amenity",
+    "name": "Carnegie Mellon University",
+    "display": "Carnegie Mellon University, Varsity Walk, North Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",
+    "cc": "US",
+    "osm": "relation/2279034"
+   },
+   {
+    "lat": -34.9281253,
+    "lon": 138.6011844,
+    "type": "university",
+    "category": "amenity",
+    "name": "Carnegie Mellon University",
+    "display": "Carnegie Mellon University, Victoria Place, Adelaide, South Australia, 5000, Australia",
+    "cc": "AU",
+    "osm": "way/194854309"
+   }
+  ]
+ },
+ "isaac-asimov": {
+  "query": "Петровичи, Шумячский район, Смоленская область",
+  "results": [
+   {
+    "lat": 53.9765145,
+    "lon": 32.1597554,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Петровичи",
+    "display": "Петровичи, Shumyachsky District, Smolensk Oblast, Central Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/3582408"
+   }
+  ]
+ },
+ "karel-capek": {
+  "query": "Prague, Czech Republic",
+  "results": [
+   {
+    "lat": 50.0874654,
+    "lon": 14.4212535,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Prague",
+    "display": "Prague, Czechia",
+    "cc": "CZ",
+    "osm": "relation/435514"
+   }
+  ]
+ },
+ "grey-walter": {
+  "query": "Bristol, United Kingdom",
+  "results": [
+   {
+    "lat": 51.4430141,
+    "lon": -2.5816622,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/57539"
+   },
+   {
+    "lat": 51.4538022,
+    "lon": -2.5972985,
+    "type": "city",
+    "category": "place",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/5746665"
+   }
+  ]
+ },
+ "dean-kamen": {
+  "query": "Rockville Centre, New York",
+  "results": [
+   {
+    "lat": 40.6574186,
+    "lon": -73.6450664,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Village of Rockville Centre",
+    "display": "Village of Rockville Centre, Town of Hempstead, Nassau County, New York, 11570, United States",
+    "cc": "US",
+    "osm": "relation/174422"
+   }
+  ]
+ },
+ "wernher-von-braun": {
+  "query": "Wyrzysk, Poland",
+  "results": [
+   {
+    "lat": 53.1569822,
+    "lon": 17.2627004,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Wyrzysk",
+    "display": "Wyrzysk, gmina Wyrzysk, Piła County, Greater Poland Voivodeship, 89-300, Poland",
+    "cc": "PL",
+    "osm": "relation/2718412"
+   }
+  ]
+ },
+ "sergei-korolev": {
+  "query": "Zhytomyr, Zhytomyr Raion, Ukraine",
+  "results": [
+   {
+    "lat": 50.2601065,
+    "lon": 28.6696281,
+    "type": "city",
+    "category": "place",
+    "name": "Zhytomyr",
+    "display": "Zhytomyr, Zhytomyr Urban Hromada, Zhytomyr Raion, Zhytomyr Oblast, Ukraine",
+    "cc": "UA",
+    "osm": "relation/2692156"
+   }
+  ]
+ },
+ "robert-goddard": {
+  "query": "Worcester, Massachusetts",
+  "results": [
+   {
+    "lat": 42.2625621,
+    "lon": -71.8018877,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Worcester",
+    "display": "Worcester, Worcester County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/1844209"
+   },
+   {
+    "lat": 42.3705781,
+    "lon": -71.8677242,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Worcester County",
+    "display": "Worcester County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/1838805"
+   }
+  ]
+ },
+ "hermann-oberth": {
+  "query": "Sibiu, Romania",
+  "results": [
+   {
+    "lat": 45.7973912,
+    "lon": 24.1519202,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sibiu",
+    "display": "Sibiu, Romania",
+    "cc": "RO",
+    "osm": "relation/9846497"
+   },
+   {
+    "lat": 45.888796,
+    "lon": 24.237426,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sibiu",
+    "display": "Sibiu, Romania",
+    "cc": "RO",
+    "osm": "relation/2248586"
+   }
+  ]
+ },
+ "katherine-johnson": {
+  "query": "White Sulphur Springs, West Virginia",
+  "results": [
+   {
+    "lat": 37.7965149,
+    "lon": -80.2975734,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "White Sulphur Springs",
+    "display": "White Sulphur Springs, Greenbrier County, West Virginia, 24986, United States",
+    "cc": "US",
+    "osm": "relation/239927"
+   }
+  ]
+ },
+ "vikram-sarabhai": {
+  "query": "Ahmedabad, India",
+  "results": [
+   {
+    "lat": 23.0215374,
+    "lon": 72.5800568,
+    "type": "city",
+    "category": "place",
+    "name": "Ahmedabad",
+    "display": "Ahmedabad, Gujarat, 380001, India",
+    "cc": "IN",
+    "osm": "node/245711197"
+   },
+   {
+    "lat": 22.745539,
+    "lon": 72.2974907,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Ahmedabad",
+    "display": "Ahmedabad, Gujarat, India",
+    "cc": "IN",
+    "osm": "relation/1953566"
+   }
+  ]
+ },
+ "yuri-gagarin": {
+  "query": "Gagarin, Smolensk Oblast",
+  "results": [
+   {
+    "lat": 55.553306,
+    "lon": 34.9968416,
+    "type": "town",
+    "category": "place",
+    "name": "Gagarin",
+    "display": "Gagarin, Gagarinsky District, Smolensk Oblast, Central Federal District, 215010, Russia",
+    "cc": "RU",
+    "osm": "relation/4481321"
+   }
+  ]
+ },
+ "neil-armstrong": {
+  "query": "Wapakoneta, Ohio",
+  "results": [
+   {
+    "lat": 40.5678265,
+    "lon": -84.1935594,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Wapakoneta",
+    "display": "Wapakoneta, Duchouquet Township, Auglaize County, Ohio, 45895, United States",
+    "cc": "US",
+    "osm": "relation/182636"
+   }
+  ]
+ },
+ "brian-chesky": {
+  "query": "San Francisco, United States",
+  "results": [
+   {
+    "lat": 37.7879363,
+    "lon": -122.4075201,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Francisco",
+    "display": "San Francisco, California, United States",
+    "cc": "US",
+    "osm": "relation/111968"
+   }
+  ]
+ },
+ "daniel-ek": {
+  "query": "Stockholm, Sweden",
+  "results": [
+   {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "type": "city",
+    "category": "place",
+    "name": "Stockholm",
+    "display": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+    "cc": "SE",
+    "osm": "node/25929985"
+   },
+   {
+    "lat": 59.3336131,
+    "lon": 18.0275091,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Stockholm Municipality",
+    "display": "Stockholm Municipality, Stockholm County, Sweden",
+    "cc": "SE",
+    "osm": "relation/398021"
+   }
+  ]
+ },
+ "jack-dorsey": {
+  "query": "St. Louis, Missouri",
+  "results": [
+   {
+    "lat": 38.6254063,
+    "lon": -90.190009,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Louis",
+    "display": "Saint Louis, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/1180533"
+   }
+  ]
+ },
+ "reed-hastings": {
+  "query": "Boston, United States",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   },
+   {
+    "lat": 33.4415086,
+    "lon": -94.4196452,
+    "type": "village",
+    "category": "place",
+    "name": "Boston",
+    "display": "Boston, New Boston, Bowie County, Texas, 75570, United States",
+    "cc": "US",
+    "osm": "node/151534347"
+   },
+   {
+    "lat": 42.6289858,
+    "lon": -78.7376213,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Boston",
+    "display": "Town of Boston, Erie County, New York, 14025, United States",
+    "cc": "US",
+    "osm": "relation/13642223"
+   }
+  ]
+ },
+ "stewart-butterfield": {
+  "query": "Lund, British Columbia",
+  "results": [
+   {
+    "lat": 49.9815954,
+    "lon": -124.7592445,
+    "type": "village",
+    "category": "place",
+    "name": "Lund",
+    "display": "Lund, Area A (Malaspina/Toba), qathet Regional District, British Columbia, V0N 2G0, Canada",
+    "cc": "CA",
+    "osm": "node/492386226"
+   },
+   {
+    "lat": 50.7537544,
+    "lon": -119.2402815,
+    "type": "path",
+    "category": "highway",
+    "name": "Lund",
+    "display": "Lund, Canoe, Salmon Arm, Columbia-Shuswap Regional District, British Columbia, V0E 1K0, Canada",
+    "cc": "CA",
+    "osm": "way/644710274"
+   },
+   {
+    "lat": 49.9819955,
+    "lon": -124.7612635,
+    "type": "post_office",
+    "category": "amenity",
+    "name": "Lund",
+    "display": "Lund, Lund Road, Lund, Area A (Malaspina/Toba), qathet Regional District, British Columbia, V0N 2G0, Canada",
+    "cc": "CA",
+    "osm": "node/7238189888"
+   }
+  ]
+ },
+ "travis-kalanick": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0536923,
+    "lon": -118.2427676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "sam-altman": {
+  "query": "Chicago, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "jerry-yang": {
+  "query": "Stanford University",
+  "results": [
+   {
+    "lat": 37.4313138,
+    "lon": -122.1693654,
+    "type": "university",
+    "category": "amenity",
+    "name": "Stanford University",
+    "display": "Stanford University, 450, Jane Stanford Way, Stanford, Santa Clara County, California, 94305, United States",
+    "cc": "US",
+    "osm": "way/29268613"
+   }
+  ]
+ },
+ "pony-ma": {
+  "query": "Chaoyang District, Shantou",
+  "results": [
+   {
+    "lat": 23.268449,
+    "lon": 116.5969864,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chaoyang District",
+    "display": "Chaoyang District, Shantou, Guangdong, China",
+    "cc": "CN",
+    "osm": "relation/3283304"
+   }
+  ]
+ },
+ "charles-babbage": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "ada-lovelace": {
+  "query": "Piccadilly, London",
+  "results": [
+   {
+    "lat": 51.5047457,
+    "lon": -0.1466482,
+    "type": "primary",
+    "category": "highway",
+    "name": "Piccadilly",
+    "display": "Piccadilly, Mayfair, City of Westminster, Greater London, England, W1J 7NN, United Kingdom",
+    "cc": "GB",
+    "osm": "way/244896405"
+   },
+   {
+    "lat": 51.5031745,
+    "lon": -0.1516336,
+    "type": "trunk",
+    "category": "highway",
+    "name": "Piccadilly",
+    "display": "Piccadilly, Belgravia, City of Westminster, Greater London, England, W1J 7NT, United Kingdom",
+    "cc": "GB",
+    "osm": "way/673531685"
+   },
+   {
+    "lat": 51.5097307,
+    "lon": -0.1348996,
+    "type": "primary",
+    "category": "highway",
+    "name": "Piccadilly",
+    "display": "Piccadilly, St. James's, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1J 9HW, United Kingdom",
+    "cc": "GB",
+    "osm": "way/1135565526"
+   }
+  ]
+ },
+ "grace-hopper": {
+  "query": "Harvard Yard, Cambridge, Massachusetts",
+  "results": [
+   {
+    "lat": 42.3740899,
+    "lon": -71.1167159,
+    "type": "neighbourhood",
+    "category": "place",
+    "name": "Harvard Yard",
+    "display": "Harvard Yard, 2, Mid-Cambridge, Cambridge, Middlesex County, Massachusetts, 02138, United States",
+    "cc": "US",
+    "osm": "relation/17336107"
+   }
+  ]
+ },
+ "john-von-neumann": {
+  "query": "Budapest, Hungary",
+  "results": [
+   {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/1244004"
+   },
+   {
+    "lat": 47.481849,
+    "lon": 19.1449053,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/37244"
+   }
+  ]
+ },
+ "herman-hollerith": {
+  "query": "Buffalo, New York",
+  "results": [
+   {
+    "lat": 42.8864163,
+    "lon": -78.8781493,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Buffalo",
+    "display": "Buffalo, Erie County, New York, United States",
+    "cc": "US",
+    "osm": "relation/175031"
+   }
+  ]
+ },
+ "claude-shannon": {
+  "query": "Petoskey, Michigan",
+  "results": [
+   {
+    "lat": 45.373343,
+    "lon": -84.95533,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Petoskey",
+    "display": "Petoskey, Emmet County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/135002"
+   }
+  ]
+ },
+ "edsger-dijkstra": {
+  "query": "Rotterdam, Netherlands",
+  "results": [
+   {
+    "lat": 51.9244424,
+    "lon": 4.47775,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rotterdam",
+    "display": "Rotterdam, South Holland, Netherlands",
+    "cc": "NL",
+    "osm": "relation/1411101"
+   },
+   {
+    "lat": 51.9233986,
+    "lon": 4.4895681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rotterdam",
+    "display": "Rotterdam, South Holland, Netherlands",
+    "cc": "NL",
+    "osm": "relation/324431"
+   }
+  ]
+ },
+ "gordon-moore": {
+  "query": "Palo Alto, California",
+  "results": [
+   {
+    "lat": 37.4443293,
+    "lon": -122.1598465,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Palo Alto",
+    "display": "Palo Alto, Santa Clara County, California, United States",
+    "cc": "US",
+    "osm": "relation/1544955"
+   }
+  ]
+ },
+ "douglas-engelbart": {
+  "query": "Portland, Oregon",
+  "results": [
+   {
+    "lat": 45.5202471,
+    "lon": -122.674194,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Portland",
+    "display": "Portland, Multnomah County, Oregon, United States",
+    "cc": "US",
+    "osm": "relation/186579"
+   }
+  ]
+ }
+}

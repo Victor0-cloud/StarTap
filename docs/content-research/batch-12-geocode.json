@@ -1,0 +1,1992 @@
+{
+ "abraham-lincoln": {
+  "query": "Hodgenville, Kentucky",
+  "results": [
+   {
+    "lat": 37.5737487,
+    "lon": -85.740353,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hodgenville",
+    "display": "Hodgenville, Larue County, Kentucky, United States",
+    "cc": "US",
+    "osm": "relation/130589"
+   }
+  ]
+ },
+ "winston-churchill": {
+  "query": "Woodstock, Oxfordshire",
+  "results": [
+   {
+    "lat": 51.8474887,
+    "lon": -1.3545343,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Woodstock",
+    "display": "Woodstock, West Oxfordshire, Oxfordshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/4209853"
+   }
+  ]
+ },
+ "joan-of-arc": {
+  "query": "Orléans, France",
+  "results": [
+   {
+    "lat": 47.9027336,
+    "lon": 1.9086066,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Orléans",
+    "display": "Orléans, Loiret, Centre-Val de Loire, Metropolitan France, 45000, France",
+    "cc": "FR",
+    "osm": "relation/147559"
+   },
+   {
+    "lat": 47.867271,
+    "lon": 1.997936,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Orléans",
+    "display": "Orléans, Loiret, Centre-Val de Loire, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1664501"
+   }
+  ]
+ },
+ "simon-bolivar": {
+  "query": "Caracas, Venezuela",
+  "results": [
+   {
+    "lat": 10.5060934,
+    "lon": -66.9146008,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Caracas",
+    "display": "Caracas, Parroquia Catedral, Municipio Libertador, Caracas Metropolitan District, Capital District, Venezuela",
+    "cc": "VE",
+    "osm": "relation/11219583"
+   }
+  ]
+ },
+ "kwame-nkrumah": {
+  "query": "Nkroful, Ghana",
+  "results": [
+   {
+    "lat": 4.967695,
+    "lon": -2.322883,
+    "type": "town",
+    "category": "place",
+    "name": "Nkroful",
+    "display": "Nkroful, Ellembelle District, Western Region, Ghana",
+    "cc": "GH",
+    "osm": "node/4351401792"
+   },
+   {
+    "lat": 6.0896858,
+    "lon": -2.0052038,
+    "type": "village",
+    "category": "place",
+    "name": "Nkroful",
+    "display": "Nkroful, Upper Denkyira West District, Central Region, Ghana",
+    "cc": "GH",
+    "osm": "node/2177559534"
+   }
+  ]
+ },
+ "ataturk": {
+  "query": "Thessaloniki, Greece",
+  "results": [
+   {
+    "lat": 40.6403167,
+    "lon": 22.9352716,
+    "type": "city",
+    "category": "place",
+    "name": "Thessaloniki",
+    "display": "Thessaloniki, Thessaloniki Municipal Unit, Municipality of Thessaloniki, Thessaloniki Regional Unit, Central Macedonia, Macedonia and Thrace, 540 12, Greece",
+    "cc": "GR",
+    "osm": "node/57554537"
+   },
+   {
+    "lat": 40.6513841,
+    "lon": 23.1750374,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Thessaloniki Regional Unit",
+    "display": "Thessaloniki Regional Unit, Central Macedonia, Macedonia and Thrace, Greece",
+    "cc": "GR",
+    "osm": "relation/563230"
+   }
+  ]
+ },
+ "george-washington": {
+  "query": "Mount Vernon, Fairfax County, Virginia",
+  "results": [
+   {
+    "lat": 38.710179,
+    "lon": -77.0888199,
+    "type": "attraction",
+    "category": "tourism",
+    "name": "George Washington's Mount Vernon",
+    "display": "George Washington's Mount Vernon, 3200, Mount Vernon Memorial Highway, Mount Vernon, Fairfax County, Virginia, 22121, United States",
+    "cc": "US",
+    "osm": "way/232724526"
+   },
+   {
+    "lat": 38.7123465,
+    "lon": -77.1020937,
+    "type": "census",
+    "category": "boundary",
+    "name": "Mount Vernon",
+    "display": "Mount Vernon, Fairfax County, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/206825"
+   },
+   {
+    "lat": 38.7112772,
+    "lon": -77.0861811,
+    "type": "town",
+    "category": "place",
+    "name": "Mount Vernon",
+    "display": "Mount Vernon, Fairfax County, Virginia, 22121, United States",
+    "cc": "US",
+    "osm": "node/3945202739"
+   }
+  ]
+ },
+ "bruce-lee": {
+  "query": "San Francisco, United States",
+  "results": [
+   {
+    "lat": 37.7879363,
+    "lon": -122.4075201,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Francisco",
+    "display": "San Francisco, California, United States",
+    "cc": "US",
+    "osm": "relation/111968"
+   }
+  ]
+ },
+ "marilyn-monroe": {
+  "query": "Los Angeles, United States",
+  "results": [
+   {
+    "lat": 34.0522185,
+    "lon": -118.2433953,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles",
+    "display": "Los Angeles, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/207359"
+   },
+   {
+    "lat": 34.3155072,
+    "lon": -118.209681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Los Angeles County",
+    "display": "Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/396479"
+   }
+  ]
+ },
+ "princess-diana": {
+  "query": "Sandringham, Norfolk",
+  "results": [
+   {
+    "lat": 52.8427652,
+    "lon": 0.4318137,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sandringham",
+    "display": "Sandringham, King's Lynn and West Norfolk, Norfolk, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/1022734"
+   },
+   {
+    "lat": 52.8294495,
+    "lon": 0.5156262,
+    "type": "village",
+    "category": "place",
+    "name": "Sandringham",
+    "display": "Sandringham, King's Lynn and West Norfolk, Norfolk, England, PE35 6EE, United Kingdom",
+    "cc": "GB",
+    "osm": "node/457313885"
+   }
+  ]
+ },
+ "charlie-chaplin": {
+  "query": "London, United Kingdom",
+  "results": [
+   {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Greater London",
+    "display": "Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/175342"
+   },
+   {
+    "lat": 51.5156177,
+    "lon": -0.0919983,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of London",
+    "display": "City of London, Greater London, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/51800"
+   }
+  ]
+ },
+ "mother-teresa": {
+  "query": "Skopje, North Macedonia",
+  "results": [
+   {
+    "lat": 41.9962164,
+    "lon": 21.4318935,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Skopje",
+    "display": "Skopje, City of Skopje, North Macedonia",
+    "cc": "MK",
+    "osm": "relation/6966465"
+   }
+  ]
+ },
+ "florence-nightingale": {
+  "query": "Florence, Italy",
+  "results": [
+   {
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42602"
+   },
+   {
+    "lat": 43.8456527,
+    "lon": 11.3743092,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42472"
+   }
+  ]
+ },
+ "albert-schweitzer": {
+  "query": "Lambaréné, Gabon",
+  "results": [
+   {
+    "lat": -0.6942603,
+    "lon": 10.2236482,
+    "type": "city",
+    "category": "place",
+    "name": "Lambarene",
+    "display": "Lambarene, Ogooué et Lacs, Moyen-Ogooué Province, Gabon",
+    "cc": "GA",
+    "osm": "node/331144234"
+   }
+  ]
+ },
+ "henry-dunant": {
+  "query": "Geneva, Switzerland",
+  "results": [
+   {
+    "lat": 46.2017559,
+    "lon": 6.1466014,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Geneva",
+    "display": "Geneva, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1685488"
+   },
+   {
+    "lat": 46.2256509,
+    "lon": 6.1439209,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Geneva",
+    "display": "Geneva, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1702419"
+   }
+  ]
+ },
+ "desmond-tutu": {
+  "query": "Johannesburg, South Africa",
+  "results": [
+   {
+    "lat": -26.205,
+    "lon": 28.049722,
+    "type": "city",
+    "category": "place",
+    "name": "Johannesburg",
+    "display": "Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",
+    "cc": "ZA",
+    "osm": "node/261833893"
+   }
+  ]
+ },
+ "kailash-satyarthi": {
+  "query": "Vidisha, India",
+  "results": [
+   {
+    "lat": 23.8463004,
+    "lon": 77.8370209,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vidisha",
+    "display": "Vidisha, Madhya Pradesh, India",
+    "cc": "IN",
+    "osm": "relation/1976082"
+   },
+   {
+    "lat": 23.5208128,
+    "lon": 77.8063184,
+    "type": "city",
+    "category": "place",
+    "name": "Vidisha",
+    "display": "Vidisha, Vidisha NagarTahsil, Vidisha, Madhya Pradesh, 464001, India",
+    "cc": "IN",
+    "osm": "node/7020623886"
+   }
+  ]
+ },
+ "raoul-wallenberg": {
+  "query": "Budapest, Hungary",
+  "results": [
+   {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/1244004"
+   },
+   {
+    "lat": 47.481849,
+    "lon": 19.1449053,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Budapest",
+    "display": "Budapest, Hungary",
+    "cc": "HU",
+    "osm": "relation/37244"
+   }
+  ]
+ },
+ "clara-barton": {
+  "query": "Bordentown, New Jersey",
+  "results": [
+   {
+    "lat": 40.1462685,
+    "lon": -74.7114508,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bordentown",
+    "display": "Bordentown, Burlington County, New Jersey, United States",
+    "cc": "US",
+    "osm": "relation/170924"
+   },
+   {
+    "lat": 40.1480628,
+    "lon": -74.6946311,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bordentown Township",
+    "display": "Bordentown Township, Burlington County, New Jersey, 08505, United States",
+    "cc": "US",
+    "osm": "relation/963136"
+   }
+  ]
+ },
+ "marco-polo": {
+  "query": "Venice, Italy",
+  "results": [
+   {
+    "lat": 45.4371908,
+    "lon": 12.3345898,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Venice",
+    "display": "Venice, Venezia, Veneto, 30121-30176, Italy",
+    "cc": "IT",
+    "osm": "relation/44741"
+   }
+  ]
+ },
+ "ibn-battuta": {
+  "query": "Tangier, Morocco",
+  "results": [
+   {
+    "lat": 35.7625681,
+    "lon": -5.8295062,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tangier",
+    "display": "Tangier, Pachalik de Tanger باشوية طنجة, Prefecture of Tangier - Assilah, Tangier-Tetouan-Al Hoceima, Morocco",
+    "cc": "MA",
+    "osm": "relation/2758781"
+   }
+  ]
+ },
+ "zheng-he": {
+  "query": "Kunming, China",
+  "results": [
+   {
+    "lat": 25.0399353,
+    "lon": 102.7169061,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kunming",
+    "display": "Kunming, Yunnan, China",
+    "cc": "CN",
+    "osm": "relation/2723597"
+   }
+  ]
+ },
+ "christopher-columbus": {
+  "query": "Genoa, Italy",
+  "results": [
+   {
+    "lat": 44.40726,
+    "lon": 8.9338624,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Genoa",
+    "display": "Genoa, Liguria, Italy",
+    "cc": "IT",
+    "osm": "relation/44875"
+   },
+   {
+    "lat": 44.4465809,
+    "lon": 9.0579566,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Genoa",
+    "display": "Genoa, Liguria, Italy",
+    "cc": "IT",
+    "osm": "relation/49135"
+   }
+  ]
+ },
+ "ferdinand-magellan": {
+  "query": "Mactan Island, Philippines",
+  "results": [
+   {
+    "lat": 10.2883092,
+    "lon": 123.9723466,
+    "type": "island",
+    "category": "place",
+    "name": "Mactan",
+    "display": "Mactan, Lapu-Lapu, Cebu, Central Visayas, Philippines",
+    "cc": "PH",
+    "osm": "relation/1506969"
+   }
+  ]
+ },
+ "vasco-da-gama": {
+  "query": "Lisbon, Portugal",
+  "results": [
+   {
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lisbon",
+    "display": "Lisbon, Portugal",
+    "cc": "PT",
+    "osm": "relation/5400890"
+   },
+   {
+    "lat": 38.9952469,
+    "lon": -9.1435928,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lisbon",
+    "display": "Lisbon, Portugal",
+    "cc": "PT",
+    "osm": "relation/2897141"
+   }
+  ]
+ },
+ "roald-amundsen": {
+  "query": "Borge, Fredrikstad, Norway",
+  "results": [
+   {
+    "lat": 59.2326972,
+    "lon": 11.0467222,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Borge",
+    "display": "Borge, Torp, Fredrikstad, Østfold, 1655, Norway",
+    "cc": "NO",
+    "osm": "node/6271664683"
+   },
+   {
+    "lat": 59.2499874,
+    "lon": 10.8740696,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Borge",
+    "display": "Borge, Fredrikstad, Østfold, 1623, Norway",
+    "cc": "NO",
+    "osm": "node/6271665042"
+   }
+  ]
+ },
+ "edmund-hillary": {
+  "query": "Auckland, New Zealand",
+  "results": [
+   {
+    "lat": -36.852095,
+    "lon": 174.7631803,
+    "type": "city",
+    "category": "place",
+    "name": "Auckland",
+    "display": "Auckland, Waitematā, Auckland, 1010, New Zealand",
+    "cc": "NZ",
+    "osm": "node/292806332"
+   },
+   {
+    "lat": -36.5412811,
+    "lon": 174.5506105,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Auckland",
+    "display": "Auckland, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/2094141"
+   },
+   {
+    "lat": -36.5412811,
+    "lon": 174.5506105,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Auckland",
+    "display": "Auckland, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/17000522"
+   }
+  ]
+ },
+ "james-cook": {
+  "query": "Marton, Middlesbrough",
+  "results": [
+   {
+    "lat": 54.544225,
+    "lon": -1.1983615,
+    "type": "station",
+    "category": "railway",
+    "name": "Marton",
+    "display": "Marton, B1380, Marton, Middlesbrough, Tees Valley, England, TS7 8AU, United Kingdom",
+    "cc": "GB",
+    "osm": "node/7198940520"
+   },
+   {
+    "lat": 54.5302684,
+    "lon": -1.19867,
+    "type": "suburb",
+    "category": "place",
+    "name": "Marton",
+    "display": "Marton, Middlesbrough, Tees Valley, England, TS7 8DX, United Kingdom",
+    "cc": "GB",
+    "osm": "node/11910884821"
+   },
+   {
+    "lat": 54.5284776,
+    "lon": -1.1990351,
+    "type": "residential",
+    "category": "landuse",
+    "name": "Marton",
+    "display": "Marton, Middlesbrough, Tees Valley, England, United Kingdom",
+    "cc": "GB",
+    "osm": "way/68896342"
+   }
+  ]
+ },
+ "ernest-shackleton": {
+  "query": "Kilkea, County Kildare, Ireland",
+  "results": [
+   {
+    "lat": 52.9482704,
+    "lon": -6.895288,
+    "type": "village",
+    "category": "place",
+    "name": "Kilkea",
+    "display": "Kilkea, The Municipal District of Athy, County Kildare, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "node/52247731"
+   },
+   {
+    "lat": 52.9411693,
+    "lon": -6.8963607,
+    "type": "civil_parish",
+    "category": "boundary",
+    "name": "Kilkea",
+    "display": "Kilkea, The Municipal District of Athy, County Kildare, Leinster, R14 XE97, Ireland",
+    "cc": "IE",
+    "osm": "relation/5822970"
+   }
+  ]
+ },
+ "thomas-edison": {
+  "query": "Milan, Ohio",
+  "results": [
+   {
+    "lat": 41.2975519,
+    "lon": -82.6054547,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Milan",
+    "display": "Milan, Milan Township, Erie County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182931"
+   }
+  ]
+ },
+ "nikola-tesla": {
+  "query": "Smiljan, Croatia",
+  "results": [
+   {
+    "lat": 44.5617506,
+    "lon": 15.3213967,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Smiljan",
+    "display": "Smiljan, Grad Gospić, Lika-Senj County, 53211, Croatia",
+    "cc": "HR",
+    "osm": "relation/15798092"
+   },
+   {
+    "lat": 44.5762355,
+    "lon": 15.3011139,
+    "type": "peak",
+    "category": "natural",
+    "name": "Smiljan",
+    "display": "Smiljan, Grad Gospić, Lika-Senj County, 53211, Croatia",
+    "cc": "HR",
+    "osm": "node/9064030750"
+   }
+  ]
+ },
+ "alexander-graham-bell": {
+  "query": "Boston, United States",
+  "results": [
+   {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Boston",
+    "display": "Boston, Suffolk County, Massachusetts, United States",
+    "cc": "US",
+    "osm": "relation/2315704"
+   },
+   {
+    "lat": 33.4415086,
+    "lon": -94.4196452,
+    "type": "village",
+    "category": "place",
+    "name": "Boston",
+    "display": "Boston, New Boston, Bowie County, Texas, 75570, United States",
+    "cc": "US",
+    "osm": "node/151534347"
+   },
+   {
+    "lat": 42.6289858,
+    "lon": -78.7376213,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Boston",
+    "display": "Town of Boston, Erie County, New York, 14025, United States",
+    "cc": "US",
+    "osm": "relation/13642223"
+   }
+  ]
+ },
+ "johannes-gutenberg": {
+  "query": "Mainz, Germany",
+  "results": [
+   {
+    "lat": 49.9995205,
+    "lon": 8.2736253,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mainz",
+    "display": "Mainz, Rhineland-Palatinate, Germany",
+    "cc": "DE",
+    "osm": "relation/62630"
+   }
+  ]
+ },
+ "guglielmo-marconi": {
+  "query": "Bologna, Italy",
+  "results": [
+   {
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bologna",
+    "display": "Bologna, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/43172"
+   },
+   {
+    "lat": 44.4333133,
+    "lon": 11.394493,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bologna",
+    "display": "Bologna, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/42856"
+   }
+  ]
+ },
+ "karl-benz": {
+  "query": "Mannheim, Germany",
+  "results": [
+   {
+    "lat": 49.4892913,
+    "lon": 8.4673098,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mannheim",
+    "display": "Mannheim, Baden-Württemberg, Germany",
+    "cc": "DE",
+    "osm": "relation/62691"
+   }
+  ]
+ },
+ "louis-braille": {
+  "query": "Coupvray, France",
+  "results": [
+   {
+    "lat": 48.8918983,
+    "lon": 2.7948137,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Coupvray",
+    "display": "Coupvray, Torcy, Seine-et-Marne, Ile-de-France, Metropolitan France, 77700, France",
+    "cc": "FR",
+    "osm": "relation/954801"
+   }
+  ]
+ },
+ "james-watt": {
+  "query": "Glasgow, United Kingdom",
+  "results": [
+   {
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "type": "city",
+    "category": "place",
+    "name": "Glasgow",
+    "display": "Glasgow, Glasgow City, Scotland, G2 1AL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/11127374"
+   }
+  ]
+ },
+ "orville-wright": {
+  "query": "Dayton, Ohio",
+  "results": [
+   {
+    "lat": 39.7589478,
+    "lon": -84.1916069,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dayton",
+    "display": "Dayton, Montgomery County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182954"
+   }
+  ]
+ },
+ "isaac-newton": {
+  "query": "Woolsthorpe-by-Colsterworth, Lincolnshire",
+  "results": [
+   {
+    "lat": 52.8096267,
+    "lon": -0.6322203,
+    "type": "village",
+    "category": "place",
+    "name": "Woolsthorpe",
+    "display": "Woolsthorpe, South Kesteven, Lincolnshire, Greater Lincolnshire, England, NG33 5NS, United Kingdom",
+    "cc": "GB",
+    "osm": "node/244180893"
+   }
+  ]
+ },
+ "galileo-galilei": {
+  "query": "Pisa, Italy",
+  "results": [
+   {
+    "lat": 43.4714722,
+    "lon": 10.6797912,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pisa",
+    "display": "Pisa, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42338"
+   },
+   {
+    "lat": 43.7159395,
+    "lon": 10.4018624,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pisa",
+    "display": "Pisa, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42527"
+   }
+  ]
+ },
+ "charles-darwin": {
+  "query": "Shrewsbury, United Kingdom",
+  "results": [
+   {
+    "lat": 52.707755,
+    "lon": -2.7540658,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shrewsbury",
+    "display": "Shrewsbury, Shropshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/4581086"
+   },
+   {
+    "lat": 52.7118509,
+    "lon": -2.7494043,
+    "type": "station",
+    "category": "railway",
+    "name": "Shrewsbury",
+    "display": "Shrewsbury, Howard Street, Greenfields, Shrewsbury, Shropshire, England, SY1 2LF, United Kingdom",
+    "cc": "GB",
+    "osm": "node/5071836748"
+   }
+  ]
+ },
+ "nicolaus-copernicus": {
+  "query": "Toruń, Poland",
+  "results": [
+   {
+    "lat": 53.0145361,
+    "lon": 18.5965831,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Toruń",
+    "display": "Toruń, Kuyavian-Pomeranian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/2633746"
+   },
+   {
+    "lat": 53.0102721,
+    "lon": 18.6048094,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Toruń",
+    "display": "Toruń, Kuyavian-Pomeranian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/1937072"
+   },
+   {
+    "lat": 51.0949792,
+    "lon": 23.1326053,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Toruń",
+    "display": "Toruń, gmina Rejowiec Fabryczny, Chełm County, Lublin Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/6851060"
+   }
+  ]
+ },
+ "louis-pasteur": {
+  "query": "Dole, Jura, France",
+  "results": [
+   {
+    "lat": 47.0921047,
+    "lon": 5.4925463,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dole",
+    "display": "Dole, Jura, Bourgogne – Franche-Comté, Metropolitan France, 39100, France",
+    "cc": "FR",
+    "osm": "relation/148676"
+   },
+   {
+    "lat": 47.0220547,
+    "lon": 5.5184968,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dole",
+    "display": "Dole, Jura, Bourgogne – Franche-Comté, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1684776"
+   }
+  ]
+ },
+ "cv-raman": {
+  "query": "Tiruchirappalli, India",
+  "results": [
+   {
+    "lat": 10.8071144,
+    "lon": 78.6880939,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tiruchirappalli",
+    "display": "Tiruchirappalli, Tiruchchirāppalli, Tiruchirappalli, Tamil Nadu, India",
+    "cc": "IN",
+    "osm": "relation/10318360"
+   },
+   {
+    "lat": 10.8504608,
+    "lon": 78.724533,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tiruchirappalli",
+    "display": "Tiruchirappalli, Tamil Nadu, India",
+    "cc": "IN",
+    "osm": "relation/1819323"
+   }
+  ]
+ },
+ "tu-youyou": {
+  "query": "Beijing, China",
+  "results": [
+   {
+    "lat": 39.9057136,
+    "lon": 116.3912972,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beijing",
+    "display": "Beijing, China",
+    "cc": "CN",
+    "osm": "relation/912940"
+   }
+  ]
+ },
+ "rosalind-franklin": {
+  "query": "Paris, France",
+  "results": [
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "william-shakespeare": {
+  "query": "Stratford-upon-Avon, United Kingdom",
+  "results": [
+   {
+    "lat": 52.1927803,
+    "lon": -1.70634,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Stratford-upon-Avon",
+    "display": "Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/3558037"
+   },
+   {
+    "lat": 52.1949449,
+    "lon": -1.7163038,
+    "type": "station",
+    "category": "railway",
+    "name": "Stratford-upon-Avon",
+    "display": "Stratford-upon-Avon, Stephenson Row, Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, CV37 6EQ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/31554736"
+   }
+  ]
+ },
+ "leo-tolstoy": {
+  "query": "Yasnaya Polyana, Tula Oblast",
+  "results": [
+   {
+    "lat": 54.070141,
+    "lon": 37.526737,
+    "type": "village",
+    "category": "place",
+    "name": "Yasnaya Polyana",
+    "display": "Yasnaya Polyana, Яснополянское сельское поселение, Щёкинский район, Tula Oblast, Central Federal District, 301214, Russia",
+    "cc": "RU",
+    "osm": "relation/19409728"
+   }
+  ]
+ },
+ "gabriel-garcia-marquez": {
+  "query": "Aracataca, Colombia",
+  "results": [
+   {
+    "lat": 10.5906011,
+    "lon": -74.1876803,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Aracataca",
+    "display": "Aracataca, Magdalena, RAP Caribe, 472001, Colombia",
+    "cc": "CO",
+    "osm": "relation/11890329"
+   }
+  ]
+ },
+ "wole-soyinka": {
+  "query": "Abeokuta, Nigeria",
+  "results": [
+   {
+    "lat": 7.161,
+    "lon": 3.348,
+    "type": "city",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565109"
+   },
+   {
+    "lat": 7.1376758,
+    "lon": 3.3657283,
+    "type": "town",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "cc": "NG",
+    "osm": "node/5728563921"
+   },
+   {
+    "lat": 10.839532,
+    "lon": 4.20094,
+    "type": "village",
+    "category": "place",
+    "name": "Abeokuta",
+    "display": "Abeokuta, Borgu, Niger State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501387192"
+   }
+  ]
+ },
+ "toni-morrison": {
+  "query": "Lorain, Lorain County, Ohio, United States",
+  "results": [
+   {
+    "lat": 41.4673238,
+    "lon": -82.1781904,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lorain",
+    "display": "Lorain, Lorain County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182299"
+   }
+  ]
+ },
+ "jane-austen": {
+  "query": "Steventon, Hampshire",
+  "results": [
+   {
+    "lat": 51.2289303,
+    "lon": -1.2190958,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Steventon",
+    "display": "Steventon, Ashe, Basingstoke and Deane, Hampshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/3811715"
+   }
+  ]
+ },
+ "rabindranath-tagore": {
+  "query": "Kolkata, India",
+  "results": [
+   {
+    "lat": 22.5726459,
+    "lon": 88.3638953,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kolkata",
+    "display": "Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India",
+    "cc": "IN",
+    "osm": "relation/9381363"
+   },
+   {
+    "lat": 22.5354262,
+    "lon": 88.3633146,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kolkata",
+    "display": "Kolkata, West Bengal, India",
+    "cc": "IN",
+    "osm": "relation/10371838"
+   }
+  ]
+ },
+ "miguel-de-cervantes": {
+  "query": "Alcalá de Henares, Spain",
+  "results": [
+   {
+    "lat": 40.481954,
+    "lon": -3.363981,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Alcalá de Henares",
+    "display": "Alcalá de Henares, Community of Madrid, Spain",
+    "cc": "ES",
+    "osm": "relation/345879"
+   }
+  ]
+ },
+ "leonardo-da-vinci": {
+  "query": "Vinci, Florence, Italy",
+  "results": [
+   {
+    "lat": 43.7873966,
+    "lon": 10.9271055,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vinci",
+    "display": "Vinci, Unione dei Comuni Circondario dell'Empolese Valdelsa, Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42603"
+   }
+  ]
+ },
+ "pablo-picasso": {
+  "query": "Barcelona, Spain",
+  "results": [
+   {
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Barcelonès, Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/347950"
+   },
+   {
+    "lat": 41.75787,
+    "lon": 2.031182,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/349035"
+   }
+  ]
+ },
+ "vincent-van-gogh": {
+  "query": "Zundert, Netherlands",
+  "results": [
+   {
+    "lat": 51.4858784,
+    "lon": 4.6542458,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zundert",
+    "display": "Zundert, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/2078298"
+   },
+   {
+    "lat": 51.4703878,
+    "lon": 4.6609892,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zundert",
+    "display": "Zundert, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/2716742"
+   }
+  ]
+ },
+ "michelangelo": {
+  "query": "Caprese Michelangelo, Italy",
+  "results": [
+   {
+    "lat": 43.6405741,
+    "lon": 11.9874471,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Caprese Michelangelo",
+    "display": "Caprese Michelangelo, Arezzo, Tuscany, 52033, Italy",
+    "cc": "IT",
+    "osm": "relation/42542"
+   }
+  ]
+ },
+ "claude-monet": {
+  "query": "Giverny, France",
+  "results": [
+   {
+    "lat": 49.0766185,
+    "lon": 1.5290285,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Giverny",
+    "display": "Giverny, Les Andelys, Eure, Normandy, Metropolitan France, 27620, France",
+    "cc": "FR",
+    "osm": "relation/74718"
+   }
+  ]
+ },
+ "hokusai": {
+  "query": "Tokyo, Japan",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "salvador-dali": {
+  "query": "Figueres, Spain",
+  "results": [
+   {
+    "lat": 42.2666314,
+    "lon": 2.9638434,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Figueres",
+    "display": "Figueres, Upper Empordà, Girona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/347769"
+   },
+   {
+    "lat": 39.9841331,
+    "lon": -0.5024074,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Higueras",
+    "display": "Higueras, l'Alt Palància, Castelló / Castellón, Valencian Community, Spain",
+    "cc": "ES",
+    "osm": "relation/346297"
+   }
+  ]
+ },
+ "diego-rivera": {
+  "query": "Guanajuato, Mexico",
+  "results": [
+   {
+    "lat": 20.9876996,
+    "lon": -101,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Guanajuato",
+    "display": "Guanajuato, Mexico",
+    "cc": "MX",
+    "osm": "relation/2340909"
+   },
+   {
+    "lat": 21.0158848,
+    "lon": -101.25284,
+    "type": "city",
+    "category": "place",
+    "name": "Guanajuato City",
+    "display": "Guanajuato City, Municipio de Guanajuato, Guanajuato, 36003, Mexico",
+    "cc": "MX",
+    "osm": "node/269907416"
+   }
+  ]
+ },
+ "el-anatsui": {
+  "query": "Nsukka, Nigeria",
+  "results": [
+   {
+    "lat": 6.8561,
+    "lon": 7.3927,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Nsukka",
+    "display": "Nsukka, Enugu State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3717225"
+   }
+  ]
+ },
+ "audrey-hepburn": {
+  "query": "Brussels, Belgium",
+  "results": [
+   {
+    "lat": 50.8467372,
+    "lon": 4.352493,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brussels",
+    "display": "Brussels, Brussels-Capital, Belgium",
+    "cc": "BE",
+    "osm": "relation/58274"
+   }
+  ]
+ },
+ "twiggy": {
+  "query": "Neasden, London",
+  "results": [
+   {
+    "lat": 51.5543358,
+    "lon": -0.250749,
+    "type": "station",
+    "category": "railway",
+    "name": "Neasden",
+    "display": "Neasden, Neasden Close, Dudden Hill, Dollis Hill, London Borough of Brent, Greater London, England, NW10 1PJ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/6307174159"
+   },
+   {
+    "lat": 51.5544596,
+    "lon": -0.2514685,
+    "type": "stop",
+    "category": "railway",
+    "name": "Neasden",
+    "display": "Neasden, Brendon Avenue, Dudden Hill, Dollis Hill, London Borough of Brent, Greater London, England, NW10 1ST, United Kingdom",
+    "cc": "GB",
+    "osm": "node/1698591428"
+   },
+   {
+    "lat": 51.5542925,
+    "lon": -0.2503503,
+    "type": "stop",
+    "category": "railway",
+    "name": "Neasden",
+    "display": "Neasden, Neasden Close, Dudden Hill, Dollis Hill, London Borough of Brent, Greater London, England, NW10 1PJ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/1698591356"
+   }
+  ]
+ },
+ "jacqueline-kennedy-onassis": {
+  "query": "Village of Southampton, New York",
+  "results": [
+   {
+    "lat": 40.8842482,
+    "lon": -72.3897131,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Village of Southampton",
+    "display": "Village of Southampton, Town of Southampton, Suffolk County, New York, United States",
+    "cc": "US",
+    "osm": "relation/175537"
+   },
+   {
+    "lat": 40.8842482,
+    "lon": -72.3897131,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Southampton",
+    "display": "Town of Southampton, Suffolk County, New York, United States",
+    "cc": "US",
+    "osm": "relation/14335701"
+   }
+  ]
+ },
+ "josephine-baker": {
+  "query": "St. Louis, Missouri",
+  "results": [
+   {
+    "lat": 38.6254063,
+    "lon": -90.190009,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Louis",
+    "display": "Saint Louis, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/1180533"
+   }
+  ]
+ },
+ "grace-kelly": {
+  "query": "Philadelphia, United States",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   },
+   {
+    "lat": 32.7703841,
+    "lon": -89.1153488,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Neshoba County, Mississippi, 39350, United States",
+    "cc": "US",
+    "osm": "relation/5740653"
+   }
+  ]
+ },
+ "frank-lloyd-wright": {
+  "query": "Richland Center, Wisconsin",
+  "results": [
+   {
+    "lat": 43.3355298,
+    "lon": -90.3854141,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Richland Center",
+    "display": "Richland Center, Richland County, Wisconsin, 53581, United States",
+    "cc": "US",
+    "osm": "relation/251082"
+   }
+  ]
+ },
+ "le-corbusier": {
+  "query": "La Chaux-de-Fonds, Switzerland",
+  "results": [
+   {
+    "lat": 47.1031321,
+    "lon": 6.8325778,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "La Chaux-de-Fonds",
+    "display": "La Chaux-de-Fonds, Région Montagnes, Neuchâtel, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1685495"
+   },
+   {
+    "lat": 47.0897213,
+    "lon": 6.8123375,
+    "type": "historic",
+    "category": "boundary",
+    "name": "District de La Chaux-de-Fonds",
+    "display": "District de La Chaux-de-Fonds, Région Montagnes, Neuchâtel, Switzerland",
+    "cc": "CH",
+    "osm": "relation/1689426"
+   }
+  ]
+ },
+ "antoni-gaudi": {
+  "query": "Barcelona, Spain",
+  "results": [
+   {
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Barcelonès, Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/347950"
+   },
+   {
+    "lat": 41.75787,
+    "lon": 2.031182,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Barcelona",
+    "display": "Barcelona, Catalonia, Spain",
+    "cc": "ES",
+    "osm": "relation/349035"
+   }
+  ]
+ },
+ "im-pei": {
+  "query": "Guangzhou, China",
+  "results": [
+   {
+    "lat": 23.1288429,
+    "lon": 113.2589581,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Guangzhou City",
+    "display": "Guangzhou City, Guangdong, China",
+    "cc": "CN",
+    "osm": "relation/3287346"
+   }
+  ]
+ },
+ "oscar-niemeyer": {
+  "query": "Brasília, Brazil",
+  "results": [
+   {
+    "lat": -15.7939869,
+    "lon": -47.8828,
+    "type": "city",
+    "category": "place",
+    "name": "Brasília",
+    "display": "Brasília, Plano Piloto, Federal District, Central-West Region, 70391-900, Brazil",
+    "cc": "BR",
+    "osm": "node/34567423"
+   },
+   {
+    "lat": -15.7754462,
+    "lon": -47.7970891,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Federal District",
+    "display": "Federal District, Central-West Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/421151"
+   }
+  ]
+ },
+ "tadao-ando": {
+  "query": "Osaka, Japan",
+  "results": [
+   {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Osaka",
+    "display": "Osaka, Osaka Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/358674"
+   },
+   {
+    "lat": 34.6198813,
+    "lon": 135.490357,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Osaka Prefecture",
+    "display": "Osaka Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/341906"
+   }
+  ]
+ },
+ "norman-foster": {
+  "query": "Manchester, United Kingdom",
+  "results": [
+   {
+    "lat": 53.4424618,
+    "lon": -2.2324547,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manchester",
+    "display": "Manchester, Greater Manchester, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/146656"
+   },
+   {
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "type": "city",
+    "category": "place",
+    "name": "Manchester",
+    "display": "Manchester, Lancashire, Greater Manchester, England, M60 2UH, United Kingdom",
+    "cc": "GB",
+    "osm": "node/294001443"
+   }
+  ]
+ },
+ "frank-gehry": {
+  "query": "Toronto, Canada",
+  "results": [
+   {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Toronto",
+    "display": "Toronto, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/324211"
+   }
+  ]
+ },
+ "kenzo-tange": {
+  "query": "Hiroshima, Japan",
+  "results": [
+   {
+    "lat": 34.3917241,
+    "lon": 132.4517589,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hiroshima",
+    "display": "Hiroshima, Hiroshima Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4097196"
+   }
+  ]
+ },
+ "henry-ford": {
+  "query": "Detroit, United States",
+  "results": [
+   {
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Wayne County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134591"
+   },
+   {
+    "lat": 33.6629825,
+    "lon": -95.2662526,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Red River County, Texas, 75436, United States",
+    "cc": "US",
+    "osm": "relation/9244570"
+   },
+   {
+    "lat": 39.6205965,
+    "lon": -90.676732,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Detroit",
+    "display": "Detroit, Pike County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/127012"
+   }
+  ]
+ },
+ "andrew-carnegie": {
+  "query": "Dunfermline, United Kingdom",
+  "results": [
+   {
+    "lat": 56.0713724,
+    "lon": -3.4616183,
+    "type": "city",
+    "category": "place",
+    "name": "Dunfermline",
+    "display": "Dunfermline, Fife, Scotland, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/14164364"
+   }
+  ]
+ },
+ "john-d-rockefeller": {
+  "query": "Cleveland, Ohio",
+  "results": [
+   {
+    "lat": 41.4996574,
+    "lon": -81.6936772,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cleveland",
+    "display": "Cleveland, Cuyahoga County, Ohio, United States",
+    "cc": "US",
+    "osm": "relation/182130"
+   }
+  ]
+ },
+ "walt-disney": {
+  "query": "Chicago, United States",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "konosuke-matsushita": {
+  "query": "Osaka, Japan",
+  "results": [
+   {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Osaka",
+    "display": "Osaka, Osaka Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/358674"
+   },
+   {
+    "lat": 34.6198813,
+    "lon": 135.490357,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Osaka Prefecture",
+    "display": "Osaka Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/341906"
+   }
+  ]
+ },
+ "soichiro-honda": {
+  "query": "Hamamatsu, Japan",
+  "results": [
+   {
+    "lat": 34.7109786,
+    "lon": 137.7259431,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hamamatsu",
+    "display": "Hamamatsu, Shizuoka Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/4674741"
+   }
+  ]
+ },
+ "ingvar-kamprad": {
+  "query": "Älmhult, Älmhults kommun, Sweden",
+  "results": [
+   {
+    "lat": 56.5513901,
+    "lon": 14.1391022,
+    "type": "town",
+    "category": "place",
+    "name": "Älmhult",
+    "display": "Älmhult, Älmhults kommun, Kronoberg County, 343 21, Sweden",
+    "cc": "SE",
+    "osm": "node/755927892"
+   },
+   {
+    "lat": 56.5509334,
+    "lon": 14.1369001,
+    "type": "station",
+    "category": "railway",
+    "name": "Älmhult",
+    "display": "Älmhult, Stationsplan, Älmhult, Älmhults kommun, Kronoberg County, 343 30, Sweden",
+    "cc": "SE",
+    "osm": "node/7781275781"
+   }
+  ]
+ },
+ "greta-thunberg": {
+  "query": "Stockholm, Sweden",
+  "results": [
+   {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "type": "city",
+    "category": "place",
+    "name": "Stockholm",
+    "display": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+    "cc": "SE",
+    "osm": "node/25929985"
+   },
+   {
+    "lat": 59.3336131,
+    "lon": 18.0275091,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Stockholm Municipality",
+    "display": "Stockholm Municipality, Stockholm County, Sweden",
+    "cc": "SE",
+    "osm": "relation/398021"
+   }
+  ]
+ },
+ "rosa-parks": {
+  "query": "Montgomery, Alabama",
+  "results": [
+   {
+    "lat": 32.3777111,
+    "lon": -86.3090775,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montgomery",
+    "display": "Montgomery, Montgomery County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/110842"
+   },
+   {
+    "lat": 32.1672192,
+    "lon": -86.1999118,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montgomery County",
+    "display": "Montgomery County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/1848793"
+   }
+  ]
+ },
+ "ellen-johnson-sirleaf": {
+  "query": "Monrovia, Liberia",
+  "results": [
+   {
+    "lat": 6.3203562,
+    "lon": -10.8060492,
+    "type": "city",
+    "category": "place",
+    "name": "Monrovia",
+    "display": "Monrovia, Greater Monrovia, Montserrado County, Liberia",
+    "cc": "LR",
+    "osm": "node/27564980"
+   }
+  ]
+ },
+ "muhammad-yunus": {
+  "query": "Chittagong, Bangladesh",
+  "results": [
+   {
+    "lat": 22.333778,
+    "lon": 91.8344348,
+    "type": "city",
+    "category": "place",
+    "name": "Chattogram",
+    "display": "Chattogram, Chittagong City, Chattogram District, Chattogram Division, 4000, Bangladesh",
+    "cc": "BD",
+    "osm": "node/8541366252"
+   },
+   {
+    "lat": 22.6800466,
+    "lon": 91.8839938,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chattogram Division",
+    "display": "Chattogram Division, Bangladesh",
+    "cc": "BD",
+    "osm": "relation/3824588"
+   },
+   {
+    "lat": 22.4225445,
+    "lon": 91.7312913,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chattogram District",
+    "display": "Chattogram District, Chattogram Division, Bangladesh",
+    "cc": "BD",
+    "osm": "relation/3824577"
+   }
+  ]
+ },
+ "kofi-annan": {
+  "query": "Kumasi, Ghana",
+  "results": [
+   {
+    "lat": 6.6985605,
+    "lon": -1.6233086,
+    "type": "city",
+    "category": "place",
+    "name": "Kumasi",
+    "display": "Kumasi, Kumasi Metropolitan District, Ashanti Region, AK-010-1295, Ghana",
+    "cc": "GH",
+    "osm": "node/261702404"
+   }
+  ]
+ },
+ "emmeline-pankhurst": {
+  "query": "Manchester, United Kingdom",
+  "results": [
+   {
+    "lat": 53.4424618,
+    "lon": -2.2324547,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Manchester",
+    "display": "Manchester, Greater Manchester, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/146656"
+   },
+   {
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "type": "city",
+    "category": "place",
+    "name": "Manchester",
+    "display": "Manchester, Lancashire, Greater Manchester, England, M60 2UH, United Kingdom",
+    "cc": "GB",
+    "osm": "node/294001443"
+   }
+  ]
+ },
+ "cesar-chavez": {
+  "query": "Yuma, Arizona",
+  "results": [
+   {
+    "lat": 32.7210307,
+    "lon": -114.6203217,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Yuma",
+    "display": "Yuma, Yuma County, Arizona, United States",
+    "cc": "US",
+    "osm": "relation/16326705"
+   },
+   {
+    "lat": 32.7915374,
+    "lon": -113.897503,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Yuma County",
+    "display": "Yuma County, Arizona, United States",
+    "cc": "US",
+    "osm": "relation/1832216"
+   }
+  ]
+ },
+ "nadia-murad": {
+  "query": "Kocho, Nineveh Governorate, Iraq",
+  "results": [
+   {
+    "lat": 36.1661336,
+    "lon": 41.734727,
+    "type": "village",
+    "category": "place",
+    "name": "Kocho",
+    "display": "Kocho, Al-Qahtaniyah Subdistrict, Al-Ba'aj District, Nineveh Governorate, Iraq",
+    "cc": "IQ",
+    "osm": "node/8594390250"
+   }
+  ]
+ }
+}

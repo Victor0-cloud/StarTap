@@ -1,0 +1,362 @@
+[
+ {
+  "id": "pewdiepie",
+  "name": "PewDiePie",
+  "britannica": "PewDiePie"
+ },
+ {
+  "id": "casey-neistat",
+  "name": "Casey Neistat",
+  "britannica": "Casey Neistat"
+ },
+ {
+  "id": "bhuvan-bam",
+  "name": "Bhuvan Bam",
+  "britannica": "Bhuvan Bam"
+ },
+ {
+  "id": "michelle-phan",
+  "name": "Michelle Phan",
+  "britannica": "Michelle Phan"
+ },
+ {
+  "id": "mark-rober",
+  "name": "Mark Rober",
+  "britannica": "Mark Rober"
+ },
+ {
+  "id": "ryan-kaji",
+  "name": "Ryan Kaji",
+  "britannica": "Ryan Kaji"
+ },
+ {
+  "id": "charli-damelio",
+  "name": "Charli D’Amelio",
+  "britannica": "Charli D Amelio"
+ },
+ {
+  "id": "addison-rae",
+  "name": "Addison Rae",
+  "britannica": "Addison Rae"
+ },
+ {
+  "id": "bella-poarch",
+  "name": "Bella Poarch",
+  "britannica": "Bella Poarch"
+ },
+ {
+  "id": "zach-king",
+  "name": "Zach King",
+  "britannica": "Zach King"
+ },
+ {
+  "id": "loren-gray",
+  "name": "Loren Gray",
+  "britannica": "Loren Gray"
+ },
+ {
+  "id": "dixie-damelio",
+  "name": "Dixie D’Amelio",
+  "britannica": "Dixie D Amelio"
+ },
+ {
+  "id": "noah-beck",
+  "name": "Noah Beck",
+  "britannica": "Noah Beck TikTok"
+ },
+ {
+  "id": "spencer-polanco",
+  "name": "Spencer Polanco",
+  "britannica": "Spencer X beatbox"
+ },
+ {
+  "id": "pokimane",
+  "name": "Pokimane",
+  "britannica": "Pokimane"
+ },
+ {
+  "id": "shroud",
+  "name": "Shroud",
+  "britannica": "Shroud streamer"
+ },
+ {
+  "id": "xqc",
+  "name": "xQc",
+  "britannica": "xQc Felix Lengyel"
+ },
+ {
+  "id": "kai-cenat",
+  "name": "Kai Cenat",
+  "britannica": "Kai Cenat"
+ },
+ {
+  "id": "ibai-llanos",
+  "name": "Ibai Llanos",
+  "britannica": "Ibai Llanos"
+ },
+ {
+  "id": "ishowspeed",
+  "name": "IShowSpeed",
+  "britannica": "IShowSpeed"
+ },
+ {
+  "id": "valkyrae",
+  "name": "Valkyrae",
+  "britannica": "Valkyrae"
+ },
+ {
+  "id": "auronplay",
+  "name": "AuronPlay",
+  "britannica": "AuronPlay"
+ },
+ {
+  "id": "thegrefg",
+  "name": "TheGrefg",
+  "britannica": "TheGrefg"
+ },
+ {
+  "id": "gaules",
+  "name": "Gaules",
+  "britannica": "Gaules streamer"
+ },
+ {
+  "id": "joe-rogan",
+  "name": "Joe Rogan",
+  "britannica": "Joe Rogan"
+ },
+ {
+  "id": "ira-glass",
+  "name": "Ira Glass",
+  "britannica": "Ira Glass"
+ },
+ {
+  "id": "conan-obrien",
+  "name": "Conan O’Brien",
+  "britannica": "Conan O Brien"
+ },
+ {
+  "id": "malcolm-gladwell",
+  "name": "Malcolm Gladwell",
+  "britannica": "Malcolm Gladwell"
+ },
+ {
+  "id": "jay-shetty",
+  "name": "Jay Shetty",
+  "britannica": "Jay Shetty"
+ },
+ {
+  "id": "steven-bartlett",
+  "name": "Steven Bartlett",
+  "britannica": "Steven Bartlett entrepreneur"
+ },
+ {
+  "id": "alex-cooper",
+  "name": "Alex Cooper",
+  "britannica": "Alex Cooper Call Her Daddy"
+ },
+ {
+  "id": "lex-fridman",
+  "name": "Lex Fridman",
+  "britannica": "Lex Fridman"
+ },
+ {
+  "id": "tim-ferriss",
+  "name": "Tim Ferriss",
+  "britannica": "Tim Ferriss"
+ },
+ {
+  "id": "marc-maron",
+  "name": "Marc Maron",
+  "britannica": "Marc Maron"
+ },
+ {
+  "id": "dax-shepard",
+  "name": "Dax Shepard",
+  "britannica": "Dax Shepard"
+ },
+ {
+  "id": "markiplier",
+  "name": "Markiplier",
+  "britannica": "Markiplier"
+ },
+ {
+  "id": "jacksepticeye",
+  "name": "Jacksepticeye",
+  "britannica": "Jacksepticeye"
+ },
+ {
+  "id": "dantdm",
+  "name": "DanTDM",
+  "britannica": "DanTDM"
+ },
+ {
+  "id": "dream",
+  "name": "Dream",
+  "britannica": "Dream YouTuber Minecraft"
+ },
+ {
+  "id": "technoblade",
+  "name": "Technoblade",
+  "britannica": "Technoblade"
+ },
+ {
+  "id": "vanossgaming",
+  "name": "VanossGaming",
+  "britannica": "VanossGaming"
+ },
+ {
+  "id": "elrubius",
+  "name": "elrubius",
+  "britannica": "El Rubius YouTuber"
+ },
+ {
+  "id": "fernanfloo",
+  "name": "Fernanfloo",
+  "britannica": "Fernanfloo"
+ },
+ {
+  "id": "ksi",
+  "name": "KSI",
+  "britannica": "KSI YouTuber"
+ },
+ {
+  "id": "logan-paul",
+  "name": "Logan Paul",
+  "britannica": "Logan Paul"
+ },
+ {
+  "id": "gary-vaynerchuk",
+  "name": "Gary Vaynerchuk",
+  "britannica": "Gary Vaynerchuk"
+ },
+ {
+  "id": "huda-kattan",
+  "name": "Huda Kattan",
+  "britannica": "Huda Kattan"
+ },
+ {
+  "id": "kylie-jenner",
+  "name": "Kylie Jenner",
+  "britannica": "Kylie Jenner"
+ },
+ {
+  "id": "nusret-gokce",
+  "name": "Nusret Gökçe",
+  "britannica": "Salt Bae Nusret Gokce"
+ },
+ {
+  "id": "hasbulla",
+  "name": "Hasbulla",
+  "britannica": "Hasbulla Magomedov"
+ },
+ {
+  "id": "rebecca-black",
+  "name": "Rebecca Black",
+  "britannica": "Rebecca Black singer"
+ },
+ {
+  "id": "nathan-apodaca",
+  "name": "Nathan Apodaca",
+  "britannica": "Nathan Apodaca Dreams"
+ },
+ {
+  "id": "grumpy-cat",
+  "name": "Grumpy Cat",
+  "britannica": "Grumpy Cat"
+ },
+ {
+  "id": "keith-lee",
+  "name": "Keith Lee",
+  "britannica": "Keith Lee food critic"
+ },
+ {
+  "id": "tiffany-pollard",
+  "name": "Tiffany Pollard",
+  "britannica": "Tiffany Pollard"
+ },
+ {
+  "id": "mr-beast-check",
+  "name": "MrBeast",
+  "britannica": "MrBeast"
+ },
+ {
+  "id": "lilly-singh-check",
+  "name": "Lilly Singh",
+  "britannica": "Lilly Singh"
+ },
+ {
+  "id": "emma-chamberlain-check",
+  "name": "Emma Chamberlain",
+  "britannica": "Emma Chamberlain"
+ },
+ {
+  "id": "khaby-lame-check",
+  "name": "Khaby Lame",
+  "britannica": "Khaby Lame"
+ },
+ {
+  "id": "ninja-check",
+  "name": "Ninja",
+  "britannica": "Ninja Tyler Blevins"
+ },
+ {
+  "id": "marques-brownlee-check",
+  "name": "Marques Brownlee",
+  "britannica": "Marques Brownlee"
+ },
+ {
+  "id": "dude-perfect",
+  "name": "Dude Perfect",
+  "britannica": "Dude Perfect"
+ },
+ {
+  "id": "smosh",
+  "name": "Smosh",
+  "britannica": "Smosh"
+ },
+ {
+  "id": "jenna-marbles",
+  "name": "Jenna Marbles",
+  "britannica": "Jenna Marbles"
+ },
+ {
+  "id": "david-dobrik",
+  "name": "David Dobrik",
+  "britannica": "David Dobrik"
+ },
+ {
+  "id": "liza-koshy",
+  "name": "Liza Koshy",
+  "britannica": "Liza Koshy"
+ },
+ {
+  "id": "mrwhosetheboss",
+  "name": "Mrwhosetheboss",
+  "britannica": "Arun Maini"
+ },
+ {
+  "id": "jordindian",
+  "name": "JordIndian",
+  "britannica": "JordIndian"
+ },
+ {
+  "id": "mahmoud-hosny",
+  "name": "Hassan Suleiman",
+  "britannica": "Hassan Suleiman Mr Macaroni"
+ },
+ {
+  "id": "mr-macaroni",
+  "name": "Mr Macaroni",
+  "britannica": "Mr Macaroni comedian"
+ },
+ {
+  "id": "taaooma",
+  "name": "Taaooma",
+  "britannica": "Taaooma"
+ },
+ {
+  "id": "sydney-talker",
+  "name": "Sydney Talker",
+  "britannica": "Sydney Talker"
+ }
+]

@@ -1,0 +1,1940 @@
+{
+ "batch": 5,
+ "researched": "2026-10-03",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "steven-gerrard",
+    "name": "Steven Gerrard",
+    "monogram": "SG",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "steven-gerrard-whiston",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Merseyside town was Liverpool captain Steven Gerrard born?",
+    "clue": "Look in northwest England, just east of Liverpool.",
+    "hint": "It's in the borough of Knowsley.",
+    "answer": {
+     "city": "Whiston",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Steven Gerrard was born on 30 May 1980 in Whiston, England. In the early 2000s he was considered one of the most complete footballers in the world.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Steven-Gerrard",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Steven Gerrard (born May 30, 1980, Whiston, England) is an English former professional football (soccer) player and manager who was considered one of the most-complete footballers in the world in the early 2000s."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "roberto-baggio",
+    "name": "Roberto Baggio",
+    "monogram": "RB",
+    "countryOfOrigin": "IT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "roberto-baggio-caldogno",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which small Veneto town was Roberto Baggio born?",
+    "clue": "Look in northeast Italy, just north of Vicenza.",
+    "hint": "Its name starts with \"Cal\".",
+    "answer": {
+     "city": "Caldogno",
+     "country": "Italy",
+     "countryCode": "IT"
+    },
+    "story": "Roberto Baggio was born on 18 February 1967 in Caldogno, Italy. He is widely considered one of the greatest forwards in Italian football history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Roberto-Baggio",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Roberto Baggio (born February 18, 1967, Caldogno, Italy) is an Italian professional football (soccer) player who is widely considered one of the greatest forwards in his country’s storied football history."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "michel-platini",
+    "name": "Michel Platini",
+    "monogram": "MP",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "michel-platini-joeuf",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Lorraine town was Michel Platini born?",
+    "clue": "Look in northeast France, near the borders with Luxembourg and Germany.",
+    "hint": "It's in Meurthe-et-Moselle, and its name starts with \"J\".",
+    "answer": {
+     "city": "Jœuf",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Michel Platini was born on 21 June 1955 in Jœuf, France. He was named European Footballer of the Year three times in a row, from 1983 to 1985.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Michel-Platini",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Michel Platini (born June 21, 1955, Joeuf, France) is a French professional football (soccer) player and administrator who was named the European Footballer of the Year three times (1983–85) and served as president of the Union of European Football Associations (UEFA; 2007–16)."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Platini was named European Footballer of the Year three years running, from 1983 to 1985.",
+     "sourceUrl": "https://www.britannica.com/biography/Michel-Platini",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Michel Platini (born June 21, 1955, Joeuf, France) is a French professional football (soccer) player and administrator who was named the European Footballer of the Year three times (1983–85) and served as president of the Union of European Football Associations (UEFA; 2007–16)."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "george-best",
+    "name": "George Best",
+    "monogram": "GB",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "george-best-belfast",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which capital city was George Best born?",
+    "clue": "Look on the island of Ireland, at the mouth of the River Lagan.",
+    "hint": "It's the capital of Northern Ireland.",
+    "answer": {
+     "city": "Belfast",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "George Best was born on 22 May 1946 in Belfast, Northern Ireland. He was one of the premier forwards in the game's history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/George-Best",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "George Best (born May 22, 1946, Belfast, Northern Ireland—died November 25, 2005, London, England) was an Irish-born football (soccer) player who was one of the premier forwards in the game’s history and a fashionable playboy off the field."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "bobby-charlton",
+    "name": "Bobby Charlton",
+    "monogram": "BC",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "bobby-charlton-ashington",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Northumberland mining town was Bobby Charlton born?",
+    "clue": "Look in northeast England, north of Newcastle.",
+    "hint": "It was once called the world's largest coal-mining village.",
+    "answer": {
+     "city": "Ashington",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Bobby Charlton was born on 11 October 1937 in Ashington, Northumberland. He is regarded as one of the greatest English footballers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Bobby-Charlton",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Bobby Charlton (born October 11, 1937, Ashington, Northumberland, England—died October 21, 2023) was a football (soccer) player and manager who is regarded as one of the greatest English footballers."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alfredo-di-stefano",
+    "name": "Alfredo Di Stéfano",
+    "monogram": "AD",
+    "countryOfOrigin": "AR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "alfredo-di-stefano-buenos-aires",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which South American capital was Alfredo Di Stéfano born?",
+    "clue": "Look on the Río de la Plata.",
+    "hint": "It's Argentina's capital.",
+    "answer": {
+     "city": "Buenos Aires",
+     "country": "Argentina",
+     "countryCode": "AR"
+    },
+    "story": "Alfredo Di Stéfano was born in Buenos Aires in 1926 and died in Madrid in 2014. He is regarded as one of the greatest centre forwards in football history.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Alfredo-Di-Stefano",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Alfredo Di Stéfano (born July 4, 1926, Buenos Aires, Argentina—died July 7, 2014, Madrid, Spain) was an Argentine-born football (soccer) player and manager, regarded as one of the greatest centre forwards in football history."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marco-van-basten",
+    "name": "Marco van Basten",
+    "monogram": "MV",
+    "countryOfOrigin": "NL",
+    "region": "europe"
+   },
+   "question": {
+    "id": "marco-van-basten-utrecht",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which central Dutch city was Marco van Basten born?",
+    "clue": "Look in the middle of the Netherlands, south of Amsterdam.",
+    "hint": "Its cathedral tower, the Dom, is the tallest church tower in the country.",
+    "answer": {
+     "city": "Utrecht",
+     "country": "Netherlands",
+     "countryCode": "NL"
+    },
+    "story": "Marco van Basten was born on 31 October 1964 in Utrecht, Netherlands. He became one of the great Dutch strikers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Marco-van-Basten",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Marco van Basten (born October 31, 1964, Utrecht, Netherlands) is a Dutch football (soccer) play"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lucy-bronze",
+    "name": "Lucy Bronze",
+    "monogram": "LB",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lucy-bronze-berwick-upon-tweed",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which border town was Lionesses defender Lucy Bronze born?",
+    "clue": "Look at England's northernmost tip, by the Scottish border.",
+    "hint": "It sits at the mouth of the River Tweed.",
+    "answer": {
+     "city": "Berwick-upon-Tweed",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Lucy Bronze was born in Berwick-upon-Tweed, England. She plays for Chelsea and England.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/womens-senior-team/squad/lucy-bronze",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH BERWICK-UPON-TWEED, ENGLAND CLUB CHELSEA FC WOMEN"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mary-earps",
+    "name": "Mary Earps",
+    "monogram": "ME",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mary-earps-nottingham",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which East Midlands city was goalkeeper Mary Earps born?",
+    "clue": "Look in the English Midlands, on the River Trent.",
+    "hint": "It's linked with the legend of Robin Hood.",
+    "answer": {
+     "city": "Nottingham",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Mary Earps was born in Nottingham, England. The goalkeeper plays for London City Lionesses.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/womens-senior-team/squad/mary-earps",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH NOTTINGHAM, ENGLAND CLUB LONDON CITY LIONESSES LFC"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "beth-mead",
+    "name": "Beth Mead",
+    "monogram": "BM",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "beth-mead-whitby",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Yorkshire seaside town was Beth Mead born?",
+    "clue": "Look on England's northeast coast, in North Yorkshire.",
+    "hint": "Its ruined abbey inspired part of Dracula.",
+    "answer": {
+     "city": "Whitby",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Beth Mead was born in Whitby, England. She plays for Manchester City and England.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/womens-senior-team/squad/beth-mead",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH WHITBY, ENGLAND CLUB MANCHESTER CITY WFC"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "leah-williamson",
+    "name": "Leah Williamson",
+    "monogram": "LW",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "leah-williamson-milton-keynes",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Buckinghamshire new town was Lionesses captain Leah Williamson born?",
+    "clue": "Look in southern England, between London and Birmingham.",
+    "hint": "It's famous for its roundabouts and concrete cows.",
+    "answer": {
+     "city": "Milton Keynes",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Leah Williamson was born in Milton Keynes. She has won the league, FA Cup and Champions League with Arsenal, and two EURO titles with England.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/womens-senior-team/squad/leah-williamson",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The Milton Keynes-born star has won the BWSL title, Women’s FA Cup and UEFA Champions League with her beloved Arsenal, as well as the She Believes Cup and Arnold Clark Cup with England, the latter as captain before adding two EURO titles to her tally."
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "Williamson has won two EURO titles with England, plus the Champions League with her beloved Arsenal.",
+     "sourceUrl": "https://www.englandfootball.com/england/womens-senior-team/squad/leah-williamson",
+     "sourceName": "englandfootball.com",
+     "quote": "The Milton Keynes-born star has won the BWSL title, Women’s FA Cup and UEFA Champions League with her beloved Arsenal, as well as the She Believes Cup and Arnold Clark Cup with England, the latter as captain before adding two EURO titles to her tally."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "alessia-russo",
+    "name": "Alessia Russo",
+    "monogram": "AR",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "alessia-russo-maidstone",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Kent county town was Alessia Russo born?",
+    "clue": "Look in southeast England, in Kent.",
+    "hint": "It sits on the River Medway.",
+    "answer": {
+     "city": "Maidstone",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Alessia Russo was born in Maidstone, England. She plays for Arsenal and England.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/womens-senior-team/squad/alessia-russo",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH MAIDSTONE, ENGLAND CURRENT CLUB ARSENAL WFC"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "georgia-stanway",
+    "name": "Georgia Stanway",
+    "monogram": "GS",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "georgia-stanway-barrow-in-furness",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Cumbrian shipbuilding town was Georgia Stanway born?",
+    "clue": "Look in northwest England, at the tip of the Furness peninsula.",
+    "hint": "Its name ends in \"-in-Furness\".",
+    "answer": {
+     "city": "Barrow-in-Furness",
+     "country": "United Kingdom",
+     "countryCode": "GB"
+    },
+    "story": "Georgia Stanway was born in Barrow-in-Furness, England. She plays midfield for Arsenal and England.",
+    "sources": [
+     {
+      "url": "https://www.englandfootball.com/england/womens-senior-team/squad/georgia-stanway",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH BARROW-IN-FURNESS, ENGLAND CLUB ARSENAL WFC"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "linda-caicedo",
+    "name": "Linda Caicedo",
+    "monogram": "LC",
+    "countryOfOrigin": "CO",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "linda-caicedo-cali",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Colombian city was Real Madrid's Linda Caicedo born?",
+    "clue": "Look in western Colombia, in the Cauca Valley.",
+    "hint": "It's famous as a world capital of salsa.",
+    "answer": {
+     "city": "Cali",
+     "country": "Colombia",
+     "countryCode": "CO"
+    },
+    "story": "Linda Caicedo was born on 22 February 2005 in Cali, Colombia. She plays for Real Madrid's women's team.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/womens-team/players/linda-caicedo-alegria",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Cali (Colombia) Date of birth 22/02/2005"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mariona-caldentey",
+    "name": "Mariona Caldentey",
+    "monogram": "MC",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mariona-caldentey-felanitx",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which town on Mallorca was Mariona Caldentey born?",
+    "clue": "Look in the Balearic Islands, in the southeast of Mallorca.",
+    "hint": "Its name starts with \"Fel\".",
+    "answer": {
+     "city": "Felanitx",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Mariona Caldentey was born on 18 March 1996 in Felanitx, on Mallorca. She signed for Arsenal in July 2024.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/women/players/mariona-caldentey",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH FELANITX, SPAIN DATE OF BIRTH MARCH 18TH, 1996 SIGNED FOR ARSENAL 1ST JULY 2024"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "frida-maanum",
+    "name": "Frida Maanum",
+    "monogram": "FM",
+    "countryOfOrigin": "NO",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "frida-maanum-oslo",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Scandinavian capital was Arsenal's Frida Maanum born?",
+    "clue": "Look at the head of a long fjord in southern Norway.",
+    "hint": "It's Norway's capital.",
+    "answer": {
+     "city": "Oslo",
+     "country": "Norway",
+     "countryCode": "NO"
+    },
+    "story": "Frida Maanum was born on 15 July 1999 in Oslo, Norway. She signed for Arsenal in July 2021.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/women/players/frida-maanum",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH OSLO, NORWAY DATE OF BIRTH JULY 15TH, 1999 SIGNED FOR ARSENAL 26TH JULY 2021"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "stina-blackstenius",
+    "name": "Stina Blackstenius",
+    "monogram": "SB",
+    "countryOfOrigin": "SE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "stina-blackstenius-vadstena",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which lakeside Swedish town was Stina Blackstenius born?",
+    "clue": "Look in southern Sweden, on the shore of Lake Vättern.",
+    "hint": "It's famous for its castle and abbey.",
+    "answer": {
+     "city": "Vadstena",
+     "country": "Sweden",
+     "countryCode": "SE"
+    },
+    "story": "Stina Blackstenius was born on 4 February 1996 in Vadstena, Sweden. She signed for Arsenal in January 2022.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/women/players/stina-blackstenius",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH VADSTENA, SWEDEN DATE OF BIRTH FEBRUARY 4TH, 1996 SIGNED FOR ARSENAL 13TH JANUARY 2022"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "amad-diallo",
+    "name": "Amad Diallo",
+    "monogram": "AD",
+    "countryOfOrigin": "CI",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "amad-diallo-abidjan",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which West African city was Manchester United's Amad Diallo born?",
+    "clue": "Look on the Gulf of Guinea, in Côte d'Ivoire.",
+    "hint": "It's the biggest city in Côte d'Ivoire.",
+    "answer": {
+     "city": "Abidjan",
+     "country": "Côte d'Ivoire",
+     "countryCode": "CI"
+    },
+    "story": "Amad Diallo was born in Abidjan, Côte d'Ivoire, on 11 July 2002. He plays in attack for Manchester United.",
+    "sources": [
+     {
+      "url": "https://www.manutd.com/en/news/detail/profile-bio-and-story-so-far-for-new-man-utd-signing-amad-diallo",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The attacker was born in Abidjan, Ivory Coast, on 11 July 2002, in the same month Rio Ferdinand joined the Reds from Leeds United."
+     }
+    ],
+    "triviaCard": {
+     "type": "did_you_know",
+     "text": "Amad was born in the same month that Rio Ferdinand joined Manchester United from Leeds.",
+     "sourceUrl": "https://www.manutd.com/en/news/detail/profile-bio-and-story-so-far-for-new-man-utd-signing-amad-diallo",
+     "sourceName": "manutd.com",
+     "quote": "The attacker was born in Abidjan, Ivory Coast, on 11 July 2002, in the same month Rio Ferdinand joined the Reds from Leeds United."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "mohammed-kudus",
+    "name": "Mohammed Kudus",
+    "monogram": "MK",
+    "countryOfOrigin": "GH",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mohammed-kudus-accra",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Growing up",
+    "question": "Mohammed Kudus was born and raised in Nima, on the outskirts of which capital city?",
+    "clue": "Look on the Gulf of Guinea coast of West Africa.",
+    "hint": "It's Ghana's capital.",
+    "answer": {
+     "city": "Accra",
+     "country": "Ghana",
+     "countryCode": "GH"
+    },
+    "story": "Mohammed Kudus was born and raised in Nima, on the outskirts of Accra. He began his football journey locally at Strong Tower FC, a boys' club he still supports.",
+    "sources": [
+     {
+      "url": "https://www.tottenhamhotspur.com/news/985147/mohammed-kudus-all-you-need-to-know",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born and raised in Nima, a town on the outskirts of the Ghanaian capital of Accra, Mohammed began his footballing journey locally at Strong Tower FC, a boys club which he continues to support to work with and support to this day."
+     }
+    ],
+    "triviaCard": {
+     "type": "before_the_fame",
+     "text": "Kudus started at Strong Tower FC, a local boys' club in Nima that he still supports today.",
+     "sourceUrl": "https://www.tottenhamhotspur.com/news/985147/mohammed-kudus-all-you-need-to-know",
+     "sourceName": "tottenhamhotspur.com",
+     "quote": "Born and raised in Nima, a town on the outskirts of the Ghanaian capital of Accra, Mohammed began his footballing journey locally at Strong Tower FC, a boys club which he continues to support to work with and support to this day."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "eduardo-camavinga",
+    "name": "Eduardo Camavinga",
+    "monogram": "EC",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "eduardo-camavinga-cabinda",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which Angolan city was France midfielder Eduardo Camavinga born?",
+    "clue": "He plays for France, but look on Africa's Atlantic coast, in an Angolan exclave.",
+    "hint": "The city shares its name with the province, north of the Congo River.",
+    "answer": {
+     "city": "Cabinda",
+     "country": "Angola",
+     "countryCode": "AO"
+    },
+    "story": "Eduardo Camavinga was born on 10 November 2002 in Cabinda, Angola. He plays midfield for Real Madrid and France.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/eduardo-camavinga",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Cabinda (Angola) Date of birth 10/11/2002"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lee-kang-in",
+    "name": "Lee Kang-in",
+    "monogram": "LK",
+    "countryOfOrigin": "KR",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lee-kang-in-incheon",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "The hometown club",
+    "question": "In which South Korean port city did Lee Kang-in start out with his hometown club at age eight?",
+    "clue": "Look on South Korea's west coast, beside Seoul.",
+    "hint": "Its international airport is South Korea's main gateway.",
+    "answer": {
+     "city": "Incheon",
+     "country": "South Korea",
+     "countryCode": "KR"
+    },
+    "story": "Lee Kang-in was born in Incheon on 19 February 2001. He began his career at eight with his hometown club, Incheon United.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/lee-kang-in",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born on 19 February 2001 in Incheon, Kang-In Lee began his career at the age of eight with his hometown club, Incheon United FC."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ritsu-doan",
+    "name": "Ritsu Doan",
+    "monogram": "RD",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ritsu-doan-amagasaki",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Growing up",
+    "question": "In which Japanese town, just west of Osaka, did Ritsu Doan grow up?",
+    "clue": "Look in the Kansai region, between Osaka and Kobe.",
+    "hint": "Its name starts with \"Ama\".",
+    "answer": {
+     "city": "Amagasaki",
+     "country": "Japan",
+     "countryCode": "JP"
+    },
+    "story": "Ritsu Doan grew up in Amagasaki, just west of Osaka. He became a Japan international in the Bundesliga.",
+    "sources": [
+     {
+      "url": "https://www.bundesliga.com/en/bundesliga/news/who-is-ritsu-doan-freiburg-s-japan-lionel-messi-15385",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Dōan grew up in the town of Amagasaki, to the west of Osaka."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mehdi-taremi",
+    "name": "Mehdi Taremi",
+    "monogram": "MT",
+    "countryOfOrigin": "IR",
+    "region": "middle-east",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "mehdi-taremi-bushehr",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Iranian port city on the Persian Gulf was Mehdi Taremi born?",
+    "clue": "Look on Iran's southern coast, on the Persian Gulf.",
+    "hint": "The city shares its name with its province.",
+    "answer": {
+     "city": "Bushehr",
+     "country": "Iran",
+     "countryCode": "IR"
+    },
+    "story": "Mehdi Taremi was born on 18 July 1992 in Bushehr, a port city on the Persian Gulf. He started out with his hometown clubs Bargh Bushehr and Iranjavan.",
+    "sources": [
+     {
+      "url": "https://www.inter.it/en/news/mehdi-taremi-joins-inter",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Taremi was born on 18 July 1992 in Bushehr, a port city that overlooks the Persian Gulf."
+     }
+    ],
+    "triviaCard": {
+     "type": "world_connection",
+     "text": "Taremi grew up in Bushehr, a port city that overlooks the Persian Gulf.",
+     "sourceUrl": "https://www.inter.it/en/news/mehdi-taremi-joins-inter",
+     "sourceName": "inter.it",
+     "quote": "Taremi was born on 18 July 1992 in Bushehr, a port city that overlooks the Persian Gulf."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "endrick",
+    "name": "Endrick",
+    "monogram": "E",
+    "countryOfOrigin": "BR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "endrick-brasilia",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which planned capital city was Brazilian teenager Endrick born?",
+    "clue": "Look on Brazil's central plateau.",
+    "hint": "It's Brazil's modernist capital, built in the 1950s.",
+    "answer": {
+     "city": "Brasília",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Endrick was born on 21 July 2006 in Brasília. He came through Palmeiras before joining Real Madrid in 2024.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/endrick-felipe-moreira-de-sousa",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Brasilia Date of birth 21/07/2006 Weight 67 kg Height 1,73 m Career Real Madrid 2024- Palmeiras 2022-2024"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "willian-pacho",
+    "name": "Willian Pacho",
+    "monogram": "WP",
+    "countryOfOrigin": "EC",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "willian-pacho-quininde",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Ecuadorian town was PSG defender Willian Pacho born?",
+    "clue": "Look in northwest Ecuador, in Esmeraldas province.",
+    "hint": "Its name starts with \"Quin\".",
+    "answer": {
+     "city": "Quinindé",
+     "country": "Ecuador",
+     "countryCode": "EC"
+    },
+    "story": "Willian Pacho was born in Quinindé, Ecuador. He began his career at Independiente del Valle and now defends for Paris Saint-Germain.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/willian-pacho",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Quinindé, Ecuador, on 16 October 2001, Willian Pacho began his career at Independiente del Valle."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "franco-mastantuono",
+    "name": "Franco Mastantuono",
+    "monogram": "FM",
+    "countryOfOrigin": "AR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "franco-mastantuono-azul",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which town in Buenos Aires province was teenager Franco Mastantuono born?",
+    "clue": "Look on the Argentine pampas, southwest of Buenos Aires.",
+    "hint": "Its name means \"blue\" in Spanish.",
+    "answer": {
+     "city": "Azul",
+     "country": "Argentina",
+     "countryCode": "AR"
+    },
+    "story": "Franco Mastantuono was born on 14 August 2007 in Azul, Buenos Aires province. He plays for Real Madrid.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/franco-mastantuono",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Azul, Buenos Aires (Argentina) Date of birth 14/08/2007"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "luis-diaz",
+    "name": "Luis Díaz",
+    "monogram": "LD",
+    "countryOfOrigin": "CO",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "luis-diaz-barrancas",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which small town in Colombia's La Guajira region was Luis Díaz born?",
+    "clue": "Look in Colombia's far north, near the Venezuelan border.",
+    "hint": "Goods trains from a giant coal mine pass through it.",
+    "answer": {
+     "city": "Barrancas",
+     "country": "Colombia",
+     "countryCode": "CO"
+    },
+    "story": "Luis Díaz was born in Barrancas, in Colombia's La Guajira region. His upbringing there was a world away from the fame of top-level football.",
+    "sources": [
+     {
+      "url": "https://www.bundesliga.com/en/bundesliga/news/luis-diaz-bayern-munich-record-start-liverpool-loss-hamann-34336",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in Barrancas in Colombia’s La Guajira region – one of the country’s most deprived areas – Díaz’s upbringing could not have been in starker contrast to the fame and fortune of top-level professional football."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "eder-militao",
+    "name": "Éder Militão",
+    "monogram": "ÉM",
+    "countryOfOrigin": "BR",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "eder-militao-sertaozinho",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which São Paulo state city was Real Madrid defender Éder Militão born?",
+    "clue": "Look in southeast Brazil, in São Paulo state's sugar-cane country.",
+    "hint": "Its name starts with \"Sertão\".",
+    "answer": {
+     "city": "Sertãozinho",
+     "country": "Brazil",
+     "countryCode": "BR"
+    },
+    "story": "Éder Militão was born on 18 January 1998 in Sertãozinho, Brazil. He defends for Real Madrid.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/eder-gabriel-militao",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Sertãozinho (Brazil) Date of birth 18/01/1998"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "weston-mckennie",
+    "name": "Weston McKennie",
+    "monogram": "WM",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "weston-mckennie-little-elm",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Texas town was Weston McKennie born?",
+    "clue": "Look in north Texas, near Dallas.",
+    "hint": "Its name means a small elm tree.",
+    "answer": {
+     "city": "Little Elm",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Weston McKennie was born in Little Elm, Texas. He made his breakthrough in Germany, where he spent part of his childhood, and became the first American to play for Juventus.",
+    "sources": [
+     {
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/weston-mckennie",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Little Elm, Texas, the midfielder made his breakthrough in Germany, where he spent part of his childhood."
+     }
+    ],
+    "triviaCard": {
+     "type": "wow_fact",
+     "text": "McKennie spent part of his childhood in Germany, where he later made his breakthrough.",
+     "sourceUrl": "https://www.juventus.com/en/teams/first-team-men/squad/weston-mckennie",
+     "sourceName": "juventus.com",
+     "quote": "Born in Little Elm, Texas, the midfielder made his breakthrough in Germany, where he spent part of his childhood."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "jonathan-david",
+    "name": "Jonathan David",
+    "monogram": "JD",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jonathan-david-ottawa",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Growing up",
+    "question": "Jonathan David was born in Brooklyn, but in which Canadian capital did he grow up?",
+    "clue": "Look in eastern Canada, on the Ontario–Quebec border.",
+    "hint": "It's Canada's capital.",
+    "answer": {
+     "city": "Ottawa",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Jonathan David was born in Brooklyn, New York, and grew up in Ottawa, Canada. He became a leading striker for Canada.",
+    "sources": [
+     {
+      "url": "https://canadasoccer.com/profile/6522/jonathan-david/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in BROOKLYN, NY, USA Grew up in OTTAWA, ON"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "vitinha",
+    "name": "Vitinha",
+    "monogram": "V",
+    "countryOfOrigin": "PT",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "vitinha-porto",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "The academy years",
+    "question": "Vitinha was born near Porto; in which city's big club did he start training at age 11?",
+    "clue": "Look in northern Portugal, at the mouth of the Douro.",
+    "hint": "It's Portugal's second city, famous for its wine.",
+    "answer": {
+     "city": "Porto",
+     "country": "Portugal",
+     "countryCode": "PT"
+    },
+    "story": "Vitinha was born in Santo Tirso, near Porto, and began training at FC Porto at 11. He now plays midfield for Paris Saint-Germain.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/vitinha",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Santo Tirso, near Porto, he began his training at FC Porto at the age of 11."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "desire-doue",
+    "name": "Désiré Doué",
+    "monogram": "DD",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "desire-doue-rennes",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "The academy years",
+    "question": "Désiré Doué was born in Angers; in which Breton city did he complete his youth development?",
+    "clue": "Look in northwest France, in Brittany.",
+    "hint": "It's Brittany's capital; its club is Stade Rennais.",
+    "answer": {
+     "city": "Rennes",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "Désiré Doué was born in Angers and completed his whole youth development at Stade Rennais in Rennes, making his debut there in August 2022.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/desire-doue",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Angers, Désiré Doué completed his entire youth development at Stade Rennais, making his professional debut there in August 2022."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "nuno-mendes",
+    "name": "Nuno Mendes",
+    "monogram": "NM",
+    "countryOfOrigin": "PT",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "nuno-mendes-sintra",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which town on the outskirts of Lisbon was Nuno Mendes born?",
+    "clue": "Look in western Portugal, near Lisbon.",
+    "hint": "It's famous for its hilltop palaces.",
+    "answer": {
+     "city": "Sintra",
+     "country": "Portugal",
+     "countryCode": "PT"
+    },
+    "story": "Nuno Mendes was born in 2002 in Sintra, on the outskirts of Lisbon. He started at Despertar and was quickly spotted by Portugal's biggest clubs.",
+    "sources": [
+     {
+      "url": "https://www.psg.fr/en/players/nuno-mendes",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born on 19 June 2002 in Sintra, on the outskirts of Lisbon, Nuno Alexandre Tavares Mendes began playing football at Despertar in Casal de Cambra and was quickly spotted by the country’s biggest clubs."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "william-saliba",
+    "name": "William Saliba",
+    "monogram": "WS",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "william-saliba-bondy",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which suburb northeast of Paris was Arsenal's William Saliba born?",
+    "clue": "Look in the Seine-Saint-Denis suburbs of Paris.",
+    "hint": "It's the same suburb where Kylian Mbappé grew up.",
+    "answer": {
+     "city": "Bondy",
+     "country": "France",
+     "countryCode": "FR"
+    },
+    "story": "William Saliba was born on 23 March 2001 in Bondy, France. He signed for Arsenal in July 2019.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/men/players/william-saliba",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH BONDY, FRANCE DATE OF BIRTH MARCH 23RD, 2001 SIGNED FOR ARSENAL 1ST JULY 2019"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "viktor-gyokeres",
+    "name": "Viktor Gyökeres",
+    "monogram": "VG",
+    "countryOfOrigin": "SE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "viktor-gyokeres-stockholm",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Scandinavian capital was Arsenal striker Viktor Gyökeres born?",
+    "clue": "Look on Sweden's east coast, across many islands.",
+    "hint": "It's Sweden's capital.",
+    "answer": {
+     "city": "Stockholm",
+     "country": "Sweden",
+     "countryCode": "SE"
+    },
+    "story": "Viktor Gyökeres was born in Stockholm and came through the youth academy at IF Brommapojkarna, making his senior debut at 17.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/men/players/viktor-gyokeres",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Stockholm, Viktor started his career with IF Brommapojkarna, where he developed through their youth academy, and made his senior debut as a 17-year-old."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "martin-zubimendi",
+    "name": "Martín Zubimendi",
+    "monogram": "MZ",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "martin-zubimendi-san-sebastian",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Basque seaside city was Martín Zubimendi born?",
+    "clue": "Look on Spain's north coast, near the French border.",
+    "hint": "Its Basque name is Donostia.",
+    "answer": {
+     "city": "San Sebastián",
+     "country": "Spain",
+     "countryCode": "ES"
+    },
+    "story": "Martín Zubimendi was born on 1 February 1999 in San Sebastián, Spain. He signed for Arsenal in July 2025.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/men/players/martin-zubimendi",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH SAN SEBASTIAN, SPAIN DATE OF BIRTH FEBRUARY 1ST, 1999 SIGNED FOR ARSENAL 5TH JULY 2025"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marcus-thuram",
+    "name": "Marcus Thuram",
+    "monogram": "MT",
+    "countryOfOrigin": "FR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "marcus-thuram-parma",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Born abroad",
+    "question": "In which Italian city was France striker Marcus Thuram born?",
+    "clue": "He plays for France, but look in northern Italy, in Emilia-Romagna.",
+    "hint": "The city is famous for its ham and cheese.",
+    "answer": {
+     "city": "Parma",
+     "country": "Italy",
+     "countryCode": "IT"
+    },
+    "story": "Marcus Thuram was born in Parma, Italy, on 6 August 1997. He developed at Sochaux and Guingamp, then starred at Borussia Mönchengladbach before joining Inter.",
+    "sources": [
+     {
+      "url": "https://www.inter.it/en/teams/first-team/player/marcus-thuram",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Born in Parma on 6 August 1997, Marcus developed as a footballer at Sochaux and, after two years at Guingamp, established himself at Borussia Mönchengladbach as a quick and technically gifted forward, capable of playing both centrally and out wide."
+     }
+    ],
+    "triviaCard": {
+     "type": "star_secret",
+     "text": "France striker Marcus Thuram was born in Italy, in Parma.",
+     "sourceUrl": "https://www.inter.it/en/teams/first-team/player/marcus-thuram",
+     "sourceName": "inter.it",
+     "quote": "Born in Parma on 6 August 1997, Marcus developed as a footballer at Sochaux and, after two years at Guingamp, established himself at Borussia Mönchengladbach as a quick and technically gifted forward, capable of playing both centrally and out wide."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "thibaut-courtois",
+    "name": "Thibaut Courtois",
+    "monogram": "TC",
+    "countryOfOrigin": "BE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "thibaut-courtois-bree",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which Flemish town was goalkeeper Thibaut Courtois born?",
+    "clue": "Look in northeast Belgium, in Limburg, near the Dutch border.",
+    "hint": "Its name is just four letters.",
+    "answer": {
+     "city": "Bree",
+     "country": "Belgium",
+     "countryCode": "BE"
+    },
+    "story": "Thibaut Courtois was born on 11 May 1992 in Bree, Belgium. He keeps goal for Real Madrid.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/thibaut-courtois",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Bree (Belgium) Date of birth 11/05/1992"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "antonio-rudiger",
+    "name": "Antonio Rüdiger",
+    "monogram": "AR",
+    "countryOfOrigin": "DE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "antonio-rudiger-berlin",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which capital city was Real Madrid defender Antonio Rüdiger born?",
+    "clue": "Look in northeast Germany, on the River Spree.",
+    "hint": "It's Germany's capital.",
+    "answer": {
+     "city": "Berlin",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Antonio Rüdiger was born on 3 March 1993 in Berlin. He defends for Real Madrid and Germany.",
+    "sources": [
+     {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/antonio-rudiger",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Place of birth Berlin (Germany) Date of birth 03/03/1993"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kai-havertz",
+    "name": "Kai Havertz",
+    "monogram": "KH",
+    "countryOfOrigin": "DE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kai-havertz-aachen",
+    "primaryCategory": "sports",
+    "subcategory": "football",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Football",
+    "chapter": "Where the story began",
+    "question": "In which German city near the Belgian and Dutch borders was Kai Havertz born?",
+    "clue": "Look in Germany's far west, where three countries meet.",
+    "hint": "It's famous for Charlemagne's cathedral.",
+    "answer": {
+     "city": "Aachen",
+     "country": "Germany",
+     "countryCode": "DE"
+    },
+    "story": "Kai Havertz was born on 10 June 1999 in Aachen, Germany. He signed for Arsenal in July 2023.",
+    "sources": [
+     {
+      "url": "https://www.arsenal.com/men/players/kai-havertz",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "PLACE OF BIRTH AACHEN, GERMANY DATE OF BIRTH JUNE 10TH, 1999 SIGNED FOR ARSENAL 27TH JULY 2023"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "giannis-antetokounmpo",
+    "name": "Giannis Antetokounmpo",
+    "monogram": "GA",
+    "countryOfOrigin": "GR",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "giannis-antetokounmpo-milwaukee",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The championship city",
+    "question": "Which US city's NBA team did Giannis Antetokounmpo lead to the 2021 championship?",
+    "clue": "Look in the American Midwest, on Lake Michigan's western shore.",
+    "hint": "It's Wisconsin's biggest city, home of the Bucks.",
+    "answer": {
+     "city": "Milwaukee",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Giannis Antetokounmpo was born in Athens, Greece, in 1994. He led the Milwaukee Bucks to the 2021 NBA championship.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Giannis-Antetokounmpo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Giannis Antetokounmpo (born December 6, 1994, Athens, Greece) is a Greek professional basketball player who led the Milwaukee Bucks of the NBA to a championship in 2021, the franchise’s first title in 50 years."
+     }
+    ],
+    "triviaCard": {
+     "type": "record_breaker",
+     "text": "Giannis's 2021 title was the Milwaukee Bucks' first NBA championship in 50 years.",
+     "sourceUrl": "https://www.britannica.com/biography/Giannis-Antetokounmpo",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Giannis Antetokounmpo (born December 6, 1994, Athens, Greece) is a Greek professional basketball player who led the Milwaukee Bucks of the NBA to a championship in 2021, the franchise’s first title in 50 years."
+    }
+   }
+  },
+  {
+   "entity": {
+    "id": "nikola-jokic",
+    "name": "Nikola Jokić",
+    "monogram": "NJ",
+    "countryOfOrigin": "RS",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "nikola-jokic-sombor",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which Serbian city was Nikola Jokić born?",
+    "clue": "Look in northern Serbia, near the borders with Croatia and Hungary.",
+    "hint": "It's in Vojvodina, and its name starts with \"Som\".",
+    "answer": {
+     "city": "Sombor",
+     "country": "Serbia",
+     "countryCode": "RS"
+    },
+    "story": "Nikola Jokić was born on 19 February 1995 in Sombor, Serbia. He is one of the most versatile talents of his generation.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Nikola-Jokic",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Nikola Jokić (born February 19, 1995, Sombor, Serbia) is a Serbian professional basketball player who is one of the most versatile talents of his generation."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "luka-doncic",
+    "name": "Luka Dončić",
+    "monogram": "LD",
+    "countryOfOrigin": "SI",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "luka-doncic-dallas",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The first NBA city",
+    "question": "Which Texas city's NBA team traded Luka Dončić to the Lakers in February 2025?",
+    "clue": "Look in north Texas.",
+    "hint": "Its team is the Mavericks.",
+    "answer": {
+     "city": "Dallas",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Luka Dončić was born in Ljubljana, Slovenia, in 1999 and starred for the Dallas Mavericks. In February 2025 the Mavericks traded him to the Los Angeles Lakers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Luka-Doncic",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "In February 2025 the Slovenian-born Dončić, who plays point guard, was traded by the Dallas Mavericks to the Los Angeles Lakers."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shai-gilgeous-alexander",
+    "name": "Shai Gilgeous-Alexander",
+    "monogram": "SG",
+    "countryOfOrigin": "CA",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "shai-gilgeous-alexander-toronto",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which Canadian city was NBA star Shai Gilgeous-Alexander born?",
+    "clue": "Look in eastern Canada, on Lake Ontario.",
+    "hint": "It's Canada's biggest city.",
+    "answer": {
+     "city": "Toronto",
+     "country": "Canada",
+     "countryCode": "CA"
+    },
+    "story": "Shai Gilgeous-Alexander was born on 12 July 1998 in Toronto, Canada. He is one of the NBA's leading scorers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Shai-Gilgeous-Alexander",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Shai Gilgeous-Alexander (born July 12, 1998, Toronto, Ontario, Canada) is a Canadian basketball player who is one of the NBA’s leading scorers and among the most exciting players in the league."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "joel-embiid",
+    "name": "Joel Embiid",
+    "monogram": "JE",
+    "countryOfOrigin": "CM",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "joel-embiid-philadelphia",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The NBA city",
+    "question": "Which US city's NBA team does Cameroon-born center Joel Embiid play for?",
+    "clue": "Look on America's East Coast, in Pennsylvania.",
+    "hint": "Its team is the 76ers.",
+    "answer": {
+     "city": "Philadelphia",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Joel Embiid was born in Yaoundé, Cameroon, in 1994. He is a dominating center for the Philadelphia 76ers.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Joel-Embiid",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Joel Embiid (born March 16, 1994, Yaoundé, Cameroon) is a dominating center for the Philadelphia 76ers of the National Basketball Association (NBA), known for his scoring, ballhandling, and defensive play."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yao-ming",
+    "name": "Yao Ming",
+    "monogram": "YM",
+    "countryOfOrigin": "CN",
+    "region": "asia"
+   },
+   "question": {
+    "id": "yao-ming-shanghai",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which Chinese megacity was Yao Ming born?",
+    "clue": "Look on China's east coast, at the mouth of the Yangtze.",
+    "hint": "It's China's biggest city.",
+    "answer": {
+     "city": "Shanghai",
+     "country": "China",
+     "countryCode": "CN"
+    },
+    "story": "Yao Ming was born on 12 September 1980 in Shanghai, China. He became an international star as a center for the Houston Rockets.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Yao-Ming",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Yao Ming (born September 12, 1980, Shanghai, China) is a Chinese basketball player, who became an international star as a center for the Houston Rockets of the National Basketball Association (NBA)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aja-wilson",
+    "name": "A'ja Wilson",
+    "monogram": "AW",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aja-wilson-las-vegas",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The WNBA city",
+    "question": "Which desert city's WNBA team, the Aces, does A'ja Wilson star for?",
+    "clue": "Look in the US state of Nevada.",
+    "hint": "It's famous for the Strip.",
+    "answer": {
+     "city": "Las Vegas",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "A'ja Wilson was born in 1996 in Columbia, South Carolina. She is a star center for the WNBA's Las Vegas Aces.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Aja-Wilson",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "A’ja Wilson (born August 8, 1996, Columbia, South Carolina, U.S.) is a star center for the Las Vegas Aces of the WNBA."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sabrina-ionescu",
+    "name": "Sabrina Ionescu",
+    "monogram": "SI",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "sabrina-ionescu-walnut-creek",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which San Francisco Bay Area city was Sabrina Ionescu born?",
+    "clue": "Look in Northern California, east of Oakland.",
+    "hint": "Its name mentions a stream and a nut tree.",
+    "answer": {
+     "city": "Walnut Creek",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "Sabrina Ionescu was born on 6 December 1997 in Walnut Creek, California. She is a standout guard known for her all-around play.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Sabrina-Ionescu",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Sabrina Ionescu (born December 6, 1997, Walnut Creek, California, U.S.) is an American professional basketball player who is a standout guard, known for her all-around play."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lebron-james",
+    "name": "LeBron James",
+    "monogram": "LJ",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "lebron-james-miami",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "The first titles",
+    "question": "With which Florida city's team did LeBron James win NBA titles in 2012 and 2013?",
+    "clue": "Look at Florida's southeastern tip.",
+    "hint": "Its team is the Heat.",
+    "answer": {
+     "city": "Miami",
+     "country": "United States",
+     "countryCode": "US"
+    },
+    "story": "LeBron James was born in Akron, Ohio, in 1984. He won his first NBA championships with the Miami Heat in 2012 and 2013, then another with Cleveland in 2016.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/LeBron-James",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "LeBron James (born December 30, 1984, Akron, Ohio, U.S.) is an American professional basketball player who is widely considered one of the greatest all-around players of all time and who won National Basketball Association (NBA) championships with the Miami Heat (2012 and 2013), the Cleveland Cavaliers (2016), a"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hakeem-olajuwon",
+    "name": "Hakeem Olajuwon",
+    "monogram": "HO",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "hakeem-olajuwon-lagos",
+    "primaryCategory": "sports",
+    "subcategory": "basketball",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Basketball",
+    "chapter": "Where the story began",
+    "question": "In which Nigerian megacity was Hakeem Olajuwon born?",
+    "clue": "Look on West Africa's coast, on a lagoon.",
+    "hint": "It's Nigeria's biggest city.",
+    "answer": {
+     "city": "Lagos",
+     "country": "Nigeria",
+     "countryCode": "NG"
+    },
+    "story": "Hakeem Olajuwon was born on 21 January 1963 in Lagos, Nigeria. He led the Houston Rockets to back-to-back NBA championships in 1994 and 1995.",
+    "sources": [
+     {
+      "url": "https://www.britannica.com/biography/Hakeem-Olajuwon",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Hakeem Olajuwon (born January 21, 1963, Lagos, Nigeria) is a Nigerian-born American professional basketball player who led the Houston Rockets to consecutive National Basketball Association (NBA) championships in 1994 and 1995."
+     }
+    ],
+    "triviaCard": {
+     "type": "big_moment",
+     "text": "Olajuwon led the Houston Rockets to back-to-back NBA titles in 1994 and 1995.",
+     "sourceUrl": "https://www.britannica.com/biography/Hakeem-Olajuwon",
+     "sourceName": "Encyclopaedia Britannica",
+     "quote": "Hakeem Olajuwon (born January 21, 1963, Lagos, Nigeria) is a Nigerian-born American professional basketball player who led the Houston Rockets to consecutive National Basketball Association (NBA) championships in 1994 and 1995."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,1022 @@
+{
+ "steven-gerrard": {
+  "query": "Whiston, Knowsley, England",
+  "results": [
+   {
+    "lat": 53.4169156,
+    "lon": -2.7905803,
+    "type": "town",
+    "category": "boundary",
+    "name": "Whiston",
+    "display": "Whiston, Huyton, Knowsley, Liverpool City Region, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/7600364"
+   },
+   {
+    "lat": 53.413914,
+    "lon": -2.7965205,
+    "type": "railway",
+    "category": "railway",
+    "name": "Whiston",
+    "display": "Whiston, Pennywood Drive, Whiston Cross, Whiston, Huyton, Knowsley, Liverpool City Region, England, L35 3JJ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/255278185"
+   }
+  ]
+ },
+ "roberto-baggio": {
+  "query": "Caldogno, Vicenza, Italy",
+  "results": [
+   {
+    "lat": 45.6118362,
+    "lon": 11.5075805,
+    "type": "town",
+    "category": "boundary",
+    "name": "Caldogno",
+    "display": "Caldogno, Vicenza, Veneto, 36030, Italy",
+    "cc": "IT",
+    "osm": "relation/45440"
+   }
+  ]
+ },
+ "michel-platini": {
+  "query": "Jœuf, Meurthe-et-Moselle, France",
+  "results": [
+   {
+    "lat": 49.2302031,
+    "lon": 6.0092074,
+    "type": "village",
+    "category": "boundary",
+    "name": "Jœuf",
+    "display": "Jœuf, Val-de-Briey, Meurthe-et-Moselle, Grand Est, Metropolitan France, 54240, France",
+    "cc": "FR",
+    "osm": "relation/113117"
+   }
+  ]
+ },
+ "george-best": {
+  "query": "Belfast, United Kingdom",
+  "results": [
+   {
+    "lat": 54.596391,
+    "lon": -5.9301829,
+    "type": "city",
+    "category": "boundary",
+    "name": "Belfast City District",
+    "display": "Belfast City District, County Antrim, Northern Ireland, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/19414244"
+   }
+  ]
+ },
+ "bobby-charlton": {
+  "query": "Ashington, Northumberland, United Kingdom",
+  "results": [
+   {
+    "lat": 55.1832364,
+    "lon": -1.57027,
+    "type": "town",
+    "category": "boundary",
+    "name": "Ashington",
+    "display": "Ashington, Northumberland, North East, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/8418514"
+   }
+  ]
+ },
+ "alfredo-di-stefano": {
+  "query": "Buenos Aires, Argentina",
+  "results": [
+   {
+    "lat": -34.6095579,
+    "lon": -58.3887904,
+    "type": "city",
+    "category": "boundary",
+    "name": "Buenos Aires",
+    "display": "Buenos Aires, Comuna 1, Autonomous City of Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/1224652"
+   },
+   {
+    "lat": -36.3789925,
+    "lon": -60.3855889,
+    "type": "state",
+    "category": "boundary",
+    "name": "Buenos Aires",
+    "display": "Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/1632167"
+   }
+  ]
+ },
+ "marco-van-basten": {
+  "query": "Utrecht, Netherlands",
+  "results": [
+   {
+    "lat": 52.0907006,
+    "lon": 5.1215634,
+    "type": "city",
+    "category": "boundary",
+    "name": "Utrecht",
+    "display": "Utrecht, Netherlands",
+    "cc": "NL",
+    "osm": "relation/419203"
+   },
+   {
+    "lat": 52.0809856,
+    "lon": 5.127684,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Utrecht",
+    "display": "Utrecht, Netherlands",
+    "cc": "NL",
+    "osm": "relation/1433619"
+   },
+   {
+    "lat": 52.0485887,
+    "lon": 5.1784277,
+    "type": "state",
+    "category": "boundary",
+    "name": "Utrecht",
+    "display": "Utrecht, Netherlands",
+    "cc": "NL",
+    "osm": "relation/47667"
+   }
+  ]
+ },
+ "lucy-bronze": {
+  "query": "Berwick-upon-Tweed, Northumberland, United Kingdom",
+  "results": [
+   {
+    "lat": 55.7692442,
+    "lon": -2.0026472,
+    "type": "town",
+    "category": "boundary",
+    "name": "Berwick-upon-Tweed",
+    "display": "Berwick-upon-Tweed, Northumberland, North East, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/8417817"
+   }
+  ]
+ },
+ "mary-earps": {
+  "query": "Nottingham, United Kingdom",
+  "results": [
+   {
+    "lat": 52.9534193,
+    "lon": -1.1496461,
+    "type": "city",
+    "category": "boundary",
+    "name": "Nottingham",
+    "display": "Nottingham, Nottinghamshire, East Midlands, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/123292"
+   }
+  ]
+ },
+ "beth-mead": {
+  "query": "Whitby, North Yorkshire, United Kingdom",
+  "results": [
+   {
+    "lat": 54.4866526,
+    "lon": -0.6135315,
+    "type": "town",
+    "category": "boundary",
+    "name": "Whitby",
+    "display": "Whitby, North Yorkshire, York and North Yorkshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/7252281"
+   }
+  ]
+ },
+ "leah-williamson": {
+  "query": "Milton Keynes, United Kingdom",
+  "results": [
+   {
+    "lat": 52.0406502,
+    "lon": -0.7594092,
+    "type": "city",
+    "category": "place",
+    "name": "Milton Keynes",
+    "display": "Milton Keynes, City of Milton Keynes, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/14186936"
+   }
+  ]
+ },
+ "alessia-russo": {
+  "query": "Maidstone, Kent, United Kingdom",
+  "results": [
+   {
+    "lat": 51.2748258,
+    "lon": 0.5231646,
+    "type": "town",
+    "category": "boundary",
+    "name": "Maidstone",
+    "display": "Maidstone, Kent, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/2208739"
+   }
+  ]
+ },
+ "georgia-stanway": {
+  "query": "Barrow-in-Furness, England",
+  "results": [
+   {
+    "lat": 54.1288796,
+    "lon": -3.2269008,
+    "type": "historic:administrative",
+    "category": "boundary",
+    "name": "Barrow-in-Furness",
+    "display": "Barrow-in-Furness, Barrow, Westmorland and Furness, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/176965"
+   },
+   {
+    "lat": 54.1113351,
+    "lon": -3.2289494,
+    "type": "town",
+    "category": "boundary",
+    "name": "Barrow",
+    "display": "Barrow, Westmorland and Furness, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/17577738"
+   },
+   {
+    "lat": 54.1191205,
+    "lon": -3.2260261,
+    "type": "railway",
+    "category": "railway",
+    "name": "Barrow-in-Furness",
+    "display": "Barrow-in-Furness, Hibbert Road, Hindpool, North Scale, Barrow, Westmorland and Furness, England, LA14 5QZ, United Kingdom",
+    "cc": "GB",
+    "osm": "node/5065927285"
+   }
+  ]
+ },
+ "linda-caicedo": {
+  "query": "Cali, Valle del Cauca, Colombia",
+  "results": [
+   {
+    "lat": 3.4519988,
+    "lon": -76.5325259,
+    "type": "city",
+    "category": "boundary",
+    "name": "Cali",
+    "display": "Cali, Sur, Valle del Cauca, RAP Pacífico, Colombia",
+    "cc": "CO",
+    "osm": "relation/8811628"
+   }
+  ]
+ },
+ "mariona-caldentey": {
+  "query": "Felanitx, Balearic Islands, Spain",
+  "results": [
+   {
+    "lat": 39.4731713,
+    "lon": 3.1476769,
+    "type": "town",
+    "category": "boundary",
+    "name": "Felanitx",
+    "display": "Felanitx, Migjorn, Balearic Islands, Spain",
+    "cc": "ES",
+    "osm": "relation/347246"
+   }
+  ]
+ },
+ "frida-maanum": {
+  "query": "Oslo, Norway",
+  "results": [
+   {
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "type": "city",
+    "category": "boundary",
+    "name": "Oslo",
+    "display": "Oslo, Norway",
+    "cc": "NO",
+    "osm": "relation/406091"
+   },
+   {
+    "lat": 59.9723975,
+    "lon": 10.7757292,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Oslo",
+    "display": "Oslo, Norway",
+    "cc": "NO",
+    "osm": "relation/2775550"
+   }
+  ]
+ },
+ "stina-blackstenius": {
+  "query": "Vadstena, Östergötland, Sweden",
+  "results": [
+   {
+    "lat": 58.4488105,
+    "lon": 14.8915928,
+    "type": "town",
+    "category": "place",
+    "name": "Vadstena",
+    "display": "Vadstena, Vadstena kommun, Östergötland County, 592 21, Sweden",
+    "cc": "SE",
+    "osm": "node/2711172476"
+   },
+   {
+    "lat": 58.433333,
+    "lon": 14.783333,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Vadstena kommun",
+    "display": "Vadstena kommun, Östergötland County, Sweden",
+    "cc": "SE",
+    "osm": "relation/935553"
+   },
+   {
+    "lat": 58.4483876,
+    "lon": 14.9160286,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Vadstena",
+    "display": "Vadstena, Vadstena kommun, Östergötland County, Sweden",
+    "cc": "SE",
+    "osm": "relation/12378610"
+   }
+  ]
+ },
+ "amad-diallo": {
+  "query": "Abidjan, Côte d'Ivoire",
+  "results": [
+   {
+    "lat": 5.320357,
+    "lon": -4.016107,
+    "type": "city",
+    "category": "place",
+    "name": "Abidjan",
+    "display": "Abidjan, Ivory Coast",
+    "cc": "CI",
+    "osm": "node/1046100133"
+   },
+   {
+    "lat": 5.4091179,
+    "lon": -4.0422099,
+    "type": "state",
+    "category": "boundary",
+    "name": "Abidjan",
+    "display": "Abidjan, Ivory Coast",
+    "cc": "CI",
+    "osm": "relation/3377982"
+   }
+  ]
+ },
+ "mohammed-kudus": {
+  "query": "Accra, Ghana",
+  "results": [
+   {
+    "lat": 5.5571096,
+    "lon": -0.2012376,
+    "type": "city",
+    "category": "boundary",
+    "name": "Accra",
+    "display": "Accra, Korle-Klottey Municipal District, Greater Accra Region, Ghana",
+    "cc": "GH",
+    "osm": "relation/12803764"
+   }
+  ]
+ },
+ "eduardo-camavinga": {
+  "query": "Cabinda, Cabinda, Angola",
+  "results": [
+   {
+    "lat": -5.5576435,
+    "lon": 12.1919468,
+    "type": "city",
+    "category": "place",
+    "name": "Cabinda",
+    "display": "Cabinda, Cabinda Province, Angola",
+    "cc": "AO",
+    "osm": "node/279009752"
+   }
+  ]
+ },
+ "lee-kang-in": {
+  "query": "Incheon, South Korea",
+  "results": [
+   {
+    "lat": 37.456,
+    "lon": 126.7052,
+    "type": "city",
+    "category": "boundary",
+    "name": "Incheon",
+    "display": "Incheon, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297419"
+   }
+  ]
+ },
+ "ritsu-doan": {
+  "query": "Amagasaki, Hyogo, Japan",
+  "results": [
+   {
+    "lat": 34.7339783,
+    "lon": 135.4064015,
+    "type": "city",
+    "category": "boundary",
+    "name": "Amagasaki",
+    "display": "Amagasaki, Hyogo Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/901520"
+   }
+  ]
+ },
+ "mehdi-taremi": {
+  "query": "Bushehr, Bushehr Province, Iran",
+  "results": [
+   {
+    "lat": 28.9310786,
+    "lon": 50.8458443,
+    "type": "city",
+    "category": "boundary",
+    "name": "Bushehr",
+    "display": "Bushehr, Bakhsh-e-Markazi of Bushehr County, Bushehr County, Bushehr Province, Iran",
+    "cc": "IR",
+    "osm": "relation/8919905"
+   }
+  ]
+ },
+ "endrick": {
+  "query": "Brasília, Brazil",
+  "results": [
+   {
+    "lat": -15.7939869,
+    "lon": -47.8828,
+    "type": "city",
+    "category": "place",
+    "name": "Brasília",
+    "display": "Brasília, Plano Piloto, Federal District, Central-West Region, 70391-900, Brazil",
+    "cc": "BR",
+    "osm": "node/34567423"
+   },
+   {
+    "lat": -15.7754462,
+    "lon": -47.7970891,
+    "type": "state",
+    "category": "boundary",
+    "name": "Federal District",
+    "display": "Federal District, Central-West Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/421151"
+   }
+  ]
+ },
+ "willian-pacho": {
+  "query": "Quinindé, Esmeraldas, Ecuador",
+  "results": [
+   {
+    "lat": 0.328723,
+    "lon": -79.4726416,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Quininde",
+    "display": "Quininde, Quinindé, Esmeraldas, 080450, Ecuador",
+    "cc": "EC",
+    "osm": "relation/288647"
+   }
+  ]
+ },
+ "franco-mastantuono": {
+  "query": "Azul, Buenos Aires Province, Argentina",
+  "results": [
+   {
+    "lat": -36.777492,
+    "lon": -59.863442,
+    "type": "town",
+    "category": "place",
+    "name": "Azul",
+    "display": "Azul, Partido de Azul, Buenos Aires, B7300, Argentina",
+    "cc": "AR",
+    "osm": "node/1309067410"
+   },
+   {
+    "lat": -36.8371472,
+    "lon": -59.6806607,
+    "type": "state_district",
+    "category": "boundary",
+    "name": "Partido de Azul",
+    "display": "Partido de Azul, Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/2609604"
+   }
+  ]
+ },
+ "luis-diaz": {
+  "query": "Barrancas, La Guajira, Colombia",
+  "results": [
+   {
+    "lat": 10.9541684,
+    "lon": -72.7888637,
+    "type": "town",
+    "category": "place",
+    "name": "Barrancas",
+    "display": "Barrancas, La Guajira, RAP Caribe, Colombia",
+    "cc": "CO",
+    "osm": "node/703170206"
+   },
+   {
+    "lat": 10.9782843,
+    "lon": -72.6961176,
+    "type": "county",
+    "category": "boundary",
+    "name": "Barrancas",
+    "display": "Barrancas, La Guajira, RAP Caribe, Colombia",
+    "cc": "CO",
+    "osm": "relation/1314681"
+   }
+  ]
+ },
+ "eder-militao": {
+  "query": "Sertãozinho, São Paulo, Brazil",
+  "results": [
+   {
+    "lat": -21.1375782,
+    "lon": -47.9913741,
+    "type": "city",
+    "category": "boundary",
+    "name": "Sertãozinho",
+    "display": "Sertãozinho, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/298517"
+   },
+   {
+    "lat": -21.1352983,
+    "lon": -48.0473609,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Sertãozinho",
+    "display": "Sertãozinho, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/5349746"
+   },
+   {
+    "lat": -23.7030483,
+    "lon": -46.4761678,
+    "type": "suburb",
+    "category": "place",
+    "name": "Sertãozinho",
+    "display": "Sertãozinho, Mauá, São Paulo, Southeast Region, 09370-850, Brazil",
+    "cc": "BR",
+    "osm": "node/4738012774"
+   }
+  ]
+ },
+ "weston-mckennie": {
+  "query": "Little Elm, Texas, United States",
+  "results": [
+   {
+    "lat": 33.1626194,
+    "lon": -96.9375051,
+    "type": "town",
+    "category": "boundary",
+    "name": "Little Elm",
+    "display": "Little Elm, Denton County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6563699"
+   },
+   {
+    "lat": 31.4390618,
+    "lon": -96.7072065,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Little Elm",
+    "display": "Little Elm, Limestone County, Texas, United States",
+    "cc": "US",
+    "osm": "node/151903828"
+   }
+  ]
+ },
+ "jonathan-david": {
+  "query": "Ottawa, Canada",
+  "results": [
+   {
+    "lat": 45.4208777,
+    "lon": -75.6901106,
+    "type": "city",
+    "category": "boundary",
+    "name": "Ottawa",
+    "display": "Ottawa, Eastern Ontario, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/4136816"
+   }
+  ]
+ },
+ "vitinha": {
+  "query": "Porto, Portugal",
+  "results": [
+   {
+    "lat": 41.1502195,
+    "lon": -8.6103497,
+    "type": "city",
+    "category": "boundary",
+    "name": "Porto",
+    "display": "Porto, Portugal",
+    "cc": "PT",
+    "osm": "relation/3372453"
+   },
+   {
+    "lat": 41.2366885,
+    "lon": -8.3020183,
+    "type": "county",
+    "category": "boundary",
+    "name": "Porto",
+    "display": "Porto, Portugal",
+    "cc": "PT",
+    "osm": "relation/3459013"
+   }
+  ]
+ },
+ "desire-doue": {
+  "query": "Rennes, Ille-et-Vilaine, France",
+  "results": [
+   {
+    "lat": 48.1113387,
+    "lon": -1.6800198,
+    "type": "city",
+    "category": "boundary",
+    "name": "Rennes",
+    "display": "Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/54517"
+   },
+   {
+    "lat": 48.156836,
+    "lon": -1.8144255,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Rennes",
+    "display": "Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1655027"
+   }
+  ]
+ },
+ "nuno-mendes": {
+  "query": "Sintra, Lisbon, Portugal",
+  "results": [
+   {
+    "lat": 38.8355446,
+    "lon": -9.3522371,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Sintra",
+    "display": "Sintra, Lisbon, Portugal",
+    "cc": "PT",
+    "osm": "relation/5400893"
+   },
+   {
+    "lat": 38.79846,
+    "lon": -9.3881,
+    "type": "town",
+    "category": "place",
+    "name": "Sintra",
+    "display": "Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim), Sintra, Lisbon, 2710-631, Portugal",
+    "cc": "PT",
+    "osm": "node/25611733"
+   },
+   {
+    "lat": 38.7885078,
+    "lon": -9.3913576,
+    "type": "city",
+    "category": "boundary",
+    "name": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
+    "display": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim), Sintra, Lisbon, Portugal",
+    "cc": "PT",
+    "osm": "relation/6528470"
+   }
+  ]
+ },
+ "william-saliba": {
+  "query": "Bondy, Seine-Saint-Denis, France",
+  "results": [
+   {
+    "lat": 48.9031,
+    "lon": 2.48291,
+    "type": "town",
+    "category": "boundary",
+    "name": "Bondy",
+    "display": "Bondy, Bobigny, Seine-Saint-Denis, Ile-de-France, Metropolitan France, 93140, France",
+    "cc": "FR",
+    "osm": "relation/158667"
+   }
+  ]
+ },
+ "viktor-gyokeres": {
+  "query": "Stockholm, Sweden",
+  "results": [
+   {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "type": "city",
+    "category": "place",
+    "name": "Stockholm",
+    "display": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+    "cc": "SE",
+    "osm": "node/25929985"
+   },
+   {
+    "lat": 59.3336131,
+    "lon": 18.0275091,
+    "type": "municipality",
+    "category": "boundary",
+    "name": "Stockholm Municipality",
+    "display": "Stockholm Municipality, Stockholm County, Sweden",
+    "cc": "SE",
+    "osm": "relation/398021"
+   }
+  ]
+ },
+ "martin-zubimendi": {
+  "query": "San Sebastián, Spain",
+  "results": [
+   {
+    "lat": 43.3224219,
+    "lon": -1.9838889,
+    "type": "city",
+    "category": "boundary",
+    "name": "San Sebastián",
+    "display": "San Sebastián, Gipuzkoa, Autonomous Community of the Basque Country, Spain",
+    "cc": "ES",
+    "osm": "relation/346465"
+   }
+  ]
+ },
+ "marcus-thuram": {
+  "query": "Parma, Italy",
+  "results": [
+   {
+    "lat": 44.80153,
+    "lon": 10.3279843,
+    "type": "city",
+    "category": "boundary",
+    "name": "Parma",
+    "display": "Parma, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/43452"
+   }
+  ]
+ },
+ "thibaut-courtois": {
+  "query": "Bree, Limburg, Belgium",
+  "results": [
+   {
+    "lat": 51.1416131,
+    "lon": 5.5974552,
+    "type": "town",
+    "category": "boundary",
+    "name": "Bree",
+    "display": "Bree, Maaseik, Limburg, Flanders, 3960, Belgium",
+    "cc": "BE",
+    "osm": "relation/1246296"
+   },
+   {
+    "lat": 51.1386239,
+    "lon": 5.6229805,
+    "type": "city_district",
+    "category": "boundary",
+    "name": "Bree",
+    "display": "Bree, Hamont-Achel, Maaseik, Limburg, Flanders, 3960, Belgium",
+    "cc": "BE",
+    "osm": "relation/6299204"
+   }
+  ]
+ },
+ "antonio-rudiger": {
+  "query": "Berlin, Germany",
+  "results": [
+   {
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "type": "city",
+    "category": "boundary",
+    "name": "Berlin",
+    "display": "Berlin, Germany",
+    "cc": "DE",
+    "osm": "relation/62422"
+   }
+  ]
+ },
+ "kai-havertz": {
+  "query": "Aachen, North Rhine-Westphalia, Germany",
+  "results": [
+   {
+    "lat": 50.776351,
+    "lon": 6.083862,
+    "type": "city",
+    "category": "boundary",
+    "name": "Aachen",
+    "display": "Aachen, Aachen (district), North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/62564"
+   },
+   {
+    "lat": 50.7611222,
+    "lon": 6.2055544,
+    "type": "county",
+    "category": "boundary",
+    "name": "Aachen (district)",
+    "display": "Aachen (district), North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/62665"
+   }
+  ]
+ },
+ "giannis-antetokounmpo": {
+  "query": "Milwaukee, Wisconsin, United States",
+  "results": [
+   {
+    "lat": 43.0386475,
+    "lon": -87.9090751,
+    "type": "city",
+    "category": "boundary",
+    "name": "Milwaukee",
+    "display": "Milwaukee, Milwaukee County, Wisconsin, United States",
+    "cc": "US",
+    "osm": "relation/251075"
+   }
+  ]
+ },
+ "nikola-jokic": {
+  "query": "Sombor, Vojvodina, Serbia",
+  "results": [
+   {
+    "lat": 45.7727397,
+    "lon": 19.1147036,
+    "type": "city",
+    "category": "boundary",
+    "name": "Sombor",
+    "display": "Sombor, City of Sombor, West Backa Administrative District, Vojvodina, Serbia",
+    "cc": "RS",
+    "osm": "relation/9064607"
+   }
+  ]
+ },
+ "luka-doncic": {
+  "query": "Dallas, Texas, United States",
+  "results": [
+   {
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "type": "city",
+    "category": "boundary",
+    "name": "Dallas",
+    "display": "Dallas, Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6571629"
+   },
+   {
+    "lat": 32.7620405,
+    "lon": -96.7790069,
+    "type": "county",
+    "category": "boundary",
+    "name": "Dallas County",
+    "display": "Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837698"
+   }
+  ]
+ },
+ "shai-gilgeous-alexander": {
+  "query": "Toronto, Canada",
+  "results": [
+   {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "type": "city",
+    "category": "boundary",
+    "name": "Toronto",
+    "display": "Toronto, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/324211"
+   }
+  ]
+ },
+ "joel-embiid": {
+  "query": "Philadelphia, Pennsylvania, United States",
+  "results": [
+   {
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "type": "city",
+    "category": "boundary",
+    "name": "Philadelphia",
+    "display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/188022"
+   },
+   {
+    "lat": 40.0114538,
+    "lon": -75.1326504,
+    "type": "county",
+    "category": "boundary",
+    "name": "Philadelphia County",
+    "display": "Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/417845"
+   }
+  ]
+ },
+ "yao-ming": {
+  "query": "Shanghai, China",
+  "results": [
+   {
+    "lat": 31.2312707,
+    "lon": 121.4700152,
+    "type": "state",
+    "category": "boundary",
+    "name": "Shanghai",
+    "display": "Shanghai, China",
+    "cc": "CN",
+    "osm": "relation/913067"
+   },
+   {
+    "lat": 31.2323437,
+    "lon": 121.4691024,
+    "type": "city",
+    "category": "place",
+    "name": "Shanghai",
+    "display": "Shanghai, Huangpu District, Shanghai, 200001, China",
+    "cc": "CN",
+    "osm": "node/778910398"
+   }
+  ]
+ },
+ "aja-wilson": {
+  "query": "Las Vegas, Nevada, United States",
+  "results": [
+   {
+    "lat": 36.1674263,
+    "lon": -115.1484131,
+    "type": "city",
+    "category": "boundary",
+    "name": "Las Vegas",
+    "display": "Las Vegas, Clark County, Nevada, United States",
+    "cc": "US",
+    "osm": "relation/170117"
+   }
+  ]
+ },
+ "sabrina-ionescu": {
+  "query": "Walnut Creek, California, United States",
+  "results": [
+   {
+    "lat": 37.9020731,
+    "lon": -122.0618702,
+    "type": "town",
+    "category": "boundary",
+    "name": "Walnut Creek",
+    "display": "Walnut Creek, Contra Costa County, California, United States",
+    "cc": "US",
+    "osm": "relation/3705576"
+   }
+  ]
+ },
+ "lebron-james": {
+  "query": "Miami, Florida, United States",
+  "results": [
+   {
+    "lat": 25.7741566,
+    "lon": -80.1935973,
+    "type": "city",
+    "category": "boundary",
+    "name": "Miami",
+    "display": "Miami, Miami-Dade County, Florida, United States",
+    "cc": "US",
+    "osm": "relation/1216769"
+   }
+  ]
+ },
+ "hakeem-olajuwon": {
+  "query": "Lagos, Nigeria",
+  "results": [
+   {
+    "lat": 6.4550575,
+    "lon": 3.3941795,
+    "type": "city",
+    "category": "place",
+    "name": "Lagos",
+    "display": "Lagos, Lagos Island, Lagos State, 100242, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565124"
+   },
+   {
+    "lat": 6.5269033,
+    "lon": 3.5774005,
+    "type": "state",
+    "category": "boundary",
+    "name": "Lagos State",
+    "display": "Lagos State, Nigeria",
+    "cc": "NG",
+    "osm": "relation/3718182"
+   }
+  ]
+ }
+}
