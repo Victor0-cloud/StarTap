@@ -6,7 +6,7 @@ export const PRODUCTION_URL = "https://startap.fun";
 /** Google Play listing, e.g. "https://play.google.com/store/apps/details?id=com.startap.game", once it is live. */
 export const PLAY_STORE_URL: string | null = null;
 /** Public support email address. */
-export const SUPPORT_EMAIL: string | null = null;
+export const SUPPORT_EMAIL: string | null = "sales@startap.fun";
 
 /** Which shipped build this is: "android" (Capacitor app) or "web" (startap.fun). Set in next.config.ts. */
 export const IS_ANDROID_BUILD = process.env.NEXT_PUBLIC_STARTAP_TARGET === "android";
