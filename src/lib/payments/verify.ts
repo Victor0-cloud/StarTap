@@ -1,9 +1,19 @@
+import { entitlementIsActive } from "./entitlement.ts";
 import type { VerifiedTx } from "./fields.ts";
 import { finalizeVerifiedCharge, type WebhookOutcome, type WebhookState } from "./webhook.ts";
 
 export type VerifyUser = { id: string; email: string };
 
 const DIGITS = /^\d{1,20}$/;
+
+/** What the success page may show. Read from stored rows, never from the provider payload. */
+export function confirmationStatus(state: WebhookState, userId: string, txRef: string | null, now: Date): "active" | "pending" | "failed" {
+  const entitlement = state.entitlements.find(row => row.userId.toLowerCase() === userId.toLowerCase()) ?? null;
+  if (entitlementIsActive(entitlement, now)) return "active";
+  const payment = state.payments.find(row => row.userId.toLowerCase() === userId.toLowerCase() && (!txRef || row.txRef === txRef));
+  if (payment?.status === "failed" || payment?.status === "cancelled") return "failed";
+  return "pending";
+}
 
 /** The only browser fields this route reads. Status, amount, currency, plan and user are ignored. */
 export function browserPaymentReference(body: unknown): { transactionId: string | null; txRef: string | null } {

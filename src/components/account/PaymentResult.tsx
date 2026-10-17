@@ -6,7 +6,7 @@ import { refreshPremium } from "@/lib/premium/usePremium";
 import styles from "./account.module.css";
 
 export function PaymentSuccess() {
-  const [phase, setPhase] = useState<"wait" | "on" | "slow">("wait");
+  const [phase, setPhase] = useState<"wait" | "on" | "slow" | "failed">("wait");
   useEffect(() => {
     let stopped = false;
     let timer = 0;
@@ -33,11 +33,16 @@ export function PaymentSuccess() {
     const run = async () => {
       if (session && (transaction_id || tx_ref)) {
         try {
-          await fetch("/api/flutterwave/verify-payment/", {
+          const verified = await fetch("/api/flutterwave/verify-payment/", {
             method: "POST",
             headers: { authorization: `Bearer ${session.accessToken}`, "content-type": "application/json" },
             body: JSON.stringify({ transaction_id, tx_ref }),
           });
+          const verdict = await verified.json() as { status?: string };
+          if (!stopped && (!verified.ok || verdict.status === "failed")) {
+            setPhase("failed");
+            return;
+          }
         } catch { /* status poll is the source of truth */ }
       }
       if (!stopped) await tick();
@@ -54,6 +59,7 @@ export function PaymentSuccess() {
         <p>Payment received. We&apos;re confirming your StarTap Premium access.</p>
         {phase === "on" && <p role="status">StarTap Premium is on. It was confirmed by the server.</p>}
         {phase === "slow" && <p role="status">Still confirming. You can leave this page — Premium appears on your account once the payment is confirmed.</p>}
+        {phase === "failed" && <p role="status">We couldn&apos;t confirm your payment, contact sales@startap.fun.</p>}
         <div className="share-actions">
           <Link className="primary-button" href="/play/">PLAY</Link>
           <Link className="secondary-button" href="/account/">ACCOUNT</Link>

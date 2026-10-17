@@ -59,16 +59,29 @@ export type VerifiedTx = {
   email: string | null;
   metaUserId: string | null;
   metaPlan: string | null;
-  /** Flutterwave payment_plan id from the verify response. Null when the provider omits it. */
-  paymentPlanId: number | null;
+  /**
+   * Flutterwave plan id, normalized to a decimal string.
+   * Verify responses use payment_plan, plan.id, or a bare plan number/numeric string.
+   */
+  paymentPlanId: string | null;
 };
 
-function paymentPlanId(data: Record<string, unknown>): number | null {
-  const direct = asNumber(data.payment_plan);
-  if (direct !== null && Number.isSafeInteger(direct) && direct > 0) return direct;
-  const nested = asNumber(asRecord(data.plan)?.id);
-  if (nested !== null && Number.isSafeInteger(nested) && nested > 0) return nested;
+/** Positive integer, whether the JSON value is a number or a numeric string. Compared as a string. */
+function numericPlanId(value: unknown): string | null {
+  if (typeof value === "number" && Number.isSafeInteger(value) && value > 0) return String(value);
+  if (typeof value === "string" && /^\d+$/.test(value.trim())) {
+    const parsed = Number(value.trim());
+    if (Number.isSafeInteger(parsed) && parsed > 0) return String(parsed);
+  }
   return null;
+}
+
+function paymentPlanId(data: Record<string, unknown>): string | null {
+  const direct = numericPlanId(data.payment_plan);
+  if (direct) return direct;
+  const bare = numericPlanId(data.plan);
+  if (bare) return bare;
+  return numericPlanId(asRecord(data.plan)?.id);
 }
 
 /** Map a verify-transaction JSON body. Card and token fields are ignored. */

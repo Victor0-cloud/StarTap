@@ -3,7 +3,7 @@ import { applyWebhookWrite, loadBillingState } from "@/lib/payments/db";
 import { readServerEnv } from "@/lib/payments/env";
 import { requestVerification } from "@/lib/payments/flutterwave";
 import { clientIp, rateLimit } from "@/lib/payments/rate-limit";
-import { verifySignedInPayment } from "@/lib/payments/verify";
+import { confirmationStatus, verifySignedInPayment } from "@/lib/payments/verify";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -52,17 +52,17 @@ export async function POST(request: Request) {
         log("error");
         return json({ error: "Verification unavailable" }, 500);
       }
-      if (saved === "duplicate") {
-        log("duplicate");
-        return json({ received: true, duplicate: true }, 200);
-      }
     }
-    log(outcome.body.granted === true ? "granted" : "recorded");
     if (outcome.status !== 200) {
+      log("rejected");
       const error = typeof outcome.body.error === "string" ? outcome.body.error : "Invalid request";
       return json({ error }, outcome.status);
     }
-    return json({ received: true }, 200);
+    const txRef = outcome.write?.payment?.txRef ?? hintedRef;
+    const finalState = await loadBillingState(env, { txRef, email: null, userId: user.id, eventKey: null });
+    const status = confirmationStatus(finalState, user.id, txRef, new Date());
+    log(status);
+    return json({ status }, 200);
   } catch {
     log("error");
     return json({ error: "Verification unavailable" }, 500);

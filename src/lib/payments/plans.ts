@@ -79,6 +79,7 @@ function moneySame(a: number, b: number): boolean {
   return Number.isFinite(a) && Number.isFinite(b) && Math.round(a * 100) === Math.round(b * 100);
 }
 
-export function planIdMatches(plan: PlanId, currency: CurrencyCode, providerPlanId: number, env: Record<string, string | undefined>): boolean {
-  return resolvePlan(plan, currency, env)?.paymentPlanId === providerPlanId;
+export function planIdMatches(plan: PlanId, currency: CurrencyCode, providerPlanId: string, env: Record<string, string | undefined>): boolean {
+  const configured = resolvePlan(plan, currency, env)?.paymentPlanId;
+  return configured !== undefined && String(configured) === providerPlanId;
 }

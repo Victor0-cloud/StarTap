@@ -114,7 +114,11 @@ Dashboard, in Test Mode:
    - NGN yearly 25000 → `FLW_PLAN_YEARLY_NGN` (stored plan `premium_yearly`)
    - USD yearly 40 → `FLW_PLAN_YEARLY_USD`
 
-The server ignores any amount, currency, plan id or return URL sent by the browser. A verified charge whose id, amount, currency, `tx_ref` or payment plan does not match the pending row does not grant Premium. Test mode rewrites the customer email (`ravesb_<hex>_…`) and drops the `+` tag. That email is not compared to the StarTap account. The user is the one stored on the payment row when checkout created the `tx_ref`. `/payment/success` does not grant Premium. Both the webhook and `POST /api/flutterwave/verify-payment/` call the same finalize function. The idempotency key is `charge.completed:<flutterwave transaction id>` on `webhook_events`, and a payment moves from `pending` to `successful` once.
+The server ignores any amount, currency, plan id or return URL sent by the browser. A verified charge whose id, amount, currency, `tx_ref` or payment plan does not match the pending row does not grant Premium. The verify call accepts the plan as `payment_plan`, as `plan.id`, or as a bare `plan` number or numeric string (test mode returns `"plan": 246244`). The id is compared as a string with the `FLW_PLAN_*` value. Test mode rewrites the customer email (`ravesb_<hex>_…`) and drops the `+` tag. That email is not compared to the StarTap account. The user is the one stored on the payment row when checkout created the `tx_ref`. `/payment/success` does not grant Premium. Both the webhook and `POST /api/flutterwave/verify-payment/` call the same finalize function. The idempotency key is `charge.completed:<flutterwave transaction id>` on `webhook_events`, and a payment moves from `pending` to `successful` once.
+
+A rejected charge still inserts that event key, and the key is final. Retrying the webhook or the success page does not grant Premium for the same transaction. Recovering it is manual: support has to repair the payment and the entitlement for that charge. This code does not delete or rewrite a rejected event key.
+
+`POST /api/flutterwave/verify-payment/` answers `{ "status": "active" }`, `{ "status": "pending" }`, or `{ "status": "failed" }` from the stored payment and entitlement after the write. It does not return the provider payload. `failed` means we could not confirm the payment; the success page tells the player to contact sales@startap.fun.
 
 ### Prices are UNAPPROVED
 
@@ -126,7 +130,7 @@ The server ignores any amount, currency, plan id or return URL sent by the brows
 | --- | --- |
 | `POST /api/flutterwave/create-checkout` | Bearer JWT required. Approved plan only. Writes a pending payment. Returns the hosted link. |
 | `POST /api/flutterwave/webhook` | Checks `verif-hash`, then verifies the transaction with Flutterwave. Idempotent. |
-| `POST /api/flutterwave/verify-payment` | Signed-in success-page fallback. Verifies with Flutterwave and uses the same finalize path as the webhook. |
+| `POST /api/flutterwave/verify-payment` | Signed-in success-page fallback. Verifies with Flutterwave, uses the same finalize path as the webhook, and returns `active`, `pending`, or `failed` from the stored rows. |
 | `GET /api/subscription/status` | Server source of truth for Premium. |
 | `/premium` | Free vs Premium. GO PREMIUM. Hidden (404) while payments are off. |
 | `/login`, `/account` | Email OTP, plan, status, renewal or expiry, sign out. |

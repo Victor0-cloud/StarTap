@@ -1,9 +1,9 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { entitlementIsActive } from "./entitlement.ts";
-import { publicWebhookFields, txRefFor, type PaymentRow, type VerifiedTx } from "./fields.ts";
-import { verifySignedInPayment } from "./verify.ts";
-import { handleWebhook, premiumFromState, type WebhookState } from "./webhook.ts";
+import { publicVerifiedTransaction, publicWebhookFields, txRefFor, type PaymentRow, type VerifiedTx } from "./fields.ts";
+import { confirmationStatus, verifySignedInPayment } from "./verify.ts";
+import { finalizeVerifiedCharge, handleWebhook, premiumFromState, type WebhookState } from "./webhook.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
 const EXTRA = "22222222-2222-4222-8222-222222222222";
@@ -49,7 +49,7 @@ function verified(over: Partial<VerifiedTx> = {}): VerifiedTx {
     email: EMAIL,
     metaUserId: USER,
     metaPlan: "premium_monthly",
-    paymentPlanId: 101,
+    paymentPlanId: "101",
     ...over,
   };
 }
@@ -219,7 +219,7 @@ test("subscription.cancelled keeps access until the period ends", async () => {
 test("Flutterwave test-mode rewritten email", async () => {
   const state = blank();
   state.payments.push({ ...pending(), email: "victorotite7+tag@gmail.com" });
-  const tx = verified({ email: "ravesb_4f2a9c_victorotite7@gmail.com", id: "10558480", paymentPlanId: 101 });
+  const tx = verified({ email: "ravesb_4f2a9c_victorotite7@gmail.com", id: "10558480", paymentPlanId: "101" });
   const outcome = await charge(state, tx);
   assert.equal(outcome.body.granted, true);
   assert.equal(outcome.body.reason, undefined);
@@ -271,7 +271,7 @@ test("fake transaction ID fails", async () => {
 test("wrong plan fails", async () => {
   const state = blank();
   state.payments.push(pending());
-  const tx = verified({ paymentPlanId: 999 });
+  const tx = verified({ paymentPlanId: "999" });
   const outcome = await charge(state, tx);
   assert.equal(outcome.body.granted, false);
   assert.equal(outcome.body.reason, "plan");
@@ -341,6 +341,73 @@ test("repeated verify = one grant", async () => {
   const third = await verifyCall(second.state, tx, signer);
   assert.equal(third.body.duplicate, true);
   assert.equal(third.state.entitlements[0]?.currentPeriodEnd, end);
+});
+
+test("verify response plan number grants one entitlement", () => {
+  const userId = "1a7b0dae-4b2a-4c3d-8e4f-111111111111";
+  const txRef = "st.1a7b0dae-4b2a-4c3d-8e4f-111111111111.premium_monthly.NGN.b5112338-2222-4222-8222-222222222222";
+  const payload = {
+    status: "success",
+    data: {
+      id: 10558480,
+      tx_ref: txRef,
+      amount: 2500,
+      currency: "NGN",
+      charged_amount: 2500,
+      status: "successful",
+      plan: 246244,
+      customer: { email: "ravesb_81e3dead_victorotite7@gmail.com" },
+      meta: { user_id: userId, plan: "premium_monthly" },
+      card: { first_6digits: "553188", token: "card-token" },
+    },
+  };
+  const tx = publicVerifiedTransaction(payload);
+  assert.ok(tx);
+  assert.equal(tx.paymentPlanId, "246244");
+  assert.equal(JSON.stringify(tx).includes("553188"), false);
+  assert.equal(JSON.stringify(tx).includes("card-token"), false);
+  const asString = publicVerifiedTransaction({ status: "success", data: { ...payload.data, plan: "246244" } });
+  const asPaymentPlan = publicVerifiedTransaction({ status: "success", data: { ...payload.data, plan: undefined, payment_plan: 246244 } });
+  const asNested = publicVerifiedTransaction({ status: "success", data: { ...payload.data, plan: { id: "246244" } } });
+  assert.equal(asString?.paymentPlanId, "246244");
+  assert.equal(asPaymentPlan?.paymentPlanId, "246244");
+  assert.equal(asNested?.paymentPlanId, "246244");
+
+  const state = blank();
+  state.payments.push({
+    txRef,
+    flwId: null,
+    userId,
+    plan: "premium_monthly",
+    amount: 2500,
+    currency: "NGN",
+    status: "pending",
+    verifiedAt: null,
+    email: "victorotite7+tag@gmail.com",
+  });
+  const now = new Date("2026-10-17T12:00:00.000Z");
+  const outcome = finalizeVerifiedCharge({
+    state,
+    tx,
+    env: { ...env, FLW_PLAN_MONTHLY_NGN: "246244" },
+    now,
+    userId,
+  });
+  assert.equal(outcome.body.granted, true);
+  assert.equal(outcome.state.entitlements.length, 1);
+  assert.equal(outcome.state.entitlements[0]?.userId, userId);
+  assert.equal(outcome.state.payments[0]?.status, "successful");
+  assert.equal(outcome.state.payments[0]?.email, "victorotite7+tag@gmail.com");
+  assert.equal(outcome.write?.eventKey, "charge.completed:10558480");
+  assert.equal(confirmationStatus(outcome.state, userId, txRef, now), "active");
+
+  const rejected = blank();
+  rejected.payments.push({ ...state.payments[0]!, status: "failed" });
+  rejected.events.push("charge.completed:10558480");
+  assert.equal(confirmationStatus(rejected, userId, txRef, now), "failed");
+  const stillPending = blank();
+  stillPending.payments.push({ ...state.payments[0]!, status: "pending" });
+  assert.equal(confirmationStatus(stillPending, userId, txRef, now), "pending");
 });
 
 test("expired not active", () => {
