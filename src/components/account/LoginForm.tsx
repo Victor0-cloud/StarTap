@@ -4,6 +4,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useState, type FormEvent } from "react";
 import { browserAuth, syncSavedSession } from "@/lib/auth/browser";
 import { safeNextPath } from "@/lib/payments/redirect";
+import { refreshPremium } from "@/lib/premium/usePremium";
 import styles from "./account.module.css";
 
 export function LoginForm() {
@@ -33,6 +34,7 @@ export function LoginForm() {
     const { error } = await browserAuth().auth.verifyOtp({ email: email.trim(), token: code.trim(), type: "email" });
     if (error) { setBusy(false); setMessage("That code didn't work. Request a new one and try again."); return; }
     await syncSavedSession();
+    await refreshPremium();
     router.replace(next);
   }
   return <div className={styles.shell}>

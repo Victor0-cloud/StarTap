@@ -2,12 +2,16 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useLayoutEffect, useState } from "react";
 import { SiteFooter } from "@/components/site/SiteChrome";
 import { OFFERED_CURRENCIES, PLAN_CATALOG, PLAN_IDS, PRICE_APPROVAL, type CurrencyCode, type PlanId } from "@/lib/payments/plans";
+import { syncSavedSession } from "@/lib/auth/browser";
+import { premiumOffer } from "@/lib/premium/offer";
 import { readSavedSession } from "@/lib/premium/session";
-import { usePremium } from "@/lib/premium/usePremium";
+import { bindPremiumSession, markPremiumPending, refreshPremium, usePremium } from "@/lib/premium/usePremium";
 import styles from "./account.module.css";
+
+bindPremiumSession(() => syncSavedSession());
 
 const STARS = [[8, 18], [22, 70], [40, 12], [63, 64], [78, 22], [90, 48]] as const;
 
@@ -16,12 +20,20 @@ type Prices = Record<PlanId, Record<CurrencyCode, number>>;
 export function PremiumView({ prices }: { prices: Prices }) {
   const router = useRouter();
   const access = usePremium();
+  const offer = premiumOffer(access);
+  useLayoutEffect(() => {
+    if (!access.isPremium) markPremiumPending();
+    void refreshPremium();
+  }, [access.isPremium]);
   const [plan, setPlan] = useState<PlanId>("premium_monthly");
   const [currency, setCurrency] = useState<CurrencyCode>("NGN");
   const [message, setMessage] = useState<string | null>(null);
   const [already, setAlready] = useState(false);
   const [busy, setBusy] = useState(false);
   const amount = prices[plan][currency];
+  const until = offer !== "purchase" && offer !== "loading" ? offer.until : null;
+  const checking = offer === "loading" && !already;
+  const member = already || until !== null || (offer !== "purchase" && offer !== "loading");
   async function go() {
     const session = readSavedSession();
     if (!session) {
@@ -39,6 +51,7 @@ export function PremiumView({ prices }: { prices: Prices }) {
       const body = await response.json() as { link?: string; error?: string };
       if (response.status === 409 || body.error === "already_premium") {
         setAlready(true);
+        void refreshPremium();
         setBusy(false);
         return;
       }
@@ -89,9 +102,9 @@ export function PremiumView({ prices }: { prices: Prices }) {
             <li>Future premium challenges</li>
             <li>Future ad-free play</li>
           </ul>
-          {access.isPremium || already ? <>
-            <p>StarTap Premium is already on for this account.</p>
-            <Link className="primary-button" href="/account/">YOUR ACCOUNT</Link>
+          {member || checking ? <>
+            <p role="status">{checking ? "Checking your Premium…" : until ? `Premium is on until ${until}.` : "Premium is on."}</p>
+            {member ? <Link className="primary-button" href="/account/">YOUR ACCOUNT</Link> : null}
           </> : <>
             <div className={styles.controls}>
               {PLAN_IDS.map(id => <button key={id} type="button" className="secondary-button" aria-pressed={plan === id} onClick={() => setPlan(id)}>{PLAN_CATALOG[id].label.toUpperCase()}</button>)}

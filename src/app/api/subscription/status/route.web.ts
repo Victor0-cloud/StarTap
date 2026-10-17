@@ -19,7 +19,7 @@ const empty = {
   provider: null,
 };
 
-const json = (body: Record<string, unknown>, status = 200) => Response.json(body, { status, headers: { "Cache-Control": "no-store" } });
+const json = (body: Record<string, unknown>, status = 200) => Response.json(body, { status, headers: { "Cache-Control": "private, no-store", Vary: "Authorization" } });
 
 export async function GET(request: Request) {
   if (!rateLimit(`status:${clientIp(request)}`, 60, 60_000)) return json({ error: "Too many requests" }, 429);
