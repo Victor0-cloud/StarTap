@@ -1,7 +1,8 @@
 import { entitlementIsActive, type EntitlementRow } from "./entitlement.ts";
 import type { ServerEnv } from "./env.ts";
 import { paymentsLive } from "./env.ts";
-import { resolvePlan, type ResolvedPlan } from "./plans.ts";
+import { readPreference, resolveQuote } from "./pricing.ts";
+import type { ResolvedPlan } from "./plans.ts";
 import { successRedirect } from "./redirect.ts";
 import { txRefFor, type PaymentRow } from "./fields.ts";
 
@@ -29,20 +30,26 @@ const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
 /**
  * Build a hosted-checkout request from the server catalogue.
- * `amount`, `price`, `redirect_url`, `successUrl` and `tx_ref` on the client body are ignored.
+ * `amount`, `price`, `country`, `redirect_url`, `successUrl` and `tx_ref` on the client body are ignored.
+ * `currency` may only be "local" or "USD".
  */
 export function buildCheckout(input: {
   user: CheckoutUser | null;
   body: unknown;
   env: Record<string, string | undefined>;
   requestUrl: string;
+  /** Platform geo header. Ignored when STARTAP_GEO_COUNTRY is set. Never read from the body. */
+  countryHeader?: string | null;
   id?: string;
 }): { ok: true; plan: ResolvedPlan; txRef: string; providerBody: ProviderCheckout; pending: PaymentRow } | { ok: false; status: number; error: string } {
   if (!paymentsLive(input.env)) return { ok: false, status: 503, error: "Payments are not available" };
   if (!input.user?.id || !input.user.email || !UUID.test(input.user.id)) return { ok: false, status: 401, error: "Sign in required" };
   const record = input.body !== null && typeof input.body === "object" ? input.body as Record<string, unknown> : {};
-  const plan = resolvePlan(record.plan, typeof record.currency === "string" ? record.currency.toUpperCase() : record.currency, input.env);
-  if (!plan) return { ok: false, status: 400, error: "Choose a monthly or yearly plan in an available currency" };
+  const preference = readPreference(record.currency);
+  if (preference === "invalid") return { ok: false, status: 400, error: "Choose local or USD" };
+  const quote = resolveQuote({ env: input.env, countryHeader: input.countryHeader, preference, plan: record.plan });
+  if (!quote.ok || !quote.selected) return { ok: false, status: quote.ok ? 400 : quote.status, error: quote.ok ? "Choose a monthly or yearly plan" : quote.error };
+  const plan = quote.selected;
   const id = input.id ?? crypto.randomUUID();
   const txRef = txRefFor(input.user.id, plan.plan, plan.currency, id);
   const email = input.user.email.trim().toLowerCase();
@@ -76,6 +83,7 @@ export async function createCheckout(input: {
   env: Record<string, string | undefined>;
   requestUrl: string;
   id?: string;
+  countryHeader?: string | null;
   insertPending: (row: PaymentRow) => Promise<void>;
   markFailed: (txRef: string) => Promise<void>;
   createLink: (payload: ProviderCheckout, secretKey: string) => Promise<{ ok: true; link: string } | { ok: false }>;

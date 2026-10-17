@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import { PremiumView } from "@/components/account/PremiumView";
 import { paymentsLive } from "@/lib/payments/env";
-import { OFFERED_CURRENCIES, PLAN_CATALOG, PLAN_IDS, type CurrencyCode, type PlanId } from "@/lib/payments/plans";
+import { resolveQuote, toPublicQuote } from "@/lib/payments/pricing";
 import { pageMetadata } from "@/lib/seo";
 
 export const dynamic = "force-dynamic";
@@ -12,12 +13,14 @@ export const metadata: Metadata = pageMetadata({
   path: "/premium/",
 });
 
-export default function PremiumPage() {
+export default async function PremiumPage() {
   if (!paymentsLive()) notFound();
-  const prices = {} as Record<PlanId, Record<CurrencyCode, number>>;
-  for (const plan of PLAN_IDS) {
-    prices[plan] = {} as Record<CurrencyCode, number>;
-    for (const currency of OFFERED_CURRENCIES) prices[plan][currency] = PLAN_CATALOG[plan].prices[currency].amount;
-  }
-  return <PremiumView prices={prices} />;
+  const requestHeaders = await headers();
+  const quote = resolveQuote({
+    env: process.env,
+    countryHeader: requestHeaders.get("x-vercel-ip-country"),
+    preference: "absent",
+  });
+  if (!quote.ok) notFound();
+  return <PremiumView quote={toPublicQuote(quote.quote)} />;
 }

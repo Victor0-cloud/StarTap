@@ -29,6 +29,12 @@ test("payments stay off unless the flag and every required variable are set", ()
   assert.equal(paymentsLive({ ...env, NEXT_PUBLIC_SUPABASE_URL: "http://evil.example" }), false);
   assert.equal(paymentsLive({ ...env, SUPABASE_SERVICE_ROLE_KEY: env.NEXT_PUBLIC_SUPABASE_ANON_KEY }), false);
   assert.equal(paymentsLive(env), true);
+  const usdOnly = { ...env };
+  delete usdOnly.FLW_PLAN_MONTHLY_NGN;
+  delete usdOnly.FLW_PLAN_YEARLY_NGN;
+  assert.equal(paymentsLive(usdOnly), true);
+  assert.equal(paymentsLive({ ...env, FLW_PLAN_MONTHLY_USD: "" }), false);
+  assert.equal(paymentsLive({ ...env, FLW_PLAN_YEARLY_USD: "nope" }), false);
   assert.equal(PRICE_APPROVAL, "UNAPPROVED");
 });
 
@@ -53,7 +59,8 @@ test("fake plan rejected", () => {
 
   const priced = buildCheckout({
     user,
-    body: { plan: "premium_monthly", currency: "NGN", amount: 1, price: 1, tx_ref: "client-ref" },
+    body: { plan: "premium_monthly", currency: "local", amount: 1, price: 1, country: "US", tx_ref: "client-ref" },
+    countryHeader: "NG",
     env,
     requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
     id: "22222222-2222-4222-8222-222222222222",
@@ -72,7 +79,8 @@ test("fake plan rejected", () => {
 test("price from server", () => {
   const priced = buildCheckout({
     user,
-    body: { plan: "premium_monthly", currency: "NGN", amount: 1, price: 9 },
+    body: { plan: "premium_monthly", currency: "local", amount: 1, price: 9, country: "US" },
+    countryHeader: "NG",
     env,
     requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
   });
@@ -180,8 +188,9 @@ test("prod checkout host accepted", () => {
 test("requestHostedLink accepts the test host and logs only status and reason", async () => {
   const built = buildCheckout({
     user,
-    body: { plan: "premium_monthly", currency: "NGN" },
+    body: { plan: "premium_monthly", currency: "local" },
     env,
+    countryHeader: "NG",
     requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
   });
   assert.equal(built.ok, true);
@@ -240,7 +249,7 @@ test("an active entitlement cannot start another checkout", async () => {
   };
   const blocked = await createCheckout({
     user,
-    body: { plan: "premium_monthly", currency: "NGN" },
+    body: { plan: "premium_monthly", currency: "USD" },
     env,
     requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
     now,
@@ -256,7 +265,7 @@ test("an active entitlement cannot start another checkout", async () => {
 
   const stillPaid = await createCheckout({
     user,
-    body: { plan: "premium_monthly", currency: "NGN" },
+    body: { plan: "premium_monthly", currency: "USD" },
     env,
     requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
     now,
@@ -270,7 +279,7 @@ test("an active entitlement cannot start another checkout", async () => {
 
   const expired = await createCheckout({
     user,
-    body: { plan: "premium_monthly", currency: "NGN" },
+    body: { plan: "premium_monthly", currency: "USD" },
     env,
     requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
     now,

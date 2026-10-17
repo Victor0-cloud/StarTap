@@ -19,6 +19,7 @@ const expected = [
   "api/flutterwave/create-checkout",
   "api/flutterwave/verify-payment",
   "api/subscription/status",
+  "api/pricing",
   "premium",
   "login",
   "account",

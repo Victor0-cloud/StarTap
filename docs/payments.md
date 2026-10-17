@@ -59,15 +59,39 @@ Set these in the Vercel project for Production when you are ready, and for Previ
 | `STARTAP_PAYMENTS_ENABLED` | `1` or `true` to offer Premium. |
 | `FLW_SECRET_KEY` | Flutterwave secret key. Server only. Sent as `Authorization: Bearer`. |
 | `FLW_SECRET_HASH` | The secret hash configured on the Flutterwave webhook. Compared to the `verif-hash` header with a timing-safe check. |
-| `FLW_PLAN_MONTHLY_NGN` | Flutterwave payment plan id (positive integer). |
-| `FLW_PLAN_MONTHLY_USD` | Same, USD monthly. |
-| `FLW_PLAN_YEARLY_NGN` | Same, NGN yearly. |
-| `FLW_PLAN_YEARLY_USD` | Same, USD yearly. |
+| `FLW_PLAN_MONTHLY_USD` | Flutterwave payment plan id for the USD monthly base. Required. Positive integer. |
+| `FLW_PLAN_YEARLY_USD` | Same, USD yearly base. Required. |
+| `FLW_PLAN_MONTHLY_NGN` | Optional. NGN monthly test plan. Same shape for any other currency: `FLW_PLAN_MONTHLY_<CUR>` and `FLW_PLAN_YEARLY_<CUR>`. |
+| `FLW_PLAN_YEARLY_NGN` | Optional. NGN yearly test plan. |
+| `STARTAP_GEO_COUNTRY` | Optional server-only test override. An ISO alpha-2 code replaces `x-vercel-ip-country`. Do not set this in production. |
 | `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL. |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon key. Used in the browser and to verify the user JWT. |
 | `SUPABASE_SERVICE_ROLE_KEY` | Service role. Server only. The only key that writes billing rows. |
 
-For a Flutterwave test run, `FLW_SECRET_KEY` is the test secret (`FLWSECK_TEST-...`). The database stores plan ids `premium_monthly` and `premium_yearly`, and currencies `NGN` and `USD` only. GBP and EUR are not in the applied schema.
+For a Flutterwave test run, `FLW_SECRET_KEY` is the test secret (`FLWSECK_TEST-...`). The database stores plan ids `premium_monthly` and `premium_yearly`. The applied `0001` payments check still allows only `NGN` and `USD`. `supabase/migrations/0002_payment_currencies.sql` widens that list and is not applied.
+
+## Localized prices
+
+The USD amounts ($5 monthly, $40 yearly) are the base. They are UNAPPROVED placeholders, not approved prices. There is no live foreign-exchange conversion.
+
+The server maps the visitor's country to a currency, then looks up a fixed amount in `CURRENCY_TABLE`. A currency can be charged only when its row is `enabled` and both `FLW_PLAN_MONTHLY_<CUR>` and `FLW_PLAN_YEARLY_<CUR>` are set. Otherwise the offer falls back to USD. If the USD plan ids are missing, payments stay unavailable (pages 404, APIs 503). USD and NGN start enabled, matching the existing test plans. Every other currency starts disabled. `recurringVerified` and `liveVerified` stay false until the checklist below is done.
+
+Country comes from `x-vercel-ip-country` on Vercel. `STARTAP_GEO_COUNTRY` overrides it for a server test. The browser may send `currency` as `local` or `USD` only. A currency code, an amount, or a country in the body is not the price. An invalid `currency` is 400. `GET /api/pricing/` returns the offer used on `/premium`: currency, both amounts, `usdFallback`, and `localAvailable`. The plan picker shows a local / USD toggle only when the local currency is chargeable and is not already USD.
+
+Webhook and verify-payment still grant only when the verified charge matches the stored payment row and the configured plan id.
+
+### Before enabling a country
+
+Do all of these before setting `enabled: true` for a currency, and before relying on it for a real charge:
+
+1. Confirm Flutterwave LIVE supports that currency. Test-mode support is not enough.
+2. Confirm Flutterwave recurring / subscription billing supports that currency for a payment plan. A one-off charge is not enough.
+3. Confirm this Flutterwave account is approved to charge that currency.
+4. Create the monthly and yearly payment plans at the catalogue amounts, then set `FLW_PLAN_MONTHLY_<CUR>` and `FLW_PLAN_YEARLY_<CUR>`.
+5. Apply `supabase/migrations/0002_payment_currencies.sql` if the currency is not already `NGN` or `USD`. Do not apply it until the SQL and the unchanged RLS have been reviewed.
+6. Set `recurringVerified` and `liveVerified` to true in the table only after steps 1–3 are done. Then set `enabled` to true and redeploy.
+
+The country map is ISO 3166-1 alpha-2 to ISO 4217: NG NGN, GH GHS, KE KES, ZA ZAR, UG UGX, TZ TZS, RW RWF, ZM ZMW, EG EGP, MA MAD, CI and SN XOF, CM XAF, US USD, GB GBP, and every current EU member EUR. Any other country is USD.
 
 ### Vercel steps
 
@@ -126,7 +150,7 @@ Dashboard, in Test Mode:
    - NGN yearly 25000 → `FLW_PLAN_YEARLY_NGN` (stored plan `premium_yearly`)
    - USD yearly 40 → `FLW_PLAN_YEARLY_USD`
 
-The server ignores any amount, currency, plan id or return URL sent by the browser. A verified charge whose id, amount, currency, `tx_ref` or payment plan does not match the pending row does not grant Premium. The verify call accepts the plan as `payment_plan`, as `plan.id`, or as a bare `plan` number or numeric string (test mode returns `"plan": 246244`). The id is compared as a string with the `FLW_PLAN_*` value. Test mode rewrites the customer email (`ravesb_<hex>_…`) and drops the `+` tag. That email is not compared to the StarTap account. The user is the one stored on the payment row when checkout created the `tx_ref`. `/payment/success` does not grant Premium. Both the webhook and `POST /api/flutterwave/verify-payment/` call the same finalize function. The idempotency key is `charge.completed:<flutterwave transaction id>` on `webhook_events`, and a payment moves from `pending` to `successful` once.
+The server ignores any amount, country, plan id or return URL sent by the browser. `currency` is accepted only as `local` or `USD`; any other value is 400 and is never the charged currency. A verified charge whose id, amount, currency, `tx_ref` or payment plan does not match the pending row does not grant Premium. The verify call accepts the plan as `payment_plan`, as `plan.id`, or as a bare `plan` number or numeric string (test mode returns `"plan": 246244`). The id is compared as a string with the `FLW_PLAN_*` value. Test mode rewrites the customer email (`ravesb_<hex>_…`) and drops the `+` tag. That email is not compared to the StarTap account. The user is the one stored on the payment row when checkout created the `tx_ref`. `/payment/success` does not grant Premium. Both the webhook and `POST /api/flutterwave/verify-payment/` call the same finalize function. The idempotency key is `charge.completed:<flutterwave transaction id>` on `webhook_events`, and a payment moves from `pending` to `successful` once.
 
 A rejected charge still inserts that event key, and the key is final. Retrying the webhook or the success page does not grant Premium for the same transaction. Recovering it is manual: support has to repair the payment and the entitlement for that charge. This code does not delete or rewrite a rejected event key.
 
@@ -134,28 +158,29 @@ An entitlement that is still active (including `cancelled` with time left) makes
 
 `POST /api/flutterwave/verify-payment/` answers `{ "status": "active" }`, `{ "status": "pending" }`, `{ "status": "failed" }`, or `{ "status": "cancelled" }` from the stored payment and entitlement after the write. It does not return the provider payload, and it does not trust `status` from the browser. `tx_ref` must be one this server minted (`parseTxRef`) and `transaction_id` must be 1–20 digits. Anything else, including an empty value, is `400` before the database or Flutterwave is called. A call with only `tx_ref` uses verify-by-reference. No successful transaction cancels that user's own pending row. The event key is `checkout.cancelled:<tx_ref>`, so a later `charge.completed:<id>` can still grant. A verified charge whose status is `failed` or `cancelled` is stored as that status. A verified `pending` charge leaves the row pending. A `401`, `403`, or provider outage returns 503 and does not cancel the row. `failed` means we could not confirm the payment; the page tells the player to contact sales@startap.fun. `cancelled` is checkout closed, with no "payment received" heading.
 
-No new SQL is required. `payments.status` already allows `cancelled` in `supabase/migrations/0001_premium.sql`.
+No new SQL is required for cancelled or failed charges. `payments.status` already allows `cancelled` in `supabase/migrations/0001_premium.sql`. A charge in any currency other than `NGN` or `USD` needs `supabase/migrations/0002_payment_currencies.sql`. That file is not applied.
 
 ### Prices are UNAPPROVED
 
-`src/lib/payments/plans.ts` marks every amount `UNAPPROVED`. Placeholders: monthly NGN 2500 and USD 5; yearly NGN 25000 and USD 40. The page shows the word UNAPPROVED. Change the catalogue and the Flutterwave plan amounts together before real charges.
+`src/lib/payments/plans.ts` marks every amount `UNAPPROVED`. The USD base is monthly 5 and yearly 40. NGN placeholders stay monthly 2500 and yearly 25000. Every other currency in `CURRENCY_TABLE` is also an UNAPPROVED placeholder and starts disabled. The page shows the word UNAPPROVED. Change the catalogue and the Flutterwave plan amounts together before real charges.
 
 ## Routes
 
 | Route | Behaviour |
 | --- | --- |
-| `POST /api/flutterwave/create-checkout` | Bearer JWT required. Approved plan only. `409` `already_premium` when the entitlement is still active. Otherwise writes a pending payment and returns the hosted link. |
+| `GET /api/pricing` | Server price for this request's country. Optional `currency=local` or `currency=USD`. No other currency value. 503 while payments are off. |
+| `POST /api/flutterwave/create-checkout` | Bearer JWT required. Plan plus `local` or `USD`. Country and amount in the body are ignored. Any other `currency` is 400. `409` `already_premium` when the entitlement is still active. Writes the pending payment at the server amount and currency, then returns the hosted link. |
 | `POST /api/flutterwave/webhook` | Checks `verif-hash`, then verifies the transaction with Flutterwave. Idempotent. |
 | `POST /api/flutterwave/verify-payment` | Signed-in confirmation. Validates `tx_ref` and `transaction_id` first. Verifies with Flutterwave (by id, or by reference when there is no id), uses the same finalize path as the webhook, and returns `active`, `pending`, `failed`, or `cancelled` from the stored rows. |
 | `GET /api/subscription/status` | Server source of truth for Premium. When payments are off this is `200` with `paymentsEnabled: false`. |
-| `/premium` | Free vs Premium. An active or not-yet-expired member sees “Premium is on until” their period end and a link to `/account`, not the plan picker. Hidden (404) while payments are off. |
+| `/premium` | Free vs Premium. Shows the server offer and the UNAPPROVED label. A local / USD toggle appears only when both are chargeable. An active or not-yet-expired member sees “Premium is on until” their period end and a link to `/account`. Hidden (404) while payments are off. |
 | `/login`, `/account` | Email OTP, plan, status, renewal or expiry, sign out. Hidden (404) while payments are off. |
 | `/payment/success` | Used when Flutterwave sends a 1–20 digit `transaction_id` and the query status is not `cancelled`. Posts that id and `tx_ref` once, then polls. The heading follows the server status. Does not grant Premium by itself. |
 | `/payment/cancel` | Shown for `status=cancelled` or a missing transaction id. Posts only `tx_ref` when the player is signed in. Heading is checkout closed, still confirming, payment failed, or premium is on. Does not grant Premium by itself. |
 
-While `STARTAP_PAYMENTS_ENABLED` is unset, `create-checkout`, the webhook, and `verify-payment` return `503` `{ "error": "Payments are not available" }`. The payment pages, `/premium`, `/login`, and `/account` are 404. The merge does not turn payments on.
+While `STARTAP_PAYMENTS_ENABLED` is unset, `create-checkout`, `GET /api/pricing`, the webhook, and `verify-payment` return `503` `{ "error": "Payments are not available" }`. The payment pages, `/premium`, `/login`, and `/account` are 404. The merge does not turn payments on.
 
-Checkout is limited to 20 requests a minute per IP and 8 a minute per user. The verify route allows 30 a minute per IP and 12 a minute per user. The webhook allows 120 a minute per IP. Status allows 60. The limiter is per server instance, not a global lock.
+Checkout is limited to 20 requests a minute per IP and 8 a minute per user. The verify route allows 30 a minute per IP and 12 a minute per user. The webhook allows 120 a minute per IP. Status and pricing each allow 60 a minute per IP. The limiter is per server instance, not a global lock.
 
 The return URL is built from the request host only when that host is `startap.fun`, `www.startap.fun`, `localhost`, `127.0.0.1`, or `*.vercel.app` (https, or http on localhost). Otherwise it is `https://startap.fun`. The path is always `/payment/success/`.
 

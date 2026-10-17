@@ -1,6 +1,7 @@
 // Server-only payment configuration. Do not import this from a client component or any
 // module the Android build compiles: the variable names include the payment provider and
 // the database vendor, and the mobile output scan rejects those strings.
+import { planIdFromEnv } from "./plans.ts";
 
 const REQUIRED = [
   "FLW_SECRET_KEY",
@@ -8,9 +9,8 @@ const REQUIRED = [
   "NEXT_PUBLIC_SUPABASE_URL",
   "NEXT_PUBLIC_SUPABASE_ANON_KEY",
   "SUPABASE_SERVICE_ROLE_KEY",
-  "FLW_PLAN_MONTHLY_NGN",
+  // USD is the fallback currency. Other FLW_PLAN_<PERIOD>_<CUR> values are optional.
   "FLW_PLAN_MONTHLY_USD",
-  "FLW_PLAN_YEARLY_NGN",
   "FLW_PLAN_YEARLY_USD",
 ] as const;
 
@@ -39,6 +39,7 @@ export function paymentsLive(env: Env = process.env): boolean {
   const flag = env.STARTAP_PAYMENTS_ENABLED;
   if (flag !== "1" && flag !== "true") return false;
   if (!REQUIRED.every(key => filled(env, key))) return false;
+  if (planIdFromEnv(env.FLW_PLAN_MONTHLY_USD) === null || planIdFromEnv(env.FLW_PLAN_YEARLY_USD) === null) return false;
   if (!acceptableProjectUrl(env.NEXT_PUBLIC_SUPABASE_URL!.trim())) return false;
   if (env.SUPABASE_SERVICE_ROLE_KEY!.trim() === env.NEXT_PUBLIC_SUPABASE_ANON_KEY!.trim()) return false;
   return true;
