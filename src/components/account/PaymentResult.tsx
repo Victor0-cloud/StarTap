@@ -11,8 +11,11 @@ export function PaymentSuccess() {
     let stopped = false;
     let timer = 0;
     let tries = 0;
+    const session = readSavedSession();
+    const params = new URLSearchParams(window.location.search);
+    const transaction_id = params.get("transaction_id");
+    const tx_ref = params.get("tx_ref");
     const tick = async () => {
-      const session = readSavedSession();
       if (!session) { if (!stopped) setPhase("slow"); return; }
       try {
         const response = await fetch("/api/subscription/status/", { headers: { authorization: `Bearer ${session.accessToken}` }, cache: "no-store" });
@@ -27,7 +30,19 @@ export function PaymentSuccess() {
       if (tries >= 15) { if (!stopped) setPhase("slow"); return; }
       timer = window.setTimeout(tick, 2000);
     };
-    void tick();
+    const run = async () => {
+      if (session && (transaction_id || tx_ref)) {
+        try {
+          await fetch("/api/flutterwave/verify-payment/", {
+            method: "POST",
+            headers: { authorization: `Bearer ${session.accessToken}`, "content-type": "application/json" },
+            body: JSON.stringify({ transaction_id, tx_ref }),
+          });
+        } catch { /* status poll is the source of truth */ }
+      }
+      if (!stopped) await tick();
+    };
+    void run();
     return () => { stopped = true; window.clearTimeout(timer); };
   }, []);
   return <div className={styles.shell}>

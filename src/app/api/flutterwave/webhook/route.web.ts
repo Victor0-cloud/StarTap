@@ -1,6 +1,6 @@
 import { applyWebhookWrite, loadBillingState } from "@/lib/payments/db";
 import { readServerEnv } from "@/lib/payments/env";
-import { publicWebhookFields } from "@/lib/payments/fields";
+import { parseTxRef, publicWebhookFields } from "@/lib/payments/fields";
 import { requestVerification } from "@/lib/payments/flutterwave";
 import { hashesMatch } from "@/lib/payments/hash";
 import { clientIp, rateLimit } from "@/lib/payments/rate-limit";
@@ -39,7 +39,12 @@ export async function POST(request: Request) {
         log("webhook", { result: verified.retry ? "verify-retry" : "verify-rejected", txRef: safe.txRef });
         return json({ error: verified.retry ? "Verification unavailable" : "Invalid payload" }, verified.retry ? 500 : 400);
       }
-      const state = await loadBillingState(env, { txRef: verified.tx.txRef, email: verified.tx.email, eventKey: `charge.completed:${verified.tx.id}` });
+      const state = await loadBillingState(env, {
+        txRef: verified.tx.txRef,
+        email: null,
+        userId: parseTxRef(verified.tx.txRef)?.userId ?? null,
+        eventKey: `charge.completed:${verified.tx.id}`,
+      });
       const outcome = await handleWebhook({
         headerHash,
         secretHash: env.flwSecretHash,

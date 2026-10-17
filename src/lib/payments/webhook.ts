@@ -1,7 +1,7 @@
 import { cancelEntitlement, entitlementIsActive, extendEntitlement, type EntitlementRow } from "./entitlement.ts";
 import { hashesMatch } from "./hash.ts";
 import { moneyEqual } from "./money.ts";
-import { isCurrency, isPlanId, planForAmount, type CurrencyCode, type PlanId } from "./plans.ts";
+import { isCurrency, isPlanId, planForAmount, planIdMatches, type CurrencyCode, type PlanId } from "./plans.ts";
 import { parseTxRef, publicWebhookFields, type PaymentRow, type SafeEvent, type VerifiedTx } from "./fields.ts";
 
 export type ProfileRow = { id: string; email: string };
@@ -63,21 +63,28 @@ function profileByEmail(state: WebhookState, email: string | null): ProfileRow |
   return state.profiles.find(row => row.email.toLowerCase() === email) ?? null;
 }
 
-function mismatches(tx: VerifiedTx, payment: PaymentRow): string | null {
+/**
+ * The provider email is not an identity check. Test mode rewrites it (ravesb_<hex>_…),
+ * and the StarTap user is the one already stored on the payment row.
+ * meta.user_id is accepted only when it matches that stored user.
+ */
+function mismatches(tx: VerifiedTx, payment: PaymentRow, env: Record<string, string | undefined>): string | null {
+  if (tx.status !== "successful") return "status";
   if (!moneyEqual(tx.amount, payment.amount)) return "amount";
   if (tx.currency.toUpperCase() !== payment.currency) return "currency";
   const parsed = parseTxRef(payment.txRef);
-  if (parsed && (parsed.userId !== payment.userId || parsed.plan !== payment.plan || parsed.currency !== payment.currency)) return "reference";
+  if (!parsed || parsed.userId !== payment.userId.toLowerCase() || parsed.plan !== payment.plan || parsed.currency !== payment.currency) return "reference";
   if (tx.txRef !== payment.txRef) return "reference";
-  if (tx.metaUserId && tx.metaUserId.toLowerCase() !== payment.userId) return "user";
+  if (payment.flwId && payment.flwId !== tx.id) return "transaction";
+  if (tx.metaUserId && tx.metaUserId.toLowerCase() !== payment.userId.toLowerCase()) return "user";
   if (tx.metaPlan && tx.metaPlan !== payment.plan) return "plan";
-  if (tx.email && tx.email !== payment.email.toLowerCase()) return "email";
+  if (tx.paymentPlanId === null || !planIdMatches(payment.plan, payment.currency, tx.paymentPlanId, env)) return "plan";
   return null;
 }
 
 function grant(state: WebhookState, payment: PaymentRow, tx: VerifiedTx, now: Date, env: Record<string, string | undefined>): WebhookOutcome {
   const key = `charge.completed:${tx.id}`;
-  const reason = mismatches(tx, payment);
+  const reason = mismatches(tx, payment, env);
   if (reason) {
     return finish(state, {
       eventKey: key,
@@ -108,42 +115,67 @@ function grant(state: WebhookState, payment: PaymentRow, tx: VerifiedTx, now: Da
   }, { received: true, granted: true });
 }
 
+function storedAssociation(state: WebhookState, userId: string): boolean {
+  const id = userId.toLowerCase();
+  return state.payments.some(row => row.userId.toLowerCase() === id) || state.entitlements.some(row => row.userId.toLowerCase() === id);
+}
+
 function renewal(state: WebhookState, tx: VerifiedTx, now: Date, env: Record<string, string | undefined>): WebhookOutcome {
   const key = `charge.completed:${tx.id}`;
-  const plan = planForAmount(tx.amount, tx.currency, env);
-  const profile = profileByEmail(state, tx.email);
+  const reject = (reason: string) => finish(state, { eventKey: key, eventType: "charge.completed", payment: null, entitlement: null }, { received: true, granted: false, reason });
   const parsed = tx.txRef ? parseTxRef(tx.txRef) : null;
-  if (!plan || !profile || !isCurrency(tx.currency)) {
-    return finish(state, { eventKey: key, eventType: "charge.completed", payment: null, entitlement: null }, { received: true, granted: false, reason: "unmatched" });
-  }
-  // A charge with no stored row is a renewal only when tx_ref is one we minted for this user and plan.
-  if (!parsed || parsed.userId !== profile.id || parsed.plan !== plan.plan || parsed.currency !== plan.currency) {
-    return finish(state, { eventKey: key, eventType: "charge.completed", payment: null, entitlement: null }, { received: true, granted: false, reason: "reference" });
-  }
-  if (tx.metaUserId && tx.metaUserId.toLowerCase() !== profile.id) {
-    return finish(state, { eventKey: key, eventType: "charge.completed", payment: null, entitlement: null }, { received: true, granted: false, reason: "user" });
-  }
-  if (tx.metaPlan && tx.metaPlan !== plan.plan) {
-    return finish(state, { eventKey: key, eventType: "charge.completed", payment: null, entitlement: null }, { received: true, granted: false, reason: "plan" });
-  }
-  const existing = state.entitlements.find(row => row.userId === profile.id) ?? null;
+  // No email match. A charge with no row for this tx_ref is a renewal only when the tx_ref is one we
+  // minted and that user already has a stored payment or entitlement. meta.user_id cannot choose the user.
+  if (!parsed || !storedAssociation(state, parsed.userId)) return reject("reference");
+  if (tx.metaUserId && tx.metaUserId.toLowerCase() !== parsed.userId) return reject("user");
+  const plan = planForAmount(tx.amount, tx.currency, env);
+  if (!plan || !isCurrency(tx.currency) || plan.plan !== parsed.plan || plan.currency !== parsed.currency) return reject("reference");
+  if (tx.metaPlan && tx.metaPlan !== plan.plan) return reject("plan");
+  if (tx.paymentPlanId === null || !planIdMatches(parsed.plan, parsed.currency, tx.paymentPlanId, env)) return reject("plan");
+  const profile = state.profiles.find(row => row.id.toLowerCase() === parsed.userId);
+  const existing = state.entitlements.find(row => row.userId.toLowerCase() === parsed.userId) ?? null;
   const payment: PaymentRow = {
     txRef: tx.txRef,
     flwId: tx.id,
-    userId: profile.id,
+    userId: parsed.userId,
     plan: plan.plan,
     amount: plan.amount,
     currency: plan.currency,
     status: "successful",
     verifiedAt: now.toISOString(),
-    email: profile.email.toLowerCase(),
+    email: profile?.email.toLowerCase() ?? "",
   };
   return finish(state, {
     eventKey: key,
     eventType: "charge.completed",
     payment,
-    entitlement: { ...extendEntitlement(existing, plan.plan, now), userId: profile.id },
+    entitlement: { ...extendEntitlement(existing, plan.plan, now), userId: parsed.userId },
   }, { received: true, granted: true });
+}
+
+/**
+ * One grant path for the webhook and the signed-in verify route.
+ * The event key is charge.completed:<transaction id>. A second call sees that key and does not extend.
+ * Passing userId (the verify route) refuses any row that is not already stored for that user.
+ */
+export function finalizeVerifiedCharge(input: {
+  state: WebhookState;
+  tx: VerifiedTx;
+  env: Record<string, string | undefined>;
+  now?: Date;
+  userId?: string;
+}): WebhookOutcome {
+  const now = input.now ?? new Date();
+  const key = `charge.completed:${input.tx.id}`;
+  if (input.state.events.includes(key)) return empty(input.state, 200, { received: true, duplicate: true });
+  if (input.tx.status !== "successful") return empty(input.state, 200, { received: true, granted: false, reason: "status" });
+  const payment = input.state.payments.find(row => row.txRef === input.tx.txRef);
+  if (input.userId) {
+    if (!payment || payment.userId.toLowerCase() !== input.userId.toLowerCase()) return empty(input.state, 404, { error: "Payment not found" });
+    return grant(input.state, payment, input.tx, now, input.env);
+  }
+  if (payment) return grant(input.state, payment, input.tx, now, input.env);
+  return renewal(input.state, input.tx, now, input.env);
 }
 
 function failCharge(state: WebhookState, event: SafeEvent): WebhookOutcome {
@@ -206,9 +238,7 @@ export async function handleWebhook(input: {
   if (tx.id !== event.id) return empty(input.state, 400, { error: "Invalid payload" });
   if (input.state.events.includes(`charge.completed:${tx.id}`)) return empty(input.state, 200, { received: true, duplicate: true });
   if (tx.status !== "successful") return failCharge(input.state, { ...event, txRef: tx.txRef, id: tx.id, status: tx.status });
-  const payment = input.state.payments.find(row => row.txRef === tx.txRef);
-  if (payment) return grant(input.state, payment, tx, now, input.env);
-  return renewal(input.state, tx, now, input.env);
+  return finalizeVerifiedCharge({ state: input.state, tx, now, env: input.env });
 }
 
 export function premiumFromState(state: WebhookState, userId: string, now: Date): { isPremium: boolean; entitlement: EntitlementRow | null } {

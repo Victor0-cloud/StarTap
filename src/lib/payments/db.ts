@@ -77,7 +77,7 @@ export async function markPaymentFailed(env: ServerEnv, txRef: string): Promise<
   await db.from("payments").update({ status: "failed" }).eq("tx_ref", txRef).eq("status", "pending");
 }
 
-export async function loadBillingState(env: ServerEnv, input: { txRef: string | null; email: string | null; eventKey: string | null }): Promise<WebhookState> {
+export async function loadBillingState(env: ServerEnv, input: { txRef: string | null; email: string | null; userId?: string | null; eventKey: string | null }): Promise<WebhookState> {
   const db = serviceClient(env);
   const payments: PaymentRow[] = [];
   const profiles: { id: string; email: string }[] = [];
@@ -89,6 +89,17 @@ export async function loadBillingState(env: ServerEnv, input: { txRef: string | 
       const email = (profile as { email?: string | null } | null)?.email?.toLowerCase() ?? "";
       if (profile && email) profiles.push({ id: row.user_id, email });
       payments.push(toPayment(row, email));
+    }
+  }
+  if (input.userId) {
+    const { data: profile, error: profileError } = await db.from("profiles").select("user_id,email").eq("user_id", input.userId).maybeSingle();
+    if (profileError) throw new Error("profiles");
+    const email = (profile as { email?: string | null } | null)?.email?.toLowerCase() ?? "";
+    if (profile && email && !profiles.some(row => row.id === input.userId)) profiles.push({ id: input.userId, email });
+    const { data, error } = await db.from("payments").select("tx_ref,flutterwave_transaction_id,user_id,plan,amount,currency,status,verified_at").eq("user_id", input.userId);
+    if (error) throw new Error("payments");
+    for (const row of (data ?? []) as PaymentRecord[]) {
+      if (!payments.some(payment => payment.txRef === row.tx_ref)) payments.push(toPayment(row, email));
     }
   }
   if (input.email) {

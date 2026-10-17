@@ -59,7 +59,17 @@ export type VerifiedTx = {
   email: string | null;
   metaUserId: string | null;
   metaPlan: string | null;
+  /** Flutterwave payment_plan id from the verify response. Null when the provider omits it. */
+  paymentPlanId: number | null;
 };
+
+function paymentPlanId(data: Record<string, unknown>): number | null {
+  const direct = asNumber(data.payment_plan);
+  if (direct !== null && Number.isSafeInteger(direct) && direct > 0) return direct;
+  const nested = asNumber(asRecord(data.plan)?.id);
+  if (nested !== null && Number.isSafeInteger(nested) && nested > 0) return nested;
+  return null;
+}
 
 /** Map a verify-transaction JSON body. Card and token fields are ignored. */
 export function publicVerifiedTransaction(payload: unknown): VerifiedTx | null {
@@ -83,6 +93,7 @@ export function publicVerifiedTransaction(payload: unknown): VerifiedTx | null {
     email: asString(customer?.email)?.toLowerCase() ?? null,
     metaUserId: asString(meta?.user_id),
     metaPlan: asString(meta?.plan),
+    paymentPlanId: paymentPlanId(data),
   };
 }
 

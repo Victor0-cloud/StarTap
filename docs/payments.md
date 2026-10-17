@@ -114,7 +114,7 @@ Dashboard, in Test Mode:
    - NGN yearly 25000 → `FLW_PLAN_YEARLY_NGN` (stored plan `premium_yearly`)
    - USD yearly 40 → `FLW_PLAN_YEARLY_USD`
 
-The server ignores any amount, currency, plan id or return URL sent by the browser. A verified charge whose amount, currency or `tx_ref` does not match the pending row does not grant Premium. `/payment/success` does not grant Premium either.
+The server ignores any amount, currency, plan id or return URL sent by the browser. A verified charge whose id, amount, currency, `tx_ref` or payment plan does not match the pending row does not grant Premium. Test mode rewrites the customer email (`ravesb_<hex>_…`) and drops the `+` tag. That email is not compared to the StarTap account. The user is the one stored on the payment row when checkout created the `tx_ref`. `/payment/success` does not grant Premium. Both the webhook and `POST /api/flutterwave/verify-payment/` call the same finalize function. The idempotency key is `charge.completed:<flutterwave transaction id>` on `webhook_events`, and a payment moves from `pending` to `successful` once.
 
 ### Prices are UNAPPROVED
 
@@ -126,13 +126,14 @@ The server ignores any amount, currency, plan id or return URL sent by the brows
 | --- | --- |
 | `POST /api/flutterwave/create-checkout` | Bearer JWT required. Approved plan only. Writes a pending payment. Returns the hosted link. |
 | `POST /api/flutterwave/webhook` | Checks `verif-hash`, then verifies the transaction with Flutterwave. Idempotent. |
+| `POST /api/flutterwave/verify-payment` | Signed-in success-page fallback. Verifies with Flutterwave and uses the same finalize path as the webhook. |
 | `GET /api/subscription/status` | Server source of truth for Premium. |
 | `/premium` | Free vs Premium. GO PREMIUM. Hidden (404) while payments are off. |
 | `/login`, `/account` | Email OTP, plan, status, renewal or expiry, sign out. |
-| `/payment/success` | Says "Payment received. We're confirming your StarTap Premium access." Polls status. Does not grant Premium. |
+| `/payment/success` | Says "Payment received. We're confirming your StarTap Premium access." Posts `transaction_id` and `tx_ref` to the verify route once, then polls status. Does not grant Premium. |
 | `/payment/cancel` | Checkout closed. Does not grant Premium. |
 
-Checkout is limited to 20 requests a minute per IP and 8 a minute per user. The webhook allows 120 a minute per IP. Status allows 60. The limiter is per server instance, not a global lock.
+Checkout is limited to 20 requests a minute per IP and 8 a minute per user. The verify route allows 30 a minute per IP and 12 a minute per user. The webhook allows 120 a minute per IP. Status allows 60. The limiter is per server instance, not a global lock.
 
 The return URL is built from the request host only when that host is `startap.fun`, `www.startap.fun`, `localhost`, `127.0.0.1`, or `*.vercel.app` (https, or http on localhost). Otherwise it is `https://startap.fun`. The path is always `/payment/success/`.
 

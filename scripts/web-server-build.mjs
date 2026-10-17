@@ -17,6 +17,7 @@ const problems = roots.flatMap(dir => scanForLeaks(dir));
 const expected = [
   "api/flutterwave/webhook",
   "api/flutterwave/create-checkout",
+  "api/flutterwave/verify-payment",
   "api/subscription/status",
   "premium",
   "login",
