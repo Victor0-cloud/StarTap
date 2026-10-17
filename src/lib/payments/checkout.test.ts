@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { buildCheckout, createCheckout } from "./checkout.ts";
 import { paymentsLive } from "./env.ts";
 import { txRefFor } from "./fields.ts";
+import { hostedLink, requestHostedLink } from "./flutterwave.ts";
 import { PRICE_APPROVAL } from "./plans.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
@@ -147,6 +148,82 @@ test("unauthenticated checkout rejected", async () => {
   });
   assert.equal(off.status, 503);
   assert.equal(inserts, 0);
+});
+
+const TEST_KEY = "FLWSECK_TEST-sandbox";
+const LIVE_KEY = "FLWSECK-live";
+const TEST_LINK = "https://checkout-v2.dev-flutterwave.com/v3/hosted/pay/abc";
+const PROD_LINK = "https://checkout.flutterwave.com/v3/hosted/pay/abc";
+
+test("test checkout host accepted with a test key", () => {
+  assert.equal(hostedLink(TEST_LINK, TEST_KEY), TEST_LINK);
+});
+
+test("test checkout host rejected with a live-style key", () => {
+  assert.equal(hostedLink(TEST_LINK, LIVE_KEY), null);
+  assert.equal(hostedLink(TEST_LINK, "FLWSECK_TEST"), null);
+});
+
+test("lookalike checkout host and http URL rejected", () => {
+  assert.equal(hostedLink("https://checkout-v2.dev-flutterwave.com.evil.com/pay", TEST_KEY), null);
+  assert.equal(hostedLink("https://evil.checkout-v2.dev-flutterwave.com/pay", TEST_KEY), null);
+  assert.equal(hostedLink("http://checkout-v2.dev-flutterwave.com/pay", TEST_KEY), null);
+  assert.equal(hostedLink("http://checkout.flutterwave.com/pay", LIVE_KEY), null);
+  assert.equal(hostedLink("https://checkout.flutterwave.com.evil.com/pay", LIVE_KEY), null);
+});
+
+test("prod checkout host accepted", () => {
+  assert.equal(hostedLink(PROD_LINK, LIVE_KEY), PROD_LINK);
+  assert.equal(hostedLink(PROD_LINK, TEST_KEY), PROD_LINK);
+});
+
+test("requestHostedLink accepts the test host and logs only status and reason", async () => {
+  const built = buildCheckout({
+    user,
+    body: { plan: "premium_monthly", currency: "NGN" },
+    env,
+    requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+  });
+  assert.equal(built.ok, true);
+  if (!built.ok) return;
+
+  const accepted = await requestHostedLink(built.providerBody, TEST_KEY, async () => Response.json({
+    status: "success",
+    message: "Hosted Link",
+    data: { link: TEST_LINK },
+  }));
+  assert.equal(accepted.ok, true);
+  if (accepted.ok) assert.equal(accepted.link, TEST_LINK);
+
+  const logs: string[] = [];
+  const original = console.error;
+  console.error = (...args: unknown[]) => { logs.push(args.map(String).join(" ")); };
+  try {
+    const rejected = await requestHostedLink(built.providerBody, LIVE_KEY, async () => Response.json({
+      status: "success",
+      data: { link: TEST_LINK },
+    }, { status: 200 }));
+    assert.equal(rejected.ok, false);
+    const upstream = await requestHostedLink(built.providerBody, TEST_KEY, async () => new Response("no", { status: 401 }));
+    assert.equal(upstream.ok, false);
+  } finally {
+    console.error = original;
+  }
+
+  assert.equal(logs.length, 2);
+  const hostLog = JSON.parse(logs[0]) as { status: number; reason: string };
+  const upstreamLog = JSON.parse(logs[1]) as { status: number; reason: string };
+  assert.equal(hostLog.status, 200);
+  assert.equal(hostLog.reason, "host_rejected");
+  assert.equal(upstreamLog.status, 401);
+  assert.equal(upstreamLog.reason, "upstream");
+  for (const line of logs) {
+    assert.equal(line.includes(TEST_KEY), false);
+    assert.equal(line.includes(LIVE_KEY), false);
+    assert.equal(line.includes(TEST_LINK), false);
+    assert.equal(line.includes(built.providerBody.customer.email), false);
+    assert.equal(line.includes(built.providerBody.tx_ref), false);
+  }
 });
 
 test("a currency with no plan id is not offered", () => {

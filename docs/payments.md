@@ -97,7 +97,7 @@ There is no separate `/auth/callback` route. The magic-link redirect (`emailRedi
 
 Checked on 17 October 2026:
 
-- Standard checkout: [developer.flutterwave.com/reference/checkout](https://developer.flutterwave.com/reference/checkout) — `POST https://api.flutterwave.com/v3/payments`, `Authorization: Bearer`, body includes `payment_plan`. The example key prefix is `FLWSECK_TEST-`.
+- Standard checkout: [developer.flutterwave.com/reference/checkout](https://developer.flutterwave.com/reference/checkout) — `POST https://api.flutterwave.com/v3/payments`, `Authorization: Bearer`, body includes `payment_plan`. The example key prefix is `FLWSECK_TEST-`. Test mode returns a hosted link on `checkout-v2.dev-flutterwave.com`. That host is accepted only when `FLW_SECRET_KEY` starts with `FLWSECK_TEST-`. A live key accepts only `https://checkout.flutterwave.com`.
 - Testing: [developer.flutterwave.com/v3.0/docs/testing](https://developer.flutterwave.com/v3.0/docs/testing) — test cards work only in Test Mode. PIN Mastercard `5531886652142950`, expiry `09/32`, CVV `564`, OTP `12345`, PIN `3310`. 3DS Visa `4187427415564246`, expiry `09/32`, CVV `828`, OTP `12345`, PIN `3310`.
 - Webhooks: [developer.flutterwave.com/docs/webhooks](https://developer.flutterwave.com/docs/webhooks) — Settings → Webhooks, set the URL, set a secret hash, check all the boxes, save. Flutterwave sends the hash in `verif-hash`. Sample events include `charge.completed` and `subscription.cancelled`.
 - Verify: `GET https://api.flutterwave.com/v3/transactions/{id}/verify`.
