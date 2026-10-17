@@ -3,10 +3,12 @@
   "framework": "nextjs",
   "installCommand": "npm install --no-audit --no-fund",
   "buildCommand": "npm run build:web:server",
+  "outputDirectory": ".next",
   "trailingSlash": true,
   "rewrites": [
     { "source": "/api/flutterwave/webhook", "destination": "/api/flutterwave/webhook/" },
     { "source": "/api/flutterwave/create-checkout", "destination": "/api/flutterwave/create-checkout/" },
+    { "source": "/api/flutterwave/verify-payment", "destination": "/api/flutterwave/verify-payment/" },
     { "source": "/api/subscription/status", "destination": "/api/subscription/status/" }
   ],
   "headers": [

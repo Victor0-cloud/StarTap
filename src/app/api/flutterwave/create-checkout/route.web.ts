@@ -1,6 +1,6 @@
 import { userFromRequest } from "@/lib/payments/auth";
 import { createCheckout } from "@/lib/payments/checkout";
-import { insertPendingPayment, markPaymentFailed, upsertProfile } from "@/lib/payments/db";
+import { insertPendingPayment, markPaymentFailed, readOwnStatus, upsertProfile } from "@/lib/payments/db";
 import { readServerEnv } from "@/lib/payments/env";
 import { requestHostedLink } from "@/lib/payments/flutterwave";
 import { clientIp, rateLimit } from "@/lib/payments/rate-limit";
@@ -25,12 +25,15 @@ export async function POST(request: Request) {
   if (!user) return json({ error: "Sign in required" }, 401);
   if (!rateLimit(`checkout:user:${user.id}`, 8, 60_000)) return json({ error: "Too many requests" }, 429);
   try { await upsertProfile(env, user); } catch { return json({ error: "Checkout could not be started" }, 500); }
+  let entitlement = null;
+  try { entitlement = await readOwnStatus(env, user.id); } catch { return json({ error: "Checkout could not be started" }, 503); }
   const result = await createCheckout({
     user,
     body,
     env: process.env,
     requestUrl: request.url,
     server: env,
+    entitlement,
     insertPending: row => insertPendingPayment(env, row),
     markFailed: txRef => markPaymentFailed(env, txRef),
     createLink: (payload, secret) => requestHostedLink(payload, secret),

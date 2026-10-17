@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { entitlementIsActive } from "./entitlement.ts";
 import { publicVerifiedTransaction, publicWebhookFields, txRefFor, type PaymentRow, type VerifiedTx } from "./fields.ts";
-import { confirmationStatus, verifySignedInPayment } from "./verify.ts";
+import { browserPaymentReference, confirmationStatus, verifySignedInPayment } from "./verify.ts";
 import { finalizeVerifiedCharge, handleWebhook, premiumFromState, type WebhookState } from "./webhook.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
@@ -408,6 +408,227 @@ test("verify response plan number grants one entitlement", () => {
   const stillPending = blank();
   stillPending.payments.push({ ...state.payments[0]!, status: "pending" });
   assert.equal(confirmationStatus(stillPending, userId, txRef, now), "pending");
+});
+
+function entitlement(plan: "premium_monthly" | "premium_yearly", end: string) {
+  return {
+    userId: USER,
+    plan,
+    status: "active" as const,
+    provider: "flutterwave",
+    currentPeriodStart: "2026-10-17T00:00:00.000Z",
+    currentPeriodEnd: end,
+  };
+}
+
+test("a different plan keeps the longer term and never shortens paid time", () => {
+  const now = new Date("2026-10-17T12:00:00.000Z");
+  const logs: string[] = [];
+  const original = console.info;
+  console.info = (msg?: unknown) => { logs.push(String(msg)); };
+  try {
+    const yearly = blank();
+    yearly.entitlements.push(entitlement("premium_yearly", "2027-10-17T00:00:00.000Z"));
+    yearly.payments.push(pending());
+    const monthlyCharge = finalizeVerifiedCharge({ state: yearly, tx: verified(), env, now, userId: USER });
+    assert.equal(monthlyCharge.body.reason, "plan_conflict");
+    assert.equal(monthlyCharge.body.granted, true);
+    assert.equal(monthlyCharge.state.payments[0]?.status, "successful");
+    assert.equal(monthlyCharge.state.entitlements.length, 1);
+    assert.equal(monthlyCharge.state.entitlements[0]?.plan, "premium_yearly");
+    assert.equal(monthlyCharge.state.entitlements[0]?.currentPeriodEnd, "2027-11-17T00:00:00.000Z");
+
+    const monthly = blank();
+    monthly.entitlements.push(entitlement("premium_monthly", "2026-11-01T00:00:00.000Z"));
+    monthly.payments.push({ ...pending(40, "USD"), plan: "premium_yearly", txRef: txRefFor(USER, "premium_yearly", "USD", EXTRA) });
+    const yearlyCharge = finalizeVerifiedCharge({
+      state: monthly,
+      tx: verified({
+        id: "77",
+        amount: 40,
+        currency: "USD",
+        txRef: txRefFor(USER, "premium_yearly", "USD", EXTRA),
+        metaPlan: "premium_yearly",
+        paymentPlanId: "202",
+      }),
+      env,
+      now,
+      userId: USER,
+    });
+    assert.equal(yearlyCharge.body.reason, "plan_conflict");
+    assert.equal(yearlyCharge.state.entitlements[0]?.plan, "premium_yearly");
+    assert.equal(yearlyCharge.state.entitlements[0]?.currentPeriodEnd, "2027-11-01T00:00:00.000Z");
+
+    const same = blank();
+    same.entitlements.push(entitlement("premium_yearly", "2027-10-17T00:00:00.000Z"));
+    same.payments.push({ ...pending(40, "USD"), plan: "premium_yearly", txRef: txRefFor(USER, "premium_yearly", "USD", EXTRA) });
+    const before = logs.length;
+    const renewed = finalizeVerifiedCharge({
+      state: same,
+      tx: verified({
+        id: "78",
+        amount: 40,
+        currency: "USD",
+        txRef: txRefFor(USER, "premium_yearly", "USD", EXTRA),
+        metaPlan: "premium_yearly",
+        paymentPlanId: "202",
+      }),
+      env,
+      now,
+      userId: USER,
+    });
+    assert.equal(renewed.body.reason, undefined);
+    assert.equal(renewed.state.entitlements[0]?.plan, "premium_yearly");
+    assert.equal(renewed.state.entitlements[0]?.currentPeriodEnd, "2028-10-17T00:00:00.000Z");
+    assert.equal(logs.slice(before).some(line => line.includes("plan_conflict")), false);
+  } finally {
+    console.info = original;
+  }
+  assert.equal(logs.filter(line => line.includes("plan_conflict")).length, 2);
+  for (const line of logs) {
+    const parsed = JSON.parse(line) as { scope: string; event: string; reason: string };
+    assert.equal(parsed.scope, "startap-payments");
+    assert.equal(parsed.event, "finalize");
+    assert.equal(parsed.reason, "plan_conflict");
+  }
+});
+
+test("malformed payment references are rejected before any provider call", async () => {
+  const samples = [
+    { tx_ref: "garbage-'; drop table x;--" },
+    { tx_ref: "a".repeat(5000) },
+    { tx_ref: "st.★.premium_monthly.NGN.★" },
+    { tx_ref: "" },
+    { tx_ref: " " },
+    { transaction_id: "12; drop" },
+    { transaction_id: "★" },
+    { transaction_id: "" },
+    {},
+  ];
+  for (const body of samples) {
+    let calls = 0;
+    const outcome = await verifySignedInPayment({
+      user: signer,
+      body,
+      state: blank(),
+      env,
+      verify: async () => { calls += 1; return { ok: false, retry: false }; },
+      verifyReference: async () => { calls += 1; return { ok: false, absent: true, retry: false }; },
+    });
+    assert.equal(outcome.status, 400, JSON.stringify(body));
+    assert.equal(outcome.write, null);
+    assert.equal(calls, 0);
+  }
+  assert.equal(browserPaymentReference({ tx_ref: "garbage-'; drop table x;--", status: "successful", amount: 1 }), null);
+});
+
+test("a reference with no successful charge cancels only the pending row", async () => {
+  const state = blank();
+  state.payments.push(pending());
+  const txRef = state.payments[0]!.txRef;
+  let idCalls = 0;
+  const outcome = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: txRef, status: "cancelled" },
+    state,
+    env,
+    verify: async () => { idCalls += 1; return { ok: false, retry: false }; },
+    verifyReference: async () => ({ ok: false, absent: true, retry: false }),
+  });
+  assert.equal(idCalls, 0);
+  assert.equal(outcome.write?.eventKey, `checkout.cancelled:${txRef}`);
+  assert.equal(outcome.state.payments[0]?.status, "cancelled");
+  assert.equal(outcome.state.entitlements.length, 0);
+  assert.equal(confirmationStatus(outcome.state, USER, txRef, new Date("2026-10-17T12:00:00.000Z")), "cancelled");
+
+  const again = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: txRef },
+    state: outcome.state,
+    env,
+    verify: async () => { idCalls += 1; return { ok: false, retry: false }; },
+    verifyReference: async () => ({ ok: false, absent: true, retry: false }),
+  });
+  assert.equal(again.write, null);
+  assert.equal(again.state.payments[0]?.status, "cancelled");
+});
+
+test("a verified failed charge is marked failed and a pending charge stays pending", async () => {
+  const failedState = blank();
+  failedState.payments.push(pending());
+  const failed = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: failedState.payments[0]!.txRef },
+    state: failedState,
+    env,
+    verify: async () => { throw new Error("id verify should not run"); },
+    verifyReference: async () => ({ ok: true, tx: verified({ status: "failed", id: "41" }) }),
+  });
+  assert.equal(failed.state.payments[0]?.status, "failed");
+  assert.equal(failed.write?.eventKey, "charge.completed:41");
+  assert.equal(confirmationStatus(failed.state, USER, failedState.payments[0]!.txRef, new Date()), "failed");
+
+  const waiting = blank();
+  waiting.payments.push(pending());
+  const pendingOutcome = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: waiting.payments[0]!.txRef },
+    state: waiting,
+    env,
+    verify: async () => ({ ok: false, retry: false }),
+    verifyReference: async () => ({ ok: true, tx: verified({ status: "pending", id: "42" }) }),
+  });
+  assert.equal(pendingOutcome.write, null);
+  assert.equal(pendingOutcome.body.reason, "pending");
+  assert.equal(waiting.payments[0]?.status, "pending");
+  assert.equal(confirmationStatus(pendingOutcome.state, USER, waiting.payments[0]!.txRef, new Date()), "pending");
+});
+
+test("browser status cancelled is ignored when verify by reference is successful", async () => {
+  const state = blank();
+  state.payments.push(pending());
+  const outcome = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: state.payments[0]!.txRef, status: "cancelled", amount: 1, currency: "EUR" },
+    state,
+    env,
+    now: new Date("2026-10-17T12:00:00.000Z"),
+    verify: async () => { throw new Error("id verify should not run"); },
+    verifyReference: async () => ({ ok: true, tx: verified() }),
+  });
+  assert.equal(outcome.body.granted, true);
+  assert.equal(outcome.state.payments[0]?.status, "successful");
+  assert.equal(outcome.state.entitlements.length, 1);
+  assert.equal(outcome.write?.eventKey, "charge.completed:99");
+});
+
+test("a provider outage does not cancel a pending checkout", async () => {
+  const state = blank();
+  state.payments.push(pending());
+  const denied = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: state.payments[0]!.txRef, status: "cancelled" },
+    state,
+    env,
+    verify: async () => ({ ok: false, retry: false }),
+    verifyReference: async () => ({ ok: false, absent: false, retry: false }),
+  });
+  assert.equal(denied.status, 503);
+  assert.equal(denied.write, null);
+  assert.equal(denied.state.payments[0]?.status, "pending");
+
+  const paid = blank();
+  paid.payments.push({ ...pending(), status: "successful", flwId: "99" });
+  const kept = await verifySignedInPayment({
+    user: signer,
+    body: { tx_ref: paid.payments[0]!.txRef },
+    state: paid,
+    env,
+    verify: async () => ({ ok: false, retry: false }),
+    verifyReference: async () => ({ ok: false, absent: true, retry: false }),
+  });
+  assert.equal(kept.write, null);
+  assert.equal(kept.state.payments[0]?.status, "successful");
 });
 
 test("expired not active", () => {

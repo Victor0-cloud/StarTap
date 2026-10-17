@@ -1,9 +1,9 @@
 import { userFromRequest } from "@/lib/payments/auth";
 import { applyWebhookWrite, loadBillingState } from "@/lib/payments/db";
 import { readServerEnv } from "@/lib/payments/env";
-import { requestVerification } from "@/lib/payments/flutterwave";
+import { requestVerification, requestVerificationByReference } from "@/lib/payments/flutterwave";
 import { clientIp, rateLimit } from "@/lib/payments/rate-limit";
-import { confirmationStatus, verifySignedInPayment } from "@/lib/payments/verify";
+import { browserPaymentReference, confirmationStatus, verifySignedInPayment } from "@/lib/payments/verify";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -25,18 +25,19 @@ export async function POST(request: Request) {
   if (text) {
     try { body = JSON.parse(text); } catch { return json({ error: "Invalid request" }, 400); }
   }
+  // Reject a tx_ref we did not mint, or a transaction_id that is not 1–20 digits, before auth, the database, or Flutterwave.
+  const ref = browserPaymentReference(body);
+  if (!ref) return json({ error: "Invalid request" }, 400);
   const user = await userFromRequest(request, env);
   if (!user) return json({ error: "Sign in required" }, 401);
   if (!rateLimit(`verify:user:${user.id}`, 12, 60_000)) return json({ error: "Too many requests" }, 429);
-  const hinted = body !== null && typeof body === "object" && !Array.isArray(body) ? body as Record<string, unknown> : {};
-  const hintedRef = typeof hinted.tx_ref === "string" ? hinted.tx_ref.trim() : null;
-  const hintedId = typeof hinted.transaction_id === "string" ? hinted.transaction_id.trim() : typeof hinted.transaction_id === "number" && Number.isSafeInteger(hinted.transaction_id) ? String(hinted.transaction_id) : null;
+  const eventKey = ref.transactionId ? `charge.completed:${ref.transactionId}` : null;
   try {
     const state = await loadBillingState(env, {
-      txRef: hintedRef,
+      txRef: ref.txRef,
       email: null,
       userId: user.id,
-      eventKey: hintedId && /^\d+$/.test(hintedId) ? `charge.completed:${hintedId}` : null,
+      eventKey,
     });
     const outcome = await verifySignedInPayment({
       user,
@@ -44,7 +45,8 @@ export async function POST(request: Request) {
       state,
       env: process.env,
       verify: id => requestVerification(id, env.flwSecretKey),
-      reload: txRef => loadBillingState(env, { txRef, email: null, userId: user.id, eventKey: hintedId && /^\d+$/.test(hintedId) ? `charge.completed:${hintedId}` : null }),
+      verifyReference: txRef => requestVerificationByReference(txRef, env.flwSecretKey),
+      reload: txRef => loadBillingState(env, { txRef, email: null, userId: user.id, eventKey }),
     });
     if (outcome.write) {
       const saved = await applyWebhookWrite(env, outcome.write);
@@ -58,7 +60,7 @@ export async function POST(request: Request) {
       const error = typeof outcome.body.error === "string" ? outcome.body.error : "Invalid request";
       return json({ error }, outcome.status);
     }
-    const txRef = outcome.write?.payment?.txRef ?? hintedRef;
+    const txRef = outcome.write?.payment?.txRef ?? ref.txRef;
     const finalState = await loadBillingState(env, { txRef, email: null, userId: user.id, eventKey: null });
     const status = confirmationStatus(finalState, user.id, txRef, new Date());
     log(status);

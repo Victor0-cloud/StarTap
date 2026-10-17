@@ -6,6 +6,7 @@ import { useState } from "react";
 import { SiteFooter } from "@/components/site/SiteChrome";
 import { OFFERED_CURRENCIES, PLAN_CATALOG, PLAN_IDS, PRICE_APPROVAL, type CurrencyCode, type PlanId } from "@/lib/payments/plans";
 import { readSavedSession } from "@/lib/premium/session";
+import { usePremium } from "@/lib/premium/usePremium";
 import styles from "./account.module.css";
 
 const STARS = [[8, 18], [22, 70], [40, 12], [63, 64], [78, 22], [90, 48]] as const;
@@ -14,9 +15,11 @@ type Prices = Record<PlanId, Record<CurrencyCode, number>>;
 
 export function PremiumView({ prices }: { prices: Prices }) {
   const router = useRouter();
+  const access = usePremium();
   const [plan, setPlan] = useState<PlanId>("premium_monthly");
   const [currency, setCurrency] = useState<CurrencyCode>("NGN");
   const [message, setMessage] = useState<string | null>(null);
+  const [already, setAlready] = useState(false);
   const [busy, setBusy] = useState(false);
   const amount = prices[plan][currency];
   async function go() {
@@ -34,6 +37,11 @@ export function PremiumView({ prices }: { prices: Prices }) {
         body: JSON.stringify({ plan, currency }),
       });
       const body = await response.json() as { link?: string; error?: string };
+      if (response.status === 409 || body.error === "already_premium") {
+        setAlready(true);
+        setBusy(false);
+        return;
+      }
       if (!response.ok || !body.link) {
         setMessage(body.error ?? "Checkout could not be started");
         setBusy(false);
@@ -81,14 +89,19 @@ export function PremiumView({ prices }: { prices: Prices }) {
             <li>Future premium challenges</li>
             <li>Future ad-free play</li>
           </ul>
-          <div className={styles.controls}>
-            {PLAN_IDS.map(id => <button key={id} type="button" className="secondary-button" aria-pressed={plan === id} onClick={() => setPlan(id)}>{PLAN_CATALOG[id].label.toUpperCase()}</button>)}
-            {OFFERED_CURRENCIES.map(code => <button key={code} type="button" className="secondary-button" aria-pressed={currency === code} onClick={() => setCurrency(code)}>{code}</button>)}
-          </div>
-          <p>{amount.toLocaleString()} {currency} · {PLAN_CATALOG[plan].per} · {PRICE_APPROVAL}</p>
-          <button className="primary-button" type="button" disabled={busy} onClick={go}>{busy ? "OPENING CHECKOUT…" : "GO PREMIUM"}</button>
-          {message && <p role="status">{message}</p>}
-          <p className={styles.lede}>You&apos;ll pay on Flutterwave&apos;s secure page. StarTap never sees your card.</p>
+          {access.isPremium || already ? <>
+            <p>StarTap Premium is already on for this account.</p>
+            <Link className="primary-button" href="/account/">YOUR ACCOUNT</Link>
+          </> : <>
+            <div className={styles.controls}>
+              {PLAN_IDS.map(id => <button key={id} type="button" className="secondary-button" aria-pressed={plan === id} onClick={() => setPlan(id)}>{PLAN_CATALOG[id].label.toUpperCase()}</button>)}
+              {OFFERED_CURRENCIES.map(code => <button key={code} type="button" className="secondary-button" aria-pressed={currency === code} onClick={() => setCurrency(code)}>{code}</button>)}
+            </div>
+            <p>{amount.toLocaleString()} {currency} · {PLAN_CATALOG[plan].per} · {PRICE_APPROVAL}</p>
+            <button className="primary-button" type="button" disabled={busy || access.loading} onClick={go}>{busy ? "OPENING CHECKOUT…" : "GO PREMIUM"}</button>
+            {message && <p role="status">{message}</p>}
+            <p className={styles.lede}>You&apos;ll pay on Flutterwave&apos;s secure page. StarTap never sees your card.</p>
+          </>}
         </article>
       </div>
     </main>

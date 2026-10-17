@@ -1,4 +1,4 @@
-import { cancelEntitlement, entitlementIsActive, extendEntitlement, type EntitlementRow } from "./entitlement.ts";
+import { addPeriod, cancelEntitlement, entitlementIsActive, extendEntitlement, type EntitlementRow } from "./entitlement.ts";
 import { hashesMatch } from "./hash.ts";
 import { moneyEqual } from "./money.ts";
 import { isCurrency, isPlanId, planForAmount, planIdMatches, type CurrencyCode, type PlanId } from "./plans.ts";
@@ -82,6 +82,27 @@ function mismatches(tx: VerifiedTx, payment: PaymentRow, env: Record<string, str
   return null;
 }
 
+/**
+ * A second plan must not wipe the one already paid for.
+ * Keep the longer plan (yearly over monthly) and never move the period end earlier.
+ * Time already paid stays; the incoming period is added after the later of now and the current end.
+ * The same plan, or an entitlement that is no longer active, uses the normal extension.
+ */
+function settleEntitlement(existing: EntitlementRow | null, incoming: PlanId, userId: string, now: Date): { entitlement: EntitlementRow; conflict: boolean } {
+  if (existing && entitlementIsActive(existing, now) && existing.plan !== incoming) {
+    const currentEnd = existing.currentPeriodEnd ? new Date(existing.currentPeriodEnd) : now;
+    const base = currentEnd.getTime() > now.getTime() ? currentEnd : now;
+    const extended = addPeriod(base, incoming);
+    const end = extended.getTime() >= currentEnd.getTime() ? extended : currentEnd;
+    console.info(JSON.stringify({ scope: "startap-payments", event: "finalize", reason: "plan_conflict" }));
+    return {
+      conflict: true,
+      entitlement: { ...existing, userId, plan: longerPlan(existing.plan, incoming), status: "active", currentPeriodEnd: end.toISOString() },
+    };
+  }
+  return { conflict: false, entitlement: { ...extendEntitlement(existing, incoming, now), userId } };
+}
+
 function grant(state: WebhookState, payment: PaymentRow, tx: VerifiedTx, now: Date, env: Record<string, string | undefined>): WebhookOutcome {
   const key = `charge.completed:${tx.id}`;
   const reason = mismatches(tx, payment, env);
@@ -97,7 +118,6 @@ function grant(state: WebhookState, payment: PaymentRow, tx: VerifiedTx, now: Da
     return finish(state, { eventKey: key, eventType: "charge.completed", payment: null, entitlement: null }, { received: true, duplicate: payment.flwId === tx.id, granted: false });
   }
   const existing = state.entitlements.find(row => row.userId === payment.userId) ?? null;
-  const entitlement = { ...extendEntitlement(existing, payment.plan, now), userId: payment.userId };
   // Touch env so a mis-configured catalogue cannot grant a plan that no longer resolves.
   if (!planForAmount(payment.amount, payment.currency, env)) {
     return finish(state, {
@@ -107,12 +127,17 @@ function grant(state: WebhookState, payment: PaymentRow, tx: VerifiedTx, now: Da
       entitlement: null,
     }, { received: true, granted: false, reason: "catalogue" });
   }
+  const settled = settleEntitlement(existing, payment.plan, payment.userId, now);
   return finish(state, {
     eventKey: key,
     eventType: "charge.completed",
     payment: { ...payment, status: "successful", flwId: tx.id, verifiedAt: now.toISOString() },
-    entitlement,
-  }, { received: true, granted: true });
+    entitlement: settled.entitlement,
+  }, settled.conflict ? { received: true, granted: true, reason: "plan_conflict" } : { received: true, granted: true });
+}
+
+function longerPlan(current: PlanId, incoming: PlanId): PlanId {
+  return current === "premium_yearly" || incoming === "premium_yearly" ? "premium_yearly" : current;
 }
 
 function storedAssociation(state: WebhookState, userId: string): boolean {
@@ -134,6 +159,7 @@ function renewal(state: WebhookState, tx: VerifiedTx, now: Date, env: Record<str
   if (tx.paymentPlanId === null || !planIdMatches(parsed.plan, parsed.currency, tx.paymentPlanId, env)) return reject("plan");
   const profile = state.profiles.find(row => row.id.toLowerCase() === parsed.userId);
   const existing = state.entitlements.find(row => row.userId.toLowerCase() === parsed.userId) ?? null;
+  const settled = settleEntitlement(existing, plan.plan, parsed.userId, now);
   const payment: PaymentRow = {
     txRef: tx.txRef,
     flwId: tx.id,
@@ -149,8 +175,8 @@ function renewal(state: WebhookState, tx: VerifiedTx, now: Date, env: Record<str
     eventKey: key,
     eventType: "charge.completed",
     payment,
-    entitlement: { ...extendEntitlement(existing, plan.plan, now), userId: parsed.userId },
-  }, { received: true, granted: true });
+    entitlement: settled.entitlement,
+  }, settled.conflict ? { received: true, granted: true, reason: "plan_conflict" } : { received: true, granted: true });
 }
 
 /**
@@ -168,7 +194,25 @@ export function finalizeVerifiedCharge(input: {
   const now = input.now ?? new Date();
   const key = `charge.completed:${input.tx.id}`;
   if (input.state.events.includes(key)) return empty(input.state, 200, { received: true, duplicate: true });
-  if (input.tx.status !== "successful") return empty(input.state, 200, { received: true, granted: false, reason: "status" });
+  if (input.tx.status === "failed" || input.tx.status === "cancelled") {
+    if (input.userId) {
+      const owned = input.state.payments.find(row => row.txRef === input.tx.txRef);
+      if (!owned || owned.userId.toLowerCase() !== input.userId.toLowerCase()) return empty(input.state, 404, { error: "Payment not found" });
+    }
+    return failCharge(input.state, {
+      event: "charge.completed",
+      id: input.tx.id,
+      txRef: input.tx.txRef,
+      status: input.tx.status,
+      amount: input.tx.amount,
+      currency: input.tx.currency,
+      email: input.tx.email,
+      planId: null,
+      metaUserId: input.tx.metaUserId,
+      metaPlan: input.tx.metaPlan,
+    });
+  }
+  if (input.tx.status !== "successful") return empty(input.state, 200, { received: true, granted: false, reason: "pending" });
   const payment = input.state.payments.find(row => row.txRef === input.tx.txRef);
   if (input.userId) {
     if (!payment || payment.userId.toLowerCase() !== input.userId.toLowerCase()) return empty(input.state, 404, { error: "Payment not found" });
@@ -239,6 +283,21 @@ export async function handleWebhook(input: {
   if (input.state.events.includes(`charge.completed:${tx.id}`)) return empty(input.state, 200, { received: true, duplicate: true });
   if (tx.status !== "successful") return failCharge(input.state, { ...event, txRef: tx.txRef, id: tx.id, status: tx.status });
   return finalizeVerifiedCharge({ state: input.state, tx, now, env: input.env });
+}
+
+/** No successful provider charge for this tx_ref. Cancels a pending row only. Does not use the charge.completed key. */
+export function cancelUnresolvedPayment(state: WebhookState, txRef: string, userId: string): WebhookOutcome {
+  const payment = state.payments.find(row => row.txRef === txRef);
+  if (!payment || payment.userId.toLowerCase() !== userId.toLowerCase()) return empty(state, 404, { error: "Payment not found" });
+  if (payment.status === "successful") return empty(state, 200, { received: true, duplicate: true, granted: false });
+  if (payment.status === "cancelled") return empty(state, 200, { received: true, duplicate: true, granted: false });
+  if (payment.status !== "pending") return empty(state, 200, { received: true, granted: false });
+  return finish(state, {
+    eventKey: `checkout.cancelled:${txRef}`,
+    eventType: "checkout.cancelled",
+    payment: { ...payment, status: "cancelled", flwId: null, verifiedAt: null },
+    entitlement: null,
+  }, { received: true, granted: false, reason: "cancelled" });
 }
 
 export function premiumFromState(state: WebhookState, userId: string, now: Date): { isPremium: boolean; entitlement: EntitlementRow | null } {

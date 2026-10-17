@@ -1,31 +1,41 @@
 import { entitlementIsActive } from "./entitlement.ts";
-import type { VerifiedTx } from "./fields.ts";
-import { finalizeVerifiedCharge, type WebhookOutcome, type WebhookState } from "./webhook.ts";
+import { parseTxRef, type VerifiedTx } from "./fields.ts";
+import { cancelUnresolvedPayment, finalizeVerifiedCharge, type WebhookOutcome, type WebhookState } from "./webhook.ts";
+import type { ReferenceLookup } from "./flutterwave.ts";
 
 export type VerifyUser = { id: string; email: string };
 
 const DIGITS = /^\d{1,20}$/;
 
 /** What the success page may show. Read from stored rows, never from the provider payload. */
-export function confirmationStatus(state: WebhookState, userId: string, txRef: string | null, now: Date): "active" | "pending" | "failed" {
+export function confirmationStatus(state: WebhookState, userId: string, txRef: string | null, now: Date): "active" | "pending" | "failed" | "cancelled" {
+  const payment = state.payments.find(row => row.userId.toLowerCase() === userId.toLowerCase() && (!txRef || row.txRef === txRef));
+  if (payment?.status === "cancelled") return "cancelled";
+  if (payment?.status === "failed") return "failed";
   const entitlement = state.entitlements.find(row => row.userId.toLowerCase() === userId.toLowerCase()) ?? null;
   if (entitlementIsActive(entitlement, now)) return "active";
-  const payment = state.payments.find(row => row.userId.toLowerCase() === userId.toLowerCase() && (!txRef || row.txRef === txRef));
-  if (payment?.status === "failed" || payment?.status === "cancelled") return "failed";
+  if (payment?.status === "successful") return "active";
   return "pending";
 }
 
-/** The only browser fields this route reads. Status, amount, currency, plan and user are ignored. */
-export function browserPaymentReference(body: unknown): { transactionId: string | null; txRef: string | null } {
-  const record = body !== null && typeof body === "object" && !Array.isArray(body) ? body as Record<string, unknown> : {};
+/**
+ * The only browser fields this route reads. Status, amount, currency, plan and user are ignored.
+ * Returns null when tx_ref is not one we minted or transaction_id is not a short digit string.
+ */
+export function browserPaymentReference(body: unknown): { transactionId: string | null; txRef: string | null } | null {
+  if (body === null || typeof body !== "object" || Array.isArray(body)) return null;
+  const record = body as Record<string, unknown>;
+  if ("tx_ref" in record && record.tx_ref !== null && typeof record.tx_ref !== "string") return null;
+  if ("transaction_id" in record && record.transaction_id !== null && typeof record.transaction_id !== "string" && typeof record.transaction_id !== "number") return null;
+  const txRef = typeof record.tx_ref === "string" ? record.tx_ref.trim() : "";
   const rawId = record.transaction_id;
-  const transactionId = typeof rawId === "string" ? rawId.trim() : typeof rawId === "number" && Number.isSafeInteger(rawId) ? String(rawId) : "";
-  const rawRef = record.tx_ref;
-  const txRef = typeof rawRef === "string" ? rawRef.trim() : "";
-  return {
-    transactionId: transactionId.length > 0 && transactionId.length <= 20 ? transactionId : null,
-    txRef: txRef.length > 0 && txRef.length <= 200 ? txRef : null,
-  };
+  const transactionId = typeof rawId === "string" ? rawId.trim() : typeof rawId === "number" && Number.isSafeInteger(rawId) && rawId > 0 ? String(rawId) : "";
+  if ((typeof rawId === "string" && rawId.trim() && !transactionId) || (typeof rawId === "number" && !transactionId && rawId !== undefined)) return null;
+  if (txRef.length > 200 || transactionId.length > 20) return null;
+  if (txRef && !parseTxRef(txRef)) return null;
+  if (transactionId && !/^\d{1,20}$/.test(transactionId)) return null;
+  if (!txRef && !transactionId) return null;
+  return { transactionId: transactionId || null, txRef: txRef || null };
 }
 
 /**
@@ -39,20 +49,14 @@ export async function verifySignedInPayment(input: {
   env: Record<string, string | undefined>;
   now?: Date;
   verify: (id: string) => Promise<{ ok: true; tx: VerifiedTx } | { ok: false; retry: boolean }>;
+  verifyReference?: (txRef: string) => Promise<ReferenceLookup>;
   reload?: (txRef: string) => Promise<WebhookState>;
 }): Promise<WebhookOutcome> {
   const deny = (status: number, body: Record<string, unknown>, state: WebhookState = input.state): WebhookOutcome =>
     ({ status, body, state, write: null });
   if (!input.user?.id || !input.user.email) return deny(401, { error: "Sign in required" });
-  const raw = input.body !== null && typeof input.body === "object" && !Array.isArray(input.body) ? input.body as Record<string, unknown> : {};
-  if (typeof raw.transaction_id === "string" && raw.transaction_id.trim().length > 20) return deny(400, { error: "Invalid request" });
-  if (typeof raw.tx_ref === "string" && raw.tx_ref.trim().length > 200) return deny(400, { error: "Invalid request" });
   const ref = browserPaymentReference(input.body);
-  if ((typeof raw.transaction_id === "string" && raw.transaction_id.trim() && !ref.transactionId) || (typeof raw.transaction_id === "number" && !ref.transactionId)) {
-    return deny(400, { error: "Invalid request" });
-  }
-  if (ref.transactionId && !DIGITS.test(ref.transactionId)) return deny(400, { error: "Invalid request" });
-  if (!ref.txRef && !ref.transactionId) return deny(400, { error: "Invalid request" });
+  if (!ref) return deny(400, { error: "Invalid request" });
 
   let state = input.state;
   if (ref.txRef) {
@@ -60,8 +64,20 @@ export async function verifySignedInPayment(input: {
     if (!owned || owned.userId.toLowerCase() !== input.user.id.toLowerCase()) return deny(404, { error: "Payment not found" });
   }
 
-  const storedId = ref.txRef ? state.payments.find(row => row.txRef === ref.txRef)?.flwId ?? null : null;
-  const id = ref.transactionId ?? storedId;
+  if (!ref.transactionId && ref.txRef) {
+    if (!input.verifyReference) return deny(400, { error: "Invalid request" });
+    const looked = await input.verifyReference(ref.txRef);
+    if (!looked.ok && looked.retry) return deny(503, { error: "Verification unavailable" });
+    if (!looked.ok && !looked.absent) return deny(503, { error: "Verification unavailable" });
+    if (!looked.ok) return cancelUnresolvedPayment(state, ref.txRef, input.user.id);
+    if (looked.tx.txRef !== ref.txRef) return deny(400, { error: "Invalid request" });
+    if (looked.tx.status !== "successful" && looked.tx.status !== "failed" && looked.tx.status !== "cancelled") {
+      return deny(200, { received: true, granted: false, reason: "pending" });
+    }
+    return finalizeVerifiedCharge({ state, tx: looked.tx, env: input.env, now: input.now, userId: input.user.id });
+  }
+
+  const id = ref.transactionId;
   if (!id || !DIGITS.test(id)) return deny(400, { error: "Invalid request" });
 
   const verified = await input.verify(id);

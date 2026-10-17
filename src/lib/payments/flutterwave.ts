@@ -1,5 +1,5 @@
 import type { ProviderCheckout } from "./checkout.ts";
-import { publicVerifiedTransaction, type VerifiedTx } from "./fields.ts";
+import { parseTxRef, publicVerifiedTransaction, type VerifiedTx } from "./fields.ts";
 
 const PAYMENTS_URL = "https://api.flutterwave.com/v3/payments";
 const PROD_CHECKOUT_HOST = "checkout.flutterwave.com";
@@ -65,6 +65,42 @@ export async function requestHostedLink(payload: ProviderCheckout, secretKey: st
   } catch {
     logHostedFailure(status, "request_failed");
     return { ok: false };
+  }
+}
+
+export type ReferenceLookup =
+  | { ok: true; tx: VerifiedTx }
+  | { ok: false; absent: boolean; retry: boolean };
+
+/** GET /v3/transactions/verify_by_reference. The tx_ref must already be one this server minted. */
+export function verifyByReferenceUrl(txRef: string): string | null {
+  if (!parseTxRef(txRef)) return null;
+  const url = new URL("https://api.flutterwave.com/v3/transactions/verify_by_reference");
+  url.searchParams.set("tx_ref", txRef);
+  return url.toString();
+}
+
+export async function requestVerificationByReference(txRef: string, secretKey: string, fetchImpl: typeof fetch = fetch): Promise<ReferenceLookup> {
+  const url = verifyByReferenceUrl(txRef);
+  if (!url) return { ok: false, absent: false, retry: false };
+  let status: number | null = null;
+  try {
+    const response = await fetchImpl(url, {
+      method: "GET",
+      headers: { Authorization: `Bearer ${secretKey}` },
+      signal: AbortSignal.timeout(15000),
+    });
+    status = response.status;
+    if (status === 401 || status === 403) return { ok: false, absent: false, retry: false };
+    if (status >= 500) return { ok: false, absent: false, retry: true };
+    const payload = await response.json() as { status?: unknown; data?: unknown };
+    const missing = !response.ok || payload?.data == null || payload?.status === "error";
+    if (missing) return { ok: false, absent: true, retry: false };
+    const tx = publicVerifiedTransaction(payload);
+    return tx ? { ok: true, tx } : { ok: false, absent: true, retry: false };
+  } catch {
+    if (status !== null && status < 500) return { ok: false, absent: true, retry: false };
+    return { ok: false, absent: false, retry: true };
   }
 }
 

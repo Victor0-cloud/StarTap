@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { buildCheckout, createCheckout } from "./checkout.ts";
 import { paymentsLive } from "./env.ts";
 import { txRefFor } from "./fields.ts";
-import { hostedLink, requestHostedLink } from "./flutterwave.ts";
+import { hostedLink, requestHostedLink, requestVerificationByReference } from "./flutterwave.ts";
 import { PRICE_APPROVAL } from "./plans.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
@@ -224,6 +224,80 @@ test("requestHostedLink accepts the test host and logs only status and reason", 
     assert.equal(line.includes(built.providerBody.customer.email), false);
     assert.equal(line.includes(built.providerBody.tx_ref), false);
   }
+});
+
+test("an active entitlement cannot start another checkout", async () => {
+  let inserts = 0;
+  let links = 0;
+  const now = new Date("2026-10-17T12:00:00.000Z");
+  const yearly = {
+    userId: USER,
+    plan: "premium_yearly" as const,
+    status: "active" as const,
+    provider: "flutterwave",
+    currentPeriodStart: "2026-10-17T00:00:00.000Z",
+    currentPeriodEnd: "2027-10-17T00:00:00.000Z",
+  };
+  const blocked = await createCheckout({
+    user,
+    body: { plan: "premium_monthly", currency: "NGN" },
+    env,
+    requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+    now,
+    entitlement: yearly,
+    insertPending: async () => { inserts += 1; },
+    markFailed: async () => {},
+    createLink: async () => { links += 1; return { ok: true, link: PROD_LINK }; },
+  });
+  assert.equal(blocked.status, 409);
+  assert.deepEqual(blocked.body, { error: "already_premium" });
+  assert.equal(inserts, 0);
+  assert.equal(links, 0);
+
+  const stillPaid = await createCheckout({
+    user,
+    body: { plan: "premium_monthly", currency: "NGN" },
+    env,
+    requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+    now,
+    entitlement: { ...yearly, status: "cancelled" },
+    insertPending: async () => { inserts += 1; },
+    markFailed: async () => {},
+    createLink: async () => { links += 1; return { ok: true, link: PROD_LINK }; },
+  });
+  assert.equal(stillPaid.status, 409);
+  assert.equal(inserts, 0);
+
+  const expired = await createCheckout({
+    user,
+    body: { plan: "premium_monthly", currency: "NGN" },
+    env,
+    requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+    now,
+    entitlement: { ...yearly, currentPeriodEnd: "2026-10-01T00:00:00.000Z" },
+    insertPending: async () => { inserts += 1; },
+    markFailed: async () => {},
+    createLink: async () => { links += 1; return { ok: true, link: PROD_LINK }; },
+  });
+  assert.equal(expired.status, 200);
+  assert.equal(inserts, 1);
+  assert.equal(links, 1);
+});
+
+test("verify by reference refuses a tx_ref this server did not mint", async () => {
+  let calls = 0;
+  const junk = await requestVerificationByReference("garbage-'; drop table x;--", "secret", async () => {
+    calls += 1;
+    return new Response("no");
+  });
+  assert.equal(calls, 0);
+  assert.deepEqual(junk, { ok: false, absent: false, retry: false });
+
+  const txRef = txRefFor(USER, "premium_monthly", "NGN", "22222222-2222-4222-8222-222222222222");
+  const denied = await requestVerificationByReference(txRef, "secret", async () => new Response("no", { status: 401 }));
+  assert.deepEqual(denied, { ok: false, absent: false, retry: false });
+  const missing = await requestVerificationByReference(txRef, "secret", async () => Response.json({ status: "error", data: null }, { status: 404 }));
+  assert.deepEqual(missing, { ok: false, absent: true, retry: false });
 });
 
 test("a currency with no plan id is not offered", () => {

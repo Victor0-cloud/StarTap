@@ -1,3 +1,4 @@
+import { entitlementIsActive, type EntitlementRow } from "./entitlement.ts";
 import type { ServerEnv } from "./env.ts";
 import { paymentsLive } from "./env.ts";
 import { resolvePlan, type ResolvedPlan } from "./plans.ts";
@@ -79,9 +80,14 @@ export async function createCheckout(input: {
   markFailed: (txRef: string) => Promise<void>;
   createLink: (payload: ProviderCheckout, secretKey: string) => Promise<{ ok: true; link: string } | { ok: false }>;
   server?: ServerEnv | null;
+  entitlement?: EntitlementRow | null;
+  now?: Date;
 }): Promise<CheckoutResult> {
   const built = buildCheckout(input);
   if (!built.ok) return { status: built.status, body: { error: built.error } };
+  if (entitlementIsActive(input.entitlement ?? null, input.now ?? new Date())) {
+    return { status: 409, body: { error: "already_premium" } };
+  }
   const secret = input.server?.flwSecretKey ?? input.env.FLW_SECRET_KEY;
   if (!secret) return { status: 503, body: { error: "Payments are not available" } };
   try {

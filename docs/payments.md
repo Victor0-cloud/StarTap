@@ -22,13 +22,25 @@ When `STARTAP_PAYMENTS_ENABLED` is off, or any required variable is missing, non
 | `npm run build:web` | Unchanged static export to `out/`. No API routes. Fallback if a host cannot run a server. |
 | `npm run build:mobile` | Unchanged static export to `.next-mobile`. Capacitor. |
 
-`next.config.ts` adds the `web.ts` / `web.tsx` page extensions only for the server build. The mobile build never compiles API routes. `vercel.json` uses framework `nextjs`, `buildCommand` `npm run build:web:server`, and no `outputDirectory`.
+`next.config.ts` adds the `web.ts` / `web.tsx` page extensions only for the server build. The mobile build never compiles API routes.
+
+Git deploys of startap.fun read `vercel.json`, which overrides a project setting of `outputDirectory: out` (the old static export):
+
+| Setting | Value |
+| --- | --- |
+| `framework` | `nextjs` |
+| `installCommand` | `npm install --no-audit --no-fund` |
+| `buildCommand` | `npm run build:web:server` |
+| `outputDirectory` | `.next` |
+| `trailingSlash` | `true` |
+
+`npm run build:mobile` is separate. It still static-exports to `.next-mobile` for Capacitor and does not use `outputDirectory`.
 
 `trailingSlash` is still on. Flutterwave should call:
 
 `https://startap.fun/api/flutterwave/webhook`
 
-`vercel.json` rewrites that URL (no slash) to `/api/flutterwave/webhook/` so the POST body is not dropped by a redirect. The slash form is the route Next serves.
+`vercel.json` rewrites that URL (no slash) to `/api/flutterwave/webhook/` so the POST body is not dropped by a redirect. The same rewrite covers `create-checkout`, `verify-payment`, and `subscription/status`. The slash form is the route Next serves. Headers are unchanged: `/_next/static` is immutable, `.mjs` is `text/javascript`, `.geojson` is `application/geo+json`, and every path sends `X-Content-Type-Options: nosniff` and `Referrer-Policy: strict-origin-when-cross-origin`.
 
 ## Feature flag
 
@@ -100,7 +112,7 @@ Checked on 17 October 2026:
 - Standard checkout: [developer.flutterwave.com/reference/checkout](https://developer.flutterwave.com/reference/checkout) — `POST https://api.flutterwave.com/v3/payments`, `Authorization: Bearer`, body includes `payment_plan`. The example key prefix is `FLWSECK_TEST-`. Test mode returns a hosted link on `checkout-v2.dev-flutterwave.com`. That host is accepted only when `FLW_SECRET_KEY` starts with `FLWSECK_TEST-`. A live key accepts only `https://checkout.flutterwave.com`.
 - Testing: [developer.flutterwave.com/v3.0/docs/testing](https://developer.flutterwave.com/v3.0/docs/testing) — test cards work only in Test Mode. PIN Mastercard `5531886652142950`, expiry `09/32`, CVV `564`, OTP `12345`, PIN `3310`. 3DS Visa `4187427415564246`, expiry `09/32`, CVV `828`, OTP `12345`, PIN `3310`.
 - Webhooks: [developer.flutterwave.com/docs/webhooks](https://developer.flutterwave.com/docs/webhooks) — Settings → Webhooks, set the URL, set a secret hash, check all the boxes, save. Flutterwave sends the hash in `verif-hash`. Sample events include `charge.completed` and `subscription.cancelled`.
-- Verify: `GET https://api.flutterwave.com/v3/transactions/{id}/verify`.
+- Verify: `GET https://api.flutterwave.com/v3/transactions/{id}/verify`. A checkout that returns with no transaction id is checked with `GET https://api.flutterwave.com/v3/transactions/verify_by_reference?tx_ref=`.
 
 Dashboard, in Test Mode:
 
@@ -118,7 +130,11 @@ The server ignores any amount, currency, plan id or return URL sent by the brows
 
 A rejected charge still inserts that event key, and the key is final. Retrying the webhook or the success page does not grant Premium for the same transaction. Recovering it is manual: support has to repair the payment and the entitlement for that charge. This code does not delete or rewrite a rejected event key.
 
-`POST /api/flutterwave/verify-payment/` answers `{ "status": "active" }`, `{ "status": "pending" }`, or `{ "status": "failed" }` from the stored payment and entitlement after the write. It does not return the provider payload. `failed` means we could not confirm the payment; the success page tells the player to contact sales@startap.fun.
+An entitlement that is still active (including `cancelled` with time left) makes `POST /api/flutterwave/create-checkout` return `409` `{ "error": "already_premium" }` before any pending row is written. The Premium page hides GO PREMIUM and links to `/account`. If a verified charge for a different plan still arrives, the payment is marked successful and the outcome reason is `plan_conflict`. The entitlement keeps the longer plan (`premium_yearly` over `premium_monthly`). The incoming period is added after the later of now and the current end, so paid time is never shortened and a monthly charge does not relabel a yearly entitlement. A yearly charge may relabel monthly to yearly. The same plan extends as before and is not `plan_conflict`. The log line is `{ "scope": "startap-payments", "event": "finalize", "reason": "plan_conflict" }`.
+
+`POST /api/flutterwave/verify-payment/` answers `{ "status": "active" }`, `{ "status": "pending" }`, `{ "status": "failed" }`, or `{ "status": "cancelled" }` from the stored payment and entitlement after the write. It does not return the provider payload, and it does not trust `status` from the browser. `tx_ref` must be one this server minted (`parseTxRef`) and `transaction_id` must be 1–20 digits. Anything else, including an empty value, is `400` before the database or Flutterwave is called. A call with only `tx_ref` uses verify-by-reference. No successful transaction cancels that user's own pending row. The event key is `checkout.cancelled:<tx_ref>`, so a later `charge.completed:<id>` can still grant. A verified charge whose status is `failed` or `cancelled` is stored as that status. A verified `pending` charge leaves the row pending. A `401`, `403`, or provider outage returns 503 and does not cancel the row. `failed` means we could not confirm the payment; the page tells the player to contact sales@startap.fun. `cancelled` is checkout closed, with no "payment received" heading.
+
+No new SQL is required. `payments.status` already allows `cancelled` in `supabase/migrations/0001_premium.sql`.
 
 ### Prices are UNAPPROVED
 
@@ -128,14 +144,16 @@ A rejected charge still inserts that event key, and the key is final. Retrying t
 
 | Route | Behaviour |
 | --- | --- |
-| `POST /api/flutterwave/create-checkout` | Bearer JWT required. Approved plan only. Writes a pending payment. Returns the hosted link. |
+| `POST /api/flutterwave/create-checkout` | Bearer JWT required. Approved plan only. `409` `already_premium` when the entitlement is still active. Otherwise writes a pending payment and returns the hosted link. |
 | `POST /api/flutterwave/webhook` | Checks `verif-hash`, then verifies the transaction with Flutterwave. Idempotent. |
-| `POST /api/flutterwave/verify-payment` | Signed-in success-page fallback. Verifies with Flutterwave, uses the same finalize path as the webhook, and returns `active`, `pending`, or `failed` from the stored rows. |
-| `GET /api/subscription/status` | Server source of truth for Premium. |
-| `/premium` | Free vs Premium. GO PREMIUM. Hidden (404) while payments are off. |
-| `/login`, `/account` | Email OTP, plan, status, renewal or expiry, sign out. |
-| `/payment/success` | Says "Payment received. We're confirming your StarTap Premium access." Posts `transaction_id` and `tx_ref` to the verify route once, then polls status. Does not grant Premium. |
-| `/payment/cancel` | Checkout closed. Does not grant Premium. |
+| `POST /api/flutterwave/verify-payment` | Signed-in confirmation. Validates `tx_ref` and `transaction_id` first. Verifies with Flutterwave (by id, or by reference when there is no id), uses the same finalize path as the webhook, and returns `active`, `pending`, `failed`, or `cancelled` from the stored rows. |
+| `GET /api/subscription/status` | Server source of truth for Premium. When payments are off this is `200` with `paymentsEnabled: false`. |
+| `/premium` | Free vs Premium. GO PREMIUM is hidden for an active member, who gets a link to `/account`. Hidden (404) while payments are off. |
+| `/login`, `/account` | Email OTP, plan, status, renewal or expiry, sign out. Hidden (404) while payments are off. |
+| `/payment/success` | Used when Flutterwave sends a 1–20 digit `transaction_id` and the query status is not `cancelled`. Posts that id and `tx_ref` once, then polls. The heading follows the server status. Does not grant Premium by itself. |
+| `/payment/cancel` | Shown for `status=cancelled` or a missing transaction id. Posts only `tx_ref` when the player is signed in. Heading is checkout closed, still confirming, payment failed, or premium is on. Does not grant Premium by itself. |
+
+While `STARTAP_PAYMENTS_ENABLED` is unset, `create-checkout`, the webhook, and `verify-payment` return `503` `{ "error": "Payments are not available" }`. The payment pages, `/premium`, `/login`, and `/account` are 404. The merge does not turn payments on.
 
 Checkout is limited to 20 requests a minute per IP and 8 a minute per user. The verify route allows 30 a minute per IP and 12 a minute per user. The webhook allows 120 a minute per IP. Status allows 60. The limiter is per server instance, not a global lock.
 
