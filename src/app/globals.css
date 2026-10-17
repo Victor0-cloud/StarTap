@@ -1284,3 +1284,13 @@ html[data-quality="reduced"] .sky-stars i,html[data-quality="reduced"] .globe-ar
 @media(min-width:1000px){.finish-panel{max-width:920px}.finish-panel .place-cards{display:grid;grid-template-columns:1fr 1fr;gap:10px}.finish-panel .place-cards .place-card{margin:0}.finish-panel .share-preview{max-width:620px;margin-left:auto;margin-right:auto}}
 .brand{display:inline-flex;align-items:center;min-height:44px}
 @media(min-width:1000px){.home-page::after{height:36px}.home-page{padding-bottom:8px}}
+/* Status bar: Android 15+ (targetSdk 35+) draws the WebView edge-to-edge, and with viewport-fit=cover the page sits under the
+   status bar. Pad the top by the inset (Capacitor's injected --safe-area-inset-top, else env(); 0px on desktop browsers) and
+   shrink full-screen heights by the same amount so nothing overflows. */
+:root{--sat:var(--safe-area-inset-top,env(safe-area-inset-top,0px))}
+body{padding-top:var(--sat)}
+.onboarding,.mascot-page,.genre-page,.adventure-cinematic-gate{min-height:calc(100dvh - var(--sat))}
+.wonder-overlay{padding-top:calc(16px + var(--sat))}
+.wonder-card{max-height:calc(100dvh - 32px - var(--sat))}
+@media(max-width:850px){.game-page[data-phase="aim"]{height:calc(100dvh - var(--sat))}}
+@media(min-width:1000px){.game-page .map-stage{top:calc(12px + var(--sat))}.game-page .map-box{height:calc(100dvh - 190px - var(--sat))}}
