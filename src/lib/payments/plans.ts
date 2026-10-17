@@ -1,7 +1,9 @@
 // Central plan catalogue. Every amount is an UNAPPROVED placeholder.
-// There is no live foreign-exchange conversion. A currency is chargeable only when its row is
-// enabled and both Flutterwave plan ids exist: FLW_PLAN_MONTHLY_<CUR> and FLW_PLAN_YEARLY_<CUR>.
+// Amounts are minor units (hundredths): 449 is 4.49. There is no live foreign-exchange conversion.
+// A currency is chargeable only when its row is enabled and both Flutterwave plan ids exist:
+// FLW_PLAN_MONTHLY_<CUR> and FLW_PLAN_YEARLY_<CUR>.
 // Those names keep the existing FLW_PLAN_MONTHLY_NGN / _USD / YEARLY_* variables.
+import { amountFromMinor, moneyEqual } from "./money.ts";
 
 export const PRICE_APPROVAL = "UNAPPROVED" as const;
 
@@ -24,28 +26,29 @@ export type CurrencyRow = {
   liveVerified: boolean;
   /** Shown to operators. Every note says the amounts are not approved prices. */
   note: string;
-  monthly: number;
-  yearly: number;
+  /** Hundredths of the currency. 449 is 4.49. This is the stored and compared amount. */
+  monthlyMinor: number;
+  yearlyMinor: number;
 };
 
 const UNVERIFIED = "UNAPPROVED placeholder. Disabled until Flutterwave LIVE, recurring billing, and account approval are confirmed.";
 
 export const CURRENCY_TABLE: Record<CurrencyCode, CurrencyRow> = {
-  USD: { enabled: true, recurringVerified: false, liveVerified: false, monthly: 5, yearly: 40, note: "USD base. UNAPPROVED placeholder. Enabled for the existing test plans. Not live-verified." },
-  NGN: { enabled: true, recurringVerified: false, liveVerified: false, monthly: 2500, yearly: 25000, note: "Matches the existing test plans. UNAPPROVED placeholder. Enabled for test checkout. Not live-verified." },
-  GHS: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 80, yearly: 600, note: UNVERIFIED },
-  KES: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 700, yearly: 5500, note: UNVERIFIED },
-  ZAR: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 90, yearly: 700, note: UNVERIFIED },
-  UGX: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 20000, yearly: 150000, note: UNVERIFIED },
-  TZS: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 15000, yearly: 110000, note: UNVERIFIED },
-  RWF: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 7000, yearly: 55000, note: UNVERIFIED },
-  ZMW: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 140, yearly: 1100, note: UNVERIFIED },
-  EGP: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 250, yearly: 2000, note: UNVERIFIED },
-  MAD: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 50, yearly: 400, note: UNVERIFIED },
-  XOF: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 3000, yearly: 24000, note: UNVERIFIED },
-  XAF: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 3000, yearly: 24000, note: UNVERIFIED },
-  GBP: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 4, yearly: 32, note: UNVERIFIED },
-  EUR: { enabled: false, recurringVerified: false, liveVerified: false, monthly: 5, yearly: 40, note: UNVERIFIED },
+  USD: { enabled: true, recurringVerified: false, liveVerified: false, monthlyMinor: 500, yearlyMinor: 4_000, note: "USD base. UNAPPROVED placeholder. Enabled for the existing test plans. Not live-verified." },
+  NGN: { enabled: true, recurringVerified: false, liveVerified: false, monthlyMinor: 250_000, yearlyMinor: 2_500_000, note: "Monthly 2500 and yearly 25000 match Flutterwave test plan 246246. UNAPPROVED placeholder. Enabled for test checkout. Not live-verified. Research suggests 20000 yearly, pending Victor's decision." },
+  GHS: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 2_500, yearlyMinor: 20_000, note: UNVERIFIED },
+  KES: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 25_000, yearlyMinor: 200_000, note: UNVERIFIED },
+  ZAR: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 4_000, yearlyMinor: 32_000, note: UNVERIFIED },
+  UGX: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 700_000, yearlyMinor: 5_500_000, note: UNVERIFIED },
+  TZS: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 450_000, yearlyMinor: 3_500_000, note: UNVERIFIED },
+  RWF: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 700_000, yearlyMinor: 5_500_000, note: UNVERIFIED },
+  ZMW: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 14_000, yearlyMinor: 110_000, note: UNVERIFIED },
+  EGP: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 25_000, yearlyMinor: 200_000, note: UNVERIFIED },
+  MAD: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 5_000, yearlyMinor: 40_000, note: UNVERIFIED },
+  XOF: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 300_000, yearlyMinor: 2_400_000, note: UNVERIFIED },
+  XAF: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 300_000, yearlyMinor: 2_400_000, note: UNVERIFIED },
+  GBP: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 399, yearlyMinor: 2_999, note: UNVERIFIED },
+  EUR: { enabled: false, recurringVerified: false, liveVerified: false, monthlyMinor: 449, yearlyMinor: 3_599, note: UNVERIFIED },
 };
 
 export const PLAN_CATALOG: Record<PlanId, { label: string; per: string }> = {
@@ -100,7 +103,7 @@ export function resolvePlan(plan: unknown, currency: unknown, env: Record<string
   return {
     plan,
     currency,
-    amount: plan === "premium_monthly" ? row.monthly : row.yearly,
+    amount: amountFromMinor(plan === "premium_monthly" ? row.monthlyMinor : row.yearlyMinor),
     paymentPlanId,
     label: meta.label,
     per: meta.per,
@@ -109,14 +112,10 @@ export function resolvePlan(plan: unknown, currency: unknown, env: Record<string
 }
 
 /** Match a verified charge back to exactly one catalogue price. Ambiguous or unknown amounts fail closed. */
-export function planForAmount(amount: number, currency: string, env: Record<string, string | undefined>): ResolvedPlan | null {
+export function planForAmount(amount: number | string, currency: string, env: Record<string, string | undefined>): ResolvedPlan | null {
   if (!isCurrency(currency)) return null;
-  const hits = PLAN_IDS.map(plan => resolvePlan(plan, currency, env)).filter((row): row is ResolvedPlan => row !== null && moneySame(row.amount, amount));
+  const hits = PLAN_IDS.map(plan => resolvePlan(plan, currency, env)).filter((row): row is ResolvedPlan => row !== null && moneyEqual(row.amount, amount));
   return hits.length === 1 ? hits[0] : null;
-}
-
-function moneySame(a: number, b: number): boolean {
-  return Number.isFinite(a) && Number.isFinite(b) && Math.round(a * 100) === Math.round(b * 100);
 }
 
 export function planIdMatches(plan: PlanId, currency: CurrencyCode, providerPlanId: string, env: Record<string, string | undefined>): boolean {

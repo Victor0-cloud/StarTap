@@ -74,6 +74,10 @@ For a Flutterwave test run, `FLW_SECRET_KEY` is the test secret (`FLWSECK_TEST-.
 
 The USD amounts ($5 monthly, $40 yearly) are the base. They are UNAPPROVED placeholders, not approved prices. There is no live foreign-exchange conversion.
 
+The disabled placeholders follow a researched recommendation and stay disabled until the checklist below is done. Sources: World Bank PPP conversion factor PA.NUS.PRVT.PP and FX rate PA.NUS.FCRF, both 2024; a 0.35 price-level floor for African markets; yearly is about 8 times monthly. NGN stays 2500 / 25000 so it matches Flutterwave test plan 246246. That research suggests 20000 yearly for NGN, pending Victor's decision. RWF, ZMW, EGP, MAD, XOF and XAF are unchanged. The other researched rows are GHS 25 / 200, KES 250 / 2000, ZAR 40 / 320, UGX 7000 / 55000, TZS 4500 / 35000, EUR 4.49 / 35.99 and GBP 3.99 / 29.99.
+
+Amounts are stored and compared as integer minor units (hundredths of the currency). 449 is 4.49. A verified charge matches when its decimal text is the same number of hundredths, including trailing zeros such as 4.490. A third non-zero decimal place does not match, and values are not compared with floating-point equality. The amount sent to Flutterwave is that same value, so 4.49 is serialized as 4.49. The premium page formats from those hundredths.
+
 The server maps the visitor's country to a currency, then looks up a fixed amount in `CURRENCY_TABLE`. A currency can be charged only when its row is `enabled` and both `FLW_PLAN_MONTHLY_<CUR>` and `FLW_PLAN_YEARLY_<CUR>` are set. Otherwise the offer falls back to USD. If the USD plan ids are missing, payments stay unavailable (pages 404, APIs 503). USD and NGN start enabled, matching the existing test plans. Every other currency starts disabled. `recurringVerified` and `liveVerified` stay false until the checklist below is done.
 
 Country comes from `x-vercel-ip-country` on Vercel. `STARTAP_GEO_COUNTRY` overrides it for a server test. The browser may send `currency` as `local` or `USD` only. A currency code, an amount, or a country in the body is not the price. An invalid `currency` is 400. `GET /api/pricing/` returns the offer used on `/premium`: currency, both amounts, `usdFallback`, and `localAvailable`. The plan picker shows a local / USD toggle only when the local currency is chargeable and is not already USD.
@@ -147,7 +151,7 @@ Dashboard, in Test Mode:
 5. Payment plans: create four plans whose amounts match the UNAPPROVED catalogue, then put the numeric ids in the env vars:
    - NGN monthly 2500 → `FLW_PLAN_MONTHLY_NGN` (stored plan `premium_monthly`)
    - USD monthly 5 → `FLW_PLAN_MONTHLY_USD`
-   - NGN yearly 25000 → `FLW_PLAN_YEARLY_NGN` (stored plan `premium_yearly`)
+   - NGN yearly 25000 → `FLW_PLAN_YEARLY_NGN` (stored plan `premium_yearly`). These NGN amounts match Flutterwave test plan 246246. Research suggests 20000 yearly, pending Victor's decision.
    - USD yearly 40 → `FLW_PLAN_YEARLY_USD`
 
 The server ignores any amount, country, plan id or return URL sent by the browser. `currency` is accepted only as `local` or `USD`; any other value is 400 and is never the charged currency. A verified charge whose id, amount, currency, `tx_ref` or payment plan does not match the pending row does not grant Premium. The verify call accepts the plan as `payment_plan`, as `plan.id`, or as a bare `plan` number or numeric string (test mode returns `"plan": 246244`). The id is compared as a string with the `FLW_PLAN_*` value. Test mode rewrites the customer email (`ravesb_<hex>_…`) and drops the `+` tag. That email is not compared to the StarTap account. The user is the one stored on the payment row when checkout created the `tx_ref`. `/payment/success` does not grant Premium. Both the webhook and `POST /api/flutterwave/verify-payment/` call the same finalize function. The idempotency key is `charge.completed:<flutterwave transaction id>` on `webhook_events`, and a payment moves from `pending` to `successful` once.
@@ -162,7 +166,7 @@ No new SQL is required for cancelled or failed charges. `payments.status` alread
 
 ### Prices are UNAPPROVED
 
-`src/lib/payments/plans.ts` marks every amount `UNAPPROVED`. The USD base is monthly 5 and yearly 40. NGN placeholders stay monthly 2500 and yearly 25000. Every other currency in `CURRENCY_TABLE` is also an UNAPPROVED placeholder and starts disabled. The page shows the word UNAPPROVED. Change the catalogue and the Flutterwave plan amounts together before real charges.
+`src/lib/payments/plans.ts` marks every amount `UNAPPROVED`. The USD base is monthly 5 and yearly 40. NGN stays monthly 2500 and yearly 25000 to match Flutterwave test plan 246246. Research suggests 20000 yearly for NGN, pending Victor's decision. Disabled researched placeholders: GHS 25 / 200, KES 250 / 2000, ZAR 40 / 320, UGX 7000 / 55000, TZS 4500 / 35000, EUR 4.49 / 35.99, GBP 3.99 / 29.99. RWF, ZMW, EGP, MAD, XOF and XAF are unchanged and still disabled. Sources for the researched rows: World Bank PPP PA.NUS.PRVT.PP and FX PA.NUS.FCRF, 2024, a 0.35 price-level floor for African markets, and yearly at about 8 times monthly. The page shows the word UNAPPROVED. Change the catalogue and the Flutterwave plan amounts together before real charges.
 
 ## Routes
 

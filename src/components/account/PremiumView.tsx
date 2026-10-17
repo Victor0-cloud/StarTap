@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useLayoutEffect, useState } from "react";
 import { SiteFooter } from "@/components/site/SiteChrome";
+import { formatMoney } from "@/lib/payments/money";
 import { isPriceQuoteView, type PriceQuoteView } from "@/lib/payments/quote";
 import { syncSavedSession } from "@/lib/auth/browser";
 import { premiumOffer } from "@/lib/premium/offer";
@@ -128,7 +129,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView }) {
                 <button type="button" className="secondary-button" aria-pressed={choice === "USD"} onClick={() => chooseCurrency("USD")}>USD</button>
               </>}
             </div>
-            <p>{selected.amount.toLocaleString()} {selected.currency} · {selected.per} · {shown.priceStatus}</p>
+            <p>{formatMoney(selected.amount)} {selected.currency} · {selected.per} · {shown.priceStatus}</p>
             {shown.usdFallback && <p>Local currency isn&apos;t available yet. This is the USD price.</p>}
             <button className="primary-button" type="button" disabled={busy || access.loading} onClick={go}>{busy ? "OPENING CHECKOUT…" : "GO PREMIUM"}</button>
             {message && <p role="status">{message}</p>}
