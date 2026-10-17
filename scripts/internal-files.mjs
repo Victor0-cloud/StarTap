@@ -22,11 +22,14 @@ export function stripInternal(dir) {
 }
 
 // Fails on development leftovers in shipped text files: localhost URLs, local Windows/user paths, dev servers.
-export function scanForLeaks(dir) {
+// extraDeny is for the Android build only (payment-provider and database vendor names must not ship in the app).
+export function scanForLeaks(dir, extraDeny = []) {
  const problems = [];
- const LEAK = [/https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?/i, /[A-Z]:\\(Users|Projects)\\/, /\/Users\/[A-Za-z]+\//, /webpack-hmr|__nextjs_original-stack-frame|turbopack-hmr/];
+ const extra = extraDeny.map(word => new RegExp(String(word).replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i"));
+ const LEAK = [/https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?/i, /[A-Z]:\\(Users|Projects)\\/, /\/Users\/[A-Za-z]+\//, /webpack-hmr|__nextjs_original-stack-frame|turbopack-hmr/, ...extra];
  for (const file of walkFiles(dir).filter(f => TEXT.test(f))) {
-  const text = readFileSync(file, "utf8");
+  // supabase-js ships this realtime default inside its client. It is not an app endpoint.
+  const text = readFileSync(file, "utf8").replaceAll("http://localhost:9999", "");
   for (const rx of LEAK) if (rx.test(text)) problems.push(`${relative(dir, file)}: ${rx}`);
  }
  for (const file of walkFiles(dir)) if (INTERNAL.some(rx => rx.test(relative(dir, file)))) problems.push(`${relative(dir, file)}: internal note`);

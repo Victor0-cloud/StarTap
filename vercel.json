@@ -1,10 +1,14 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
+  "framework": "nextjs",
   "installCommand": "npm install --no-audit --no-fund",
-  "buildCommand": "npm run build:web",
-  "outputDirectory": "out",
+  "buildCommand": "npm run build:web:server",
   "trailingSlash": true,
+  "rewrites": [
+    { "source": "/api/flutterwave/webhook", "destination": "/api/flutterwave/webhook/" },
+    { "source": "/api/flutterwave/create-checkout", "destination": "/api/flutterwave/create-checkout/" },
+    { "source": "/api/subscription/status", "destination": "/api/subscription/status/" }
+  ],
   "headers": [
     {
       "source": "/_next/static/(.*)",

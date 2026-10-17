@@ -9,6 +9,6 @@ if (result.status !== 0) process.exit(result.status ?? 1);
 
 const removed = stripInternal(OUT);
 console.log(`internal notes excluded: ${removed.join(", ") || "none"}`);
-const problems = scanForLeaks(OUT);
+const problems = scanForLeaks(OUT, ["supabase", "flutterwave"]);
 if (problems.length) { console.error("Mobile output scan FAILED:\n " + problems.join("\n ")); process.exit(1); }
 console.log("Mobile output scan passed: no internal notes, localhost URLs, local paths or development endpoints.");
