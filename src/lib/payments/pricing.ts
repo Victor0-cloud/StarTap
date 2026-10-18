@@ -74,10 +74,14 @@ export function toPublicQuote(quote: PriceQuote): PriceQuoteView {
     currency: quote.currency,
     usdFallback: quote.usdFallback,
     localAvailable: quote.localAvailable,
+    usdAvailable: quote.usdAvailable,
     monthly: quote.monthly,
     yearly: quote.yearly,
   };
 }
+
+/** Shown when this visitor's currency is not chargeable and USD is not chargeable either. */
+export const REGION_UNAVAILABLE = "region_unavailable";
 
 /**
  * Server offer. Amount, country and currency on the client body are not arguments.
@@ -88,15 +92,20 @@ export function resolveQuote(input: {
   countryHeader: string | null | undefined;
   preference: PricePreference;
   plan?: unknown;
-}): { ok: true; quote: PriceQuote; selected: ResolvedPlan | null } | { ok: false; status: number; error: string } {
+}): { ok: true; quote: PriceQuote; selected: ResolvedPlan | null } | { ok: false; status: number; error: string; reason?: typeof REGION_UNAVAILABLE } {
   if (!paymentsLive(input.env)) return { ok: false, status: 503, error: "Payments are not available" };
   if (input.plan !== undefined && !isPlanId(input.plan)) return { ok: false, status: 400, error: "Choose a monthly or yearly plan" };
   const country = resolveCountry(input.countryHeader, input.env);
   const localCurrency = currencyForCountry(country);
-  if (!currencyChargeable("USD", input.env)) return { ok: false, status: 503, error: "Payments are not available" };
   const localChargeable = currencyChargeable(localCurrency, input.env);
+  const usdChargeable = currencyChargeable("USD", input.env);
+  // No local price and no USD fallback (for example an NGN-only launch seen from outside Nigeria).
+  if (!localChargeable && !usdChargeable) {
+    return { ok: false, status: 403, error: "Premium isn't available in your region yet", reason: REGION_UNAVAILABLE };
+  }
   const wantLocal = input.preference === "local" || (input.preference === "absent" && localChargeable);
-  const currency: CurrencyCode = wantLocal && localChargeable ? localCurrency : "USD";
+  // USD is used only when it is chargeable. Otherwise the local currency is the only offer.
+  const currency: CurrencyCode = (wantLocal && localChargeable) || !usdChargeable ? localCurrency : "USD";
   const monthly = resolvePlan("premium_monthly", currency, input.env);
   const yearly = resolvePlan("premium_yearly", currency, input.env);
   if (!monthly || !yearly) return { ok: false, status: 503, error: "Payments are not available" };
@@ -109,6 +118,7 @@ export function resolveQuote(input: {
     currency,
     usdFallback: currency === "USD" && localCurrency !== "USD",
     localAvailable: localChargeable && localCurrency !== "USD",
+    usdAvailable: usdChargeable,
     monthly: { plan: monthly.plan, amount: monthly.amount, currency: monthly.currency, label: monthly.label, per: monthly.per },
     yearly: { plan: yearly.plan, amount: yearly.amount, currency: yearly.currency, label: yearly.label, per: yearly.per },
     monthlyPlan: monthly,

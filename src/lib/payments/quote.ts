@@ -6,6 +6,8 @@ export type PriceQuoteView = {
   currency: string;
   usdFallback: boolean;
   localAvailable: boolean;
+  /** USD can be charged here. When false the page shows no local / USD toggle. */
+  usdAvailable: boolean;
   monthly: { plan: "premium_monthly" | "premium_yearly"; amount: number; currency: string; label: string; per: string };
   yearly: { plan: "premium_monthly" | "premium_yearly"; amount: number; currency: string; label: string; per: string };
 };
@@ -18,6 +20,7 @@ export function isPriceQuoteView(value: unknown): value is PriceQuoteView {
     && typeof row.localCurrency === "string"
     && typeof row.usdFallback === "boolean"
     && typeof row.localAvailable === "boolean"
+    && typeof row.usdAvailable === "boolean"
     && side(row.monthly)
     && side(row.yearly);
 }

@@ -1,7 +1,8 @@
 // Central plan catalogue.
 // USD and NGN amounts are APPROVED final prices (Victor, Oct 17, 2026): USD 5 / 40, NGN 2500 / 25000.
 // Every other row is an UNAPPROVED placeholder and stays disabled.
-// Approved is not live-verified: recurringVerified and liveVerified stay false until Flutterwave LIVE is confirmed.
+// Approved is not live-verified. Only NGN is liveVerified (Oct 17, 2026, NGN-only launch). USD stays unverified and is
+// not chargeable in production because no LIVE USD plan ids are set. recurringVerified stays false everywhere.
 // Amounts are minor units (hundredths): 449 is 4.49. There is no live foreign-exchange conversion.
 // A currency is chargeable only when its row is enabled and both Flutterwave plan ids exist:
 // FLW_PLAN_MONTHLY_<CUR> and FLW_PLAN_YEARLY_<CUR>.
@@ -41,7 +42,7 @@ const UNVERIFIED = "UNAPPROVED placeholder. Disabled until Flutterwave LIVE, rec
 
 export const CURRENCY_TABLE: Record<CurrencyCode, CurrencyRow> = {
   USD: { enabled: true, priceStatus: "APPROVED", recurringVerified: false, liveVerified: false, monthlyMinor: 500, yearlyMinor: 4_000, note: "USD base. APPROVED final price (Victor, Oct 17, 2026): 5 monthly, 40 yearly. Matches Flutterwave test plans 246245 and 246247. Not live-verified." },
-  NGN: { enabled: true, priceStatus: "APPROVED", recurringVerified: false, liveVerified: false, monthlyMinor: 250_000, yearlyMinor: 2_500_000, note: "APPROVED final price (Victor, Oct 17, 2026): 2500 monthly, 25000 yearly. Matches Flutterwave test plans 246244 and 246246. Not live-verified." },
+  NGN: { enabled: true, priceStatus: "APPROVED", recurringVerified: false, liveVerified: true, monthlyMinor: 250_000, yearlyMinor: 2_500_000, note: "APPROVED final price (Victor, Oct 17, 2026): 2500 monthly, 25000 yearly. Matches Flutterwave test plans 246244 and 246246. LIVE: local and international cards enabled on the live dashboard (checked Oct 17, 2026). Recurring renewal not yet observed live." },
   GHS: { enabled: false, priceStatus: "UNAPPROVED", recurringVerified: false, liveVerified: false, monthlyMinor: 2_500, yearlyMinor: 20_000, note: UNVERIFIED },
   KES: { enabled: false, priceStatus: "UNAPPROVED", recurringVerified: false, liveVerified: false, monthlyMinor: 25_000, yearlyMinor: 200_000, note: UNVERIFIED },
   ZAR: { enabled: false, priceStatus: "UNAPPROVED", recurringVerified: false, liveVerified: false, monthlyMinor: 4_000, yearlyMinor: 32_000, note: UNVERIFIED },

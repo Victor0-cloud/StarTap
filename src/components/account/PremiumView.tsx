@@ -16,7 +16,8 @@ bindPremiumSession(() => syncSavedSession());
 
 const STARS = [[8, 18], [22, 70], [40, 12], [63, 64], [78, 22], [90, 48]] as const;
 
-export function PremiumView({ quote }: { quote: PriceQuoteView }) {
+/** `quote` is null when Premium cannot be bought from this visitor's region yet. */
+export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
   const router = useRouter();
   const access = usePremium();
   const offer = premiumOffer(access);
@@ -26,11 +27,11 @@ export function PremiumView({ quote }: { quote: PriceQuoteView }) {
   }, [access.isPremium]);
   const [plan, setPlan] = useState<"premium_monthly" | "premium_yearly">("premium_monthly");
   const [shown, setShown] = useState(quote);
-  const [choice, setChoice] = useState<"local" | "USD">(quote.currency === "USD" ? "USD" : "local");
+  const [choice, setChoice] = useState<"local" | "USD">(quote?.currency === "USD" ? "USD" : "local");
   const [message, setMessage] = useState<string | null>(null);
   const [already, setAlready] = useState(false);
   const [busy, setBusy] = useState(false);
-  const selected = plan === "premium_yearly" ? shown.yearly : shown.monthly;
+  const selected = shown ? (plan === "premium_yearly" ? shown.yearly : shown.monthly) : null;
   async function chooseCurrency(next: "local" | "USD") {
     setMessage(null);
     try {
@@ -90,7 +91,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView }) {
           <p className="eyebrow">✦ STARTAP PREMIUM</p>
           <h1>PLAY THE <em>WHOLE SKY.</em></h1>
           <p className={styles.lede}>Today&apos;s Five stays free. Premium opens every world, unlimited Play Five, the Adventure of Wonders, and the full history of your game.</p>
-          {quote.priceStatus !== "APPROVED" && <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>}
+          {quote && quote.priceStatus !== "APPROVED" && <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>}
         </div>
         <Image className={styles.globe} src="/globe-hero.svg" width={1024} height={768} alt="" priority />
       </section>
@@ -120,11 +121,15 @@ export function PremiumView({ quote }: { quote: PriceQuoteView }) {
           {member || checking ? <>
             <p role="status">{checking ? "Checking your Premium…" : until ? `Premium is on until ${until}.` : "Premium is on."}</p>
             {member ? <Link className="primary-button" href="/account/">YOUR ACCOUNT</Link> : null}
+          </> : !shown || !selected ? <>
+            <p role="status">Premium isn&apos;t available in your region yet.</p>
+            <p className={styles.lede}>We&apos;re working on it. Everything free stays open to you, including Today&apos;s Five every day.</p>
+            <Link className="primary-button" href="/play/">PLAY TODAY&apos;S FIVE</Link>
           </> : <>
             <div className={styles.controls}>
               <button type="button" className="secondary-button" aria-pressed={plan === "premium_monthly"} onClick={() => setPlan("premium_monthly")}>{shown.monthly.label.toUpperCase()}</button>
               <button type="button" className="secondary-button" aria-pressed={plan === "premium_yearly"} onClick={() => setPlan("premium_yearly")}>{shown.yearly.label.toUpperCase()}</button>
-              {shown.localAvailable && <>
+              {shown.localAvailable && shown.usdAvailable && <>
                 <button type="button" className="secondary-button" aria-pressed={choice === "local"} onClick={() => chooseCurrency("local")}>{shown.localCurrency}</button>
                 <button type="button" className="secondary-button" aria-pressed={choice === "USD"} onClick={() => chooseCurrency("USD")}>USD</button>
               </>}

@@ -22,6 +22,6 @@ export async function GET(request: Request) {
     countryHeader: request.headers.get("x-vercel-ip-country"),
     preference,
   });
-  if (!quote.ok) return json({ error: quote.error }, quote.status);
+  if (!quote.ok) return json(quote.reason ? { error: quote.error, reason: quote.reason } : { error: quote.error }, quote.status);
   return json(toPublicQuote(quote.quote), 200);
 }
