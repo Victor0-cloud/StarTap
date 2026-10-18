@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState, type FormEvent } from "react";
 import { browserAuth, syncSavedSession } from "@/lib/auth/browser";
+import { LOGIN_NEXT_KEY, rememberLoginNext } from "@/lib/auth/login-next";
 import { safeNextPath } from "@/lib/payments/redirect";
 import { refreshPremium } from "@/lib/premium/usePremium";
 import styles from "./account.module.css";
@@ -21,6 +22,7 @@ export function LoginForm() {
     setBusy(true);
     setMessage(null);
     const redirect = `${window.location.origin}/account/`;
+    try { rememberLoginNext(localStorage, next); } catch { /* storage blocked */ }
     const { error } = await browserAuth().auth.signInWithOtp({ email: email.trim(), options: { emailRedirectTo: redirect, shouldCreateUser: true } });
     setBusy(false);
     if (error) { setMessage("We couldn't send the email. Check the address and try again."); return; }
@@ -35,6 +37,7 @@ export function LoginForm() {
     if (error) { setBusy(false); setMessage("That code didn't work. Request a new one and try again."); return; }
     await syncSavedSession();
     await refreshPremium();
+    try { localStorage.removeItem(LOGIN_NEXT_KEY); } catch { /* storage blocked */ }
     router.replace(next);
   }
   return <div className={styles.shell}>

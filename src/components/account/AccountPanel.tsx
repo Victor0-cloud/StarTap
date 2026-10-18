@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { browserAuth, syncSavedSession } from "@/lib/auth/browser";
+import { takeLoginNext } from "@/lib/auth/login-next";
 import { readSavedSession, writeSavedSession } from "@/lib/premium/session";
 import styles from "./account.module.css";
 
@@ -38,6 +39,10 @@ export function AccountPanel() {
         const body = await response.json() as Status & { paymentsEnabled?: boolean };
         if (cancel) return;
         if (!body.authenticated) { router.replace("/login/?next=/account/"); return; }
+        // Arrived from an emailed sign-in link that started on the Premium paywall: continue there.
+        let next: string | null = null;
+        try { next = takeLoginNext(localStorage); } catch { /* storage blocked */ }
+        if (next) { router.replace(next); return; }
         setStatus(body);
         setMessage("");
       } catch {

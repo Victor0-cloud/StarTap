@@ -21,7 +21,7 @@ test("free worlds stay open and other worlds lock only while payments are on", (
   assert.equal(expandedStatsLocked({ paymentsOn: false, isPremium: false }), false);
 });
 
-test("Play Five allows three new rounds per UTC day and resets the next day", () => {
+test("World Mix allows three new rounds per UTC day and resets the next day", () => {
   const store = memory();
   const day = new Date("2026-10-17T23:00:00.000Z");
   assert.equal(canStartPlayFive(store, day), true);

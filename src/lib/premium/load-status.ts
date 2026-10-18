@@ -51,6 +51,7 @@ export async function loadPremiumStatus(input: {
     if (response.status === 401) return { authorization, unauthorized: true, access: { ...CLOSED, paymentsOn: true } };
     if (!response.ok) return { authorization, unauthorized: false, access: { ...CLOSED, paymentsOn: true } };
     if (response.body.paymentsEnabled !== true) return { authorization, unauthorized: false, access: CLOSED };
+    // TEMPORARY LAUNCH BEHAVIOR — Premium gating currently applies only where checkout is supported.
     // Nothing to buy from this region: a free player sees the site as it is with payments off (no locks).
     // A Premium member keeps Premium wherever they are.
     if (response.body.regionAvailable === false && response.body.isPremium !== true) return { authorization, unauthorized: false, access: CLOSED };

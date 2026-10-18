@@ -5,6 +5,14 @@ export function Brand() {
  return <Link className="brand" href="/" aria-label="StarTap home"><span aria-hidden="true">✦</span> STAR<span>TAP</span>.</Link>;
 }
 
+/** Header Premium pill and account link: website only. Android and the static export show nothing. */
+export function PremiumNav() {
+ return null;
+}
+export function AccountNavLink() {
+ return null;
+}
+
 /** Public footer: game links plus the legal and support pages (also reachable inside the Android app). */
 export function SiteFooter() {
  return <footer className="site-footer site-footer-links">

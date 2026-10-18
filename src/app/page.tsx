@@ -5,7 +5,7 @@ import { WorldsGrid } from "@/components/worlds/WorldCards";
 import { CategoryIcon } from "@/components/worlds/CategoryIcon";
 import { StreakBadge } from "@/components/game/StreakBadge";
 import { HomeMascot } from "@/components/mascot/HomeMascot";
-import { GooglePlayButton, SiteFooter } from "@/components/site/SiteChrome";
+import { AccountNavLink, GooglePlayButton, PremiumNav, SiteFooter } from "@/components/site/SiteChrome";
 import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
 import { IS_ANDROID_BUILD } from "@/lib/site";
@@ -31,7 +31,8 @@ export default function Home() {
  return <div className="site-shell">
   <header className="masthead">
    <Link className="brand" href="/" aria-label="StarTap home"><span aria-hidden="true">✦</span> STAR<span>TAP</span>.</Link>
-   <nav className="masthead-nav" aria-label="Main"><Link href="/how-to-play/">HOW TO PLAY</Link><Link href="/support/">SUPPORT</Link></nav>
+   <nav className="masthead-nav" aria-label="Main"><Link href="/how-to-play/">HOW TO PLAY</Link><Link href="/support/">SUPPORT</Link><AccountNavLink/></nav>
+   <PremiumNav/>
    <HomeMascot/>
   </header>
   <main>
