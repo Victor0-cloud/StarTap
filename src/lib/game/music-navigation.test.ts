@@ -52,7 +52,9 @@ test("every way into a game plays an intro first, then a brand-new five (genre, 
  assert.match(page, /<Link className="intro-replay" href=\{tap\}/, "▶ INTRO on a genre row → intro → game");
  assert.match(page, /className="soul-legends-card" href=\{genreTap\("music"/, "Soul Legends card");
  assert.match(page, /play\/\?intro=1`\}>PLAY \{category\.label\.toUpperCase\(\)\} FIVE/, "PLAY MUSIC / SPORTS FIVE");
- assert.match(view, /play\/\?sub=\$\{preview\.subcategory\}&intro=1`\}>PLAY/, "sport / genre page PLAY FIVE");
+ assert.match(view, /<GenrePlayAction [^>]*href=\{`\/category\/\$\{category\}\/play\/\?sub=\$\{preview\.subcategory\}&intro=1`\}/, "sport / genre page PLAY FIVE (the website shows UNLOCK on a locked Premium sport, same link)");
+ for (const action of [src("../../components/premium/GenrePlayAction.tsx"), src("../../components/premium/GenrePlayAction.web.tsx")]) assert.match(action, /className="primary-button world-play[^"]*" href=\{href\}/, "detail action keeps the page's play link");
+ assert.match(src("../../components/premium/GenrePlayAction.tsx"), /href=\{href\}>PLAY \{title\.toUpperCase\(\)\} FIVE/, "base (Android) button text unchanged");
  assert.match(map, /<Link className="intro-replay" href=\{`\/adventure\/play\/\?level=\$\{level\.id\}`\}/, "▶ INTRO on a level → intro → level");
  assert.doesNotMatch(page + map, /<IntroReplay /, "no replay-only chip that leaves the player on a list");
  assert.match(play, /\(subcategory \? genreIntro\(category, subcategory\.key\) : null\) \?\? WORLD_INTROS\[category\] \?\? null/, "sports and world-wide play use the world's intro");
