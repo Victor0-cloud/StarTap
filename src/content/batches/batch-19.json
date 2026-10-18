@@ -1,0 +1,1874 @@
+{
+ "batch": 19,
+ "researched": "2026-10-18",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "anthony-joshua",
+    "name": "Anthony Joshua",
+    "monogram": "AJ",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "anthony-joshua-watford",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Boxing",
+    "chapter": "Growing up",
+    "question": "Heavyweight Anthony Joshua is from which English town just northwest of London?",
+    "clue": "It sits in Hertfordshire, on the edge of Greater London.",
+    "hint": "Its football club is nicknamed the Hornets.",
+    "answer": {
+     "city": "Watford",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Watford, Hertfordshire"
+    },
+    "story": "Anthony Joshua is from Watford. Team GB notes that his early sporting focus was on football and athletics before boxing took over.",
+    "sources": [
+     {
+      "url": "https://www.teamgb.com/athlete/anthony-joshua/6MtpXhVOvZaEYoYSrhNca9",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Anthony Joshua is from Watford, his early sporting focus was on football and athletics"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tyson-fury",
+    "name": "Tyson Fury",
+    "monogram": "TF",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "tyson-fury-dusseldorf",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Boxing",
+    "chapter": "The championship city",
+    "question": "In which German city did Tyson Fury dethrone Wladimir Klitschko in 2015?",
+    "clue": "A Rhine city in North Rhine-Westphalia.",
+    "hint": "Germany's fashion and trade-fair city, not far from Cologne.",
+    "answer": {
+     "city": "Düsseldorf",
+     "country": "Germany",
+     "countryCode": "DE",
+     "geocode": "Düsseldorf"
+    },
+    "story": "In 2015 Tyson Fury beat Wladimir Klitschko on a decision in Düsseldorf — a win Ring Magazine ranks among the greatest in British boxing history.",
+    "sources": [
+     {
+      "url": "https://www.ringmagazine.com/news/declan-taylor-ranking-britain-s-top-10-greatest-heavyweights-4bPJqvaKLBfUvp4JFXIW8D",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Despite those losses, Fury was the man to dethrone Wladimir Klitschko in 2015 and his decision win in Dusseldorf has to go down as one of the greatest victories in British boxing history."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "oleksandr-usyk",
+    "name": "Oleksandr Usyk",
+    "monogram": "OU",
+    "countryOfOrigin": "UA",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "oleksandr-usyk-riyadh",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Boxing",
+    "chapter": "The championship city",
+    "question": "In which city did Oleksandr Usyk beat Tyson Fury to become undisputed heavyweight champion?",
+    "clue": "A Middle Eastern capital that now hosts mega-fights.",
+    "hint": "The capital of Saudi Arabia.",
+    "answer": {
+     "city": "Riyadh",
+     "country": "Saudi Arabia",
+     "countryCode": "SA",
+     "geocode": "Riyadh"
+    },
+    "story": "Oleksandr Usyk beat Tyson Fury by split decision at Kingdom Arena in Riyadh, Saudi Arabia, to capture the undisputed heavyweight championship.",
+    "sources": [
+     {
+      "url": "https://wbcboxing.com/en/usyk-became-heavyweight-undisputed-champion-in-riyadh/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Oleksandr Usyk (22-0, 14 KOs) defeated Tyson Fury(34-1-1, 24 KOs) by split decision in a dramatic, seesaw battle to capture the undisputed championship Saturday evening at Kingdom Arena in Riyadh, Saudi Arabia as part of #RiyadhSeason."
+     }
+    ],
+    "notes": [
+     "Event question used instead of birthplace: Usyk's birthplace is in Crimea (politically disputed)."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "floyd-mayweather-jr",
+    "name": "Floyd Mayweather Jr.",
+    "monogram": "FM",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "floyd-mayweather-grand-rapids",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Boxing",
+    "chapter": "Growing up",
+    "question": "Floyd Mayweather Jr.'s hometown is which Michigan city?",
+    "clue": "On the Grand River in western Michigan.",
+    "hint": "Its name starts with 'Grand'.",
+    "answer": {
+     "city": "Grand Rapids",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Grand Rapids, Michigan"
+    },
+    "story": "Floyd Mayweather Jr.'s hometown is Grand Rapids, Michigan — not far from Detroit.",
+    "sources": [
+     {
+      "url": "https://www.ringmagazine.com/news/patrick-connor-floyd-mayweather-s-heel-turn-began-vs-diego-corrales-and-he-cashed-in-11z4scbH4LGi0kkOoHncoj",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "He looked rusty in Detroit, not far from his Grand Rapids hometown, and suddenly the idea of putting Mayweather in with Corrales seemed far more dangerous."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "claressa-shields",
+    "name": "Claressa Shields",
+    "monogram": "CS",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "claressa-shields-flint",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Boxing",
+    "chapter": "Growing up",
+    "question": "Boxing champion Claressa Shields is originally from which Michigan city?",
+    "clue": "An industrial city in Genesee County, birthplace of General Motors.",
+    "hint": "A firestarter — and a spark-making stone.",
+    "answer": {
+     "city": "Flint",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Flint, Michigan"
+    },
+    "story": "Claressa Shields is originally from Flint, Michigan, where she found boxing, inspired by Muhammad Ali.",
+    "sources": [
+     {
+      "url": "https://wbcboxing.com/en/profile-of-claressa-shields-a-great-champion/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Originally from Flint, Michigan, Claressa discovered her passion for the sport of gloves thanks to the King of Boxing Muhammad Ali, whom she deeply admires"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "katie-taylor",
+    "name": "Katie Taylor",
+    "monogram": "KT",
+    "countryOfOrigin": "IE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "katie-taylor-bray",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Boxing",
+    "chapter": "Where the story began",
+    "question": "Irish boxing great Katie Taylor was born in which seaside town in County Wicklow?",
+    "clue": "On the coast just south of Dublin.",
+    "hint": "Its name is a single short syllable.",
+    "answer": {
+     "city": "Bray",
+     "country": "Ireland",
+     "countryCode": "IE",
+     "geocode": "Bray, County Wicklow"
+    },
+    "story": "Katie Taylor was born in Bray, County Wicklow, in 1986. She became a world champion boxer and also played international football for Ireland.",
+    "sources": [
+     {
+      "url": "https://www.rte.ie/archives/profiles/taylor-katie/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in Bray, County Wicklow, in 1986, Katie Taylor is a professional boxer, world super lightweight champion and former Republic of Ireland football international."
+     },
+     {
+      "url": "https://wbcboxing.com/en/wbc-woman-katie-taylor/",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Considered one of the best fighters of the moment, WBC champion in two divisions, Katie was born on July 2, 1986 in Bray Ireland."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "naoya-inoue",
+    "name": "Naoya Inoue",
+    "monogram": "NI",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "naoya-inoue-zama",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Boxing",
+    "chapter": "Where the story began",
+    "question": "Japanese boxer Naoya Inoue was born in which city in Kanagawa Prefecture?",
+    "clue": "West of Tokyo, near Sagamihara.",
+    "hint": "A short name: Z-A-M-A.",
+    "answer": {
+     "city": "Zama",
+     "country": "Japan",
+     "countryCode": "JP",
+     "geocode": "Zama, Kanagawa"
+    },
+    "story": "Naoya Inoue was born in Zama, Kanagawa, which the WBC also lists as his residence.",
+    "sources": [
+     {
+      "url": "https://wbcboxing.com/en/wbc-special-preview-inoue-vs-tapales/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Residence, birthplace: Zama, Kanagawa, Japan"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "azumah-nelson",
+    "name": "Azumah Nelson",
+    "monogram": "AN",
+    "countryOfOrigin": "GH",
+    "region": "africa"
+   },
+   "question": {
+    "id": "azumah-nelson-san-juan",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "event_location",
+    "difficulty": "legend",
+    "displayCategory": "Boxing",
+    "chapter": "The championship city",
+    "question": "Ghana's Azumah Nelson won the WBC featherweight title in 1984 in which Caribbean city?",
+    "clue": "The capital of a Caribbean island territory.",
+    "hint": "Puerto Rico's capital.",
+    "answer": {
+     "city": "San Juan",
+     "country": "Puerto Rico",
+     "countryCode": "PR",
+     "geocode": "San Juan, Puerto Rico"
+    },
+    "story": "On 8 December 1984 Azumah Nelson defeated Wilfredo Gómez at the Hiram Bithorn Stadium in San Juan, Puerto Rico, to win Ghana's second world boxing title.",
+    "sources": [
+     {
+      "url": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Today-in-History-Azumah-Nelson-beats-Wilfredo-Gomez-to-win-Ghana-s-second-world-title-607730",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "December 8, 1984, Ghana’s Azumah Nelson won Ghana’s second world title in boxing after defeating Wilfredo Gomez to win the WBC featherweight strap at the Hiram Bithorn Stadium in San Juan, Puerto Rico."
+     }
+    ],
+    "notes": [
+     "Nominatim reports Puerto Rico as country_code us; its ISO 3166-2 code US-PR maps to alpha-2 PR (see batch-19-geocode.json ccNote)."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "julio-cesar-chavez",
+    "name": "Julio César Chávez",
+    "monogram": "JC",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "julio-cesar-chavez-ciudad-obregon",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Boxing",
+    "chapter": "Where the story began",
+    "question": "Mexican legend Julio César Chávez was born in which city in Sonora?",
+    "clue": "In the Yaqui Valley of northwest Mexico.",
+    "hint": "'Ciudad' plus a president's surname.",
+    "answer": {
+     "city": "Ciudad Obregón",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Ciudad Obregón, Sonora"
+    },
+    "story": "Julio César Chávez was born in Ciudad Obregón, Sonora, in 1962.",
+    "sources": [
+     {
+      "url": "https://wbcboxing.com/en/a-day-like-today-julio-cesar-chavez-was-born/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "The stars aligned and shone down, as Julio Cesar Chavez Gonzales was born In Obregon City, Sonora."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "dick-tiger",
+    "name": "Dick Tiger",
+    "monogram": "DT",
+    "countryOfOrigin": "NG",
+    "region": "africa"
+   },
+   "question": {
+    "id": "dick-tiger-amaigbo",
+    "primaryCategory": "sports",
+    "subcategory": "boxing",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Boxing",
+    "chapter": "Growing up",
+    "question": "Nigerian boxing great Dick Tiger came from which town in Imo State?",
+    "clue": "An Igbo town in southeastern Nigeria.",
+    "hint": "It starts with 'Amai'.",
+    "answer": {
+     "city": "Amaigbo",
+     "country": "Nigeria",
+     "countryCode": "NG",
+     "geocode": "Amaigbo, Imo"
+    },
+    "story": "Dick Tiger (Richard Ihetu) came from Amaigbo in Imo State. He lived in Liverpool and reigned as Commonwealth champion before winning world titles.",
+    "sources": [
+     {
+      "url": "https://www.vanguardngr.com/2021/09/ihekweazu-dick-tiger-and-jaja/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "It is the same Amaigbo of Dick Tiger Ihetu and King Jaja of Opobo."
+     },
+     {
+      "url": "https://www.vanguardngr.com/2021/09/ihekweazu-dick-tiger-and-jaja/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The doctor apparently remembered that an Amaigbo man had lived in Liverpool and reigned as Commonwealth boxing champion."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "carlos-alcaraz",
+    "name": "Carlos Alcaraz",
+    "monogram": "CA",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "carlos-alcaraz-el-palmar",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Carlos Alcaraz was born in which district of the city of Murcia?",
+    "clue": "In the Region of Murcia, southeast Spain.",
+    "hint": "'The palm grove' in Spanish.",
+    "answer": {
+     "city": "El Palmar",
+     "country": "Spain",
+     "countryCode": "ES",
+     "geocode": "El Palmar, Murcia"
+    },
+    "story": "The Spanish Tennis Federation lists Carlos Alcaraz's birthplace and residence as El Palmar, Murcia; he was born on 5 May 2003.",
+    "sources": [
+     {
+      "url": "https://www.rfet.es/es/selecciones-espanolas.html?Id=22&Cat=masculino",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Fecha de nacimiento: 05/05/2003 Lugar: El Palmar, Murcia"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "iga-swiatek",
+    "name": "Iga Świątek",
+    "monogram": "IS",
+    "countryOfOrigin": "PL",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "iga-swiatek-warsaw",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Iga Świątek was born in which capital city?",
+    "clue": "On the Vistula River.",
+    "hint": "Poland's capital.",
+    "answer": {
+     "city": "Warsaw",
+     "country": "Poland",
+     "countryCode": "PL",
+     "geocode": "Warsaw"
+    },
+    "story": "Iga Świątek was born in Warsaw, Poland.",
+    "sources": [
+     {
+      "url": "https://www.wtatennis.com/players/326408/iga-swiatek",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Birthplace: Warsaw, Poland"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jannik-sinner",
+    "name": "Jannik Sinner",
+    "monogram": "JS",
+    "countryOfOrigin": "IT",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jannik-sinner-sesto",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Tennis",
+    "chapter": "Growing up",
+    "question": "Jannik Sinner is from which village in the German-speaking Dolomites of northern Italy?",
+    "clue": "In the Puster Valley of South Tyrol, near the Austrian border.",
+    "hint": "Its Italian name means 'sixth'.",
+    "answer": {
+     "city": "Sesto (Sexten)",
+     "country": "Italy",
+     "countryCode": "IT",
+     "geocode": "Sexten, South Tyrol"
+    },
+    "story": "The ATP describes Jannik Sinner as from Sesto (Sexten), in the German-speaking South Tyrol region of northern Italy.",
+    "sources": [
+     {
+      "url": "https://www.atptour.com/en/players/jannik-sinner/s0ag/bio",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "From Sesto in the German-speaking region of Italy."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "billie-jean-king",
+    "name": "Billie Jean King",
+    "monogram": "BK",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "billie-jean-king-long-beach",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Billie Jean King was born in which Southern California port city?",
+    "clue": "In Los Angeles County, home of the Queen Mary.",
+    "hint": "A long stretch of sand gave it its name.",
+    "answer": {
+     "city": "Long Beach",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Long Beach, California"
+    },
+    "story": "Billie Jean King was born on 22 November 1943 in Long Beach, California.",
+    "sources": [
+     {
+      "url": "https://www.tennisfame.com/hall-of-famers/inductees/billie-jean-king",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born November 22, 1943 in Long Beach, California"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "arthur-ashe",
+    "name": "Arthur Ashe",
+    "monogram": "AA",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "arthur-ashe-richmond",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Arthur Ashe was born in which Virginia city?",
+    "clue": "On the James River.",
+    "hint": "Virginia's capital.",
+    "answer": {
+     "city": "Richmond",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Richmond, Virginia"
+    },
+    "story": "Arthur Ashe was born in Richmond, Virginia, and began playing at age 7 at Brookfield Park, a segregated playground next to his home.",
+    "sources": [
+     {
+      "url": "https://www.tennisfame.com/hall-of-famers/inductees/arthur-ashe",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born in Richmond, Virginia, Ashe began playing tennis at age 7 on courts at Brookfield Park, a segregated playground adjacent to his home."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "martina-navratilova",
+    "name": "Martina Navratilova",
+    "monogram": "MN",
+    "countryOfOrigin": "CZ",
+    "region": "europe"
+   },
+   "question": {
+    "id": "martina-navratilova-prague",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Martina Navratilova was born in which central European capital?",
+    "clue": "On the Vltava River.",
+    "hint": "The 'city of a hundred spires'.",
+    "answer": {
+     "city": "Prague",
+     "country": "Czech Republic",
+     "countryCode": "CZ",
+     "geocode": "Prague"
+    },
+    "story": "Martina Navratilova was born on 18 October 1956 in Prague, then Czechoslovakia.",
+    "sources": [
+     {
+      "url": "https://www.tennisfame.com/hall-of-famers/inductees/martina-navratilova",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born October 18, 1956 in Prague, Czechoslovakia"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "gustavo-kuerten",
+    "name": "Gustavo Kuerten",
+    "monogram": "GK",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "gustavo-kuerten-florianopolis",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Gustavo 'Guga' Kuerten was born in which Brazilian island city?",
+    "clue": "Capital of Santa Catarina state, in southern Brazil.",
+    "hint": "Locals call it 'Floripa'.",
+    "answer": {
+     "city": "Florianópolis",
+     "country": "Brazil",
+     "countryCode": "BR",
+     "geocode": "Florianópolis, Santa Catarina"
+    },
+    "story": "Gustavo Kuerten was born in Florianópolis in 1976.",
+    "sources": [
+     {
+      "url": "https://sites.usp.br/portalatinoamericano/en/kuerten-gustavo",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Florianópolis (Brasil), 1976"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rod-laver",
+    "name": "Rod Laver",
+    "monogram": "RL",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "rod-laver-rockhampton",
+    "primaryCategory": "sports",
+    "subcategory": "tennis",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Tennis",
+    "chapter": "Where the story began",
+    "question": "Rod Laver was born in which Queensland city on the Tropic of Capricorn?",
+    "clue": "Known as Australia's beef capital.",
+    "hint": "Its nickname is 'Rocky'.",
+    "answer": {
+     "city": "Rockhampton",
+     "country": "Australia",
+     "countryCode": "AU",
+     "geocode": "Rockhampton, Queensland"
+    },
+    "story": "Rod Laver was born in rural Rockhampton, Queensland, in 1938; his father was a cattle rancher.",
+    "sources": [
+     {
+      "url": "https://www.tennisfame.com/hall-of-famers/inductees/rod-laver",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Laver was born in rural Rockhampton, Australia."
+     },
+     {
+      "url": "https://www.tennisfame.com/hall-of-famers/inductees/rod-laver",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Born August 9, 1938 in Rockhampton, Queensland, Australia"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jesse-owens",
+    "name": "Jesse Owens",
+    "monogram": "JO",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jesse-owens-berlin",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "event_location",
+    "difficulty": "easy",
+    "displayCategory": "Athletics",
+    "chapter": "The championship city",
+    "question": "In which city did Jesse Owens win four Olympic gold medals in 1936?",
+    "clue": "The host city of the 1936 Summer Olympics.",
+    "hint": "Germany's capital.",
+    "answer": {
+     "city": "Berlin",
+     "country": "Germany",
+     "countryCode": "DE",
+     "geocode": "Berlin"
+    },
+    "story": "At the 1936 Olympic Games in Berlin, Jesse Owens won the 100m, 200m, long jump and 4x100m relay — a record four golds at one Games.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/news/news/hall-of-fame-profile-jesse-owens-usa",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Jesse Owens will always be remembered for his symbolic four gold medals at the 1936 Olympic Games in Berlin."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "carl-lewis",
+    "name": "Carl Lewis",
+    "monogram": "CL",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "carl-lewis-birmingham",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Athletics",
+    "chapter": "Where the story began",
+    "question": "Carl Lewis was born in which Alabama city?",
+    "clue": "Alabama's largest city, once a steel centre.",
+    "hint": "It shares its name with a big English city.",
+    "answer": {
+     "city": "Birmingham",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Birmingham, Alabama"
+    },
+    "story": "Carl Lewis was born in Birmingham, Alabama, and became one of the greatest track and field athletes of all time.",
+    "sources": [
+     {
+      "url": "https://www.teamusa.com/hall-of-fame/hall-of-fame-members/carl-lewis",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Lewis was born in Birmingham, Alabama, and is considered one of the greatest track and field athletes of all time."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shelly-ann-fraser-pryce",
+    "name": "Shelly-Ann Fraser-Pryce",
+    "monogram": "SF",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "shelly-ann-fraser-pryce-beijing",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Athletics",
+    "chapter": "The championship city",
+    "question": "In which city did Shelly-Ann Fraser-Pryce become the first Jamaican woman to win Olympic 100m gold?",
+    "clue": "Host of the 2008 Summer Olympics.",
+    "hint": "China's capital.",
+    "answer": {
+     "city": "Beijing",
+     "country": "China",
+     "countryCode": "CN",
+     "geocode": "Beijing"
+    },
+    "story": "At the 2008 Beijing Olympics, Shelly-Ann Fraser became the first Jamaican woman to win Olympic 100m gold, leading a Jamaican medal sweep.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/news/news/olympic-medallists-fraser-kogo-stuczynski-and",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Fraser became the first Jamaican woman in history to win an Olympic gold medal in the 100m dash when she led a medal sweep with her fellow country women at the 2008 Beijing Olympics."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "haile-gebrselassie",
+    "name": "Haile Gebrselassie",
+    "monogram": "HG",
+    "countryOfOrigin": "ET",
+    "region": "africa"
+   },
+   "question": {
+    "id": "haile-gebrselassie-asella",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Athletics",
+    "chapter": "Growing up",
+    "question": "Haile Gebrselassie founded a school in his home town — which Ethiopian highland town in the Arsi Zone?",
+    "clue": "In Oromia, south of Addis Ababa.",
+    "hint": "Also spelled Assela.",
+    "answer": {
+     "city": "Asella",
+     "country": "Ethiopia",
+     "countryCode": "ET",
+     "geocode": "Asella, Oromia"
+    },
+    "story": "Haile Gebrselassie founded two schools, one in his home town of Asella (Assela) in Ethiopia's Arsi highlands.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/news/news/at-home-and-at-work-with-gebrselassie-in-addi",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Gebrselassie has founded two schools, one in his home town of Assela and a second in Bahir Dar in the beautiful setting of Lake Tana."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "armand-duplantis",
+    "name": "Armand Duplantis",
+    "monogram": "AD",
+    "countryOfOrigin": "SE",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "armand-duplantis-lafayette",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Athletics",
+    "chapter": "Growing up",
+    "question": "Swedish pole vault star Mondo Duplantis grew up in which Louisiana city?",
+    "clue": "The heart of Cajun country.",
+    "hint": "Named after a French general of the American Revolution.",
+    "answer": {
+     "city": "Lafayette",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Lafayette, Louisiana"
+    },
+    "story": "Armand 'Mondo' Duplantis grew up in Lafayette, Louisiana, starting at the family home, but chose to represent his mother's country, Sweden.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/spikes/news/armand-mondo-duplantis-sweden-pole-vault",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Despite growing up in Lafayette in the US, Duplantis chose to represent his mother's nation, Sweden, a country he has always felt a strong connection to."
+     },
+     {
+      "url": "https://worldathletics.org/news/feature/mondo-duplantis-pole-vault-legend-in-making",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "That path started at the family home in Lafayette, Louisiana, where his eldest brother Andreas was his main inspiration."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sifan-hassan",
+    "name": "Sifan Hassan",
+    "monogram": "SH",
+    "countryOfOrigin": "NL",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "sifan-hassan-paris",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Athletics",
+    "chapter": "The championship city",
+    "question": "Ethiopian-born Dutch runner Sifan Hassan won Olympic marathon gold in which city in 2024?",
+    "clue": "Host of the 2024 Summer Olympics.",
+    "hint": "France's capital.",
+    "answer": {
+     "city": "Paris",
+     "country": "France",
+     "countryCode": "FR",
+     "geocode": "Paris"
+    },
+    "story": "Born and raised in Ethiopia, Sifan Hassan moved to the Netherlands at 15 and completed an Olympic medal treble with marathon gold in Paris.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/news/report/paris-2024-olympics-report-women-marathon",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Hassan completes magnificent Olympic medal treble with marathon gold in Paris"
+     },
+     {
+      "url": "https://worldathletics.org/news/feature/sifan-hassan-yomif-kejelcha",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Born and raised in Ethiopia before leaving for the Netherlands aged 15, Hassan proved an athletics natural."
+     }
+    ],
+    "notes": [
+     "Event question used: strong sources state only that she was born in Ethiopia."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "mo-farah",
+    "name": "Mo Farah",
+    "monogram": "MF",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "mo-farah-rio-de-janeiro",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Athletics",
+    "chapter": "The championship city",
+    "question": "In which city did Mo Farah complete his 'double double' of Olympic 5000m and 10,000m titles?",
+    "clue": "Host of the 2016 Summer Olympics.",
+    "hint": "Home of Copacabana Beach.",
+    "answer": {
+     "city": "Rio de Janeiro",
+     "country": "Brazil",
+     "countryCode": "BR",
+     "geocode": "Rio de Janeiro"
+    },
+    "story": "At Rio 2016 Mo Farah defended his 5000m title to complete a second consecutive Olympic double, a feat previously achieved only by Lasse Viren.",
+    "sources": [
+     {
+      "url": "https://www.teamgb.com/article/mo-farah-does-the-double-adding-5-000m-gold-to-10-000m-title/2ad2EDvKwPveXcU531mJpc",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "The 33-year-old was always in control, easing to the front with five laps to go and holding off a last-lap challenge from Ethiopia's Gebrhiwet to storm home and take GB's 27th gold of the Rio 2016 Olympic Games."
+     },
+     {
+      "url": "https://worldathletics.org/news/report/rio-2016-men-5000m-final",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Mo Farah completed his second consecutive Olympic double by successfully defending his 5000m gold on Saturday, winning in 13:03.30."
+     }
+    ],
+    "notes": [
+     "Event question used instead of birthplace: published accounts of Farah's birthplace differ."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yulimar-rojas",
+    "name": "Yulimar Rojas",
+    "monogram": "YR",
+    "countryOfOrigin": "VE",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "yulimar-rojas-caracas",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Athletics",
+    "chapter": "Where the story began",
+    "question": "Venezuelan triple jumper Yulimar Rojas was born in which capital city?",
+    "clue": "In a valley near Venezuela's Caribbean coast.",
+    "hint": "Venezuela's capital.",
+    "answer": {
+     "city": "Caracas",
+     "country": "Venezuela",
+     "countryCode": "VE",
+     "geocode": "Caracas"
+    },
+    "story": "Yulimar Rojas was born in Caracas and raised in the eastern state of Anzoátegui.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/news/feature/portland-2016-rojas-triple-jump",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born in the Venezuelan capital Caracas but raised in the eastern state of Anzoategui"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "neeraj-chopra",
+    "name": "Neeraj Chopra",
+    "monogram": "NC",
+    "countryOfOrigin": "IN",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "neeraj-chopra-khandra",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Athletics",
+    "chapter": "Where the story began",
+    "question": "Javelin star Neeraj Chopra was born in which village in Haryana's Panipat district?",
+    "clue": "A village near the historic city of Panipat, north of Delhi.",
+    "hint": "It starts with 'Khan'.",
+    "answer": {
+     "city": "Khandra",
+     "country": "India",
+     "countryCode": "IN",
+     "geocode": "Khandra, Panipat, Haryana"
+    },
+    "story": "Neeraj Chopra was born in Khandra village, Panipat district, Haryana, and grew up there in an extended family of 17.",
+    "sources": [
+     {
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2181457&reg=48&lang=2",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born on 24 December 1997 in Khandra village, Panipat district, Haryana, he has brought immense pride to the Nation and the Armed Forces through his remarkable accomplishments in international athletics."
+     },
+     {
+      "url": "https://worldathletics.org/news/series/neeraj-chopra-loves-javelin",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "I had grown up in the village of Khandra with my extended family of 17 people"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "faith-kipyegon",
+    "name": "Faith Kipyegon",
+    "monogram": "FK",
+    "countryOfOrigin": "KE",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "faith-kipyegon-florence",
+    "primaryCategory": "sports",
+    "subcategory": "track-field",
+    "questionType": "event_location",
+    "difficulty": "hard",
+    "displayCategory": "Athletics",
+    "chapter": "The championship city",
+    "question": "In which Italian city did Faith Kipyegon break the 1500m world record in 2023?",
+    "clue": "The Tuscan home of the Golden Gala that year.",
+    "hint": "Birthplace of the Renaissance.",
+    "answer": {
+     "city": "Florence",
+     "country": "Italy",
+     "countryCode": "IT",
+     "geocode": "Florence, Tuscany"
+    },
+    "story": "Faith Kipyegon broke the world 1500m record with 3:49.11 at the Golden Gala in Florence in June 2023.",
+    "sources": [
+     {
+      "url": "https://worldathletics.org/news/report/florence-golden-gala-2023-faith-kipyegon-world-record-1500m",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Kipyegon breaks world 1500m record with 3:49.11 in Florence"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "michael-schumacher",
+    "name": "Michael Schumacher",
+    "monogram": "MS",
+    "countryOfOrigin": "DE",
+    "region": "europe"
+   },
+   "question": {
+    "id": "michael-schumacher-kerpen",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Formula 1",
+    "chapter": "Before the breakthrough",
+    "question": "Michael Schumacher's father ran the local kart track in which German town?",
+    "clue": "West of Cologne, in North Rhine-Westphalia.",
+    "hint": "It starts with 'Ker'.",
+    "answer": {
+     "city": "Kerpen",
+     "country": "Germany",
+     "countryCode": "DE",
+     "geocode": "Kerpen, North Rhine-Westphalia"
+    },
+    "story": "Michael Schumacher's father, a bricklayer, ran the local kart track at Kerpen, where his mother ran the canteen — the start of a seven-time champion.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-michael-schumacher.7KdX5nJlTG55vR5JQSbZ21",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Their father, a bricklayer, ran the local kart track, at Kerpen, where Mrs Schumacher operated the canteen."
+     }
+    ],
+    "notes": [
+     "Formula1.com gives only 'near Cologne' for his birthplace, so the documented Kerpen kart track is used."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "fernando-alonso",
+    "name": "Fernando Alonso",
+    "monogram": "FA",
+    "countryOfOrigin": "ES",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "fernando-alonso-oviedo",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Fernando Alonso was born in which city in northern Spain?",
+    "clue": "Capital of the Principality of Asturias.",
+    "hint": "Its name starts with 'Ovi'.",
+    "answer": {
+     "city": "Oviedo",
+     "country": "Spain",
+     "countryCode": "ES",
+     "geocode": "Oviedo, Asturias"
+    },
+    "story": "Fernando Alonso was born in Oviedo, Spain.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/drivers/fernando-alonso",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Place of Birth: Oviedo, Spain"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "juan-manuel-fangio",
+    "name": "Juan Manuel Fangio",
+    "monogram": "JF",
+    "countryOfOrigin": "AR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "juan-manuel-fangio-balcarce",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Formula 1",
+    "chapter": "Growing up",
+    "question": "Juan Manuel Fangio came from which dusty frontier town in Argentina?",
+    "clue": "In Buenos Aires Province, inland from Mar del Plata.",
+    "hint": "It starts with 'Bal'.",
+    "answer": {
+     "city": "Balcarce",
+     "country": "Argentina",
+     "countryCode": "AR",
+     "geocode": "Balcarce, Buenos Aires"
+    },
+    "story": "Juan Manuel Fangio's humble origins lay in Balcarce, a dusty frontier town in a remote corner of Argentina, far from his privileged rivals.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-juan-manuel-fangio.6SSng3B5E6j6pxPNbyqQIv",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Most of his challengers were young enough to be his sons, and nearly all of them came from privileged backgrounds far removed from Fangio's humble origins in a remote corner of Argentina, in the dusty frontier town of Balcarce."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "niki-lauda",
+    "name": "Niki Lauda",
+    "monogram": "NL",
+    "countryOfOrigin": "AT",
+    "region": "europe"
+   },
+   "question": {
+    "id": "niki-lauda-vienna",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Niki Lauda was born in which European capital?",
+    "clue": "On the Danube.",
+    "hint": "Austria's capital.",
+    "answer": {
+     "city": "Vienna",
+     "country": "Austria",
+     "countryCode": "AT",
+     "geocode": "Vienna"
+    },
+    "story": "Niki Lauda was born in Vienna on 22 February 1949 into a prominent Austrian business and banking family.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-niki-lauda.2Ye7VYWdXwhb97ZqLyxvX",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "On February 22, 1949, Nicholas Andreas Lauda was born in Vienna into a prominent Austrian business and banking dynasty."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alain-prost",
+    "name": "Alain Prost",
+    "monogram": "AP",
+    "countryOfOrigin": "FR",
+    "region": "europe"
+   },
+   "question": {
+    "id": "alain-prost-saint-chamond",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Alain Prost was born near which town in France's Loire region?",
+    "clue": "Between Lyon and Saint-Étienne.",
+    "hint": "It starts with 'Saint-'.",
+    "answer": {
+     "city": "Saint-Chamond",
+     "country": "France",
+     "countryCode": "FR",
+     "geocode": "Saint-Chamond, Loire"
+    },
+    "story": "Alain Prost was born in 1955 near Saint-Chamond in the Loire region of central France, where his father made kitchen furniture.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-alain-prost.6xkomcqkRL5K0HgmPX4zAH",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Alain Prost was born on February 24, 1955, near Saint Chamond in the Loire region of central France, where his father Andre manufactured kitchen furnishings."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kimi-raikkonen",
+    "name": "Kimi Räikkönen",
+    "monogram": "KR",
+    "countryOfOrigin": "FI",
+    "region": "europe"
+   },
+   "question": {
+    "id": "kimi-raikkonen-espoo",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Formula 1",
+    "chapter": "Growing up",
+    "question": "Kimi Räikkönen spent his childhood in which city next to Helsinki?",
+    "clue": "Finland's second-largest city, west of the capital.",
+    "hint": "Home of Nokia's headquarters.",
+    "answer": {
+     "city": "Espoo",
+     "country": "Finland",
+     "countryCode": "FI",
+     "geocode": "Espoo"
+    },
+    "story": "Kimi Räikkönen spent his childhood in a house his great-grandfather built in Espoo, next to Helsinki.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-kimi-raikkonen.4Ykdt9U76gWO40cNbjaMXf",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Kimi Matias Raikkonen spent his childhood in a house built by his great grandfather in Espoo, a suburb of the Finnish capital, Helsinki."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sergio-perez",
+    "name": "Sergio Pérez",
+    "monogram": "SP",
+    "countryOfOrigin": "MX",
+    "region": "latin-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "sergio-perez-guadalajara",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Sergio 'Checo' Pérez was born in which Mexican city?",
+    "clue": "Capital of Jalisco state.",
+    "hint": "Mexico's second city, home of mariachi.",
+    "answer": {
+     "city": "Guadalajara",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Guadalajara, Jalisco"
+    },
+    "story": "Sergio Pérez was born in Guadalajara, Mexico.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/drivers/sergio-perez",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Place of Birth: Guadalajara, Mexico"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yuki-tsunoda",
+    "name": "Yuki Tsunoda",
+    "monogram": "YT",
+    "countryOfOrigin": "JP",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "yuki-tsunoda-sagamihara",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Yuki Tsunoda was born in which city in Kanagawa Prefecture?",
+    "clue": "A city in the hills west of Tokyo.",
+    "hint": "It starts with 'Sagami'.",
+    "answer": {
+     "city": "Sagamihara",
+     "country": "Japan",
+     "countryCode": "JP",
+     "geocode": "Sagamihara, Kanagawa"
+    },
+    "story": "Honda's driver profile gives Yuki Tsunoda's birthplace as Sagamihara, Kanagawa.",
+    "sources": [
+     {
+      "url": "https://global.honda/en/newsroom/news/2020/c201216eng.html",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "Birthplace: Sagamihara, Kanagawa, Japan"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jody-scheckter",
+    "name": "Jody Scheckter",
+    "monogram": "JS",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "jody-scheckter-east-london",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "1979 champion Jody Scheckter was born in which South African port city?",
+    "clue": "On the Eastern Cape coast, at the mouth of the Buffalo River.",
+    "hint": "It shares its name with part of England's capital.",
+    "answer": {
+     "city": "East London",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "East London, Eastern Cape"
+    },
+    "story": "Jody Scheckter was born in East London, South Africa, in 1950, where his father owned a Renault dealership. He won the 1979 world title.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-jody-scheckter.xGrSCopMMf1mkdIUX1119",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Jody Scheckter was born on January 29, 1950, in East London, South Africa, where his father owned a Renault dealership."
+     },
+     {
+      "url": "https://www.formula1.com/en/information/drivers-hall-of-fame-jody-scheckter.xGrSCopMMf1mkdIUX1119",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "The South African countered the French Canadian's superior all-out speed with a more conservative points-collecting strategy that paid off and made him the 1979 World Champion."
+     }
+    ],
+    "notes": [
+     "OpenStreetMap names the city KuGompo City (renamed); the source and question use East London."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lando-norris",
+    "name": "Lando Norris",
+    "monogram": "LN",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lando-norris-bristol",
+    "primaryCategory": "sports",
+    "subcategory": "formula-1",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Formula 1",
+    "chapter": "Where the story began",
+    "question": "Lando Norris was born in which English city?",
+    "clue": "In the West Country, on the River Avon.",
+    "hint": "Famous for the Clifton Suspension Bridge.",
+    "answer": {
+     "city": "Bristol",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Bristol, England"
+    },
+    "story": "Lando Norris was born in Bristol, England.",
+    "sources": [
+     {
+      "url": "https://www.formula1.com/en/drivers/lando-norris",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Place of Birth: Bristol, England"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "babar-azam",
+    "name": "Babar Azam",
+    "monogram": "BA",
+    "countryOfOrigin": "PK",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "babar-azam-lahore",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Cricket",
+    "chapter": "Growing up",
+    "question": "Babar Azam learned cricket on the streets around his family home in which city?",
+    "clue": "Capital of Punjab province.",
+    "hint": "Home of the Gaddafi Stadium.",
+    "answer": {
+     "city": "Lahore",
+     "country": "Pakistan",
+     "countryCode": "PK",
+     "geocode": "Lahore"
+    },
+    "story": "Babar Azam's journey started with street cricket around his family home in Lahore.",
+    "sources": [
+     {
+      "url": "https://www.icc-cricket.com/news/from-tape-ball-cricket-to-the-top-of-the-world-babar-azams-incredible-rise",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Playing on the streets around his family home in Lahore."
+     },
+     {
+      "url": "https://www.cricket.com.au/players/CA:568/babar-azam",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Birthplace: Lahore, Punjab"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kumar-sangakkara",
+    "name": "Kumar Sangakkara",
+    "monogram": "KS",
+    "countryOfOrigin": "LK",
+    "region": "asia"
+   },
+   "question": {
+    "id": "kumar-sangakkara-matale",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "Kumar Sangakkara was born in which town in Sri Lanka's Central Province?",
+    "clue": "North of Kandy, in the hill country.",
+    "hint": "It starts with 'Mat'.",
+    "answer": {
+     "city": "Matale",
+     "country": "Sri Lanka",
+     "countryCode": "LK",
+     "geocode": "Matale city, Matale District"
+    },
+    "story": "Kumar Sangakkara was born in Matale on 27 October 1977.",
+    "sources": [
+     {
+      "url": "https://www.wisden.com/wisden-cricketers-almanack/kumar-sangakkara-the-cricketer-who-challenged-the-sri-lankan-political-establishment-almanack",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "That forthright Lord’s address provided an impressive adjunct to what Kumar Chokshanada Sangakkara, born in Matale on October 27, 1977, expected to be his last Tests in England."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "muttiah-muralitharan",
+    "name": "Muttiah Muralitharan",
+    "monogram": "MM",
+    "countryOfOrigin": "LK",
+    "region": "asia"
+   },
+   "question": {
+    "id": "muttiah-muralitharan-kandy",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Cricket",
+    "chapter": "Before the breakthrough",
+    "question": "Muttiah Muralitharan took up off-spin at St Anthony's College in which Sri Lankan city?",
+    "clue": "The hill capital, home of the Temple of the Tooth.",
+    "hint": "Sri Lanka's last royal capital.",
+    "answer": {
+     "city": "Kandy",
+     "country": "Sri Lanka",
+     "countryCode": "LK",
+     "geocode": "Kandy"
+    },
+    "story": "Muttiah Muralitharan switched to off-spin at St Anthony's College in Kandy on the advice of his coach, Sunil Fernando.",
+    "sources": [
+     {
+      "url": "https://www.wisden.com/cricket-features/muttiah-muralitharan-top-ten-moments-in-his-own-words",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "I took up off-spin at the suggestion of my coach Sunil Fernando while I was at St Anthony’s College in Kandy, and it quickly became obvious I was much better at spinning the ball than trying to bowl fast!"
+     }
+    ],
+    "notes": [
+     "School location used: sources reviewed did not state his birthplace."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rashid-khan",
+    "name": "Rashid Khan",
+    "monogram": "RK",
+    "countryOfOrigin": "AF",
+    "region": "asia",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "rashid-khan-jalalabad",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "Afghan spin star Rashid Khan was born in which city in eastern Afghanistan?",
+    "clue": "Capital of Nangarhar province, east of Kabul.",
+    "hint": "It starts with 'Jalal'.",
+    "answer": {
+     "city": "Jalalabad",
+     "country": "Afghanistan",
+     "countryCode": "AF",
+     "geocode": "Jalalabad, Nangarhar"
+    },
+    "story": "Rashid Khan was born in Jalalabad in eastern Afghanistan, some 130km from Kabul.",
+    "sources": [
+     {
+      "url": "https://www.cricket.com.au/news/3309049",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "He was born in Jalalabad in Afghanistan's east, some 130km from Kabul."
+     }
+    ],
+    "notes": [
+     "Other profiles give the province (Nangarhar); Jalalabad is its capital, so the sources agree."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ben-stokes",
+    "name": "Ben Stokes",
+    "monogram": "BS",
+    "countryOfOrigin": "GB",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ben-stokes-christchurch",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Born abroad",
+    "question": "England all-rounder Ben Stokes was born in which New Zealand city?",
+    "clue": "The largest city on New Zealand's South Island.",
+    "hint": "Its name honours an Oxford college.",
+    "answer": {
+     "city": "Christchurch",
+     "country": "New Zealand",
+     "countryCode": "NZ",
+     "geocode": "Christchurch"
+    },
+    "story": "Ben Stokes was born in Christchurch, New Zealand, and raised in Cumbria, England.",
+    "sources": [
+     {
+      "url": "https://www.ecb.co.uk/news/4527979/ben-stokes-announces-he-will-retire-at-the-end-of-the-trent-bridge-test",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born in Christchurch, New Zealand, and raised in Cumbria, Stokes has overcome a number of injury setbacks to produce a host of match-winning performances."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ab-de-villiers",
+    "name": "AB de Villiers",
+    "monogram": "AV",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "ab-de-villiers-pretoria",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "AB de Villiers was born in which South African city?",
+    "clue": "One of South Africa's capitals, in Gauteng.",
+    "hint": "Famous for its jacaranda trees.",
+    "answer": {
+     "city": "Pretoria",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Pretoria"
+    },
+    "story": "AB de Villiers was born in Pretoria, Gauteng, on 17 February 1984.",
+    "sources": [
+     {
+      "url": "https://www.cricket.com.au/players/CA:792/ab-de-villiers",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Birthplace: Pretoria, Gauteng Province"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ellyse-perry",
+    "name": "Ellyse Perry",
+    "monogram": "EP",
+    "countryOfOrigin": "AU",
+    "region": "oceania",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "ellyse-perry-wahroonga",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "Ellyse Perry was born in which suburb on Sydney's Upper North Shore?",
+    "clue": "A leafy suburb north of Sydney's centre.",
+    "hint": "An Aboriginal name meaning 'our home'.",
+    "answer": {
+     "city": "Wahroonga",
+     "country": "Australia",
+     "countryCode": "AU",
+     "geocode": "Wahroonga, New South Wales"
+    },
+    "story": "Ellyse Perry was born in Wahroonga, Sydney, on 3 November 1990.",
+    "sources": [
+     {
+      "url": "https://www.wisden.com/wisden-cricketers-almanack/ellyse-perry-wisden-cricketer-of-the-year-almanack",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Ellyse Alexandra Perry was born in Wahroonga, Sydney, on November 3, 1990."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "stafanie-taylor",
+    "name": "Stafanie Taylor",
+    "monogram": "ST",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "stafanie-taylor-spanish-town",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "West Indies star Stafanie Taylor was born in which Jamaican town?",
+    "clue": "Jamaica's former capital, west of Kingston.",
+    "hint": "Named after a European country.",
+    "answer": {
+     "city": "Spanish Town",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "Spanish Town, Jamaica"
+    },
+    "story": "Stafanie Taylor was born in Spanish Town, Jamaica, on 11 June 1991.",
+    "sources": [
+     {
+      "url": "https://www.windiescricket.com/players/stafanie-taylor-2091/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born: 1991-06-11, Spanish Town"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "viv-richards",
+    "name": "Viv Richards",
+    "monogram": "VR",
+    "countryOfOrigin": "AG",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "viv-richards-st-johns",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "Sir Viv Richards was born in which Caribbean capital?",
+    "clue": "Capital of Antigua and Barbuda.",
+    "hint": "It shares its name with the capital of Newfoundland.",
+    "answer": {
+     "city": "St John's",
+     "country": "Antigua and Barbuda",
+     "countryCode": "AG",
+     "geocode": "St. John's, Antigua"
+    },
+    "story": "Sir Viv Richards was born in St John's, Antigua, on 7 March 1952.",
+    "sources": [
+     {
+      "url": "https://www.windiescricket.com/players/viv-richards-4326/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born: 1952-03-07, St John's, Antigua"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "don-bradman",
+    "name": "Don Bradman",
+    "monogram": "DB",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "don-bradman-cootamundra",
+    "primaryCategory": "sports",
+    "subcategory": "cricket",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Cricket",
+    "chapter": "Where the story began",
+    "question": "Sir Donald Bradman was born in which New South Wales town?",
+    "clue": "A Riverina town, a long drive southwest of Sydney.",
+    "hint": "It starts with 'Coota'.",
+    "answer": {
+     "city": "Cootamundra",
+     "country": "Australia",
+     "countryCode": "AU",
+     "geocode": "Cootamundra, New South Wales"
+    },
+    "story": "Sir Donald Bradman was born in Cootamundra, NSW, on 27 August 1908.",
+    "sources": [
+     {
+      "url": "https://www.cricket.com.au/news/3262086",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born: August 27, 1908, Cootamundra, NSW"
+     }
+    ]
+   }
+  }
+ ],
+ "memberships": []
+}

@@ -78,11 +78,33 @@ test("scoring and stage rules are unchanged", () => {
  assert.equal(sha("../game/stages.ts"), "d686b044a6444d4ed52aca5fbedc8c9eaab7e9055dad39092338b854f1dc8b53");
 });
 
+type SportsBatch = { batch: number; entries: { question: { id: string; primaryCategory: string; subcategory: string; secondary?: { category: string }[] } }[]; memberships?: { category: string }[] };
+const allBatches = () => readdirSync(new URL("batches/", contentDir)).filter(f => /^batch-\d+\.json$/.test(f)).map(f => loadJson("batches/" + f) as SportsBatch);
+
+test("batch 19 adds only Sports stars in the five approved subcategories and lifts each to 15+", () => {
+ const APPROVED = ["boxing", "tennis", "track-field", "formula-1", "cricket"];
+ const b19 = allBatches().find(b => b.batch === 19)!;
+ assert.equal(b19.entries.length, 48);
+ assert.deepEqual(b19.memberships ?? [], []);
+ for (const { question } of b19.entries) {
+  assert.equal(question.primaryCategory, "sports", question.id);
+  assert.ok(APPROVED.includes(question.subcategory), question.id);
+  assert.equal(question.secondary, undefined, question.id);
+ }
+ const pool = playableQuestions(loadRawContent());
+ for (const sub of APPROVED) {
+  const stars = new Set(pool.filter(q => (q.primaryCategory === "sports" && q.subcategory === sub) || (q.secondary ?? []).some(s => s.category === "sports" && s.subcategory === sub)).map(q => q.entityId)).size;
+  assert.ok(stars >= 15, `${sub}: ${stars}`);
+ }
+});
+
 test("Music and Sports content is untouched and gained no memberships from batches 16–18", () => {
  assert.equal(sha("../../content/questions/music.json"), "51ffb07fc7b4b244412338cd2ab8466bedaa7202a520d71de2aa8bcc61bb0aed");
- assert.equal(sha("../../content/questions/sports.json"), "d355e53af2229bb5411c6a95ccc62e545f120252526da25aa1f7198667b8dcfa");
- type Batch = { batch: number; entries: { question: { primaryCategory: string; secondary?: { category: string }[] } }[]; memberships?: { category: string }[] };
- const recent = readdirSync(new URL("batches/", contentDir)).filter(f => /^batch-\d+\.json$/.test(f)).map(f => loadJson("batches/" + f) as Batch).filter(b => b.batch >= 16);
+ // Batch 19 appends approved Sports records; every Sports record that existed before it must stay byte-identical.
+ const batch19 = new Set(allBatches().filter(b => b.batch === 19).flatMap(b => b.entries.map(e => e.question.id)));
+ const sports = JSON.parse(readFileSync(new URL("../../content/questions/sports.json", import.meta.url), "utf8")) as { id: string }[];
+ assert.equal(createHash("sha256").update(JSON.stringify(sports.filter(q => !batch19.has(q.id)), null, 1) + "\n").digest("hex"), "d355e53af2229bb5411c6a95ccc62e545f120252526da25aa1f7198667b8dcfa");
+ const recent = allBatches().filter(b => b.batch >= 16 && b.batch <= 18);
  assert.equal(recent.length, 3);
  for (const b of recent) {
   for (const { question } of b.entries) for (const c of [question.primaryCategory, ...(question.secondary ?? []).map(s => s.category)]) assert.ok(c !== "music" && c !== "sports", `batch ${b.batch}`);

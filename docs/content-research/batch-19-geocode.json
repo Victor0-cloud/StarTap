@@ -1,0 +1,963 @@
+{
+ "anthony-joshua": {
+  "query": "Watford, Hertfordshire",
+  "results": [
+   {
+    "lat": 51.6553875,
+    "lon": -0.3957425,
+    "type": "town",
+    "category": "place",
+    "name": "Watford",
+    "display": "Watford, Hertfordshire, England, WD17 2DN, United Kingdom",
+    "cc": "GB",
+    "osm": "node/20992523"
+   },
+   {
+    "lat": 51.6570048,
+    "lon": -0.4183683,
+    "type": "station",
+    "category": "railway",
+    "name": "Watford",
+    "display": "Watford, Venice Avenue, Cassio Metro, Holywell Estate, Watford, Hertfordshire, England, WD18 7BT, United Kingdom",
+    "cc": "GB",
+    "osm": "node/5183760385"
+   },
+   {
+    "lat": 51.6696495,
+    "lon": -0.410582,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Watford",
+    "display": "Watford, Hertfordshire, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/2683176"
+   }
+  ]
+ },
+ "tyson-fury": {
+  "query": "Düsseldorf",
+  "results": [
+   {
+    "lat": 51.2254018,
+    "lon": 6.7763137,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dusseldorf",
+    "display": "Dusseldorf, North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/62539"
+   }
+  ]
+ },
+ "oleksandr-usyk": {
+  "query": "Riyadh",
+  "results": [
+   {
+    "lat": 24.638916,
+    "lon": 46.7160104,
+    "type": "city",
+    "category": "place",
+    "name": "Riyadh",
+    "display": "Riyadh, Riyadh governorate, Riyadh Region, 12643, Saudi Arabia",
+    "cc": "SA",
+    "osm": "node/315358390"
+   },
+   {
+    "lat": 23.333333,
+    "lon": 45.333333,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Riyadh Region",
+    "display": "Riyadh Region, Saudi Arabia",
+    "cc": "SA",
+    "osm": "relation/3678409"
+   }
+  ]
+ },
+ "floyd-mayweather-jr": {
+  "query": "Grand Rapids, Michigan",
+  "results": [
+   {
+    "lat": 42.9632425,
+    "lon": -85.6678639,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Grand Rapids",
+    "display": "Grand Rapids, Kent County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134444"
+   }
+  ]
+ },
+ "claressa-shields": {
+  "query": "Flint, Michigan",
+  "results": [
+   {
+    "lat": 43.0161693,
+    "lon": -83.6900211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Flint",
+    "display": "Flint, Genesee County, Michigan, United States",
+    "cc": "US",
+    "osm": "relation/134624"
+   }
+  ]
+ },
+ "katie-taylor": {
+  "query": "Bray, County Wicklow",
+  "results": [
+   {
+    "lat": 53.2014604,
+    "lon": -6.1105049,
+    "type": "town",
+    "category": "place",
+    "name": "Bray",
+    "display": "Bray, County Wicklow, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/14587030"
+   },
+   {
+    "lat": 53.2012277,
+    "lon": -6.1070809,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bray",
+    "display": "Bray, Bray No 2 ED, The Municipal District of Bray, County Wicklow, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/4520840"
+   },
+   {
+    "lat": 53.187426,
+    "lon": -6.106529,
+    "type": "civil_parish",
+    "category": "boundary",
+    "name": "Bray",
+    "display": "Bray, The Municipal District of Bray, County Wicklow, Leinster, Ireland",
+    "cc": "IE",
+    "osm": "relation/6126193"
+   }
+  ]
+ },
+ "naoya-inoue": {
+  "query": "Zama, Kanagawa",
+  "results": [
+   {
+    "lat": 35.4886835,
+    "lon": 139.407691,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zama",
+    "display": "Zama, Kanagawa Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/2689430"
+   },
+   {
+    "lat": 35.4865288,
+    "lon": 139.3877657,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zama",
+    "display": "Zama, Kanagawa Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/16261136"
+   }
+  ]
+ },
+ "azumah-nelson": {
+  "query": "San Juan, Puerto Rico",
+  "results": [
+   {
+    "lat": 18.384239,
+    "lon": -66.05344,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Juan",
+    "display": "San Juan, Puerto Rico, United States",
+    "cc": "PR",
+    "ccNote": "Nominatim country_code us; ISO 3166-2 US-PR = ISO alpha-2 PR (Puerto Rico)",
+    "osm": "relation/4468264"
+   }
+  ]
+ },
+ "julio-cesar-chavez": {
+  "query": "Ciudad Obregón, Sonora",
+  "results": [
+   {
+    "lat": 27.4846619,
+    "lon": -109.9337782,
+    "type": "city",
+    "category": "place",
+    "name": "Ciudad Obregón",
+    "display": "Ciudad Obregón, Cajeme, Sonora, 85080, Mexico",
+    "cc": "MX",
+    "osm": "node/273589866"
+   }
+  ]
+ },
+ "dick-tiger": {
+  "query": "Amaigbo, Imo",
+  "results": [
+   {
+    "lat": 5.7291619,
+    "lon": 7.1164592,
+    "type": "town",
+    "category": "place",
+    "name": "Amaigbo",
+    "display": "Amaigbo, Nwangele, Imo State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501474045"
+   }
+  ]
+ },
+ "carlos-alcaraz": {
+  "query": "El Palmar, Murcia",
+  "results": [
+   {
+    "lat": 37.9391241,
+    "lon": -1.1634534,
+    "type": "suburb",
+    "category": "place",
+    "name": "El Palmar",
+    "display": "El Palmar, Murcia, Área Metropolitana de Murcia, Region of Murcia, 30120, Spain",
+    "cc": "ES",
+    "osm": "node/313155501"
+   },
+   {
+    "lat": 37.9190016,
+    "lon": -1.1913907,
+    "type": "locality",
+    "category": "place",
+    "name": "El Palmar",
+    "display": "El Palmar, El Palmar o Lugar de Don Juan, Sangonera la Verde, Murcia, Área Metropolitana de Murcia, Region of Murcia, 30833, Spain",
+    "cc": "ES",
+    "osm": "node/1243080985"
+   }
+  ]
+ },
+ "iga-swiatek": {
+  "query": "Warsaw",
+  "results": [
+   {
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Warsaw",
+    "display": "Warsaw, Masovian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/336075"
+   },
+   {
+    "lat": 52.2333742,
+    "lon": 21.0711489,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Warsaw",
+    "display": "Warsaw, Masovian Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/2907540"
+   }
+  ]
+ },
+ "jannik-sinner": {
+  "query": "Sexten, South Tyrol",
+  "results": [
+   {
+    "lat": 46.6719672,
+    "lon": 12.3870513,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sexten - Sesto",
+    "display": "Sexten - Sesto, Pustertal - Val Pusteria, South Tyrol, Trentino – Alto Adige/Südtirol, Italy",
+    "cc": "IT",
+    "osm": "relation/47286"
+   },
+   {
+    "lat": 46.7019004,
+    "lon": 12.3503959,
+    "type": "village",
+    "category": "place",
+    "name": "Sexten - Sesto",
+    "display": "Sexten - Sesto, Pustertal - Val Pusteria, South Tyrol, Trentino – Alto Adige/Südtirol, 39030, Italy",
+    "cc": "IT",
+    "osm": "node/64777157"
+   }
+  ]
+ },
+ "billie-jean-king": {
+  "query": "Long Beach, California",
+  "results": [
+   {
+    "lat": 33.7690164,
+    "lon": -118.191604,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Long Beach",
+    "display": "Long Beach, Los Angeles County, California, United States",
+    "cc": "US",
+    "osm": "relation/112100"
+   }
+  ]
+ },
+ "arthur-ashe": {
+  "query": "Richmond, Virginia",
+  "results": [
+   {
+    "lat": 37.5385087,
+    "lon": -77.43428,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Richmond",
+    "display": "Richmond, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/3864712"
+   },
+   {
+    "lat": 37.9476108,
+    "lon": -76.7161921,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Richmond County",
+    "display": "Richmond County, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/2534202"
+   }
+  ]
+ },
+ "martina-navratilova": {
+  "query": "Prague",
+  "results": [
+   {
+    "lat": 50.0874654,
+    "lon": 14.4212535,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Prague",
+    "display": "Prague, Czechia",
+    "cc": "CZ",
+    "osm": "relation/435514"
+   }
+  ]
+ },
+ "gustavo-kuerten": {
+  "query": "Florianópolis, Santa Catarina",
+  "results": [
+   {
+    "lat": -27.5973002,
+    "lon": -48.5496098,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florianópolis",
+    "display": "Florianópolis, Santa Catarina, South Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/296561"
+   }
+  ]
+ },
+ "rod-laver": {
+  "query": "Rockhampton, Queensland",
+  "results": [
+   {
+    "lat": -23.3782137,
+    "lon": 150.5134227,
+    "type": "city",
+    "category": "place",
+    "name": "Rockhampton",
+    "display": "Rockhampton, Queensland, 4700, Australia",
+    "cc": "AU",
+    "osm": "node/2014326094"
+   },
+   {
+    "lat": -23.4171785,
+    "lon": 150.1682094,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rockhampton Regional",
+    "display": "Rockhampton Regional, Queensland, Australia",
+    "cc": "AU",
+    "osm": "relation/11676441"
+   }
+  ]
+ },
+ "jesse-owens": {
+  "query": "Berlin",
+  "results": [
+   {
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Berlin",
+    "display": "Berlin, Germany",
+    "cc": "DE",
+    "osm": "relation/62422"
+   }
+  ]
+ },
+ "carl-lewis": {
+  "query": "Birmingham, Alabama",
+  "results": [
+   {
+    "lat": 33.5206824,
+    "lon": -86.8024326,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Birmingham",
+    "display": "Birmingham, Jefferson County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/111031"
+   }
+  ]
+ },
+ "shelly-ann-fraser-pryce": {
+  "query": "Beijing",
+  "results": [
+   {
+    "lat": 39.9057136,
+    "lon": 116.3912972,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Beijing",
+    "display": "Beijing, China",
+    "cc": "CN",
+    "osm": "relation/912940"
+   }
+  ]
+ },
+ "haile-gebrselassie": {
+  "query": "Asella, Oromia",
+  "results": [
+   {
+    "lat": 7.95,
+    "lon": 39.13333,
+    "type": "town",
+    "category": "place",
+    "name": "Asela",
+    "display": "Asela, Tiyo, Arsi, Oromia Region, Ethiopia",
+    "cc": "ET",
+    "osm": "way/180714249"
+   }
+  ]
+ },
+ "armand-duplantis": {
+  "query": "Lafayette, Louisiana",
+  "results": [
+   {
+    "lat": 30.2262187,
+    "lon": -92.0178202,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lafayette",
+    "display": "Lafayette, Lafayette Parish, Louisiana, United States",
+    "cc": "US",
+    "osm": "relation/131949"
+   },
+   {
+    "lat": 30.2141462,
+    "lon": -92.0710624,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lafayette Parish",
+    "display": "Lafayette Parish, Louisiana, United States",
+    "cc": "US",
+    "osm": "relation/1837810"
+   }
+  ]
+ },
+ "sifan-hassan": {
+  "query": "Paris",
+  "results": [
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "mo-farah": {
+  "query": "Rio de Janeiro",
+  "results": [
+   {
+    "lat": -22.9110137,
+    "lon": -43.2093727,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/2697338"
+   },
+   {
+    "lat": -22.2752762,
+    "lon": -42.419415,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/57963"
+   }
+  ]
+ },
+ "yulimar-rojas": {
+  "query": "Caracas",
+  "results": [
+   {
+    "lat": 10.5060934,
+    "lon": -66.9146008,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Caracas",
+    "display": "Caracas, Parroquia Catedral, Municipio Libertador, Caracas Metropolitan District, Capital District, Venezuela",
+    "cc": "VE",
+    "osm": "relation/11219583"
+   }
+  ]
+ },
+ "neeraj-chopra": {
+  "query": "Khandra, Panipat, Haryana",
+  "results": [
+   {
+    "lat": 29.4295875,
+    "lon": 76.8439646,
+    "type": "village",
+    "category": "place",
+    "name": "Khandra",
+    "display": "Khandra, Matlauda, Panipat, Haryana, 132113, India",
+    "cc": "IN",
+    "osm": "node/2652169818"
+   }
+  ]
+ },
+ "faith-kipyegon": {
+  "query": "Florence, Tuscany",
+  "results": [
+   {
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42602"
+   },
+   {
+    "lat": 43.8456527,
+    "lon": 11.3743092,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Florence",
+    "display": "Florence, Tuscany, Italy",
+    "cc": "IT",
+    "osm": "relation/42472"
+   }
+  ]
+ },
+ "michael-schumacher": {
+  "query": "Kerpen, North Rhine-Westphalia",
+  "results": [
+   {
+    "lat": 50.8696345,
+    "lon": 6.694734,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kerpen",
+    "display": "Kerpen, Rhein-Erft-Kreis, North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/168483"
+   }
+  ]
+ },
+ "fernando-alonso": {
+  "query": "Oviedo, Asturias",
+  "results": [
+   {
+    "lat": 43.3533452,
+    "lon": -5.8795096,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Oviedo",
+    "display": "Oviedo, Asturias, Spain",
+    "cc": "ES",
+    "osm": "relation/346397"
+   },
+   {
+    "lat": 43.3618625,
+    "lon": -5.8483581,
+    "type": "city",
+    "category": "place",
+    "name": "Oviedo / Uviéu",
+    "display": "Oviedo / Uviéu, Oviedo, Asturias, 33003, Spain",
+    "cc": "ES",
+    "osm": "node/493395619"
+   }
+  ]
+ },
+ "juan-manuel-fangio": {
+  "query": "Balcarce, Buenos Aires",
+  "results": [
+   {
+    "lat": -37.846399,
+    "lon": -58.2554648,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San José de Balcarce",
+    "display": "San José de Balcarce, Partido de Balcarce, Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/3399814"
+   }
+  ]
+ },
+ "niki-lauda": {
+  "query": "Vienna",
+  "results": [
+   {
+    "lat": 48.2083537,
+    "lon": 16.3725042,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vienna",
+    "display": "Vienna, Austria",
+    "cc": "AT",
+    "osm": "relation/109166"
+   }
+  ]
+ },
+ "alain-prost": {
+  "query": "Saint-Chamond, Loire",
+  "results": [
+   {
+    "lat": 45.4748298,
+    "lon": 4.5098046,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint-Chamond",
+    "display": "Saint-Chamond, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, Metropolitan France, 42400, France",
+    "cc": "FR",
+    "osm": "relation/122931"
+   }
+  ]
+ },
+ "kimi-raikkonen": {
+  "query": "Espoo",
+  "results": [
+   {
+    "lat": 60.2049651,
+    "lon": 24.6559808,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Espoo",
+    "display": "Espoo, Helsinki sub-region, Uusimaa, Mainland Finland, Finland",
+    "cc": "FI",
+    "osm": "relation/36097"
+   }
+  ]
+ },
+ "sergio-perez": {
+  "query": "Guadalajara, Jalisco",
+  "results": [
+   {
+    "lat": 20.6720375,
+    "lon": -103.338396,
+    "type": "city",
+    "category": "place",
+    "name": "Guadalajara",
+    "display": "Guadalajara, Región Centro, Jalisco, 44450, Mexico",
+    "cc": "MX",
+    "osm": "node/1663173902"
+   },
+   {
+    "lat": 20.6782614,
+    "lon": -103.3357646,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Guadalajara",
+    "display": "Guadalajara, Región Centro, Jalisco, Mexico",
+    "cc": "MX",
+    "osm": "relation/5605820"
+   }
+  ]
+ },
+ "yuki-tsunoda": {
+  "query": "Sagamihara, Kanagawa",
+  "results": [
+   {
+    "lat": 35.5714621,
+    "lon": 139.3731052,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sagamihara",
+    "display": "Sagamihara, Kanagawa Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/2689481"
+   }
+  ]
+ },
+ "jody-scheckter": {
+  "query": "East London, Eastern Cape",
+  "results": [
+   {
+    "lat": -33.0191604,
+    "lon": 27.8998573,
+    "type": "city",
+    "category": "place",
+    "name": "KuGompo City",
+    "display": "KuGompo City, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa",
+    "cc": "ZA",
+    "osm": "node/30211383"
+   }
+  ]
+ },
+ "lando-norris": {
+  "query": "Bristol, England",
+  "results": [
+   {
+    "lat": 51.4430141,
+    "lon": -2.5816622,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/57539"
+   },
+   {
+    "lat": 51.4538022,
+    "lon": -2.5972985,
+    "type": "city",
+    "category": "place",
+    "name": "Bristol",
+    "display": "Bristol, West of England, England, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/5746665"
+   }
+  ]
+ },
+ "babar-azam": {
+  "query": "Lahore",
+  "results": [
+   {
+    "lat": 31.5656822,
+    "lon": 74.3141829,
+    "type": "city",
+    "category": "place",
+    "name": "Lahore",
+    "display": "Lahore, Lahore City Tehsil, Lahore District, Lahore Division, Punjab, 54100, Pakistan",
+    "cc": "PK",
+    "osm": "node/1886594378"
+   },
+   {
+    "lat": 31.4568448,
+    "lon": 74.4078357,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Lahore District",
+    "display": "Lahore District, Lahore Division, Punjab, Pakistan",
+    "cc": "PK",
+    "osm": "relation/16117666"
+   }
+  ]
+ },
+ "kumar-sangakkara": {
+  "query": "Matale city, Matale District",
+  "results": [
+   {
+    "lat": 7.4720453,
+    "lon": 80.6234307,
+    "type": "city",
+    "category": "place",
+    "name": "Matale",
+    "display": "Matale, Matale District, Central Province, Sri Lanka",
+    "cc": "LK",
+    "osm": "node/258049423"
+   }
+  ]
+ },
+ "muttiah-muralitharan": {
+  "query": "Kandy",
+  "results": [
+   {
+    "lat": 7.2931208,
+    "lon": 80.6350358,
+    "type": "city",
+    "category": "place",
+    "name": "Kandy",
+    "display": "Kandy, Kandy District, Central Province, 20000, Sri Lanka",
+    "cc": "LK",
+    "osm": "node/2908772560"
+   },
+   {
+    "lat": 7.2143808,
+    "lon": 80.6401278,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kandy District",
+    "display": "Kandy District, Central Province, Sri Lanka",
+    "cc": "LK",
+    "osm": "relation/5351794"
+   }
+  ]
+ },
+ "rashid-khan": {
+  "query": "Jalalabad, Nangarhar",
+  "results": [
+   {
+    "lat": 34.430195,
+    "lon": 70.460128,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jalalabad",
+    "display": "Jalalabad, Nangarhar Province, Afghanistan",
+    "cc": "AF",
+    "osm": "relation/6607907"
+   }
+  ]
+ },
+ "ben-stokes": {
+  "query": "Christchurch",
+  "results": [
+   {
+    "lat": -43.530955,
+    "lon": 172.6364343,
+    "type": "city",
+    "category": "place",
+    "name": "Christchurch",
+    "display": "Christchurch, Christchurch City, Canterbury, New Zealand",
+    "cc": "NZ",
+    "osm": "relation/2730349"
+   }
+  ]
+ },
+ "ab-de-villiers": {
+  "query": "Pretoria",
+  "results": [
+   {
+    "lat": -25.7459277,
+    "lon": 28.1879101,
+    "type": "city",
+    "category": "place",
+    "name": "Pretoria",
+    "display": "Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0142, South Africa",
+    "cc": "ZA",
+    "osm": "node/25503669"
+   }
+  ]
+ },
+ "ellyse-perry": {
+  "query": "Wahroonga, New South Wales",
+  "results": [
+   {
+    "lat": -33.7183413,
+    "lon": 151.1174435,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Wahroonga",
+    "display": "Wahroonga, Upper North Shore, Sydney, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/5640342"
+   },
+   {
+    "lat": -33.7175388,
+    "lon": 151.1169979,
+    "type": "station",
+    "category": "railway",
+    "name": "Wahroonga",
+    "display": "Wahroonga, Rotary Walk, Wahroonga, Upper North Shore, Sydney, New South Wales, 2076, Australia",
+    "cc": "AU",
+    "osm": "node/1886265373"
+   },
+   {
+    "lat": -30.1166919,
+    "lon": 150.1702841,
+    "type": "farm",
+    "category": "place",
+    "name": "Wahroonga",
+    "display": "Wahroonga, 4813, New South Wales, 2390, Australia",
+    "cc": "AU",
+    "osm": "node/9611684469"
+   }
+  ]
+ },
+ "stafanie-taylor": {
+  "query": "Spanish Town, Jamaica",
+  "results": [
+   {
+    "lat": 17.9956926,
+    "lon": -76.9540831,
+    "type": "city",
+    "category": "place",
+    "name": "Spanish Town",
+    "display": "Spanish Town, Saint Catherine, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/247716893"
+   }
+  ]
+ },
+ "viv-richards": {
+  "query": "St. John's, Antigua",
+  "results": [
+   {
+    "lat": 17.1184569,
+    "lon": -61.8448509,
+    "type": "town",
+    "category": "place",
+    "name": "St. John's",
+    "display": "St. John's, Saint John, Antigua, Antigua and Barbuda",
+    "cc": "AG",
+    "osm": "node/425746989"
+   }
+  ]
+ },
+ "don-bradman": {
+  "query": "Cootamundra, New South Wales",
+  "results": [
+   {
+    "lat": -34.6387195,
+    "lon": 148.0240804,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cootamundra",
+    "display": "Cootamundra, New South Wales, 2590, Australia",
+    "cc": "AU",
+    "osm": "relation/5928429"
+   },
+   {
+    "lat": -34.8094009,
+    "lon": 148.1088141,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cootamundra-Gundagai Regional Council",
+    "display": "Cootamundra-Gundagai Regional Council, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/6247073"
+   }
+  ]
+ }
+}
