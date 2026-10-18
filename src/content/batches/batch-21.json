@@ -1,0 +1,1595 @@
+{
+ "batch": 21,
+ "researched": "2026-10-18",
+ "coordinateSource": "OpenStreetMap Nominatim",
+ "entries": [
+  {
+   "entity": {
+    "id": "kabza-de-small",
+    "name": "Kabza De Small",
+    "monogram": "KS",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kabza-de-small-pretoria",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Amapiano pioneer Kabza De Small hails from which South African city?",
+    "clue": "One of South Africa's capitals; locals call it 'Pitori'.",
+    "hint": "Famous for its jacaranda trees.",
+    "answer": {
+     "city": "Pretoria",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Pretoria"
+    },
+    "story": "Kabza De Small hails from Pretoria and is one of amapiano's pioneers, gaining attention around 2018.",
+    "sources": [
+     {
+      "url": "https://pan-african-music.com/en/kabza-de-small-koa-ii-part1/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "hailing from Pretoria, he is one of the genre’s pioneers"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kelvin-momo",
+    "name": "Kelvin Momo",
+    "monogram": "KM",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kelvin-momo-soweto",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Amapiano",
+    "chapter": "Where the story began",
+    "question": "Amapiano producer Kelvin Momo was born in which Johannesburg township?",
+    "clue": "South-west of central Johannesburg; its name is an abbreviation.",
+    "hint": "Home of Vilakazi Street.",
+    "answer": {
+     "city": "Soweto",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Soweto"
+    },
+    "story": "Kelvin Momo, known for his 'private school' amapiano sound, is Soweto-born.",
+    "sources": [
+     {
+      "url": "https://www.timeslive.co.za/tshisa-live/2025-12-29-kelvin-momo-misses-or-tambo-homage-concert-gig-issues-apology/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "The Soweto-born hitmaker confirmed his absence through an official statement"
+     },
+     {
+      "url": "https://www.citizen.co.za/lifestyle/entertainment/watch-kelvin-momo-on-private-school-amapiano-and-red-bull-symphonic-hype/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The 31-year-old from Soweto was officially announced today as one of the headline acts for the Red Bull Symphonic"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "young-stunna",
+    "name": "Young Stunna",
+    "monogram": "YS",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "young-stunna-daveyton",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Amapiano vocalist Young Stunna comes from which township on Johannesburg's East Rand?",
+    "clue": "In Ekurhuleni, east of Johannesburg.",
+    "hint": "It starts with 'Davey'.",
+    "answer": {
+     "city": "Daveyton",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Daveyton, Ekurhuleni"
+    },
+    "story": "Daveyton, on the East Rand, has produced its own amapiano vocal lineage, from Gaba Cannal to Young Stunna.",
+    "sources": [
+     {
+      "url": "https://www.okayafrica.com/jazzwrld-and-thukuthela-made-3-step-the-sound-of-now/1431397",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Daveyton has also produced an Amapiano vocal lineage in its own right, from Gaba Cannal to Young Stunna and Scotts Maphuma"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kamo-mphela",
+    "name": "Kamo Mphela",
+    "monogram": "KM",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kamo-mphela-soweto",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Amapiano",
+    "chapter": "The big moment",
+    "question": "Kamo Mphela gained many new fans when a video of her dancing in the streets of which township went viral?",
+    "clue": "Johannesburg's best-known township.",
+    "hint": "Home of Orlando Stadium.",
+    "answer": {
+     "city": "Soweto",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Soweto"
+    },
+    "story": "Dancer and singer Kamo Mphela won many new fans when a video of her dancing in the streets of Soweto went viral.",
+    "sources": [
+     {
+      "url": "https://www.timeslive.co.za/tshisa-live/tshisa-live/2019-11-15-listen--kamo-mphela-if-youre-doing-normal-things-people-wont-see-you-as-different/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Kamo gained many new fans when a video of her dancing in the streets in Soweto went viral."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "aymos",
+    "name": "Aymos",
+    "monogram": "AY",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "aymos-tembisa",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Where the story began",
+    "question": "Amapiano vocalist Aymos was born in which Johannesburg-area township?",
+    "clue": "A large township in Ekurhuleni, north of OR Tambo airport.",
+    "hint": "Also spelled Thembisa.",
+    "answer": {
+     "city": "Tembisa",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Tembisa"
+    },
+    "story": "Aymos (Amos Babili Shili) was born in the township of Thembisa, formerly spelled Tembisa.",
+    "sources": [
+     {
+      "url": "https://www.okayafrica.com/interview-aymos-brings-soulful-vocals-and-substance-to-amapiano/105825",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "in the Joburg township of Thembisa (formerly Tembisa), the 24-year-old musician has been trying to break into the music industry for years"
+     }
+    ],
+    "notes": [
+     "Nominatim's Tembisa point is the township's railway station, inside Thembisa."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "vigro-deep",
+    "name": "Vigro Deep",
+    "monogram": "VD",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "vigro-deep-atteridgeville",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Amapiano producer Vigro Deep is from which Pretoria township?",
+    "clue": "West of central Pretoria.",
+    "hint": "It starts with 'Atteridge'.",
+    "answer": {
+     "city": "Atteridgeville",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Atteridgeville, Pretoria"
+    },
+    "story": "Vigro Deep, the amapiano producer who took his sound to New York, is from Atteridgeville in Pretoria.",
+    "sources": [
+     {
+      "url": "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2025-04-22-amapiano-star-vigro-deep-takes-over-the-big-apple/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "the 23-year-old star from Atteridgeville, Pretoria, said"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "babalwa-m",
+    "name": "Babalwa M",
+    "monogram": "BM",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "babalwa-m-protea-glen",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Amapiano singer Babalwa M was raised in Protea Glen, part of which township?",
+    "clue": "Johannesburg's famous south-western township.",
+    "hint": "Its name stands for South Western Townships.",
+    "answer": {
+     "city": "Soweto (Protea Glen)",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Protea Glen, Soweto"
+    },
+    "story": "Babalwa M was raised in Protea Glen, Soweto, and sang in church before becoming an amapiano star.",
+    "sources": [
+     {
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-07-17-from-journalism-student-to-sama-history-maker-5-things-to-know-about-babalwa-m/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Raised in Protea Glen, Soweto, Babalwa had never planned to become a recording artist, despite singing in church and at community events growing up."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "boohle",
+    "name": "Boohle",
+    "monogram": "BO",
+    "countryOfOrigin": "ZA",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "boohle-vosloorus",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Amapiano vocalist Boohle's story begins in which township east of Johannesburg?",
+    "clue": "In Ekurhuleni, near Boksburg.",
+    "hint": "It starts with 'Voslo'.",
+    "answer": {
+     "city": "Vosloorus",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Vosloorus, Ekurhuleni"
+    },
+    "story": "Boohle's story begins in Vosloorus, east of Johannesburg, where gospel harmonies shaped her first understanding of music.",
+    "sources": [
+     {
+      "url": "https://www.okayafrica.com/best-female-amapiano-artists-vocalists-in-2025/1413686",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "story begins in Vosloorus, east of Johannesburg, where gospel harmonies and Sunday devotion shaped her first understanding of music"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jazzwrld",
+    "name": "JAZZWRLD",
+    "monogram": "JW",
+    "countryOfOrigin": "LS",
+    "region": "africa",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "jazzwrld-carletonville",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Amapiano",
+    "chapter": "Growing up",
+    "question": "Lesotho-born producer JAZZWRLD grew up in which gold-mining town on South Africa's West Rand?",
+    "clue": "At the western end of the Witwatersrand gold reef.",
+    "hint": "It starts with 'Carleton'.",
+    "answer": {
+     "city": "Carletonville",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Carletonville, Gauteng"
+    },
+    "story": "Lesotho-born, South Africa-raised JAZZWRLD came up in Carletonville, at the western end of the gold reef, and helped make 3-Step the sound of South Africa.",
+    "sources": [
+     {
+      "url": "https://www.okayafrica.com/jazzwrld-and-thukuthela-made-3-step-the-sound-of-now/1431397",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "His path from Lesotho to Carletonville traces a well-worn route for Basotho families before him."
+     },
+     {
+      "url": "https://www.okayafrica.com/jazzwrld-and-thukuthela-made-3-step-the-sound-of-now/1431397",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The Lesotho-born, South Africa-raised JAZZWRLD is one of the most exciting producers right now."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "sha-sha",
+    "name": "Sha Sha",
+    "monogram": "SS",
+    "countryOfOrigin": "ZW",
+    "region": "africa"
+   },
+   "question": {
+    "id": "sha-sha-mutare",
+    "primaryCategory": "music",
+    "subcategory": "amapiano",
+    "questionType": "career_location",
+    "difficulty": "hard",
+    "displayCategory": "Amapiano",
+    "chapter": "Before the breakthrough",
+    "question": "Zimbabwean amapiano singer Sha Sha named a song after the city where her artistic path became clear. Which city?",
+    "clue": "In eastern Zimbabwe, near the Mozambique border.",
+    "hint": "Capital of Manicaland province.",
+    "answer": {
+     "city": "Mutare",
+     "country": "Zimbabwe",
+     "countryCode": "ZW",
+     "geocode": "Mutare"
+    },
+    "story": "Sha Sha lived with her aunt in Mutare, the Zimbabwean city where her artistic path became clear — and later named a song after it.",
+    "sources": [
+     {
+      "url": "https://www.okayafrica.com/sha-sha-interview-recent-projects/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "\"Mutare,\" named from the Zimbabwean city where she lived when her artistic path became clear, is the sharpest look at Sha Sha as an artist on the EP."
+     },
+     {
+      "url": "https://www.okayafrica.com/sha-sha-interview-recent-projects/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "From that point I remember I moved and I stayed with my aunt in Mutare for a while."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "chuck-berry",
+    "name": "Chuck Berry",
+    "monogram": "CB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "chuck-berry-st-louis",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Rock",
+    "chapter": "Growing up",
+    "question": "Rock and roll pioneer Chuck Berry was a native of which Missouri city?",
+    "clue": "On the Mississippi, home of the Gateway Arch.",
+    "hint": "Named after a French king.",
+    "answer": {
+     "city": "St. Louis",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "St. Louis, Missouri"
+    },
+    "story": "The St. Louis native blended country, blues and R&B into a singular guitar style.",
+    "sources": [
+     {
+      "url": "https://library.rockhall.com/chuck_berry",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "The St. Louis native internalized country, blues and R&B influences to create a singular guitar technique."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jimi-hendrix",
+    "name": "Jimi Hendrix",
+    "monogram": "JH",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "jimi-hendrix-seattle",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "easy",
+    "displayCategory": "Rock",
+    "chapter": "Where the story began",
+    "question": "Jimi Hendrix was born in which Pacific Northwest city?",
+    "clue": "Home of the Space Needle.",
+    "hint": "Washington State's largest city.",
+    "answer": {
+     "city": "Seattle",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Seattle, Washington"
+    },
+    "story": "The Seattle-born guitarist paired awe-inspiring tone and feel with songs that balanced experimentation and tradition.",
+    "sources": [
+     {
+      "url": "https://library.rockhall.com/c.php?g=87201",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "The Seattle-born musician always paired awe-inspiring tone and feel with incomparable songs which struck a balance between experimentation and tradition."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "tina-turner",
+    "name": "Tina Turner",
+    "monogram": "TT",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "tina-turner-nutbush",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Rock",
+    "chapter": "Growing up",
+    "question": "Tina Turner's journey began in which small Tennessee community — later the title of one of her hits?",
+    "clue": "A rural community in Haywood County, west Tennessee.",
+    "hint": "Its 'City Limits' became a 1973 song.",
+    "answer": {
+     "city": "Nutbush",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Nutbush, Tennessee"
+    },
+    "story": "Tina Turner's journey began in Nutbush, Tennessee — the place she later celebrated in 'Nutbush City Limits' (1973).",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/music-news/tina-turner-dead-obituary-7318783/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Turner’s journey began in Nutbush, Tenn."
+     },
+     {
+      "url": "https://www.billboard.com/music/music-news/tina-turner-dead-obituary-7318783/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "The pair’s last major hit together was the Tina-penned “Nutbush City Limits” in 1973."
+     }
+    ],
+    "notes": [
+     "Hometown used: sources differ on Brownsville vs Nutbush as her exact birthplace; Nutbush as her childhood home is uncontested."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "ozzy-osbourne",
+    "name": "Ozzy Osbourne",
+    "monogram": "OO",
+    "countryOfOrigin": "GB",
+    "region": "europe"
+   },
+   "question": {
+    "id": "ozzy-osbourne-aston",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Rock",
+    "chapter": "Where the story began",
+    "question": "Black Sabbath's Ozzy Osbourne was born in the Aston area of which English city?",
+    "clue": "England's second-largest city, in the West Midlands.",
+    "hint": "Locals are called 'Brummies'.",
+    "answer": {
+     "city": "Birmingham (Aston)",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Aston, Birmingham"
+    },
+    "story": "John Michael 'Ozzy' Osbourne was born on 3 December 1948 in the Aston area of Birmingham, England.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/rock/ozzy-osbourne-death-black-sabbath-7325247/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "John Michael Osbourne was born on Dec. 3, 1948, in the Aston area of Birmingham, England."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "carlos-santana",
+    "name": "Carlos Santana",
+    "monogram": "CS",
+    "countryOfOrigin": "MX",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "carlos-santana-autlan",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Rock",
+    "chapter": "Where the story began",
+    "question": "Carlos Santana was born in which town in Jalisco, Mexico, that named him its 'Favorite Son'?",
+    "clue": "In western Jalisco, inland from the Pacific coast.",
+    "hint": "Autlán de ___.",
+    "answer": {
+     "city": "Autlán de Navarro",
+     "country": "Mexico",
+     "countryCode": "MX",
+     "geocode": "Autlán de Navarro, Jalisco"
+    },
+    "story": "In 2001 Carlos Santana returned to Autlán, his place of birth, where he received the keys to the city and was named its 'Favorite Son'.",
+    "sources": [
+     {
+      "url": "https://santana.com/news/autlans-favorite-son/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The day started with Carlos & his family traveling back to Autlan, his place of birth, where he was presented the “Keys to the City” and named the “Favorite Son of Autlan”."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "gustavo-cerati",
+    "name": "Gustavo Cerati",
+    "monogram": "GC",
+    "countryOfOrigin": "AR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "gustavo-cerati-buenos-aires",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Rock",
+    "chapter": "Where the story began",
+    "question": "Soda Stereo frontman Gustavo Cerati was born in which South American capital?",
+    "clue": "On the Río de la Plata.",
+    "hint": "Argentina's capital.",
+    "answer": {
+     "city": "Buenos Aires",
+     "country": "Argentina",
+     "countryCode": "AR",
+     "geocode": "Buenos Aires"
+    },
+    "story": "Gustavo Cerati, who led Soda Stereo to international recognition, was born in the City of Buenos Aires on 11 August 1959.",
+    "sources": [
+     {
+      "url": "https://www.argentina.gob.ar/noticias/gustavo-cerati-una-fuerza-natural",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "El 11 de agosto de 1959 nació en la Ciudad de Buenos Aires Gustavo Cerati"
+     },
+     {
+      "url": "https://www.argentina.gob.ar/noticias/cerati-infinito",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Se cumplen 64 del nacimiento del músico argentino Gustavo Cerati, quien consiguió reconocimiento internacional por liderar Soda Stereo"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "rita-lee",
+    "name": "Rita Lee",
+    "monogram": "RL",
+    "countryOfOrigin": "BR",
+    "region": "latin-america"
+   },
+   "question": {
+    "id": "rita-lee-sao-paulo",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Rock",
+    "chapter": "Where the story began",
+    "question": "Rita Lee, the 'Queen of Brazilian Rock', was born in which city?",
+    "clue": "Brazil's largest city.",
+    "hint": "Its name honours Saint Paul.",
+    "answer": {
+     "city": "São Paulo",
+     "country": "Brazil",
+     "countryCode": "BR",
+     "geocode": "São Paulo, São Paulo"
+    },
+    "story": "Rita Lee was born in São Paulo on 31 December 1947, grew up there, and began her career with the band Os Mutantes.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-news/rita-lee-os-mutantes-dead-obituary-1234732216/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Rita Lee Jones was born Dec. 31, 1947 in São Paulo, where she grew up."
+     },
+     {
+      "url": "https://www.billboard.com/music/latin/rita-lee-dead-queen-of-brazilian-rock-dies-1235325256/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Born on December 31, 1947 in São Paulo, Lee began her career with the band Os Mutantes"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "angus-young",
+    "name": "Angus Young",
+    "monogram": "AY",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "angus-young-glasgow",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Rock",
+    "chapter": "Born abroad",
+    "question": "AC/DC guitarist Angus Young was born in which Scottish city?",
+    "clue": "Scotland's largest city, on the River Clyde.",
+    "hint": "Not the capital — the other big one.",
+    "answer": {
+     "city": "Glasgow",
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "geocode": "Glasgow"
+    },
+    "story": "Angus Young, AC/DC's lead guitarist, was born in Glasgow on 31 March 1955.",
+    "sources": [
+     {
+      "url": "https://www.acdc.com/otd-1955-angus-young/",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "OTD 31 Mar. 1955: Angus Young born in Glasgow."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "yoshiki",
+    "name": "Yoshiki",
+    "monogram": "YO",
+    "countryOfOrigin": "JP",
+    "region": "asia"
+   },
+   "question": {
+    "id": "yoshiki-tateyama",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Rock",
+    "chapter": "Growing up",
+    "question": "X Japan founder Yoshiki's hometown is which beach city on Tokyo Bay in Chiba Prefecture?",
+    "clue": "At the southern tip of the Bōsō Peninsula.",
+    "hint": "It starts with 'Tate'.",
+    "answer": {
+     "city": "Tateyama",
+     "country": "Japan",
+     "countryCode": "JP",
+     "geocode": "Tateyama, Chiba"
+    },
+    "story": "X Japan's Yoshiki grew up in Tateyama, Chiba, where his ballad 'Forever Love' plays on the local disaster-prevention radio system.",
+    "sources": [
+     {
+      "url": "https://www.yoshiki.net/news/forever-love-music-video",
+      "role": "primary",
+      "quality": "primary",
+      "quote": "The song is also deeply rooted in YOSHIKI's hometown of Tateyama City, Chiba Prefecture, where it plays on the local disaster-prevention radio system"
+     },
+     {
+      "url": "https://www.rollingstone.com/music/music-news/x-japans-incredible-ride-meet-rocks-most-flamboyant-survivors-58969/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "dates back to their founder’s childhood in the Tokyo Bay beach town of Tateyama, Chiba"
+     }
+    ],
+    "notes": [
+     "Hometown used: sources give only Chiba Prefecture as his birthplace."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "damiano-david",
+    "name": "Damiano David",
+    "monogram": "DD",
+    "countryOfOrigin": "IT",
+    "region": "europe",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "damiano-david-rotterdam",
+    "primaryCategory": "music",
+    "subcategory": "rock",
+    "questionType": "event_location",
+    "difficulty": "medium",
+    "displayCategory": "Rock",
+    "chapter": "The big moment",
+    "question": "Damiano David's band Måneskin won Eurovision 2021 with a rock song in which city?",
+    "clue": "Europe's biggest port, in the Netherlands.",
+    "hint": "The final was held at its Ahoy arena.",
+    "answer": {
+     "city": "Rotterdam",
+     "country": "Netherlands",
+     "countryCode": "NL",
+     "geocode": "Rotterdam"
+    },
+    "story": "Måneskin, fronted by Damiano David, won the 2021 Eurovision Song Contest at the Ahoy in Rotterdam with rock.",
+    "sources": [
+     {
+      "url": "https://www.billboard.com/music/music-news/maneskin-eurovision-winners-interview-9579875/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Italy's Måneskin pose for pictures on stage with the trophy after winning the final of the 65th edition of the Eurovision Song Contest 2021, at the Ahoy convention centre in Rotterdam, on May 22, 2021."
+     },
+     {
+      "url": "https://www.billboard.com/music/music-news/maneskin-eurovision-winners-interview-9579875/",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "We love rock arrangements but also like to match them with Damiano’s melodic, pop-oriented lines, or with hip-hop elements."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "jimmy-cliff",
+    "name": "Jimmy Cliff",
+    "monogram": "JC",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "jimmy-cliff-montego-bay",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "famous_place",
+    "difficulty": "hard",
+    "displayCategory": "Reggae",
+    "chapter": "Honoured at home",
+    "question": "In 2019, which Jamaican city renamed its Gloucester Avenue 'Jimmy Cliff Boulevard'?",
+    "clue": "The capital of St James, Jimmy Cliff's home parish.",
+    "hint": "Jamaica's tourist 'MoBay'.",
+    "answer": {
+     "city": "Montego Bay",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "Montego Bay"
+    },
+    "story": "Born in Somerton, St James, Jimmy Cliff helped carry reggae to the world; in 2019 Montego Bay renamed Gloucester Avenue in his honour.",
+    "sources": [
+     {
+      "url": "https://jis.gov.jm/govt-accords-official-funeral-for-musical-icon-jimmy-cliff/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "In March 2019, he was further honoured when Gloucester Avenue in Montego Bay was renamed Jimmy Cliff Boulevard."
+     },
+     {
+      "url": "https://jis.gov.jm/govt-accords-official-funeral-for-musical-icon-jimmy-cliff/",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Born in Somerton, St. James, on July 30, 1944, Jimmy Cliff rose from modest beginnings to become a central figure in Reggae’s rise to international prominence."
+     }
+    ],
+    "notes": [
+     "Somerton (St James) is not in OpenStreetMap; the documented boulevard in his home parish is used instead."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "toots-hibbert",
+    "name": "Toots Hibbert",
+    "monogram": "TH",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "toots-hibbert-may-pen",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Reggae",
+    "chapter": "Where the story began",
+    "question": "Toots Hibbert of Toots and the Maytals was born in which Jamaican town?",
+    "clue": "Capital of Clarendon parish, west of Kingston.",
+    "hint": "Named after a month and a writing tool.",
+    "answer": {
+     "city": "May Pen",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "May Pen, Clarendon"
+    },
+    "story": "Toots Hibbert was born on 8 December 1942 in May Pen, about 30 miles west of Kingston.",
+    "sources": [
+     {
+      "url": "https://www.rollingstone.com/music/music-news/toots-hibbert-maytals-dead-1053716/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Hibbert was born December 8th, 1942, in May Pen, Jamaica, a town about 30 miles west of Kingston."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "burning-spear",
+    "name": "Burning Spear",
+    "monogram": "BS",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "burning-spear-st-anns-bay",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Reggae",
+    "chapter": "Where the story began",
+    "question": "Roots reggae artist Burning Spear was born in which Jamaican town — also Marcus Garvey's birthplace?",
+    "clue": "On Jamaica's north coast, in St Ann parish.",
+    "hint": "Saint ___'s Bay.",
+    "answer": {
+     "city": "St Ann's Bay",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "St. Ann's Bay, Saint Ann"
+    },
+    "story": "Burning Spear, born Winston Rodney in St Ann's Bay, has devoted his career to Marcus Garvey's legacy — Garvey was born in the same town.",
+    "sources": [
+     {
+      "url": "https://jamaica-gleaner.com/article/entertainment/20250817/burning-spears-marcus-garvey-resounds-50-years-later",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Burning Spear, born Winston Rodney in St Ann’s Bay, has dedicated his career to preserving Marcus Garvey’s legacy through reggae’s roots tradition."
+     },
+     {
+      "url": "https://jamaica-gleaner.com/article/entertainment/20250817/burning-spears-marcus-garvey-resounds-50-years-later",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Garvey was born in St Ann's Bay on August 17, 1887, 138 years ago today."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "marcia-griffiths",
+    "name": "Marcia Griffiths",
+    "monogram": "MG",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "marcia-griffiths-kingston",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "medium",
+    "displayCategory": "Reggae",
+    "chapter": "Where the story began",
+    "question": "Reggae singer Marcia Griffiths was born in which city?",
+    "clue": "Jamaica's capital.",
+    "hint": "Its harbour is one of the world's largest natural harbours.",
+    "answer": {
+     "city": "Kingston",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "Kingston, Jamaica"
+    },
+    "story": "Marcia Griffiths was born in West Kingston and began performing in 1964 with Byron Lee and the Dragonaires.",
+    "sources": [
+     {
+      "url": "https://www.jamaicaobserver.com/2024/11/01/royal-celebration-marcia/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born in West Kingston, Jamaica, Griffiths started her career in 1964 performing on stage with Byron Lee and the Dragonaires"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shaggy",
+    "name": "Shaggy",
+    "monogram": "SH",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "shaggy-brooklyn",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Reggae",
+    "chapter": "Before the breakthrough",
+    "question": "Kingston-born Shaggy first made his name as a deejay on the dancehall circuit of which New York borough?",
+    "clue": "Across the East River from Manhattan.",
+    "hint": "Home of Flatbush and Coney Island.",
+    "answer": {
+     "city": "Brooklyn",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Brooklyn, New York"
+    },
+    "story": "Born in Kingston, Shaggy first made his name as a deejay on the Brooklyn dancehall circuit before 'Boombastic' carried dancehall into the mainstream.",
+    "sources": [
+     {
+      "url": "https://www.grammy.com/news/shaggy-boombastic-brought-dancehall-mainstream-anniversary-interview/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Shaggy initially made his name as a deejay (an emcee who chants or \"toasts\" lyrics in Jamaican patois) on the Brooklyn dancehall circuit."
+     },
+     {
+      "url": "https://jamaica-gleaner.com/article/entertainment/20201022/happy-birthday-shaggy-reggae-artiste-living-his-purpose",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Shaggy, who was born in Kingston, Jamaica, on October 22, 1968"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "beenie-man",
+    "name": "Beenie Man",
+    "monogram": "BM",
+    "countryOfOrigin": "JM",
+    "region": "caribbean"
+   },
+   "question": {
+    "id": "beenie-man-waterhouse",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Reggae",
+    "chapter": "Where the story began",
+    "question": "Dancehall star Beenie Man was born in the musically fertile Waterhouse area of which city?",
+    "clue": "Also home of King Tubby and King Jammy.",
+    "hint": "Jamaica's capital.",
+    "answer": {
+     "city": "Kingston (Waterhouse)",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "Kingston, Jamaica"
+    },
+    "story": "Beenie Man was born in Waterhouse, Kingston — home to dub creator King Tubby, King Jammy and Black Uhuru.",
+    "sources": [
+     {
+      "url": "https://www.grammy.com/news/beenie-man-interview-dancehall-king-visa-status-tour/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Beenie Man was born Moses Davis on Aug. 22, 1973 in the musically fertile Waterhouse area of Kingston, home to the late dub creator King Tubby, digital riddim innovator King Jammy and winners of the inaugural Best Reggae Album GRAMMY, vocal trio Black Uhuru"
+     }
+    ],
+    "notes": [
+     "Waterhouse is not mapped as a place in OpenStreetMap; Kingston's coordinates are used."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "spice",
+    "name": "Spice",
+    "monogram": "SP",
+    "countryOfOrigin": "JM",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "spice-portmore",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Reggae",
+    "chapter": "Growing up",
+    "question": "Dancehall star Spice grew up in Old Braeton, in which Jamaican city?",
+    "clue": "A city across the harbour from Kingston, in St Catherine.",
+    "hint": "It starts with 'Port'.",
+    "answer": {
+     "city": "Portmore",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "Portmore, Saint Catherine"
+    },
+    "story": "Spice grew up in Old Braeton, Portmore, where her mother sold fish at her restaurant by the water.",
+    "sources": [
+     {
+      "url": "https://jamaica-gleaner.com/article/entertainment/20211023/grace-spice-hamilton-flows-spicy-digital-marketing-presentation",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "although she grew up in poverty in Old Braeton in Portmore, her entrepreneurial spirit was ignited by her mother, who used to catch fish and sell it at her restaurant by the water"
+     }
+    ],
+    "notes": [
+     "Hometown used: published birthplaces differ (Spanish Town vs Portmore)."
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "chronixx",
+    "name": "Chronixx",
+    "monogram": "CX",
+    "countryOfOrigin": "JM",
+    "region": "caribbean",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "chronixx-spanish-town",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Reggae",
+    "chapter": "Growing up",
+    "question": "Reggae singer Chronixx is originally from which Jamaican town?",
+    "clue": "Jamaica's former capital, in St Catherine.",
+    "hint": "Named after a European country.",
+    "answer": {
+     "city": "Spanish Town",
+     "country": "Jamaica",
+     "countryCode": "JM",
+     "geocode": "Spanish Town, Jamaica"
+    },
+    "story": "Chronixx, born Jamar McNaughton, is originally from Spanish Town and attended St Catherine High School.",
+    "sources": [
+     {
+      "url": "https://www.jamaicaobserver.com/2024/09/20/chronixx-collaboration-free-nationals-goes-gold-america/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Born Jamar McNaughton, Chronixx is originally from Spanish Town."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "alpha-blondy",
+    "name": "Alpha Blondy",
+    "monogram": "AB",
+    "countryOfOrigin": "CI",
+    "region": "africa"
+   },
+   "question": {
+    "id": "alpha-blondy-dimbokro",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Reggae",
+    "chapter": "Where the story began",
+    "question": "Ivorian reggae star Alpha Blondy was born in which town east of Yamoussoukro?",
+    "clue": "In central Côte d'Ivoire, about 80 km east of the capital.",
+    "hint": "It starts with 'Dimbo'.",
+    "answer": {
+     "city": "Dimbokro",
+     "country": "Côte d'Ivoire",
+     "countryCode": "CI",
+     "geocode": "Dimbokro"
+    },
+    "story": "Alpha Blondy, born Seydou Koné, is a child of Dimbokro, about 80 km east of Yamoussoukro, and was raised by his grandmother.",
+    "sources": [
+     {
+      "url": "https://www.jeuneafrique.com/mag/602995/culture/musique-le-reconciliateur-cote-divoire/",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "l’enfant de Dimbokro (ville située à 80 km à l’est de Yamoussoukro) élevé par sa grand-mère"
+     },
+     {
+      "url": "https://business.abidjan.net/qui/40-musique/16-blondy-alpha",
+      "role": "extra",
+      "quality": "reputable_secondary",
+      "quote": "Alpha Blondy, de son vrai nom Seydou Koné, est né le 1er janvier 1953 à Dimbrokro en Côte"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lucky-dube",
+    "name": "Lucky Dube",
+    "monogram": "LD",
+    "countryOfOrigin": "ZA",
+    "region": "africa"
+   },
+   "question": {
+    "id": "lucky-dube-ermelo",
+    "primaryCategory": "music",
+    "subcategory": "reggae-dancehall",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Reggae",
+    "chapter": "Where the story began",
+    "question": "South African reggae star Lucky Dube was born on a farm near which Mpumalanga town?",
+    "clue": "In the eastern Highveld of Mpumalanga.",
+    "hint": "It starts with 'Erm'.",
+    "answer": {
+     "city": "Ermelo",
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "geocode": "Ermelo, Mpumalanga"
+    },
+    "story": "Lucky Dube was born on a small farm near Ermelo in the eastern Transvaal, now Mpumalanga.",
+    "sources": [
+     {
+      "url": "https://sahistory.org.za/people/lucky-philip-dube",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "Lucky Dube was born on a small farm near Ermelo in the eastern Transvaal (now Mpumalanga)."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "hank-williams",
+    "name": "Hank Williams",
+    "monogram": "HW",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "hank-williams-montgomery",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "career_location",
+    "difficulty": "medium",
+    "displayCategory": "Country",
+    "chapter": "Before the breakthrough",
+    "question": "After the war, Hank Williams became the biggest hillbilly music star in which Alabama city?",
+    "clue": "Alabama's state capital.",
+    "hint": "It starts with 'Mont'.",
+    "answer": {
+     "city": "Montgomery",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Montgomery, Alabama"
+    },
+    "story": "Hank Williams' mother moved the family to Montgomery in 1937; after the war he re-formed the Drifting Cowboys and became the city's biggest hillbilly star.",
+    "sources": [
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/hank-williams",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "In December 1944, he married Audrey Mae Sheppard, and, after the war, he reformed the Drifting Cowboys and became the biggest hillbilly music star in Montgomery."
+     },
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/hank-williams",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "Hank’s mother, Lillie, moved the family to Greenville and then, in 1937, to Montgomery, Alabama."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "patsy-cline",
+    "name": "Patsy Cline",
+    "monogram": "PC",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "patsy-cline-winchester",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "Patsy Cline was born in which Virginia city?",
+    "clue": "In the Shenandoah Valley, famous for apples.",
+    "hint": "It shares its name with an English cathedral city.",
+    "answer": {
+     "city": "Winchester",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Winchester, Virginia"
+    },
+    "story": "Patsy Cline was born Virginia Patterson Hensley in Winchester, Virginia, during the Great Depression.",
+    "sources": [
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/patsy-cline",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born Virginia Patterson Hensley in Winchester, Virginia, during the Great Depression, “Ginny,” as she was known in her youth, demonstrated musical proclivity at an early age"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "loretta-lynn",
+    "name": "Loretta Lynn",
+    "monogram": "LL",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "loretta-lynn-butcher-hollow",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "hometown",
+    "difficulty": "hard",
+    "displayCategory": "Country",
+    "chapter": "Growing up",
+    "question": "'Coal Miner's Daughter' Loretta Lynn grew up in which rural Kentucky coal town?",
+    "clue": "In Johnson County, in Kentucky's eastern coalfields.",
+    "hint": "Locals say 'Holler'.",
+    "answer": {
+     "city": "Butcher Hollow",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Butcher Hollow, Kentucky"
+    },
+    "story": "Loretta Lynn was born in a one-room log cabin; her father was a coal miner in the rural coal town of Butcher Holler, Kentucky.",
+    "sources": [
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/loretta-lynn",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Her father was a coal miner in the rural coal town of Butcher Holler."
+     },
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/loretta-lynn",
+      "role": "extra",
+      "quality": "authoritative",
+      "quote": "She was born Loretta Webb in a one-room log cabin and was the second of eight children."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "willie-nelson",
+    "name": "Willie Nelson",
+    "monogram": "WN",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "willie-nelson-abbott",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "Willie Nelson was born in which small Texas town?",
+    "clue": "In Hill County, between Waco and Dallas.",
+    "hint": "It shares its name with a comedy duo partner.",
+    "answer": {
+     "city": "Abbott",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Abbott, Texas"
+    },
+    "story": "Willie Nelson was born on 29 April 1933 in Abbott, Texas.",
+    "sources": [
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/willie-nelson",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Birthplace: Abbott, Texas"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "charley-pride",
+    "name": "Charley Pride",
+    "monogram": "CP",
+    "countryOfOrigin": "US",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "charley-pride-sledge",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "Charley Pride was born on a cotton farm in which Mississippi town?",
+    "clue": "In the Mississippi Delta, fifty miles south of Memphis.",
+    "hint": "A winter vehicle.",
+    "answer": {
+     "city": "Sledge",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Sledge, Mississippi"
+    },
+    "story": "Charley Pride, son of a sharecropper, was born on a forty-acre cotton farm in Sledge, Mississippi.",
+    "sources": [
+     {
+      "url": "https://www.countrymusichalloffame.org/hall-of-fame/charley-pride",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Raised in the segregated South as the son of a sharecropper, Charley Frank Pride was born on a forty-acre cotton farm in Sledge, Mississippi, fifty miles south of Memphis."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "shania-twain",
+    "name": "Shania Twain",
+    "monogram": "ST",
+    "countryOfOrigin": "CA",
+    "region": "north-america"
+   },
+   "question": {
+    "id": "shania-twain-timmins",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "hometown",
+    "difficulty": "medium",
+    "displayCategory": "Country",
+    "chapter": "Growing up",
+    "question": "Shania Twain grew up in which northern Ontario mining city — her mother's hometown?",
+    "clue": "A gold-mining city in Northeastern Ontario.",
+    "hint": "It starts with 'Tim'.",
+    "answer": {
+     "city": "Timmins",
+     "country": "Canada",
+     "countryCode": "CA",
+     "geocode": "Timmins, Ontario"
+    },
+    "story": "Born in Windsor, Ontario, Shania Twain moved as a child to her mother's hometown of Timmins and later returned there to raise her siblings.",
+    "sources": [
+     {
+      "url": "https://www.canadaswalkoffame.com/inductees/shania-twain/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born Eilleen Regina Edwards in Windsor, Ontario, in 1965, she moved to her mom’s hometown of Timmins as a child after her parents divorced."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "slim-dusty",
+    "name": "Slim Dusty",
+    "monogram": "SD",
+    "countryOfOrigin": "AU",
+    "region": "oceania"
+   },
+   "question": {
+    "id": "slim-dusty-kempsey",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "hard",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "Australian country legend Slim Dusty was born at Nulla Nulla Creek, near which NSW town?",
+    "clue": "On the Macleay River, on the NSW mid-north coast.",
+    "hint": "It starts with 'Kemp'.",
+    "answer": {
+     "city": "Kempsey",
+     "country": "Australia",
+     "countryCode": "AU",
+     "geocode": "Kempsey, NSW 2440"
+    },
+    "story": "Slim Dusty was born at Nulla Nulla Creek, near Kempsey on the NSW mid-north coast, in 1927.",
+    "sources": [
+     {
+      "url": "https://www.abc.net.au/news/2013-06-13/slim-dusty-day-campaign-gathers-momentum/4750932",
+      "role": "primary",
+      "quality": "reputable_secondary",
+      "quote": "in support of the man who was born at Nulla Nulla Creek near Kempsey in 1927."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "chris-stapleton",
+    "name": "Chris Stapleton",
+    "monogram": "CS",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "chris-stapleton-johnson-county",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Country",
+    "chapter": "Growing up",
+    "question": "Chris Stapleton was raised in which rural, mountainous county in eastern Kentucky?",
+    "clue": "Coal country, also home of Loretta Lynn's Butcher Holler.",
+    "hint": "It shares its name with a US president.",
+    "answer": {
+     "city": "Johnson County",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Johnson County, Kentucky"
+    },
+    "story": "Chris Stapleton was born in 1978 and raised in rural, mountainous Johnson County, in eastern Kentucky.",
+    "sources": [
+     {
+      "url": "https://www.countrymusichalloffame.org/press/releases/country-music-hall-of-fame-and-museum-to-open-new-exhibition-chris-stapleton-since-1978-presented-by-ram-trucks",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Stapleton was born April 15, 1978, and raised in rural, mountainous Johnson County, in eastern Kentucky."
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "kacey-musgraves",
+    "name": "Kacey Musgraves",
+    "monogram": "KM",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "kacey-musgraves-golden",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "birthplace",
+    "difficulty": "legend",
+    "displayCategory": "Country",
+    "chapter": "Where the story began",
+    "question": "Kacey Musgraves was born in which tiny East Texas town?",
+    "clue": "In Wood County, East Texas.",
+    "hint": "A precious metal.",
+    "answer": {
+     "city": "Golden",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Golden, Texas"
+    },
+    "story": "Kacey Musgraves was born on 21 August 1988 in Golden, Texas.",
+    "sources": [
+     {
+      "url": "https://www.grammy.com/artists/kacey-musgraves/18025/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Born Kacey Lee Musgraves on Aug. 21, 1988 in Golden, Texas"
+     }
+    ]
+   }
+  },
+  {
+   "entity": {
+    "id": "lainey-wilson",
+    "name": "Lainey Wilson",
+    "monogram": "LW",
+    "countryOfOrigin": "US",
+    "region": "north-america",
+    "tags": [
+     "current"
+    ]
+   },
+   "question": {
+    "id": "lainey-wilson-baskin",
+    "primaryCategory": "music",
+    "subcategory": "country",
+    "questionType": "hometown",
+    "difficulty": "legend",
+    "displayCategory": "Country",
+    "chapter": "Growing up",
+    "question": "Lainey Wilson's hometown is which small farming town in northeastern Louisiana?",
+    "clue": "In Franklin Parish, a town of a few hundred people.",
+    "hint": "It starts with 'Bask'.",
+    "answer": {
+     "city": "Baskin",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Baskin, Louisiana"
+    },
+    "story": "Lainey Wilson's hometown is Baskin, Louisiana; she arrived in Nashville in 2011.",
+    "sources": [
+     {
+      "url": "https://www.grammy.com/news/country-artists-rising-stars-nashville-ten-year-town-walker-hayes-lainey-wilson-hardy-ernest/",
+      "role": "primary",
+      "quality": "authoritative",
+      "quote": "Lainey Wilson Hometown: Baskin, LA"
+     }
+    ]
+   }
+  }
+ ],
+ "memberships": []
+}

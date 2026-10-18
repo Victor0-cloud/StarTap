@@ -115,8 +115,28 @@ test("batch 20 adds only Sports stars in MMA, Gymnastics, Racket Sports and Wint
  }
 });
 
+test("batch 21 adds only Music stars in Amapiano, Rock, Reggae / Dancehall and Country and lifts each to 15+", () => {
+ const APPROVED = ["amapiano", "rock", "reggae-dancehall", "country"];
+ const b21 = allBatches().find(b => b.batch === 21)!;
+ assert.equal(b21.entries.length, 40);
+ assert.deepEqual(b21.memberships ?? [], []);
+ for (const { question } of b21.entries) {
+  assert.equal(question.primaryCategory, "music", question.id);
+  assert.ok(APPROVED.includes(question.subcategory), question.id);
+  assert.equal(question.secondary, undefined, question.id);
+ }
+ const pool = playableQuestions(loadRawContent());
+ for (const sub of APPROVED) {
+  const stars = new Set(pool.filter(q => (q.primaryCategory === "music" && q.subcategory === sub) || (q.secondary ?? []).some(s => s.category === "music" && s.subcategory === sub)).map(q => q.entityId)).size;
+  assert.ok(stars >= 15, `${sub}: ${stars}`);
+ }
+});
+
 test("Music and Sports content is untouched and gained no memberships from batches 16–18", () => {
- assert.equal(sha("../../content/questions/music.json"), "51ffb07fc7b4b244412338cd2ab8466bedaa7202a520d71de2aa8bcc61bb0aed");
+ // Batch 21 appends approved Music records; every Music record that existed before it must stay byte-identical.
+ const musicExpansion = new Set(allBatches().filter(b => b.batch === 21).flatMap(b => b.entries.map(e => e.question.id)));
+ const music = JSON.parse(readFileSync(new URL("../../content/questions/music.json", import.meta.url), "utf8")) as { id: string }[];
+ assert.equal(createHash("sha256").update(JSON.stringify(music.filter(q => !musicExpansion.has(q.id)), null, 1) + "\n").digest("hex"), "51ffb07fc7b4b244412338cd2ab8466bedaa7202a520d71de2aa8bcc61bb0aed");
  // Batches 19–20 append approved Sports records; every Sports record that existed before them must stay byte-identical.
  const sportsExpansion = new Set(allBatches().filter(b => b.batch === 19 || b.batch === 20).flatMap(b => b.entries.map(e => e.question.id)));
  const sports = JSON.parse(readFileSync(new URL("../../content/questions/sports.json", import.meta.url), "utf8")) as { id: string }[];

@@ -12202,5 +12202,490 @@
   "image": {
    "status": "none"
   }
+ },
+ {
+  "id": "kabza-de-small",
+  "name": "Kabza De Small",
+  "monogram": "KS",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kelvin-momo",
+  "name": "Kelvin Momo",
+  "monogram": "KM",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "young-stunna",
+  "name": "Young Stunna",
+  "monogram": "YS",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kamo-mphela",
+  "name": "Kamo Mphela",
+  "monogram": "KM",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "aymos",
+  "name": "Aymos",
+  "monogram": "AY",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "vigro-deep",
+  "name": "Vigro Deep",
+  "monogram": "VD",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "babalwa-m",
+  "name": "Babalwa M",
+  "monogram": "BM",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "boohle",
+  "name": "Boohle",
+  "monogram": "BO",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jazzwrld",
+  "name": "JAZZWRLD",
+  "monogram": "JW",
+  "countryOfOrigin": "LS",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "sha-sha",
+  "name": "Sha Sha",
+  "monogram": "SS",
+  "countryOfOrigin": "ZW",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "chuck-berry",
+  "name": "Chuck Berry",
+  "monogram": "CB",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jimi-hendrix",
+  "name": "Jimi Hendrix",
+  "monogram": "JH",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "tina-turner",
+  "name": "Tina Turner",
+  "monogram": "TT",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ozzy-osbourne",
+  "name": "Ozzy Osbourne",
+  "monogram": "OO",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "carlos-santana",
+  "name": "Carlos Santana",
+  "monogram": "CS",
+  "countryOfOrigin": "MX",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "gustavo-cerati",
+  "name": "Gustavo Cerati",
+  "monogram": "GC",
+  "countryOfOrigin": "AR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "rita-lee",
+  "name": "Rita Lee",
+  "monogram": "RL",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "angus-young",
+  "name": "Angus Young",
+  "monogram": "AY",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "yoshiki",
+  "name": "Yoshiki",
+  "monogram": "YO",
+  "countryOfOrigin": "JP",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "damiano-david",
+  "name": "Damiano David",
+  "monogram": "DD",
+  "countryOfOrigin": "IT",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jimmy-cliff",
+  "name": "Jimmy Cliff",
+  "monogram": "JC",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "toots-hibbert",
+  "name": "Toots Hibbert",
+  "monogram": "TH",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "burning-spear",
+  "name": "Burning Spear",
+  "monogram": "BS",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "marcia-griffiths",
+  "name": "Marcia Griffiths",
+  "monogram": "MG",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "shaggy",
+  "name": "Shaggy",
+  "monogram": "SH",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "beenie-man",
+  "name": "Beenie Man",
+  "monogram": "BM",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "spice",
+  "name": "Spice",
+  "monogram": "SP",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "chronixx",
+  "name": "Chronixx",
+  "monogram": "CX",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "alpha-blondy",
+  "name": "Alpha Blondy",
+  "monogram": "AB",
+  "countryOfOrigin": "CI",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lucky-dube",
+  "name": "Lucky Dube",
+  "monogram": "LD",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "hank-williams",
+  "name": "Hank Williams",
+  "monogram": "HW",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "patsy-cline",
+  "name": "Patsy Cline",
+  "monogram": "PC",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "loretta-lynn",
+  "name": "Loretta Lynn",
+  "monogram": "LL",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "willie-nelson",
+  "name": "Willie Nelson",
+  "monogram": "WN",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "charley-pride",
+  "name": "Charley Pride",
+  "monogram": "CP",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "shania-twain",
+  "name": "Shania Twain",
+  "monogram": "ST",
+  "countryOfOrigin": "CA",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "slim-dusty",
+  "name": "Slim Dusty",
+  "monogram": "SD",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "chris-stapleton",
+  "name": "Chris Stapleton",
+  "monogram": "CS",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kacey-musgraves",
+  "name": "Kacey Musgraves",
+  "monogram": "KM",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lainey-wilson",
+  "name": "Lainey Wilson",
+  "monogram": "LW",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
  }
 ]
