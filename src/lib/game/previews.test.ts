@@ -21,7 +21,7 @@ test("every preview page's button follows the live count exactly (no Play Five b
  }
  const view = readFileSync(new URL("../../components/cinematic/GenrePreview.tsx", import.meta.url), "utf8");
  const list = readFileSync(new URL("../../app/category/[slug]/page.tsx", import.meta.url), "utf8");
- assert.match(view, /\{playable && preview\.subcategory\s*\? <Link[^>]*play\/\?sub=/, "detail page: PLAY FIVE only when playable");
+ assert.match(view, /\{playable && preview\.subcategory\s*\? <GenrePlayAction [^>]*play\/\?sub=/, "detail page: PLAY FIVE (or UNLOCK) only when playable");
  assert.match(list, /\{s\.playable\s*\? <SubPlayAction /, "list row: PLAY FIVE (or UNLOCK) only when playable");
  assert.match(view, /preview\.cinematic && <GenreIntro/, "pages without a clip (sports) never try to play one; a missing intro never blocks gameplay");
 });

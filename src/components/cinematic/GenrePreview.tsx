@@ -6,6 +6,7 @@ import { useState, useSyncExternalStore } from "react";
 import { CinematicPlayer } from "./CinematicPlayer";
 import { markWatched, shouldPlay } from "./watched";
 import { genrePreview, type Cinematic } from "@/lib/game/cinematics";
+import { GenrePlayAction } from "@/components/premium/GenrePlayAction";
 
 const subscribe = () => () => {};
 /** Genre preview screen. Gameplay appears only when the genre has enough verified stars — never padded with placeholder data. */
@@ -25,7 +26,7 @@ export function GenrePreviewView({ previewKey, category, categoryLabel, stars, p
   </header>
   {mounted && preview.cinematic && <GenreIntro cinematic={preview.cinematic} playHref={playable && preview.subcategory ? `/category/${category}/play/?sub=${preview.subcategory}&new=1` : null} />}
   {playable && preview.subcategory
-   ? <Link className="primary-button world-play" href={`/category/${category}/play/?sub=${preview.subcategory}&intro=1`}>PLAY {preview.title.toUpperCase()} FIVE <span aria-hidden="true">→</span></Link>
+   ? <GenrePlayAction category={category} subcategory={preview.subcategory} title={preview.title} href={`/category/${category}/play/?sub=${preview.subcategory}&intro=1`} />
    : <p className="world-soon genre-pending">{stars > 0 ? `${stars} verified ${stars === 1 ? "star" : "stars"} so far — gameplay opens at 5.` : "Gameplay coming soon — verified stars are being added."}</p>}
  </main>;
 }
