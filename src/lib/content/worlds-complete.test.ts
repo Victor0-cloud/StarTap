@@ -98,12 +98,29 @@ test("batch 19 adds only Sports stars in the five approved subcategories and lif
  }
 });
 
+test("batch 20 adds only Sports stars in MMA, Gymnastics, Racket Sports and Winter Sports and lifts each to 15+", () => {
+ const APPROVED = ["mma", "gymnastics", "racket-sports", "winter-sports"];
+ const b20 = allBatches().find(b => b.batch === 20)!;
+ assert.equal(b20.entries.length, 40);
+ assert.deepEqual(b20.memberships ?? [], []);
+ for (const { question } of b20.entries) {
+  assert.equal(question.primaryCategory, "sports", question.id);
+  assert.ok(APPROVED.includes(question.subcategory), question.id);
+  assert.equal(question.secondary, undefined, question.id);
+ }
+ const pool = playableQuestions(loadRawContent());
+ for (const sub of APPROVED) {
+  const stars = new Set(pool.filter(q => (q.primaryCategory === "sports" && q.subcategory === sub) || (q.secondary ?? []).some(s => s.category === "sports" && s.subcategory === sub)).map(q => q.entityId)).size;
+  assert.ok(stars >= 15, `${sub}: ${stars}`);
+ }
+});
+
 test("Music and Sports content is untouched and gained no memberships from batches 16–18", () => {
  assert.equal(sha("../../content/questions/music.json"), "51ffb07fc7b4b244412338cd2ab8466bedaa7202a520d71de2aa8bcc61bb0aed");
- // Batch 19 appends approved Sports records; every Sports record that existed before it must stay byte-identical.
- const batch19 = new Set(allBatches().filter(b => b.batch === 19).flatMap(b => b.entries.map(e => e.question.id)));
+ // Batches 19–20 append approved Sports records; every Sports record that existed before them must stay byte-identical.
+ const sportsExpansion = new Set(allBatches().filter(b => b.batch === 19 || b.batch === 20).flatMap(b => b.entries.map(e => e.question.id)));
  const sports = JSON.parse(readFileSync(new URL("../../content/questions/sports.json", import.meta.url), "utf8")) as { id: string }[];
- assert.equal(createHash("sha256").update(JSON.stringify(sports.filter(q => !batch19.has(q.id)), null, 1) + "\n").digest("hex"), "d355e53af2229bb5411c6a95ccc62e545f120252526da25aa1f7198667b8dcfa");
+ assert.equal(createHash("sha256").update(JSON.stringify(sports.filter(q => !sportsExpansion.has(q.id)), null, 1) + "\n").digest("hex"), "d355e53af2229bb5411c6a95ccc62e545f120252526da25aa1f7198667b8dcfa");
  const recent = allBatches().filter(b => b.batch >= 16 && b.batch <= 18);
  assert.equal(recent.length, 3);
  for (const b of recent) {

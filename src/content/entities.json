@@ -11729,5 +11729,478 @@
   "image": {
    "status": "none"
   }
+ },
+ {
+  "id": "khabib-nurmagomedov",
+  "name": "Khabib Nurmagomedov",
+  "monogram": "KN",
+  "countryOfOrigin": "RU",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "amanda-nunes",
+  "name": "Amanda Nunes",
+  "monogram": "AN",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kamaru-usman",
+  "name": "Kamaru Usman",
+  "monogram": "KU",
+  "countryOfOrigin": "NG",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jon-jones",
+  "name": "Jon Jones",
+  "monogram": "JJ",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "georges-st-pierre",
+  "name": "Georges St-Pierre",
+  "monogram": "GS",
+  "countryOfOrigin": "CA",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "anderson-silva",
+  "name": "Anderson Silva",
+  "monogram": "AS",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ronda-rousey",
+  "name": "Ronda Rousey",
+  "monogram": "RR",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "zhang-weili",
+  "name": "Zhang Weili",
+  "monogram": "ZW",
+  "countryOfOrigin": "CN",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "alexander-volkanovski",
+  "name": "Alexander Volkanovski",
+  "monogram": "AV",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "dricus-du-plessis",
+  "name": "Dricus du Plessis",
+  "monogram": "DP",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "larisa-latynina",
+  "name": "Larisa Latynina",
+  "monogram": "LL",
+  "countryOfOrigin": "UA",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "vera-caslavska",
+  "name": "Věra Čáslavská",
+  "monogram": "VC",
+  "countryOfOrigin": "CZ",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "nastia-liukin",
+  "name": "Nastia Liukin",
+  "monogram": "NL",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "max-whitlock",
+  "name": "Max Whitlock",
+  "monogram": "MW",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "sunisa-lee",
+  "name": "Sunisa Lee",
+  "monogram": "SL",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "daiki-hashimoto",
+  "name": "Daiki Hashimoto",
+  "monogram": "DH",
+  "countryOfOrigin": "JP",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "li-ning",
+  "name": "Li Ning",
+  "monogram": "LN",
+  "countryOfOrigin": "CN",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "dipa-karmakar",
+  "name": "Dipa Karmakar",
+  "monogram": "DK",
+  "countryOfOrigin": "IN",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kaylia-nemour",
+  "name": "Kaylia Nemour",
+  "monogram": "KN",
+  "countryOfOrigin": "DZ",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "arthur-zanetti",
+  "name": "Arthur Zanetti",
+  "monogram": "AZ",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lin-dan",
+  "name": "Lin Dan",
+  "monogram": "LD",
+  "countryOfOrigin": "CN",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lee-chong-wei",
+  "name": "Lee Chong Wei",
+  "monogram": "LC",
+  "countryOfOrigin": "MY",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "taufik-hidayat",
+  "name": "Taufik Hidayat",
+  "monogram": "TH",
+  "countryOfOrigin": "ID",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ma-long",
+  "name": "Ma Long",
+  "monogram": "ML",
+  "countryOfOrigin": "CN",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jan-ove-waldner",
+  "name": "Jan-Ove Waldner",
+  "monogram": "JW",
+  "countryOfOrigin": "SE",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "tai-tzu-ying",
+  "name": "Tai Tzu-ying",
+  "monogram": "TT",
+  "countryOfOrigin": "TW",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "hugo-calderano",
+  "name": "Hugo Calderano",
+  "monogram": "HC",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "nour-el-sherbini",
+  "name": "Nour El Sherbini",
+  "monogram": "NE",
+  "countryOfOrigin": "EG",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jahangir-khan",
+  "name": "Jahangir Khan",
+  "monogram": "JK",
+  "countryOfOrigin": "PK",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ali-farag",
+  "name": "Ali Farag",
+  "monogram": "AF",
+  "countryOfOrigin": "EG",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "mikaela-shiffrin",
+  "name": "Mikaela Shiffrin",
+  "monogram": "MS",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "marcel-hirscher",
+  "name": "Marcel Hirscher",
+  "monogram": "MH",
+  "countryOfOrigin": "AT",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ole-einar-bjorndalen",
+  "name": "Ole Einar Bjørndalen",
+  "monogram": "OB",
+  "countryOfOrigin": "NO",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "eileen-gu",
+  "name": "Eileen Gu",
+  "monogram": "EG",
+  "countryOfOrigin": "CN",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ireen-wust",
+  "name": "Ireen Wüst",
+  "monogram": "IW",
+  "countryOfOrigin": "NL",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "martin-fourcade",
+  "name": "Martin Fourcade",
+  "monogram": "MF",
+  "countryOfOrigin": "FR",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "alberto-tomba",
+  "name": "Alberto Tomba",
+  "monogram": "AT",
+  "countryOfOrigin": "IT",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "torah-bright",
+  "name": "Torah Bright",
+  "monogram": "TB",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kamil-stoch",
+  "name": "Kamil Stoch",
+  "monogram": "KS",
+  "countryOfOrigin": "PL",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lee-sang-hwa",
+  "name": "Lee Sang-hwa",
+  "monogram": "LS",
+  "countryOfOrigin": "KR",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
  }
 ]

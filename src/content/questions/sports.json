@@ -14285,5 +14285,1826 @@
     "Batch 19."
    ]
   }
+ },
+ {
+  "id": "khabib-nurmagomedov-abu-dhabi",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "event_location",
+  "difficulty": "medium",
+  "displayCategory": "MMA",
+  "chapter": "The championship city",
+  "question": "In which city did Khabib Nurmagomedov win his final fight to go 29-0, then announce his retirement?",
+  "clue": "UFC 'Fight Island' was staged here in the Gulf.",
+  "hint": "Capital of the United Arab Emirates.",
+  "answer": {
+   "city": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "countryCode": "AE",
+   "latitude": 24.4538,
+   "longitude": 54.3774,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/4479763"
+  },
+  "story": "Khabib Nurmagomedov won the UFC 254 main event on Fight Island in Abu Dhabi to move to 29-0, then announced his retirement at 32.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/news/ufc-254-khabib-vs-gaethje-live-results-fight-island",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "But his victory in the UFC 254 main event on Fight Island in Abu Dhabi, one which lifted his perfect record to 29-0, was followed by a shocking announcement, as he announced his retirement at the age of 32."
+   }
+  ],
+  "entityId": "khabib-nurmagomedov",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20.",
+    "Event question used: the UFC profile gives only 'Dagestan Republic, Russia' as his place of birth."
+   ]
+  }
+ },
+ {
+  "id": "amanda-nunes-pojuca",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "hometown",
+  "difficulty": "legend",
+  "displayCategory": "MMA",
+  "chapter": "Growing up",
+  "question": "UFC Hall of Famer Amanda Nunes is a native of which town in Bahia, Brazil?",
+  "clue": "Inland from Salvador, in northeastern Brazil.",
+  "hint": "It starts with 'Po'.",
+  "answer": {
+   "city": "Pojuca",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -12.3593,
+   "longitude": -38.2443,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/362140"
+  },
+  "story": "Amanda Nunes is a native of Pojuca, Bahia, Brazil, and began competing in karate, boxing and capoeira at the age of seven.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/news/amanda-nunes-named-ufc-hall-fame-class-2025",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "A native of Pojuca, Bahia, Brazil, Nunes began competing in karate, boxing, and capoeira at the age of seven."
+   }
+  ],
+  "entityId": "amanda-nunes",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "kamaru-usman-auchi",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "MMA",
+  "chapter": "Where the story began",
+  "question": "MMA fighter Kamaru Usman was born in which town in Edo State, Nigeria?",
+  "clue": "In southern Nigeria, north of Benin City.",
+  "hint": "It starts with 'Au'.",
+  "answer": {
+   "city": "Auchi",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 7.0674,
+   "longitude": 6.2677,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/2038026286"
+  },
+  "story": "Kamaru Usman was born in Auchi, Nigeria.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/athlete/kamaru-usman",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Place of Birth: Auchi, Nigeria"
+   }
+  ],
+  "entityId": "kamaru-usman",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "jon-jones-rochester",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "MMA",
+  "chapter": "Where the story began",
+  "question": "Jon Jones was born in which city in upstate New York?",
+  "clue": "On Lake Ontario, once home of Kodak.",
+  "hint": "It shares its name with a Kent cathedral city.",
+  "answer": {
+   "city": "Rochester",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 43.1573,
+   "longitude": -77.6152,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/176069"
+  },
+  "story": "Jon Jones was born in Rochester, New York, and later fought out of Albuquerque by way of Endicott, New York.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/news/jon-jones-career-highlights-title-wins-best-knockouts",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Jones was born in Rochester, NY but fights out of Albuquerque, NM by way of Endicott, NY."
+   }
+  ],
+  "entityId": "jon-jones",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "georges-st-pierre-montreal",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "MMA",
+  "chapter": "Where the story began",
+  "question": "Georges St-Pierre was born in which Canadian city?",
+  "clue": "Quebec's largest city, on an island in the St Lawrence.",
+  "hint": "Host of the 1976 Olympics.",
+  "answer": {
+   "city": "Montreal",
+   "country": "Canada",
+   "countryCode": "CA",
+   "latitude": 45.5032,
+   "longitude": -73.5698,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1634158"
+  },
+  "story": "Georges St-Pierre was born in Montreal, Canada.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/athlete/georges-st-pierre",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Place of Birth: Montreal, Canada"
+   }
+  ],
+  "entityId": "georges-st-pierre",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "anderson-silva-curitiba",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "MMA",
+  "chapter": "Growing up",
+  "question": "Anderson 'The Spider' Silva is from which Brazilian city?",
+  "clue": "Capital of Paraná state, in southern Brazil.",
+  "hint": "Famous for its 'Wire Opera House'.",
+  "answer": {
+   "city": "Curitiba",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -25.4296,
+   "longitude": -49.2713,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/297514"
+  },
+  "story": "The UFC describes Anderson 'The Spider' Silva as a Curitiba, Brazil native.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/news/anderson-silva-steps-fight-cormier",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "“If I was worried, I wouldn’t be here tonight,” the Curitiba, Brazil native said."
+   },
+   {
+    "url": "https://www.ufc.com/news/silva-vs-okami-headlines-ufc-134-brazil",
+    "role": "extra",
+    "quality": "authoritative",
+    "quote": "Live from the HSBC Arena in Rio de Janeiro, Curitiba’s Anderson “The Spider” Silva puts the middleweight title on the line when he meets Japanese star Yushin Okami"
+   }
+  ],
+  "entityId": "anderson-silva",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "ronda-rousey-riverside",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "MMA",
+  "chapter": "Where the story began",
+  "question": "Ronda Rousey was born in which Southern California city?",
+  "clue": "In the Inland Empire, east of Los Angeles.",
+  "hint": "Its name means it sits beside a river.",
+  "answer": {
+   "city": "Riverside",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 33.9825,
+   "longitude": -117.3742,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/11051996"
+  },
+  "story": "Ronda Rousey was born in Riverside, California.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/athlete/ronda-rousey",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Place of Birth: Riverside, United States"
+   }
+  ],
+  "entityId": "ronda-rousey",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "zhang-weili-shenzhen",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "event_location",
+  "difficulty": "hard",
+  "displayCategory": "MMA",
+  "chapter": "The championship city",
+  "question": "In which Chinese city did Zhang Weili win the UFC strawweight title to become China's first UFC champion?",
+  "clue": "A southern tech megacity across the border from Hong Kong.",
+  "hint": "It starts with 'Shen'.",
+  "answer": {
+   "city": "Shenzhen",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 22.5446,
+   "longitude": 114.0545,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3464353"
+  },
+  "story": "On 31 August 2019 Zhang Weili knocked out Jessica Andrade at the Shenzhen Universiade Sports Centre to become China's first UFC champion.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/news/zhang-weili-becomes-chinas-first-champion-breaking-barriers",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Zhang Weili of China celebrates after her knockout victory over Jessica Andrade of Brazil in their UFC strawweight championship bout during the UFC Fight Night event at Shenzhen Universiade Sports Centre on August 31, 2019 in Shenzhen, China."
+   },
+   {
+    "url": "https://www.ufc.com/news/zhang-weili-becomes-chinas-first-champion-breaking-barriers",
+    "role": "extra",
+    "quality": "authoritative",
+    "quote": "Zhang Weili Becomes China's First Champion"
+   }
+  ],
+  "entityId": "zhang-weili",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20.",
+    "Event question used: the UFC profile gives only 'Hebei, China' as her place of birth."
+   ]
+  }
+ },
+ {
+  "id": "alexander-volkanovski-wollongong",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "MMA",
+  "chapter": "Where the story began",
+  "question": "Alexander Volkanovski was born in which coastal city in New South Wales?",
+  "clue": "South of Sydney, in the Illawarra.",
+  "hint": "Its name starts with 'Wollon'.",
+  "answer": {
+   "city": "Wollongong",
+   "country": "Australia",
+   "countryCode": "AU",
+   "latitude": -34.4278,
+   "longitude": 150.8931,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6076763"
+  },
+  "story": "Alexander Volkanovski was born in Wollongong, Australia.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/athlete/alexander-volkanovski",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Place of Birth: Wollongong, Australia"
+   }
+  ],
+  "entityId": "alexander-volkanovski",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "dricus-du-plessis-welkom",
+  "primaryCategory": "sports",
+  "subcategory": "mma",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "MMA",
+  "chapter": "Where the story began",
+  "question": "Dricus du Plessis was born in which gold-mining city in South Africa's Free State?",
+  "clue": "In the Free State goldfields.",
+  "hint": "Afrikaans for 'welcome'.",
+  "answer": {
+   "city": "Welkom",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -27.9823,
+   "longitude": 26.738,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/2269464860"
+  },
+  "story": "Dricus du Plessis was born in Welkom, South Africa.",
+  "sources": [
+   {
+    "url": "https://www.ufc.com/athlete/dricus-du-plessis",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Place of Birth: Welkom, South Africa"
+   }
+  ],
+  "entityId": "dricus-du-plessis",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "larisa-latynina-kherson",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Gymnastics legend Larisa Latynina was born in which Ukrainian city?",
+  "clue": "A port on the Dnipro River, near the Black Sea.",
+  "hint": "It starts with 'Kher'.",
+  "answer": {
+   "city": "Kherson",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "latitude": 46.6401,
+   "longitude": 32.6144,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2175078"
+  },
+  "story": "Larisa Latynina was born in Kherson, Ukraine, on 27 December 1934.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/29198",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 27 December 1934 in Kherson, Kherson (UKR)"
+   }
+  ],
+  "entityId": "larisa-latynina",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "vera-caslavska-prague",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Věra Čáslavská was born in which capital city?",
+  "clue": "On the Vltava River.",
+  "hint": "Czech capital.",
+  "answer": {
+   "city": "Prague",
+   "country": "Czech Republic",
+   "countryCode": "CZ",
+   "latitude": 50.0875,
+   "longitude": 14.4213,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/435514"
+  },
+  "story": "Věra Čáslavská was born in Prague on 3 May 1942.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/29115",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 3 May 1942 in Praha (Prague), Hlavní město Praha (CZE)"
+   }
+  ],
+  "entityId": "vera-caslavska",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "nastia-liukin-moscow",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Gymnastics",
+  "chapter": "Born abroad",
+  "question": "American gymnast Nastia Liukin was born in which European capital?",
+  "clue": "Home of Red Square.",
+  "hint": "Russia's capital.",
+  "answer": {
+   "city": "Moscow",
+   "country": "Russia",
+   "countryCode": "RU",
+   "latitude": 55.6256,
+   "longitude": 37.6064,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/102269"
+  },
+  "story": "Nastia Liukin was born in Moscow on 30 October 1989 and competed for the United States.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/117649",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 30 October 1989 in Moskva (Moscow), Moskva (RUS)"
+   }
+  ],
+  "entityId": "nastia-liukin",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "max-whitlock-hemel-hempstead",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Max Whitlock was born in which Hertfordshire town?",
+  "clue": "A post-war new town northwest of London.",
+  "hint": "Its name has two words beginning 'H'.",
+  "answer": {
+   "city": "Hemel Hempstead",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 51.7512,
+   "longitude": -0.4725,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/20992547"
+  },
+  "story": "British gymnast Max Whitlock was born in Hemel Hempstead on 13 January 1993.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/123039",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 13 January 1993 in Hemel Hempstead, England (GBR)"
+   }
+  ],
+  "entityId": "max-whitlock",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "sunisa-lee-south-st-paul",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Suni Lee was born in which Minnesota city just south of the state capital?",
+  "clue": "On the Mississippi, beside St Paul.",
+  "hint": "Add a compass point to the capital's name.",
+  "answer": {
+   "city": "South St. Paul",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 44.8907,
+   "longitude": -93.0373,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/136562"
+  },
+  "story": "Sunisa 'Suni' Lee was born in South St. Paul, Minnesota, on 9 March 2003.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/147194",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 9 March 2003 in South St. Paul, Minnesota (USA)"
+   }
+  ],
+  "entityId": "sunisa-lee",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "daiki-hashimoto-narita",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Daiki Hashimoto was born in which city in Chiba Prefecture?",
+  "clue": "Home of Tokyo's main international airport.",
+  "hint": "It starts with 'Nari'.",
+  "answer": {
+   "city": "Narita",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.7768,
+   "longitude": 140.3183,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2679917"
+  },
+  "story": "Japanese gymnast Daiki Hashimoto was born in Narita, Chiba, on 7 August 2001.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/144639",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 7 August 2001 in Narita, Chiba (JPN)"
+   }
+  ],
+  "entityId": "daiki-hashimoto",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "li-ning-laibin",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Gymnast Li Ning was born in which city in Guangxi?",
+  "clue": "In southern China's Guangxi region.",
+  "hint": "It starts with 'Lai'.",
+  "answer": {
+   "city": "Laibin",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 23.7533,
+   "longitude": 109.217,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2775865"
+  },
+  "story": "Chinese gymnast Li Ning was born in Laibin, Guangxi, on 10 March 1963.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/29566",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 10 March 1963 in Laibin, Guangxi (CHN)"
+   }
+  ],
+  "entityId": "li-ning",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "dipa-karmakar-agartala",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Dipa Karmakar was born in which city in northeast India?",
+  "clue": "Capital of Tripura, near the Bangladesh border.",
+  "hint": "It starts with 'Agar'.",
+  "answer": {
+   "city": "Agartala",
+   "country": "India",
+   "countryCode": "IN",
+   "latitude": 23.8312,
+   "longitude": 91.2824,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/245717374"
+  },
+  "story": "Indian gymnast Dipa Karmakar was born in Agartala, Tripura, on 9 August 1993.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/130552",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 9 August 1993 in Agartala, Tripura (IND)"
+   }
+  ],
+  "entityId": "dipa-karmakar",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "kaylia-nemour-paris",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Gymnastics",
+  "chapter": "Born abroad",
+  "question": "Algerian gymnast Kaylia Nemour was born in which European capital?",
+  "clue": "Host of the 2024 Summer Olympics.",
+  "hint": "France's capital.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8535,
+   "longitude": 2.3484,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/71525"
+  },
+  "story": "Kaylia Nemour was born in Paris on 30 December 2006 and competes for Algeria.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/152536",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 30 December 2006 in Paris, Paris (FRA)"
+   }
+  ],
+  "entityId": "kaylia-nemour",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "arthur-zanetti-sao-caetano-do-sul",
+  "primaryCategory": "sports",
+  "subcategory": "gymnastics",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Gymnastics",
+  "chapter": "Where the story began",
+  "question": "Rings specialist Arthur Zanetti was born in which city in Greater São Paulo?",
+  "clue": "A small city in the ABC region of São Paulo state.",
+  "hint": "'São Caetano' plus 'of the South'.",
+  "answer": {
+   "city": "São Caetano do Sul",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -23.6196,
+   "longitude": -46.5688,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5683273"
+  },
+  "story": "Brazilian gymnast Arthur Zanetti was born in São Caetano do Sul, São Paulo, on 16 April 1990.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/122272",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 16 April 1990 in São Caetano do Sul, São Paulo (BRA)"
+   }
+  ],
+  "entityId": "arthur-zanetti",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "lin-dan-shanghang",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Badminton",
+  "chapter": "Where the story began",
+  "question": "Badminton great Lin Dan was born in which county in Fujian province?",
+  "clue": "In western Fujian, part of Longyan.",
+  "hint": "It starts with 'Shang'.",
+  "answer": {
+   "city": "Shanghang County",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 25.1211,
+   "longitude": 116.5893,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3144719"
+  },
+  "story": "Lin Dan was born in Shanghang County, Fujian, on 14 October 1983.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/105835",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 14 October 1983 in Shanghang County, Fujian (CHN)"
+   }
+  ],
+  "entityId": "lin-dan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "lee-chong-wei-bagan-serai",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Badminton",
+  "chapter": "Where the story began",
+  "question": "Lee Chong Wei was born in which town in Perak, Malaysia?",
+  "clue": "In the Kerian district of northern Perak.",
+  "hint": "'Bagan' plus a word for 'lemongrass'.",
+  "answer": {
+   "city": "Bagan Serai",
+   "country": "Malaysia",
+   "countryCode": "MY",
+   "latitude": 5.0122,
+   "longitude": 100.5336,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/18220554"
+  },
+  "story": "Malaysian badminton star Lee Chong Wei was born in Bagan Serai, Perak, on 21 October 1982.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/105855",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 21 October 1982 in Bagan Serai, Perak (MAS)"
+   }
+  ],
+  "entityId": "lee-chong-wei",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "taufik-hidayat-bandung",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Badminton",
+  "chapter": "Where the story began",
+  "question": "Taufik Hidayat was born in which Indonesian city?",
+  "clue": "Capital of West Java, in the highlands.",
+  "hint": "It starts with 'Band'.",
+  "answer": {
+   "city": "Bandung",
+   "country": "Indonesia",
+   "countryCode": "ID",
+   "latitude": -6.9218,
+   "longitude": 107.6071,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/13290062"
+  },
+  "story": "Indonesian badminton player Taufik Hidayat was born in Bandung, West Java, on 10 August 1981.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/82734",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 10 August 1981 in Bandung, Jawa Barat (INA)"
+   }
+  ],
+  "entityId": "taufik-hidayat",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "ma-long-anshan",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Table tennis",
+  "chapter": "Where the story began",
+  "question": "Table tennis star Ma Long was born in which city in Liaoning?",
+  "clue": "A steel city in northeast China.",
+  "hint": "It starts with 'An'.",
+  "answer": {
+   "city": "Anshan",
+   "country": "China",
+   "countryCode": "CN",
+   "latitude": 40.8222,
+   "longitude": 122.8275,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2769683"
+  },
+  "story": "Ma Long was born in Anshan, Liaoning, on 20 October 1988.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/121929",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 20 October 1988 in Anshan, Liaoning (CHN)"
+   }
+  ],
+  "entityId": "ma-long",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "jan-ove-waldner-stockholm",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Table tennis",
+  "chapter": "Where the story began",
+  "question": "Table tennis legend Jan-Ove Waldner was born in which Scandinavian capital?",
+  "clue": "Built across 14 islands.",
+  "hint": "Sweden's capital.",
+  "answer": {
+   "city": "Stockholm",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "latitude": 59.3251,
+   "longitude": 18.0711,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/25929985"
+  },
+  "story": "Jan-Ove Waldner was born in Stockholm on 3 October 1965.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/2637",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 3 October 1965 in Stockholm, Stockholm (SWE)"
+   }
+  ],
+  "entityId": "jan-ove-waldner",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "tai-tzu-ying-kaohsiung",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Badminton",
+  "chapter": "Where the story began",
+  "question": "Tai Tzu-ying was born in which port city in southern Taiwan?",
+  "clue": "Taiwan's largest port.",
+  "hint": "It starts with 'Kaoh'.",
+  "answer": {
+   "city": "Kaohsiung",
+   "country": "Taiwan",
+   "countryCode": "TW",
+   "latitude": 22.6203,
+   "longitude": 120.312,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2127079"
+  },
+  "story": "Badminton player Tai Tzu-ying was born in Kaohsiung City on 20 June 1994.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/125109",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 20 June 1994 in Kaohsiung City, Kaohsiung (TPE)"
+   }
+  ],
+  "entityId": "tai-tzu-ying",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "hugo-calderano-rio-de-janeiro",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Table tennis",
+  "chapter": "Where the story began",
+  "question": "Brazilian table tennis star Hugo Calderano was born in which city?",
+  "clue": "Home of Christ the Redeemer.",
+  "hint": "Brazil's former capital.",
+  "answer": {
+   "city": "Rio de Janeiro",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -22.911,
+   "longitude": -43.2094,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2697338"
+  },
+  "story": "Hugo Calderano was born in Rio de Janeiro on 22 June 1996.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/132927",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 22 June 1996 in Rio de Janeiro, Rio de Janeiro (BRA)"
+   }
+  ],
+  "entityId": "hugo-calderano",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "nour-el-sherbini-kuala-lumpur",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "event_location",
+  "difficulty": "hard",
+  "displayCategory": "Squash",
+  "chapter": "The championship city",
+  "question": "In which city did Nour El Sherbini become the youngest ever women's squash world champion?",
+  "clue": "A Southeast Asian capital famous for twin towers.",
+  "hint": "Malaysia's capital.",
+  "answer": {
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "countryCode": "MY",
+   "latitude": 3.1517,
+   "longitude": 101.6942,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2939672"
+  },
+  "story": "In the 2016 final in Kuala Lumpur, Nour El Sherbini came back from two games down to become the youngest ever women's world champion, at 20.",
+  "sources": [
+   {
+    "url": "https://psaworldtour.com/news/view/4648/psa-women-s-world-championship-tournament-history",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "But El Sherbini got her revenge in last year’s final in Kuala Lumpur as she battled back from two games down to become the youngest ever Women’s World Champion at the age of 20"
+   },
+   {
+    "url": "https://www.squashinfo.com/events/6191-womens-world-championship-2016",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "$185,000 Women's Naza PSA World Championship 2016, Bukit Jalil National Squash Centre, Kuala Lumpur, Malaysia"
+   }
+  ],
+  "entityId": "nour-el-sherbini",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "jahangir-khan-karachi",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Squash",
+  "chapter": "Where the story began",
+  "question": "Squash legend Jahangir Khan was born in which Pakistani city?",
+  "clue": "Pakistan's largest city, on the Arabian Sea.",
+  "hint": "Sindh's capital.",
+  "answer": {
+   "city": "Karachi",
+   "country": "Pakistan",
+   "countryCode": "PK",
+   "latitude": 24.8547,
+   "longitude": 67.0207,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6080948"
+  },
+  "story": "Jahangir Khan was born in Karachi in 1963 into a family of squash champions.",
+  "sources": [
+   {
+    "url": "https://www.dawn.com/news/1055297",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in Karachi in 1963 in a family of squash champions"
+   }
+  ],
+  "entityId": "jahangir-khan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20.",
+    "Dawn blocks scripted fetches; the quote was copied via a web fetch of the page."
+   ]
+  }
+ },
+ {
+  "id": "ali-farag-chicago",
+  "primaryCategory": "sports",
+  "subcategory": "racket-sports",
+  "questionType": "event_location",
+  "difficulty": "hard",
+  "displayCategory": "Squash",
+  "chapter": "The championship city",
+  "question": "In which American city was Ali Farag first crowned squash world champion, at its grand railway station?",
+  "clue": "The Windy City.",
+  "hint": "Its Union Station hosted the 2018-19 Worlds.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.8756,
+   "longitude": -87.6244,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/122604"
+  },
+  "story": "Ali Farag was crowned world champion at the 2018-19 PSA World Championships in Chicago's Union Station, the day after reaching world No. 1.",
+  "sources": [
+   {
+    "url": "https://gocrimson.com/news/2019/3/12/3_12_2019_7550",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Farag, the next day, was crowned a world champion in the 2018-19 PSA World Championships in Chicago's Union Station."
+   }
+  ],
+  "entityId": "ali-farag",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "mikaela-shiffrin-vail",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Alpine skiing",
+  "chapter": "Where the story began",
+  "question": "Mikaela Shiffrin was born in which Colorado ski town?",
+  "clue": "A Rocky Mountain resort off Interstate 70.",
+  "hint": "A four-letter name.",
+  "answer": {
+   "city": "Vail",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.6438,
+   "longitude": -106.3888,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/17935944"
+  },
+  "story": "Alpine skier Mikaela Shiffrin was born in Vail, Colorado, on 13 March 1995.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/128669",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 13 March 1995 in Vail, Colorado (USA)"
+   }
+  ],
+  "entityId": "mikaela-shiffrin",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "marcel-hirscher-hallein",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Alpine skiing",
+  "chapter": "Where the story began",
+  "question": "Marcel Hirscher was born in which town in the Austrian state of Salzburg?",
+  "clue": "On the Salzach, known for its salt mine.",
+  "hint": "It starts with 'Hall'.",
+  "answer": {
+   "city": "Hallein",
+   "country": "Austria",
+   "countryCode": "AT",
+   "latitude": 47.6822,
+   "longitude": 13.0956,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/86343"
+  },
+  "story": "Alpine skier Marcel Hirscher was born in Hallein, Salzburg, on 2 March 1989.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/118416",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 2 March 1989 in Hallein, Salzburg (AUT)"
+   }
+  ],
+  "entityId": "marcel-hirscher",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "ole-einar-bjorndalen-drammen",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Biathlon",
+  "chapter": "Where the story began",
+  "question": "Biathlon great Ole Einar Bjørndalen was born in which Norwegian city?",
+  "clue": "On a river mouth southwest of Oslo.",
+  "hint": "It starts with 'Dram'.",
+  "answer": {
+   "city": "Drammen",
+   "country": "Norway",
+   "countryCode": "NO",
+   "latitude": 59.6965,
+   "longitude": 10.1756,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/10483726"
+  },
+  "story": "Ole Einar Bjørndalen was born in Drammen, Norway, on 27 January 1974.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/84154",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 27 January 1974 in Drammen, Viken (NOR)"
+   }
+  ],
+  "entityId": "ole-einar-bjorndalen",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "eileen-gu-san-francisco",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Freestyle skiing",
+  "chapter": "Born abroad",
+  "question": "Freestyle skier Eileen Gu, who competes for China, was born in which US city?",
+  "clue": "Home of the Golden Gate Bridge.",
+  "hint": "It is named after Saint Francis.",
+  "answer": {
+   "city": "San Francisco",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.7879,
+   "longitude": -122.4075,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/111968"
+  },
+  "story": "Eileen Gu was born in San Francisco, California, on 3 September 2003 and competes for China.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/139214",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 3 September 2003 in San Francisco, California (USA)"
+   }
+  ],
+  "entityId": "eileen-gu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "ireen-wust-goirle",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Speed skating",
+  "chapter": "Where the story began",
+  "question": "Speed skater Ireen Wüst was born in which village in North Brabant?",
+  "clue": "Just south of Tilburg, near the Belgian border.",
+  "hint": "It starts with 'Goir'.",
+  "answer": {
+   "city": "Goirle",
+   "country": "Netherlands",
+   "countryCode": "NL",
+   "latitude": 51.5056,
+   "longitude": 5.0338,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/299322"
+  },
+  "story": "Dutch speed skater Ireen Wüst was born in Goirle, North Brabant, on 1 April 1986.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/109767",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 1 April 1986 in Goirle, Noord-Brabant (NED)"
+   }
+  ],
+  "entityId": "ireen-wust",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "martin-fourcade-ceret",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Biathlon",
+  "chapter": "Where the story began",
+  "question": "Biathlete Martin Fourcade was born in which town in French Catalonia?",
+  "clue": "In the Pyrénées-Orientales, near the Spanish border.",
+  "hint": "A cherry town whose name starts with 'C'.",
+  "answer": {
+   "city": "Céret",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 42.4857,
+   "longitude": 2.7487,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/23266"
+  },
+  "story": "French biathlete Martin Fourcade was born in Céret, Pyrénées-Orientales, on 14 September 1988.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/118554",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 14 September 1988 in Céret, Pyrénées-Orientales (FRA)"
+   }
+  ],
+  "entityId": "martin-fourcade",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "alberto-tomba-bologna",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Alpine skiing",
+  "chapter": "Where the story began",
+  "question": "Alpine skier Alberto Tomba was born in which Italian city?",
+  "clue": "Capital of Emilia-Romagna, famous for its porticoes.",
+  "hint": "Home of a famous meat sauce.",
+  "answer": {
+   "city": "Bologna",
+   "country": "Italy",
+   "countryCode": "IT",
+   "latitude": 44.4938,
+   "longitude": 11.3426,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/43172"
+  },
+  "story": "Alpine skier Alberto Tomba was born in Bologna on 19 December 1966.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/98310",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 19 December 1966 in Bologna, Bologna (ITA)"
+   }
+  ],
+  "entityId": "alberto-tomba",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "torah-bright-cooma",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Snowboarding",
+  "chapter": "Where the story began",
+  "question": "Snowboarder Torah Bright was born in which town in the Snowy Mountains region?",
+  "clue": "A New South Wales gateway town to the Snowy Mountains.",
+  "hint": "It starts with 'Coo'.",
+  "answer": {
+   "city": "Cooma",
+   "country": "Australia",
+   "countryCode": "AU",
+   "latitude": -36.2359,
+   "longitude": 149.1263,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6064117"
+  },
+  "story": "Australian snowboarder Torah Bright was born in Cooma, New South Wales, on 27 December 1986.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/109992",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 27 December 1986 in Cooma, New South Wales (AUS)"
+   }
+  ],
+  "entityId": "torah-bright",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "kamil-stoch-zakopane",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Ski jumping",
+  "chapter": "Where the story began",
+  "question": "Ski jumper Kamil Stoch was born in which Polish mountain town?",
+  "clue": "Poland's winter capital, at the foot of the Tatras.",
+  "hint": "It starts with 'Zako'.",
+  "answer": {
+   "city": "Zakopane",
+   "country": "Poland",
+   "countryCode": "PL",
+   "latitude": 49.2758,
+   "longitude": 19.9693,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2838555"
+  },
+  "story": "Polish ski jumper Kamil Stoch was born in Zakopane on 25 May 1987.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/109725",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 25 May 1987 in Zakopane, Małopolskie (POL)"
+   }
+  ],
+  "entityId": "kamil-stoch",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
+ },
+ {
+  "id": "lee-sang-hwa-seoul",
+  "primaryCategory": "sports",
+  "subcategory": "winter-sports",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Speed skating",
+  "chapter": "Where the story began",
+  "question": "Speed skater Lee Sang-hwa was born in which capital city?",
+  "clue": "On the Han River.",
+  "hint": "South Korea's capital.",
+  "answer": {
+   "city": "Seoul",
+   "country": "South Korea",
+   "countryCode": "KR",
+   "latitude": 37.5667,
+   "longitude": 126.9783,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2297418"
+  },
+  "story": "South Korean speed skater Lee Sang-hwa was born in Seoul on 25 February 1989.",
+  "sources": [
+   {
+    "url": "https://www.olympedia.org/athletes/110124",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born 25 February 1989 in Seoul, Seoul (KOR)"
+   }
+  ],
+  "entityId": "lee-sang-hwa",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 20."
+   ]
+  }
  }
 ]
