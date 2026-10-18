@@ -132,10 +132,27 @@ test("batch 21 adds only Music stars in Amapiano, Rock, Reggae / Dancehall and C
  }
 });
 
+test("batch 22 adds only Music stars in Electronic / DJ, Global Icons, African Legends and 80s/90s Soul Legends and lifts each to 15+", () => {
+ const APPROVED = ["electronic", "global-icons", "african-legends", "soul-legends-80s-90s"];
+ const b22 = allBatches().find(b => b.batch === 22)!;
+ assert.equal(b22.entries.length, 39);
+ assert.deepEqual(b22.memberships ?? [], []);
+ for (const { question } of b22.entries) {
+  assert.equal(question.primaryCategory, "music", question.id);
+  assert.ok(APPROVED.includes(question.subcategory), question.id);
+  assert.equal(question.secondary, undefined, question.id);
+ }
+ const pool = playableQuestions(loadRawContent());
+ for (const sub of APPROVED) {
+  const stars = new Set(pool.filter(q => (q.primaryCategory === "music" && q.subcategory === sub) || (q.secondary ?? []).some(s => s.category === "music" && s.subcategory === sub)).map(q => q.entityId)).size;
+  assert.ok(stars >= 15, `${sub}: ${stars}`);
+ }
+});
+
 test("Music and Sports content is untouched and gained no memberships from batches 16–18", () => {
- // Batch 21 appends approved Music records; every Music record that existed before it must stay byte-identical,
+ // Batches 21–22 append approved Music records; every Music record that existed before them must stay byte-identical,
  // apart from the 18 Oct 2026 source cleanup of freddie-mercury-global (wording Stone Town → Zanzibar).
- const musicExpansion = new Set(allBatches().filter(b => b.batch === 21).flatMap(b => b.entries.map(e => e.question.id)));
+ const musicExpansion = new Set(allBatches().filter(b => b.batch === 21 || b.batch === 22).flatMap(b => b.entries.map(e => e.question.id)));
  const music = JSON.parse(readFileSync(new URL("../../content/questions/music.json", import.meta.url), "utf8")) as { id: string }[];
  assert.equal(createHash("sha256").update(JSON.stringify(music.filter(q => !musicExpansion.has(q.id)), null, 1) + "\n").digest("hex"), "dee125cfa62d07ccf0a90ea899d16a0be288add4a36ffb1ee8f7c6c7c1e5c94e");
  // Batches 19–20 append approved Sports records; every Sports record that existed before them must stay byte-identical.

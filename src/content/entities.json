@@ -12687,5 +12687,452 @@
   "image": {
    "status": "none"
   }
+ },
+ {
+  "id": "ralf-hutter",
+  "name": "Ralf Hütter",
+  "monogram": "RH",
+  "countryOfOrigin": "DE",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ryuichi-sakamoto",
+  "name": "Ryuichi Sakamoto",
+  "monogram": "RS",
+  "countryOfOrigin": "JP",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "frankie-knuckles",
+  "name": "Frankie Knuckles",
+  "monogram": "FK",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "honey-dijon",
+  "name": "Honey Dijon",
+  "monogram": "HD",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "david-guetta",
+  "name": "David Guetta",
+  "monogram": "DG",
+  "countryOfOrigin": "FR",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "calvin-harris",
+  "name": "Calvin Harris",
+  "monogram": "CH",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "avicii",
+  "name": "Avicii",
+  "monogram": "AV",
+  "countryOfOrigin": "SE",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "tiesto",
+  "name": "Tiësto",
+  "monogram": "TI",
+  "countryOfOrigin": "NL",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kygo",
+  "name": "Kygo",
+  "monogram": "KY",
+  "countryOfOrigin": "NO",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "nina-kraviz",
+  "name": "Nina Kraviz",
+  "monogram": "NK",
+  "countryOfOrigin": "RU",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "umm-kulthum",
+  "name": "Umm Kulthum",
+  "monogram": "UM",
+  "countryOfOrigin": "EG",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "khaled",
+  "name": "Khaled",
+  "monogram": "KH",
+  "countryOfOrigin": "DZ",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "googoosh",
+  "name": "Googoosh",
+  "monogram": "GO",
+  "countryOfOrigin": "IR",
+  "region": "middle-east",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "sezen-aksu",
+  "name": "Sezen Aksu",
+  "monogram": "SA",
+  "countryOfOrigin": "TR",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "teresa-teng",
+  "name": "Teresa Teng",
+  "monogram": "TT",
+  "countryOfOrigin": "TW",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kyu-sakamoto",
+  "name": "Kyu Sakamoto",
+  "monogram": "KS",
+  "countryOfOrigin": "JP",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "celia-cruz",
+  "name": "Celia Cruz",
+  "monogram": "CC",
+  "countryOfOrigin": "CU",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "mercedes-sosa",
+  "name": "Mercedes Sosa",
+  "monogram": "MS",
+  "countryOfOrigin": "AR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "caetano-veloso",
+  "name": "Caetano Veloso",
+  "monogram": "CV",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "edith-piaf",
+  "name": "Édith Piaf",
+  "monogram": "EP",
+  "countryOfOrigin": "FR",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "hugh-masekela",
+  "name": "Hugh Masekela",
+  "monogram": "HM",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "brenda-fassie",
+  "name": "Brenda Fassie",
+  "monogram": "BF",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "franco-luambo",
+  "name": "Franco Luambo",
+  "monogram": "FL",
+  "countryOfOrigin": "CD",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "mbilia-bel",
+  "name": "Mbilia Bel",
+  "monogram": "MB",
+  "countryOfOrigin": "CD",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "salif-keita",
+  "name": "Salif Keita",
+  "monogram": "SK",
+  "countryOfOrigin": "ML",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "manu-dibango",
+  "name": "Manu Dibango",
+  "monogram": "MD",
+  "countryOfOrigin": "CM",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "oliver-mtukudzi",
+  "name": "Oliver Mtukudzi",
+  "monogram": "OM",
+  "countryOfOrigin": "ZW",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "mulatu-astatke",
+  "name": "Mulatu Astatke",
+  "monogram": "MA",
+  "countryOfOrigin": "ET",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "e-t-mensah",
+  "name": "E.T. Mensah",
+  "monogram": "EM",
+  "countryOfOrigin": "GH",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "luther-vandross",
+  "name": "Luther Vandross",
+  "monogram": "LV",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "chaka-khan",
+  "name": "Chaka Khan",
+  "monogram": "CK",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "patti-labelle",
+  "name": "Patti LaBelle",
+  "monogram": "PL",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "babyface",
+  "name": "Babyface",
+  "monogram": "BA",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "toni-braxton",
+  "name": "Toni Braxton",
+  "monogram": "TB",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "d-angelo",
+  "name": "D'Angelo",
+  "monogram": "DA",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "maxwell",
+  "name": "Maxwell",
+  "monogram": "MX",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lauryn-hill",
+  "name": "Lauryn Hill",
+  "monogram": "LH",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "sade",
+  "name": "Sade",
+  "monogram": "SD",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lisa-stansfield",
+  "name": "Lisa Stansfield",
+  "monogram": "LS",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
  }
 ]
