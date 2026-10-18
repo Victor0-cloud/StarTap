@@ -47,7 +47,8 @@ test("every way into a game plays an intro first, then a brand-new five (genre, 
  const page = src("../../app/category/[slug]/page.tsx"), view = src("../../components/cinematic/GenrePreview.tsx"), map = src("../../components/adventure/AdventureMap.tsx"), play = src("../../components/worlds/CategoryPlay.tsx");
  assert.match(page, /const genreTap = \(category: string, sub: string, playable: boolean\) => playable \? `\/category\/\$\{category\}\/play\/\?sub=\$\{sub\}&intro=1` : null;/);
  assert.match(page, /className="sub-name" href=\{category\.key === "music" && tap \? tap : /, "Music genre name → intro → game; a sport name → its hero page");
- assert.match(page, /className="sub-play" href=\{tap \?\? /, "PLAY FIVE");
+ assert.match(page, /<SubPlayAction [^>]*href=\{tap \?\? /, "PLAY FIVE (row action; the website shows UNLOCK on a locked Premium sport, same link)");
+ for (const action of [src("../../components/premium/SubPlayAction.tsx"), src("../../components/premium/SubPlayAction.web.tsx")]) assert.match(action, /className="sub-play[^"]*" href=\{href\}/, "row action keeps the row link");
  assert.match(page, /<Link className="intro-replay" href=\{tap\}/, "▶ INTRO on a genre row → intro → game");
  assert.match(page, /className="soul-legends-card" href=\{genreTap\("music"/, "Soul Legends card");
  assert.match(page, /play\/\?intro=1`\}>PLAY \{category\.label\.toUpperCase\(\)\} FIVE/, "PLAY MUSIC / SPORTS FIVE");
