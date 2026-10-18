@@ -46,7 +46,7 @@ Portraits: the existing five credited photos remain; the other stars use monogra
 - **Charlize Theron** — Which South African town is Charlize Theron's birthplace? Answer: Benoni, South Africa. [Source](https://www.biography.com/actors/charlize-theron).
 - **Trevor Noah** — Which South African city shaped Trevor Noah's childhood? Answer: Johannesburg, South Africa. [Source](https://www.biography.com/movies-tv/trevor-noah-childhood-apartheid).
 - **Dua Lipa** — To which city did Dua Lipa return at fifteen to pursue music? Answer: London, United Kingdom. [Source](https://www.biography.com/musicians/dua-lipa).
-- **Freddie Mercury** — Which city on Zanzibar was Freddie Mercury born in? Answer: Stone Town, Zanzibar City, Tanzania. [Source](https://freddiemercury.com/bio/).
+- **Freddie Mercury** — On which East African island was Freddie Mercury born? Answer: Zanzibar, Tanzania. [Source](https://freddiemercury.com/bio/).
   [Additional source](https://freddiemercurymuseum.com/the-museum/).
 - **Bob Marley** — In which Jamaican village was Bob Marley born? Answer: Nine Mile, Jamaica. [Source](https://www.bobmarley.com/history/).
 - **Björk** — Which northern capital is Björk's birthplace? Answer: Reykjavík, Iceland. [Source](https://www.biography.com/musicians/bjork).

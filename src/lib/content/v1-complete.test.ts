@@ -63,9 +63,10 @@ test("Today's Five and every legacy edition render exactly as before the V1 expa
  const frozen: Record<string, [string, string]> = {
   "origins-v1": ["ad8552e6a8db1d9f26d22524cbae8bbf", "41b8402ed1ff16d5e708e7e66c88c604"],
   "stories-v2": ["d48ea0224ea2b71af823da483c101812", "9bef2120f393a2adb90a6ba852938f31"],
-  "global-v3": ["825e9c7a1ae942feed0e502ea6c894d9", "ac8c243915afee6c395e4ccb4b89032c"],
-  "global-v4": ["79ae69ab3861c94deca587a36e78df17", "421aa1d2f9a611085ef3d1df720a4a03"],
-  "global-v5": ["79ae69ab3861c94deca587a36e78df17", "421aa1d2f9a611085ef3d1df720a4a03"],
+  // 18 Oct 2026: question text of freddie-mercury-global corrected (Stone Town → Zanzibar, source cleanup). Daily rotation hashes unchanged.
+  "global-v3": ["56e253c73209db334b246a602b2124f7", "ac8c243915afee6c395e4ccb4b89032c"],
+  "global-v4": ["84fd763f8130eb52492b71a0e90a35b9", "421aa1d2f9a611085ef3d1df720a4a03"],
+  "global-v5": ["84fd763f8130eb52492b71a0e90a35b9", "421aa1d2f9a611085ef3d1df720a4a03"],
  };
  assert.deepEqual(Object.keys(raw.editions.editions).sort(), Object.keys(frozen).sort());
  for (const [edition, [all, daily]] of Object.entries(frozen)) {

@@ -133,10 +133,11 @@ test("batch 21 adds only Music stars in Amapiano, Rock, Reggae / Dancehall and C
 });
 
 test("Music and Sports content is untouched and gained no memberships from batches 16–18", () => {
- // Batch 21 appends approved Music records; every Music record that existed before it must stay byte-identical.
+ // Batch 21 appends approved Music records; every Music record that existed before it must stay byte-identical,
+ // apart from the 18 Oct 2026 source cleanup of freddie-mercury-global (wording Stone Town → Zanzibar).
  const musicExpansion = new Set(allBatches().filter(b => b.batch === 21).flatMap(b => b.entries.map(e => e.question.id)));
  const music = JSON.parse(readFileSync(new URL("../../content/questions/music.json", import.meta.url), "utf8")) as { id: string }[];
- assert.equal(createHash("sha256").update(JSON.stringify(music.filter(q => !musicExpansion.has(q.id)), null, 1) + "\n").digest("hex"), "51ffb07fc7b4b244412338cd2ab8466bedaa7202a520d71de2aa8bcc61bb0aed");
+ assert.equal(createHash("sha256").update(JSON.stringify(music.filter(q => !musicExpansion.has(q.id)), null, 1) + "\n").digest("hex"), "dee125cfa62d07ccf0a90ea899d16a0be288add4a36ffb1ee8f7c6c7c1e5c94e");
  // Batches 19–20 append approved Sports records; every Sports record that existed before them must stay byte-identical.
  const sportsExpansion = new Set(allBatches().filter(b => b.batch === 19 || b.batch === 20).flatMap(b => b.entries.map(e => e.question.id)));
  const sports = JSON.parse(readFileSync(new URL("../../content/questions/sports.json", import.meta.url), "utf8")) as { id: string }[];
