@@ -1,0 +1,864 @@
+{
+ "khabib-nurmagomedov": {
+  "query": "Abu Dhabi",
+  "results": [
+   {
+    "lat": 24.4538352,
+    "lon": 54.3774014,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Abu Dhabi",
+    "display": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "cc": "AE",
+    "osm": "relation/4479763"
+   },
+   {
+    "lat": 24.3437541,
+    "lon": 55.1000058,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Abu Dhabi Emirate",
+    "display": "Abu Dhabi Emirate, United Arab Emirates",
+    "cc": "AE",
+    "osm": "relation/3766481"
+   }
+  ]
+ },
+ "amanda-nunes": {
+  "query": "Pojuca, Bahia",
+  "results": [
+   {
+    "lat": -12.3592706,
+    "lon": -38.2442717,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pojuca",
+    "display": "Pojuca, Bahia, Northeast Region, 48120-000, Brazil",
+    "cc": "BR",
+    "osm": "relation/362140"
+   },
+   {
+    "lat": -12.432,
+    "lon": -38.3302,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Pojuca",
+    "display": "Pojuca, Bahia, Northeast Region, 48120-000, Brazil",
+    "cc": "BR",
+    "osm": "relation/6166837"
+   }
+  ]
+ },
+ "kamaru-usman": {
+  "query": "Auchi, Edo",
+  "results": [
+   {
+    "lat": 7.067445,
+    "lon": 6.267666,
+    "type": "town",
+    "category": "place",
+    "name": "Auchi",
+    "display": "Auchi, Etsako West, Edo State, Nigeria",
+    "cc": "NG",
+    "osm": "node/2038026286"
+   }
+  ]
+ },
+ "jon-jones": {
+  "query": "Rochester, New York",
+  "results": [
+   {
+    "lat": 43.157285,
+    "lon": -77.615214,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "City of Rochester",
+    "display": "City of Rochester, Monroe County, New York, United States",
+    "cc": "US",
+    "osm": "relation/176069"
+   },
+   {
+    "lat": 41.803611,
+    "lon": -74.263333,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Town of Rochester",
+    "display": "Town of Rochester, Ulster County, New York, United States",
+    "cc": "US",
+    "osm": "relation/3175580"
+   }
+  ]
+ },
+ "georges-st-pierre": {
+  "query": "Montreal, Quebec",
+  "results": [
+   {
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montreal",
+    "display": "Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1634158"
+   },
+   {
+    "lat": 45.5505849,
+    "lon": -73.6022317,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montreal (administrative region)",
+    "display": "Montreal (administrative region), Quebec, Canada",
+    "cc": "CA",
+    "osm": "relation/1571328"
+   }
+  ]
+ },
+ "anderson-silva": {
+  "query": "Curitiba, Paraná",
+  "results": [
+   {
+    "lat": -25.4295963,
+    "lon": -49.2712724,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Curitiba",
+    "display": "Curitiba, Paraná, South Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/297514"
+   }
+  ]
+ },
+ "ronda-rousey": {
+  "query": "Riverside, California",
+  "results": [
+   {
+    "lat": 33.9824949,
+    "lon": -117.374238,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Riverside",
+    "display": "Riverside, Riverside County, California, United States",
+    "cc": "US",
+    "osm": "relation/11051996"
+   },
+   {
+    "lat": 33.7219991,
+    "lon": -116.0372472,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Riverside County",
+    "display": "Riverside County, California, United States",
+    "cc": "US",
+    "osm": "relation/396495"
+   }
+  ]
+ },
+ "zhang-weili": {
+  "query": "Shenzhen, Guangdong",
+  "results": [
+   {
+    "lat": 22.5445741,
+    "lon": 114.0545429,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shenzhen",
+    "display": "Shenzhen, Guangdong, China",
+    "cc": "CN",
+    "osm": "relation/3464353"
+   }
+  ]
+ },
+ "alexander-volkanovski": {
+  "query": "Wollongong, New South Wales",
+  "results": [
+   {
+    "lat": -34.4278083,
+    "lon": 150.893054,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Wollongong",
+    "display": "Wollongong, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/6076763"
+   },
+   {
+    "lat": -34.4243941,
+    "lon": 150.89385,
+    "type": "city",
+    "category": "place",
+    "name": "Wollongong",
+    "display": "Wollongong, New South Wales, 2500, Australia",
+    "cc": "AU",
+    "osm": "node/20920968"
+   },
+   {
+    "lat": -34.3419352,
+    "lon": 150.8338851,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Wollongong City Council",
+    "display": "Wollongong City Council, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/6303077"
+   }
+  ]
+ },
+ "dricus-du-plessis": {
+  "query": "Welkom, Free State",
+  "results": [
+   {
+    "lat": -27.982298,
+    "lon": 26.737969,
+    "type": "city",
+    "category": "place",
+    "name": "Welkom",
+    "display": "Welkom, Matjhabeng Local Municipality, Lejweleputswa District Municipality, Free State, 9460, South Africa",
+    "cc": "ZA",
+    "osm": "node/2269464860"
+   }
+  ]
+ },
+ "larisa-latynina": {
+  "query": "Kherson city, Kherson Oblast",
+  "results": [
+   {
+    "lat": 46.6401295,
+    "lon": 32.6143922,
+    "type": "city",
+    "category": "place",
+    "name": "Kherson",
+    "display": "Kherson, Kherson urban hromada, Kherson Raion, Kherson Oblast, 73000-73480, Ukraine",
+    "cc": "UA",
+    "osm": "relation/2175078"
+   }
+  ]
+ },
+ "vera-caslavska": {
+  "query": "Prague",
+  "results": [
+   {
+    "lat": 50.0874654,
+    "lon": 14.4212535,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Prague",
+    "display": "Prague, Czechia",
+    "cc": "CZ",
+    "osm": "relation/435514"
+   }
+  ]
+ },
+ "nastia-liukin": {
+  "query": "Moscow",
+  "results": [
+   {
+    "lat": 55.625578,
+    "lon": 37.6063916,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Moscow",
+    "display": "Moscow, Central Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/102269"
+   },
+   {
+    "lat": 55.7505412,
+    "lon": 37.6174782,
+    "type": "city",
+    "category": "place",
+    "name": "Moscow",
+    "display": "Moscow, Central Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/2555133"
+   }
+  ]
+ },
+ "max-whitlock": {
+  "query": "Hemel Hempstead, Hertfordshire",
+  "results": [
+   {
+    "lat": 51.7511784,
+    "lon": -0.472528,
+    "type": "town",
+    "category": "place",
+    "name": "Hemel Hempstead",
+    "display": "Hemel Hempstead, Dacorum, Hertfordshire, England, HP1 1BA, United Kingdom",
+    "cc": "GB",
+    "osm": "node/20992547"
+   }
+  ]
+ },
+ "daiki-hashimoto": {
+  "query": "Narita, Chiba",
+  "results": [
+   {
+    "lat": 35.7767683,
+    "lon": 140.3183376,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Narita",
+    "display": "Narita, Chiba Prefecture, 286-8585, Japan",
+    "cc": "JP",
+    "osm": "relation/2679917"
+   }
+  ]
+ },
+ "li-ning": {
+  "query": "Laibin, Guangxi",
+  "results": [
+   {
+    "lat": 23.7532648,
+    "lon": 109.2169807,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Laibin",
+    "display": "Laibin, Guangxi, China",
+    "cc": "CN",
+    "osm": "relation/2775865"
+   }
+  ]
+ },
+ "dipa-karmakar": {
+  "query": "Agartala, Tripura",
+  "results": [
+   {
+    "lat": 23.8312377,
+    "lon": 91.2823821,
+    "type": "city",
+    "category": "place",
+    "name": "Agartala",
+    "display": "Agartala, Mohanpur, West Tripura, Tripura, 799001, India",
+    "cc": "IN",
+    "osm": "node/245717374"
+   }
+  ]
+ },
+ "kaylia-nemour": {
+  "query": "Paris",
+  "results": [
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "arthur-zanetti": {
+  "query": "São Caetano do Sul, São Paulo",
+  "results": [
+   {
+    "lat": -23.6195923,
+    "lon": -46.5688323,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "São Caetano do Sul",
+    "display": "São Caetano do Sul, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/5683273"
+   },
+   {
+    "lat": -23.6195923,
+    "lon": -46.5688323,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "São Caetano do Sul",
+    "display": "São Caetano do Sul, São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/298170"
+   }
+  ]
+ },
+ "lin-dan": {
+  "query": "Shanghang County, Longyan, Fujian",
+  "results": [
+   {
+    "lat": 25.1211198,
+    "lon": 116.5893159,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Shanghang County",
+    "display": "Shanghang County, Longyan City, Fujian, China",
+    "cc": "CN",
+    "osm": "relation/3144719"
+   },
+   {
+    "lat": 25.0512017,
+    "lon": 116.4149744,
+    "type": "city",
+    "category": "place",
+    "name": "Shanghang",
+    "display": "Shanghang, Longyan City, Fujian, China",
+    "cc": "CN",
+    "osm": "node/244081666"
+   }
+  ]
+ },
+ "lee-chong-wei": {
+  "query": "Bagan Serai, Kerian",
+  "results": [
+   {
+    "lat": 5.0121788,
+    "lon": 100.5335986,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bagan Serai",
+    "display": "Bagan Serai, Kerian, Perak, 34300, Malaysia",
+    "cc": "MY",
+    "osm": "relation/18220554"
+   },
+   {
+    "lat": 5.028455,
+    "lon": 100.5273669,
+    "type": "station",
+    "category": "railway",
+    "name": "Bagan Serai",
+    "display": "Bagan Serai, Jalan Ipoh - Butterworth, Kampung Batu 8, Bagan Serai, Kerian, Perak, 34300, Malaysia",
+    "cc": "MY",
+    "osm": "way/450334299"
+   },
+   {
+    "lat": 5.0284508,
+    "lon": 100.5273516,
+    "type": "stop",
+    "category": "railway",
+    "name": "Bagan Serai",
+    "display": "Bagan Serai, Jalan Ipoh - Butterworth, Kampung Batu 8, Bagan Serai, Kerian, Perak, 34300, Malaysia",
+    "cc": "MY",
+    "osm": "node/10136717261"
+   }
+  ],
+  "note": "Town boundary (relation/18220554) selected over the railway station Nominatim ranks first."
+ },
+ "taufik-hidayat": {
+  "query": "Bandung, West Java",
+  "results": [
+   {
+    "lat": -6.9218457,
+    "lon": 107.6070833,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bandung City",
+    "display": "Bandung City, West Java, Indonesia",
+    "cc": "ID",
+    "osm": "relation/13290062"
+   },
+   {
+    "lat": -7.0613423,
+    "lon": 107.6342883,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kabupaten Bandung",
+    "display": "Kabupaten Bandung, West Java, Indonesia",
+    "cc": "ID",
+    "osm": "relation/14935959"
+   }
+  ]
+ },
+ "ma-long": {
+  "query": "Anshan, Liaoning",
+  "results": [
+   {
+    "lat": 40.822222,
+    "lon": 122.8275,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Anshan City",
+    "display": "Anshan City, Liaoning, China",
+    "cc": "CN",
+    "osm": "relation/2769683"
+   },
+   {
+    "lat": 41.1075962,
+    "lon": 122.9902291,
+    "type": "city",
+    "category": "place",
+    "name": "Anshan",
+    "display": "Anshan, Tiedong District, Anshan City, Liaoning, China",
+    "cc": "CN",
+    "osm": "node/7663003184"
+   }
+  ]
+ },
+ "jan-ove-waldner": {
+  "query": "Stockholm",
+  "results": [
+   {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "type": "city",
+    "category": "place",
+    "name": "Stockholm",
+    "display": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+    "cc": "SE",
+    "osm": "node/25929985"
+   },
+   {
+    "lat": 59.3336131,
+    "lon": 18.0275091,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Stockholm Municipality",
+    "display": "Stockholm Municipality, Stockholm County, Sweden",
+    "cc": "SE",
+    "osm": "relation/398021"
+   }
+  ]
+ },
+ "tai-tzu-ying": {
+  "query": "Kaohsiung",
+  "results": [
+   {
+    "lat": 22.6203348,
+    "lon": 120.3120375,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kaohsiung",
+    "display": "Kaohsiung, Taiwan",
+    "cc": "TW",
+    "osm": "relation/2127079"
+   }
+  ]
+ },
+ "hugo-calderano": {
+  "query": "Rio de Janeiro",
+  "results": [
+   {
+    "lat": -22.9110137,
+    "lon": -43.2093727,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/2697338"
+   },
+   {
+    "lat": -22.2752762,
+    "lon": -42.419415,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rio de Janeiro",
+    "display": "Rio de Janeiro, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/57963"
+   }
+  ]
+ },
+ "nour-el-sherbini": {
+  "query": "Kuala Lumpur",
+  "results": [
+   {
+    "lat": 3.1516964,
+    "lon": 101.6942371,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kuala Lumpur",
+    "display": "Kuala Lumpur, Malaysia",
+    "cc": "MY",
+    "osm": "relation/2939672"
+   }
+  ]
+ },
+ "jahangir-khan": {
+  "query": "Karachi, Sindh, Pakistan",
+  "results": [
+   {
+    "lat": 24.8546842,
+    "lon": 67.0207055,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Karachi Division",
+    "display": "Karachi Division, Sindh, Pakistan",
+    "cc": "PK",
+    "osm": "relation/6080948"
+   }
+  ],
+  "note": "Karachi Division is the administrative unit for the city; its point lies in central Karachi."
+ },
+ "ali-farag": {
+  "query": "Chicago, Illinois",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "mikaela-shiffrin": {
+  "query": "Vail, Colorado",
+  "results": [
+   {
+    "lat": 39.6438028,
+    "lon": -106.3888231,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Vail",
+    "display": "Vail, Eagle County, Colorado, 81657, United States",
+    "cc": "US",
+    "osm": "relation/17935944"
+   },
+   {
+    "lat": 39.5995318,
+    "lon": -106.3394563,
+    "type": "winter_sports",
+    "category": "landuse",
+    "name": "Vail",
+    "display": "Vail, Eagle County, Colorado, 81657, United States",
+    "cc": "US",
+    "osm": "way/531009607"
+   }
+  ]
+ },
+ "marcel-hirscher": {
+  "query": "Hallein, Salzburg",
+  "results": [
+   {
+    "lat": 47.6821521,
+    "lon": 13.0956313,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hallein",
+    "display": "Hallein, Bezirk Hallein, Salzburg, Austria",
+    "cc": "AT",
+    "osm": "relation/86343"
+   },
+   {
+    "lat": 47.6793717,
+    "lon": 13.0971315,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Hallein",
+    "display": "Hallein, Bad Dürrnberg, Hallein, Bezirk Hallein, Salzburg, Austria",
+    "cc": "AT",
+    "osm": "relation/9039279"
+   }
+  ]
+ },
+ "ole-einar-bjorndalen": {
+  "query": "Drammen",
+  "results": [
+   {
+    "lat": 59.6964936,
+    "lon": 10.175642,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Drammen",
+    "display": "Drammen, Buskerud, Norway",
+    "cc": "NO",
+    "osm": "relation/10483726"
+   },
+   {
+    "lat": 59.7436802,
+    "lon": 10.2043644,
+    "type": "city",
+    "category": "place",
+    "name": "Drammen",
+    "display": "Drammen, Buskerud, 3017, Norway",
+    "cc": "NO",
+    "osm": "node/31264080"
+   }
+  ]
+ },
+ "eileen-gu": {
+  "query": "San Francisco, California",
+  "results": [
+   {
+    "lat": 37.7879363,
+    "lon": -122.4075201,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Francisco",
+    "display": "San Francisco, California, United States",
+    "cc": "US",
+    "osm": "relation/111968"
+   }
+  ]
+ },
+ "ireen-wust": {
+  "query": "Goirle, North Brabant",
+  "results": [
+   {
+    "lat": 51.5056266,
+    "lon": 5.0337741,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Goirle",
+    "display": "Goirle, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/299322"
+   },
+   {
+    "lat": 51.5231816,
+    "lon": 5.0660312,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Goirle",
+    "display": "Goirle, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/2725178"
+   }
+  ]
+ },
+ "martin-fourcade": {
+  "query": "Céret, Pyrénées-Orientales",
+  "results": [
+   {
+    "lat": 42.4857071,
+    "lon": 2.7487398,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Céret",
+    "display": "Céret, Pyrénées-Orientales, Occitania, Metropolitan France, 66400, France",
+    "cc": "FR",
+    "osm": "relation/23266"
+   },
+   {
+    "lat": 42.5009474,
+    "lon": 2.8251676,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Céret",
+    "display": "Céret, Pyrénées-Orientales, Occitania, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/2767883"
+   }
+  ]
+ },
+ "alberto-tomba": {
+  "query": "Bologna",
+  "results": [
+   {
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bologna",
+    "display": "Bologna, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/43172"
+   },
+   {
+    "lat": 44.4333133,
+    "lon": 11.394493,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bologna",
+    "display": "Bologna, Emilia-Romagna, Italy",
+    "cc": "IT",
+    "osm": "relation/42856"
+   }
+  ]
+ },
+ "torah-bright": {
+  "query": "Cooma, New South Wales",
+  "results": [
+   {
+    "lat": -36.2359015,
+    "lon": 149.1263121,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Cooma",
+    "display": "Cooma, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/6064117"
+   },
+   {
+    "lat": -29.4513417,
+    "lon": 149.5566108,
+    "type": "farm",
+    "category": "place",
+    "name": "Cooma",
+    "display": "Cooma, 8, Moree, New South Wales, 2400, Australia",
+    "cc": "AU",
+    "osm": "node/6577813283"
+   }
+  ]
+ },
+ "kamil-stoch": {
+  "query": "Zakopane",
+  "results": [
+   {
+    "lat": 49.2757934,
+    "lon": 19.9692811,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zakopane",
+    "display": "Zakopane, Tatra County, Lesser Poland Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/2838555"
+   },
+   {
+    "lat": 49.2969114,
+    "lon": 19.9504753,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Zakopane",
+    "display": "Zakopane, Tatra County, Lesser Poland Voivodeship, Poland",
+    "cc": "PL",
+    "osm": "relation/2431742"
+   }
+  ]
+ },
+ "lee-sang-hwa": {
+  "query": "Seoul",
+  "results": [
+   {
+    "lat": 37.5666791,
+    "lon": 126.9782914,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seoul",
+    "display": "Seoul, South Korea",
+    "cc": "KR",
+    "osm": "relation/2297418"
+   }
+  ]
+ },
+ "sunisa-lee": {
+  "query": "South St. Paul, Minnesota",
+  "results": [
+   {
+    "lat": 44.8906694,
+    "lon": -93.0372808,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "South Saint Paul",
+    "display": "South Saint Paul, Dakota County, Minnesota, 55075, United States",
+    "cc": "US",
+    "osm": "relation/136562"
+   }
+  ]
+ }
+}
