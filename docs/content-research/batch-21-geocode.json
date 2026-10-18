@@ -1,0 +1,762 @@
+{
+ "kabza-de-small": {
+  "query": "Pretoria",
+  "results": [
+   {
+    "lat": -25.7459277,
+    "lon": 28.1879101,
+    "type": "city",
+    "category": "place",
+    "name": "Pretoria",
+    "display": "Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0142, South Africa",
+    "cc": "ZA",
+    "osm": "node/25503669"
+   }
+  ]
+ },
+ "kelvin-momo": {
+  "query": "Soweto",
+  "results": [
+   {
+    "lat": -26.2227778,
+    "lon": 27.89,
+    "type": "city",
+    "category": "place",
+    "name": "Soweto",
+    "display": "Soweto, City of Johannesburg Metropolitan Municipality, Gauteng, 1852, South Africa",
+    "cc": "ZA",
+    "osm": "node/27565050"
+   }
+  ]
+ },
+ "young-stunna": {
+  "query": "Daveyton, Ekurhuleni",
+  "results": [
+   {
+    "lat": -26.1388421,
+    "lon": 28.42493,
+    "type": "suburb",
+    "category": "place",
+    "name": "Daveyton",
+    "display": "Daveyton, Ekurhuleni Ward 69, City of Ekurhuleni Metropolitan Municipality, Gauteng, 1507, South Africa",
+    "cc": "ZA",
+    "osm": "node/262719789"
+   }
+  ]
+ },
+ "kamo-mphela": {
+  "query": "Soweto",
+  "results": [
+   {
+    "lat": -26.2227778,
+    "lon": 27.89,
+    "type": "city",
+    "category": "place",
+    "name": "Soweto",
+    "display": "Soweto, City of Johannesburg Metropolitan Municipality, Gauteng, 1852, South Africa",
+    "cc": "ZA",
+    "osm": "node/27565050"
+   }
+  ]
+ },
+ "aymos": {
+  "query": "Tembisa",
+  "results": [
+   {
+    "lat": -26.0097146,
+    "lon": 28.2314606,
+    "type": "station",
+    "category": "railway",
+    "name": "Tembisa",
+    "display": "Tembisa, Mampuru Street, Sithame, Ekurhuleni Ward 6, Thembisa, City of Ekurhuleni Metropolitan Municipality, Gauteng, 1628, South Africa",
+    "cc": "ZA",
+    "osm": "node/9168944945"
+   },
+   {
+    "lat": -26.0096119,
+    "lon": 28.2313797,
+    "type": "stop",
+    "category": "railway",
+    "name": "Tembisa",
+    "display": "Tembisa, Mampuru Street, Sithame, Ekurhuleni Ward 6, Thembisa, City of Ekurhuleni Metropolitan Municipality, Gauteng, 1628, South Africa",
+    "cc": "ZA",
+    "osm": "node/247644818"
+   },
+   {
+    "lat": -26.8843505,
+    "lon": 26.6044296,
+    "type": "residential",
+    "category": "highway",
+    "name": "Tembisa Street",
+    "display": "Tembisa Street, Matlosana Ward 9, Klerksdorp, Matlosana Local Municipality, Dr Kenneth Kaunda District Municipality, North West, South Africa",
+    "cc": "ZA",
+    "osm": "way/217835958"
+   }
+  ]
+ },
+ "vigro-deep": {
+  "query": "Atteridgeville, Pretoria",
+  "results": [
+   {
+    "lat": -25.771389,
+    "lon": 28.073611,
+    "type": "suburb",
+    "category": "place",
+    "name": "Atteridgeville",
+    "display": "Atteridgeville, Tshwane Ward 62, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0006, South Africa",
+    "cc": "ZA",
+    "osm": "node/262694907"
+   }
+  ]
+ },
+ "babalwa-m": {
+  "query": "Protea Glen, Soweto",
+  "results": [
+   {
+    "lat": -26.2722222,
+    "lon": 27.8169444,
+    "type": "suburb",
+    "category": "place",
+    "name": "Protea Glen",
+    "display": "Protea Glen, Johannesburg Ward 14, Soweto, City of Johannesburg Metropolitan Municipality, Gauteng, 1819, South Africa",
+    "cc": "ZA",
+    "osm": "node/262715091"
+   }
+  ]
+ },
+ "boohle": {
+  "query": "Vosloorus, Ekurhuleni",
+  "results": [
+   {
+    "lat": -26.3563889,
+    "lon": 28.2083333,
+    "type": "suburb",
+    "category": "place",
+    "name": "Vosloorus",
+    "display": "Vosloorus, Ekurhuleni Ward 46, City of Ekurhuleni Metropolitan Municipality, Gauteng, 1475, South Africa",
+    "cc": "ZA",
+    "osm": "node/262718514"
+   }
+  ]
+ },
+ "jazzwrld": {
+  "query": "Carletonville, Gauteng",
+  "results": [
+   {
+    "lat": -26.361436,
+    "lon": 27.401916,
+    "type": "town",
+    "category": "place",
+    "name": "Carletonville",
+    "display": "Carletonville, Merafong City Local Municipality, West Rand District Municipality, Gauteng, 2500, South Africa",
+    "cc": "ZA",
+    "osm": "node/60032632"
+   }
+  ]
+ },
+ "sha-sha": {
+  "query": "Mutare",
+  "results": [
+   {
+    "lat": -18.974656,
+    "lon": 32.670473,
+    "type": "city",
+    "category": "place",
+    "name": "Mutare",
+    "display": "Mutare, Manicaland Province, Zimbabwe",
+    "cc": "ZW",
+    "osm": "node/253237975"
+   },
+   {
+    "lat": -19.2488615,
+    "lon": 32.4377479,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Mutare",
+    "display": "Mutare, Manicaland Province, Zimbabwe",
+    "cc": "ZW",
+    "osm": "relation/5555251"
+   }
+  ]
+ },
+ "chuck-berry": {
+  "query": "St. Louis, Missouri",
+  "results": [
+   {
+    "lat": 38.6254063,
+    "lon": -90.190009,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Saint Louis",
+    "display": "Saint Louis, Missouri, United States",
+    "cc": "US",
+    "osm": "relation/1180533"
+   }
+  ]
+ },
+ "jimi-hendrix": {
+  "query": "Seattle, Washington",
+  "results": [
+   {
+    "lat": 47.6038321,
+    "lon": -122.330062,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Seattle",
+    "display": "Seattle, King County, Washington, United States",
+    "cc": "US",
+    "osm": "relation/237385"
+   }
+  ]
+ },
+ "tina-turner": {
+  "query": "Nutbush, Tennessee",
+  "results": [
+   {
+    "lat": 35.698133,
+    "lon": -89.408128,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Nutbush",
+    "display": "Nutbush, Haywood County, West Tennessee, Tennessee, United States",
+    "cc": "US",
+    "osm": "node/153640827"
+   },
+   {
+    "lat": 35.5616635,
+    "lon": -89.2656337,
+    "type": "cycleway",
+    "category": "highway",
+    "name": "Nutbush",
+    "display": "Nutbush, Haywood County, West Tennessee, Tennessee, 38012, United States",
+    "cc": "US",
+    "osm": "way/1450706746"
+   }
+  ]
+ },
+ "ozzy-osbourne": {
+  "query": "Aston, Birmingham",
+  "results": [
+   {
+    "lat": 52.5066355,
+    "lon": -1.8812695,
+    "type": "suburb",
+    "category": "place",
+    "name": "Aston",
+    "display": "Aston, Nechells, Birmingham, West Midlands, England, B6 6SG, United Kingdom",
+    "cc": "GB",
+    "osm": "node/966630237"
+   },
+   {
+    "lat": 52.5044196,
+    "lon": -1.8720376,
+    "type": "station",
+    "category": "railway",
+    "name": "Aston",
+    "display": "Aston, Lovers Walk, Aston, Nechells, Birmingham, West Midlands, England, B6 7NA, United Kingdom",
+    "cc": "GB",
+    "osm": "node/5920221964"
+   }
+  ]
+ },
+ "carlos-santana": {
+  "query": "Autlán de Navarro, Jalisco",
+  "results": [
+   {
+    "lat": 19.75703,
+    "lon": -104.3183402,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Autlán de Navarro",
+    "display": "Autlán de Navarro, Región Costa Sur, Jalisco, Mexico",
+    "cc": "MX",
+    "osm": "relation/5605562"
+   },
+   {
+    "lat": 19.7703379,
+    "lon": -104.3642747,
+    "type": "town",
+    "category": "place",
+    "name": "Autlán de Navarro",
+    "display": "Autlán de Navarro, Región Costa Sur, Jalisco, 48903, Mexico",
+    "cc": "MX",
+    "osm": "node/1361090971"
+   }
+  ]
+ },
+ "gustavo-cerati": {
+  "query": "Buenos Aires",
+  "results": [
+   {
+    "lat": -34.6095579,
+    "lon": -58.3887904,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Buenos Aires",
+    "display": "Buenos Aires, Comuna 1, Autonomous City of Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/1224652"
+   },
+   {
+    "lat": -36.3789925,
+    "lon": -60.3855889,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Buenos Aires",
+    "display": "Buenos Aires, Argentina",
+    "cc": "AR",
+    "osm": "relation/1632167"
+   }
+  ]
+ },
+ "rita-lee": {
+  "query": "São Paulo, São Paulo",
+  "results": [
+   {
+    "lat": -23.5506507,
+    "lon": -46.6333824,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "São Paulo",
+    "display": "São Paulo, Southeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/298285"
+   }
+  ]
+ },
+ "angus-young": {
+  "query": "Glasgow",
+  "results": [
+   {
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "type": "city",
+    "category": "place",
+    "name": "Glasgow",
+    "display": "Glasgow, Glasgow City, Scotland, G2 1AL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/11127374"
+   }
+  ]
+ },
+ "yoshiki": {
+  "query": "Tateyama, Chiba",
+  "results": [
+   {
+    "lat": 34.9965304,
+    "lon": 139.8699838,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tateyama",
+    "display": "Tateyama, Chiba Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/2679947"
+   },
+   {
+    "lat": 34.9840448,
+    "lon": 139.8556833,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tateyama",
+    "display": "Tateyama, Chiba Prefecture, 294-0036, Japan",
+    "cc": "JP",
+    "osm": "relation/15547966"
+   },
+   {
+    "lat": 34.9866644,
+    "lon": 139.8575789,
+    "type": "quarter",
+    "category": "place",
+    "name": "Tateyama",
+    "display": "Tateyama, Chiba Prefecture, 294-0036, Japan",
+    "cc": "JP",
+    "osm": "node/7765566132"
+   }
+  ]
+ },
+ "damiano-david": {
+  "query": "Rotterdam",
+  "results": [
+   {
+    "lat": 51.9244424,
+    "lon": 4.47775,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rotterdam",
+    "display": "Rotterdam, South Holland, Netherlands",
+    "cc": "NL",
+    "osm": "relation/1411101"
+   },
+   {
+    "lat": 51.9233986,
+    "lon": 4.4895681,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Rotterdam",
+    "display": "Rotterdam, South Holland, Netherlands",
+    "cc": "NL",
+    "osm": "relation/324431"
+   }
+  ]
+ },
+ "jimmy-cliff": {
+  "query": "Montego Bay",
+  "results": [
+   {
+    "lat": 18.4724603,
+    "lon": -77.9217357,
+    "type": "city",
+    "category": "place",
+    "name": "Montego Bay",
+    "display": "Montego Bay, Saint James, Cornwall County, Jamaica",
+    "cc": "JM",
+    "osm": "way/1286677876"
+   },
+   {
+    "lat": 18.4724603,
+    "lon": -77.9217357,
+    "type": "city",
+    "category": "place",
+    "name": "Montego Bay",
+    "display": "Montego Bay, Saint James, Cornwall County, Jamaica",
+    "cc": "JM",
+    "osm": "way/373067072"
+   }
+  ]
+ },
+ "toots-hibbert": {
+  "query": "May Pen, Clarendon",
+  "results": [
+   {
+    "lat": 17.974637,
+    "lon": -77.2581951,
+    "type": "town",
+    "category": "place",
+    "name": "May Pen",
+    "display": "May Pen, Clarendon, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/290802776"
+   }
+  ]
+ },
+ "burning-spear": {
+  "query": "St. Ann's Bay, Saint Ann",
+  "results": [
+   {
+    "lat": 18.435614,
+    "lon": -77.2023419,
+    "type": "town",
+    "category": "place",
+    "name": "St Ann's Bay",
+    "display": "St Ann's Bay, Saint Ann, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "way/44160529"
+   }
+  ]
+ },
+ "marcia-griffiths": {
+  "query": "Kingston, Jamaica",
+  "results": [
+   {
+    "lat": 17.9712148,
+    "lon": -76.7928128,
+    "type": "city",
+    "category": "place",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "node/53371112"
+   },
+   {
+    "lat": 17.9692835,
+    "lon": -76.7652202,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "relation/6577227"
+   }
+  ]
+ },
+ "shaggy": {
+  "query": "Brooklyn, New York",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 40.64559,
+    "lon": -73.9558866,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kings County",
+    "display": "Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/369518"
+   }
+  ]
+ },
+ "beenie-man": {
+  "query": "Kingston, Jamaica",
+  "results": [
+   {
+    "lat": 17.9712148,
+    "lon": -76.7928128,
+    "type": "city",
+    "category": "place",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "node/53371112"
+   },
+   {
+    "lat": 17.9692835,
+    "lon": -76.7652202,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kingston",
+    "display": "Kingston, Surrey County, Jamaica",
+    "cc": "JM",
+    "osm": "relation/6577227"
+   }
+  ]
+ },
+ "spice": {
+  "query": "Portmore, Saint Catherine",
+  "results": [
+   {
+    "lat": 17.9717917,
+    "lon": -76.8738048,
+    "type": "city",
+    "category": "place",
+    "name": "Portmore",
+    "display": "Portmore, Saint Catherine, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "way/1286648216"
+   }
+  ]
+ },
+ "chronixx": {
+  "query": "Spanish Town, Jamaica",
+  "results": [
+   {
+    "lat": 17.9956926,
+    "lon": -76.9540831,
+    "type": "city",
+    "category": "place",
+    "name": "Spanish Town",
+    "display": "Spanish Town, Saint Catherine, Middlesex County, Jamaica",
+    "cc": "JM",
+    "osm": "node/247716893"
+   }
+  ]
+ },
+ "alpha-blondy": {
+  "query": "Dimbokro",
+  "results": [
+   {
+    "lat": 6.6494254,
+    "lon": -4.7040555,
+    "type": "town",
+    "category": "place",
+    "name": "Dimbokro",
+    "display": "Dimbokro, N’zi, Lacs, Ivory Coast",
+    "cc": "CI",
+    "osm": "node/1597903144"
+   },
+   {
+    "lat": 6.9536771,
+    "lon": -3.6690812,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Dimbokro",
+    "display": "Dimbokro, Ameakro, Amélékia, Abengourou, Indénié-Djuablin, Comoé, Ivory Coast",
+    "cc": "CI",
+    "osm": "node/4268287305"
+   }
+  ]
+ },
+ "lucky-dube": {
+  "query": "Ermelo, Mpumalanga",
+  "results": [
+   {
+    "lat": -26.5201061,
+    "lon": 29.9862195,
+    "type": "town",
+    "category": "place",
+    "name": "Ermelo",
+    "display": "Ermelo, Msukaligwa, Gert Sibande, Mpumalanga, 2350, South Africa",
+    "cc": "ZA",
+    "osm": "node/51828236"
+   }
+  ]
+ },
+ "hank-williams": {
+  "query": "Montgomery, Alabama",
+  "results": [
+   {
+    "lat": 32.3777111,
+    "lon": -86.3090775,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montgomery",
+    "display": "Montgomery, Montgomery County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/110842"
+   },
+   {
+    "lat": 32.1672192,
+    "lon": -86.1999118,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Montgomery County",
+    "display": "Montgomery County, Alabama, United States",
+    "cc": "US",
+    "osm": "relation/1848793"
+   }
+  ]
+ },
+ "patsy-cline": {
+  "query": "Winchester, Virginia",
+  "results": [
+   {
+    "lat": 39.1852184,
+    "lon": -78.1652404,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Winchester",
+    "display": "Winchester, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/207037"
+   }
+  ]
+ },
+ "loretta-lynn": {
+  "query": "Butcher Hollow, Kentucky",
+  "results": [
+   {
+    "lat": 37.7804788,
+    "lon": -82.7105806,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Butcher Hollow",
+    "display": "Butcher Hollow, Johnson County, Kentucky, 41234, United States",
+    "cc": "US",
+    "osm": "node/11950670559"
+   }
+  ]
+ },
+ "willie-nelson": {
+  "query": "Abbott, Texas",
+  "results": [
+   {
+    "lat": 31.8899302,
+    "lon": -97.0870831,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Abbott",
+    "display": "Abbott, Hill County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/3488445"
+   }
+  ]
+ },
+ "charley-pride": {
+  "query": "Sledge, Mississippi",
+  "results": [
+   {
+    "lat": 34.4320519,
+    "lon": -90.2209265,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Sledge",
+    "display": "Sledge, Quitman County, Mississippi, United States",
+    "cc": "US",
+    "osm": "relation/14988937"
+   }
+  ]
+ },
+ "shania-twain": {
+  "query": "Timmins, Ontario",
+  "results": [
+   {
+    "lat": 48.477473,
+    "lon": -81.330414,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Timmins",
+    "display": "Timmins, Cochrane District, Northeastern Ontario, Ontario, Canada",
+    "cc": "CA",
+    "osm": "relation/7588071"
+   }
+  ]
+ },
+ "slim-dusty": {
+  "query": "Kempsey, NSW 2440",
+  "results": [
+   {
+    "lat": -31.0798092,
+    "lon": 152.842289,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kempsey",
+    "display": "Kempsey, New South Wales, Australia",
+    "cc": "AU",
+    "osm": "relation/6063608"
+   }
+  ]
+ },
+ "chris-stapleton": {
+  "query": "Johnson County, Kentucky",
+  "results": [
+   {
+    "lat": 37.8397984,
+    "lon": -82.8159642,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Johnson County",
+    "display": "Johnson County, Kentucky, United States",
+    "cc": "US",
+    "osm": "relation/1846538"
+   }
+  ]
+ },
+ "kacey-musgraves": {
+  "query": "Golden, Texas",
+  "results": [
+   {
+    "lat": 32.7295732,
+    "lon": -95.5630133,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Golden",
+    "display": "Golden, Wood County, Texas, 75444, United States",
+    "cc": "US",
+    "osm": "node/151906318"
+   }
+  ]
+ },
+ "lainey-wilson": {
+  "query": "Baskin, Louisiana",
+  "results": [
+   {
+    "lat": 32.2588885,
+    "lon": -91.7471373,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Baskin",
+    "display": "Baskin, Franklin Parish, Louisiana, United States",
+    "cc": "US",
+    "osm": "relation/132158"
+   }
+  ]
+ }
+}
