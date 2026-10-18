@@ -32,6 +32,7 @@ export async function POST(request: Request) {
     body,
     env: process.env,
     requestUrl: request.url,
+    countryHeader: request.headers.get("x-vercel-ip-country"),
     server: env,
     entitlement,
     insertPending: row => insertPendingPayment(env, row),

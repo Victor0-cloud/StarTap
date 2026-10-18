@@ -2,6 +2,7 @@ import { userFromRequest } from "@/lib/payments/auth";
 import { readOwnStatus } from "@/lib/payments/db";
 import { paymentsLive, readServerEnv } from "@/lib/payments/env";
 import { entitlementIsActive } from "@/lib/payments/entitlement";
+import { regionHasOffer } from "@/lib/payments/pricing";
 import { clientIp, rateLimit } from "@/lib/payments/rate-limit";
 
 export const runtime = "nodejs";
@@ -17,17 +18,21 @@ const empty = {
   currentPeriodStart: null,
   currentPeriodEnd: null,
   provider: null,
+  regionAvailable: false,
 };
 
-const json = (body: Record<string, unknown>, status = 200) => Response.json(body, { status, headers: { "Cache-Control": "private, no-store", Vary: "Authorization" } });
+const json = (body: Record<string, unknown>, status = 200) => Response.json(body, { status, headers: { "Cache-Control": "private, no-store", Vary: "Authorization, x-vercel-ip-country" } });
 
 export async function GET(request: Request) {
   if (!rateLimit(`status:${clientIp(request)}`, 60, 60_000)) return json({ error: "Too many requests" }, 429);
   if (!paymentsLive()) return json(empty);
   const env = readServerEnv();
   if (!env) return json(empty);
+  // False when Premium cannot be bought from here (NGN-only launch, visitor outside Nigeria).
+  // The client then shows no Premium locks to a free player, as when payments are off.
+  const regionAvailable = regionHasOffer(request.headers.get("x-vercel-ip-country"), process.env);
   const user = await userFromRequest(request, env);
-  if (!user) return json({ ...empty, paymentsEnabled: true });
+  if (!user) return json({ ...empty, paymentsEnabled: true, regionAvailable });
   try {
     const row = await readOwnStatus(env, user.id);
     const now = new Date();
@@ -42,6 +47,7 @@ export async function GET(request: Request) {
       currentPeriodStart: row?.currentPeriodStart ?? null,
       currentPeriodEnd: row?.currentPeriodEnd ?? null,
       provider: row?.provider ?? null,
+      regionAvailable,
     });
   } catch {
     return json({ error: "Status unavailable" }, 503);

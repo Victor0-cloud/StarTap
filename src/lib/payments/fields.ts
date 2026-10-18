@@ -1,4 +1,4 @@
-import type { CurrencyCode, PlanId } from "./plans.ts";
+import { CURRENCY_CODES, isCurrency, isPlanId, type CurrencyCode, type PlanId } from "./plans.ts";
 
 /** Fields we are willing to keep from a webhook. Card, token, phone and account numbers are dropped. */
 export type SafeEvent = {
@@ -129,12 +129,13 @@ export function txRefFor(userId: string, plan: PlanId, currency: CurrencyCode, i
   return `st.${userId}.${plan}.${currency}.${id}`;
 }
 
+const TX_REF = new RegExp(`^st\\.([0-9a-f-]{36})\\.(premium_monthly|premium_yearly)\\.(${CURRENCY_CODES.join("|")})\\.[0-9a-f-]{36}$`, "i");
+
 export function parseTxRef(txRef: string): { userId: string; plan: PlanId; currency: CurrencyCode } | null {
-  const match = /^st\.([0-9a-f-]{36})\.(premium_monthly|premium_yearly)\.(NGN|USD)\.[0-9a-f-]{36}$/i.exec(txRef);
+  const match = TX_REF.exec(txRef);
   if (!match) return null;
   const plan = match[2]!.toLowerCase();
   const currency = match[3]!.toUpperCase();
-  if (plan !== "premium_monthly" && plan !== "premium_yearly") return null;
-  if (currency !== "NGN" && currency !== "USD") return null;
+  if (!isPlanId(plan) || !isCurrency(currency)) return null;
   return { userId: match[1]!.toLowerCase(), plan, currency };
 }

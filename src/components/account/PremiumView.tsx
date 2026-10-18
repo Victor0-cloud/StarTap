@@ -4,7 +4,8 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useLayoutEffect, useState } from "react";
 import { SiteFooter } from "@/components/site/SiteChrome";
-import { OFFERED_CURRENCIES, PLAN_CATALOG, PLAN_IDS, PRICE_APPROVAL, type CurrencyCode, type PlanId } from "@/lib/payments/plans";
+import { formatMoney } from "@/lib/payments/money";
+import { isPriceQuoteView, type PriceQuoteView } from "@/lib/payments/quote";
 import { syncSavedSession } from "@/lib/auth/browser";
 import { premiumOffer } from "@/lib/premium/offer";
 import { readSavedSession } from "@/lib/premium/session";
@@ -15,9 +16,8 @@ bindPremiumSession(() => syncSavedSession());
 
 const STARS = [[8, 18], [22, 70], [40, 12], [63, 64], [78, 22], [90, 48]] as const;
 
-type Prices = Record<PlanId, Record<CurrencyCode, number>>;
-
-export function PremiumView({ prices }: { prices: Prices }) {
+/** `quote` is null when Premium cannot be bought from this visitor's region yet. */
+export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
   const router = useRouter();
   const access = usePremium();
   const offer = premiumOffer(access);
@@ -25,12 +25,28 @@ export function PremiumView({ prices }: { prices: Prices }) {
     if (!access.isPremium) markPremiumPending();
     void refreshPremium();
   }, [access.isPremium]);
-  const [plan, setPlan] = useState<PlanId>("premium_monthly");
-  const [currency, setCurrency] = useState<CurrencyCode>("NGN");
+  const [plan, setPlan] = useState<"premium_monthly" | "premium_yearly">("premium_monthly");
+  const [shown, setShown] = useState(quote);
+  const [choice, setChoice] = useState<"local" | "USD">(quote?.currency === "USD" ? "USD" : "local");
   const [message, setMessage] = useState<string | null>(null);
   const [already, setAlready] = useState(false);
   const [busy, setBusy] = useState(false);
-  const amount = prices[plan][currency];
+  const selected = shown ? (plan === "premium_yearly" ? shown.yearly : shown.monthly) : null;
+  async function chooseCurrency(next: "local" | "USD") {
+    setMessage(null);
+    try {
+      const response = await fetch(`/api/pricing/?currency=${next}`, { cache: "no-store" });
+      const body: unknown = await response.json();
+      if (!response.ok || !isPriceQuoteView(body)) {
+        setMessage("The price could not be loaded");
+        return;
+      }
+      setChoice(next);
+      setShown(body);
+    } catch {
+      setMessage("The price could not be loaded");
+    }
+  }
   const until = offer !== "purchase" && offer !== "loading" ? offer.until : null;
   const checking = offer === "loading" && !already;
   const member = already || until !== null || (offer !== "purchase" && offer !== "loading");
@@ -46,7 +62,7 @@ export function PremiumView({ prices }: { prices: Prices }) {
       const response = await fetch("/api/flutterwave/create-checkout/", {
         method: "POST",
         headers: { "content-type": "application/json", authorization: `Bearer ${session.accessToken}` },
-        body: JSON.stringify({ plan, currency }),
+        body: JSON.stringify({ plan, currency: choice }),
       });
       const body = await response.json() as { link?: string; error?: string };
       if (response.status === 409 || body.error === "already_premium") {
@@ -75,7 +91,7 @@ export function PremiumView({ prices }: { prices: Prices }) {
           <p className="eyebrow">✦ STARTAP PREMIUM</p>
           <h1>PLAY THE <em>WHOLE SKY.</em></h1>
           <p className={styles.lede}>Today&apos;s Five stays free. Premium opens every world, unlimited Play Five, the Adventure of Wonders, and the full history of your game.</p>
-          <p className={styles.note}>Prices are {PRICE_APPROVAL} placeholders.</p>
+          {quote && quote.priceStatus !== "APPROVED" && <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>}
         </div>
         <Image className={styles.globe} src="/globe-hero.svg" width={1024} height={768} alt="" priority />
       </section>
@@ -87,7 +103,7 @@ export function PremiumView({ prices }: { prices: Prices }) {
             <li>Today&apos;s Five, every day</li>
             <li>Music World and Sports World</li>
             <li>Score and share</li>
-            <li>3 Play Five rounds a day</li>
+            {quote ? <li>3 Play Five rounds a day</li> : <li>Play Five and every world</li>}
           </ul>
           <Link className="secondary-button" href="/play/">PLAY TODAY&apos;S FIVE</Link>
         </article>
@@ -105,12 +121,21 @@ export function PremiumView({ prices }: { prices: Prices }) {
           {member || checking ? <>
             <p role="status">{checking ? "Checking your Premium…" : until ? `Premium is on until ${until}.` : "Premium is on."}</p>
             {member ? <Link className="primary-button" href="/account/">YOUR ACCOUNT</Link> : null}
+          </> : !shown || !selected ? <>
+            <p role="status">Premium isn&apos;t available in your region yet.</p>
+            <p className={styles.lede}>We&apos;re working on it. Everything free stays open to you, including Today&apos;s Five every day.</p>
+            <Link className="primary-button" href="/play/">PLAY TODAY&apos;S FIVE</Link>
           </> : <>
             <div className={styles.controls}>
-              {PLAN_IDS.map(id => <button key={id} type="button" className="secondary-button" aria-pressed={plan === id} onClick={() => setPlan(id)}>{PLAN_CATALOG[id].label.toUpperCase()}</button>)}
-              {OFFERED_CURRENCIES.map(code => <button key={code} type="button" className="secondary-button" aria-pressed={currency === code} onClick={() => setCurrency(code)}>{code}</button>)}
+              <button type="button" className="secondary-button" aria-pressed={plan === "premium_monthly"} onClick={() => setPlan("premium_monthly")}>{shown.monthly.label.toUpperCase()}</button>
+              <button type="button" className="secondary-button" aria-pressed={plan === "premium_yearly"} onClick={() => setPlan("premium_yearly")}>{shown.yearly.label.toUpperCase()}</button>
+              {shown.localAvailable && shown.usdAvailable && <>
+                <button type="button" className="secondary-button" aria-pressed={choice === "local"} onClick={() => chooseCurrency("local")}>{shown.localCurrency}</button>
+                <button type="button" className="secondary-button" aria-pressed={choice === "USD"} onClick={() => chooseCurrency("USD")}>USD</button>
+              </>}
             </div>
-            <p>{amount.toLocaleString()} {currency} · {PLAN_CATALOG[plan].per} · {PRICE_APPROVAL}</p>
+            <p>{formatMoney(selected.amount)} {selected.currency} · {selected.per}{shown.priceStatus !== "APPROVED" ? ` · ${shown.priceStatus}` : ""}</p>
+            {shown.usdFallback && <p>Local currency isn&apos;t available yet. This is the USD price.</p>}
             <button className="primary-button" type="button" disabled={busy || access.loading} onClick={go}>{busy ? "OPENING CHECKOUT…" : "GO PREMIUM"}</button>
             {message && <p role="status">{message}</p>}
             <p className={styles.lede}>You&apos;ll pay on Flutterwave&apos;s secure page. StarTap never sees your card.</p>

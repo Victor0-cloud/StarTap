@@ -1,7 +1,10 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { buildCheckout } from "./checkout.ts";
 import { entitlementIsActive } from "./entitlement.ts";
 import { publicVerifiedTransaction, publicWebhookFields, txRefFor, type PaymentRow, type VerifiedTx } from "./fields.ts";
+import { formatMoney, moneyEqual, toMinorUnits } from "./money.ts";
+import { CURRENCY_TABLE, planForAmount } from "./plans.ts";
 import { browserPaymentReference, confirmationStatus, verifySignedInPayment } from "./verify.ts";
 import { finalizeVerifiedCharge, handleWebhook, premiumFromState, type WebhookState } from "./webhook.ts";
 
@@ -629,6 +632,140 @@ test("a provider outage does not cancel a pending checkout", async () => {
   });
   assert.equal(kept.write, null);
   assert.equal(kept.state.payments[0]?.status, "successful");
+});
+
+test("decimal EUR and GBP amounts match in minor units", async () => {
+  assert.equal(moneyEqual(4.49, "4.490"), true);
+  assert.equal(moneyEqual("35.99", 35.99), true);
+  assert.equal(moneyEqual("3.99", "3.9900"), true);
+  assert.equal(moneyEqual(29.99, "29.99"), true);
+  assert.equal(moneyEqual(29.99, 30), false);
+  assert.equal(moneyEqual(4.49, 4.5), false);
+  assert.equal(toMinorUnits(1.005), null);
+  assert.equal(moneyEqual(1.005, 1.01), false);
+  assert.equal(formatMoney(2500), "2,500");
+  assert.equal(formatMoney(5), "5");
+  assert.equal(formatMoney(4.49), "4.49");
+  assert.equal(formatMoney(35.99), "35.99");
+  assert.equal(formatMoney(3.99), "3.99");
+  assert.equal(formatMoney(29.99), "29.99");
+  assert.equal(CURRENCY_TABLE.USD.monthlyMinor, 500);
+  assert.equal(CURRENCY_TABLE.USD.yearlyMinor, 4_000);
+  assert.equal(CURRENCY_TABLE.NGN.monthlyMinor, 250_000);
+  assert.equal(CURRENCY_TABLE.NGN.yearlyMinor, 2_500_000);
+  assert.equal(CURRENCY_TABLE.NGN.note.includes("246246"), true);
+  assert.equal(CURRENCY_TABLE.NGN.note.includes("246244"), true);
+  assert.equal(CURRENCY_TABLE.NGN.priceStatus, "APPROVED");
+  assert.equal(CURRENCY_TABLE.USD.priceStatus, "APPROVED");
+  assert.equal(CURRENCY_TABLE.GHS.monthlyMinor, 2_500);
+  assert.equal(CURRENCY_TABLE.GHS.yearlyMinor, 20_000);
+  assert.equal(CURRENCY_TABLE.KES.monthlyMinor, 25_000);
+  assert.equal(CURRENCY_TABLE.KES.yearlyMinor, 200_000);
+  assert.equal(CURRENCY_TABLE.ZAR.monthlyMinor, 4_000);
+  assert.equal(CURRENCY_TABLE.ZAR.yearlyMinor, 32_000);
+  assert.equal(CURRENCY_TABLE.UGX.monthlyMinor, 700_000);
+  assert.equal(CURRENCY_TABLE.UGX.yearlyMinor, 5_500_000);
+  assert.equal(CURRENCY_TABLE.TZS.monthlyMinor, 450_000);
+  assert.equal(CURRENCY_TABLE.TZS.yearlyMinor, 3_500_000);
+  assert.equal(CURRENCY_TABLE.RWF.monthlyMinor, 700_000);
+  assert.equal(CURRENCY_TABLE.RWF.yearlyMinor, 5_500_000);
+  assert.equal(CURRENCY_TABLE.ZMW.monthlyMinor, 14_000);
+  assert.equal(CURRENCY_TABLE.ZMW.yearlyMinor, 110_000);
+  assert.equal(CURRENCY_TABLE.EGP.monthlyMinor, 25_000);
+  assert.equal(CURRENCY_TABLE.EGP.yearlyMinor, 200_000);
+  assert.equal(CURRENCY_TABLE.MAD.monthlyMinor, 5_000);
+  assert.equal(CURRENCY_TABLE.MAD.yearlyMinor, 40_000);
+  assert.equal(CURRENCY_TABLE.XOF.monthlyMinor, 300_000);
+  assert.equal(CURRENCY_TABLE.XOF.yearlyMinor, 2_400_000);
+  assert.equal(CURRENCY_TABLE.XAF.monthlyMinor, 300_000);
+  assert.equal(CURRENCY_TABLE.XAF.yearlyMinor, 2_400_000);
+  assert.equal(CURRENCY_TABLE.EUR.enabled, false);
+  assert.equal(CURRENCY_TABLE.GBP.enabled, false);
+  assert.equal(CURRENCY_TABLE.EUR.priceStatus, "UNAPPROVED");
+  assert.equal(CURRENCY_TABLE.GBP.priceStatus, "UNAPPROVED");
+
+  // Simulates a future approved, enabled EUR / GBP row only to exercise decimal amounts.
+  const previousEur = { enabled: CURRENCY_TABLE.EUR.enabled, priceStatus: CURRENCY_TABLE.EUR.priceStatus };
+  const previousGbp = { enabled: CURRENCY_TABLE.GBP.enabled, priceStatus: CURRENCY_TABLE.GBP.priceStatus };
+  CURRENCY_TABLE.EUR.enabled = true;
+  CURRENCY_TABLE.GBP.enabled = true;
+  CURRENCY_TABLE.EUR.priceStatus = "APPROVED";
+  CURRENCY_TABLE.GBP.priceStatus = "APPROVED";
+  env.FLW_PLAN_MONTHLY_EUR = "401";
+  env.FLW_PLAN_YEARLY_EUR = "402";
+  env.FLW_PLAN_MONTHLY_GBP = "501";
+  env.FLW_PLAN_YEARLY_GBP = "502";
+  try {
+    const buyer = { id: USER, email: EMAIL };
+    const gbp = buildCheckout({
+      user: buyer,
+      body: { plan: "premium_yearly", currency: "local", amount: 1, country: "US" },
+      env,
+      countryHeader: "GB",
+      requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+    });
+    assert.equal(gbp.ok, true);
+    if (!gbp.ok) return;
+    assert.equal(JSON.stringify(gbp.providerBody.amount), "29.99");
+    assert.equal(gbp.providerBody.payment_plan, 502);
+    assert.equal(gbp.pending.currency, "GBP");
+    assert.equal(formatMoney(gbp.pending.amount), "29.99");
+    assert.equal(moneyEqual(gbp.pending.amount, "29.990"), true);
+
+    const eur = buildCheckout({
+      user: buyer,
+      body: { plan: "premium_monthly", currency: "local" },
+      env,
+      countryHeader: "FR",
+      requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+    });
+    assert.equal(eur.ok, true);
+    if (!eur.ok) return;
+    assert.equal(JSON.stringify(eur.providerBody.amount), "4.49");
+    assert.equal(eur.providerBody.payment_plan, 401);
+    assert.equal(formatMoney(eur.pending.amount), "4.49");
+
+    const parsed = publicVerifiedTransaction({
+      status: "success",
+      data: {
+        id: 88,
+        tx_ref: eur.txRef,
+        amount: "4.490",
+        currency: "EUR",
+        status: "successful",
+        payment_plan: 401,
+        meta: { user_id: USER, plan: "premium_monthly" },
+      },
+    });
+    assert.ok(parsed);
+    if (!parsed) return;
+    assert.equal(moneyEqual(parsed.amount, eur.pending.amount), true);
+    const state = blank();
+    state.payments.push(eur.pending);
+    const granted = await charge(state, { ...parsed, email: EMAIL });
+    assert.equal(granted.body.granted, true);
+    assert.equal(granted.state.payments[0]?.status, "successful");
+
+    const off = blank();
+    off.payments.push(eur.pending);
+    const penny = await verifyCall(off, { ...parsed, amount: 4.5, email: EMAIL }, signer);
+    assert.equal(penny.body.granted, false);
+    assert.equal(penny.body.reason, "amount");
+
+    const yearly = planForAmount("35.99", "EUR", env);
+    assert.equal(yearly?.plan, "premium_yearly");
+    assert.equal(yearly ? JSON.stringify(yearly.amount) : "", "35.99");
+    assert.equal(formatMoney(yearly?.amount ?? 0), "35.99");
+    assert.equal(planForAmount(35.98, "EUR", env), null);
+    assert.equal(planForAmount("4.49", "EUR", env)?.plan, "premium_monthly");
+  } finally {
+    Object.assign(CURRENCY_TABLE.EUR, previousEur);
+    Object.assign(CURRENCY_TABLE.GBP, previousGbp);
+    delete env.FLW_PLAN_MONTHLY_EUR;
+    delete env.FLW_PLAN_YEARLY_EUR;
+    delete env.FLW_PLAN_MONTHLY_GBP;
+    delete env.FLW_PLAN_YEARLY_GBP;
+  }
 });
 
 test("expired not active", () => {

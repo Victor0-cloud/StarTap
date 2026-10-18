@@ -9,7 +9,8 @@
     { "source": "/api/flutterwave/webhook", "destination": "/api/flutterwave/webhook/" },
     { "source": "/api/flutterwave/create-checkout", "destination": "/api/flutterwave/create-checkout/" },
     { "source": "/api/flutterwave/verify-payment", "destination": "/api/flutterwave/verify-payment/" },
-    { "source": "/api/subscription/status", "destination": "/api/subscription/status/" }
+    { "source": "/api/subscription/status", "destination": "/api/subscription/status/" },
+    { "source": "/api/pricing", "destination": "/api/pricing/" }
   ],
   "headers": [
     {
