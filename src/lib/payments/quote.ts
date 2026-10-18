@@ -1,6 +1,6 @@
 /** What the browser may see. Payment-plan ids stay on the server. */
 export type PriceQuoteView = {
-  priceStatus: "UNAPPROVED";
+  priceStatus: "APPROVED" | "UNAPPROVED";
   country: string | null;
   localCurrency: string;
   currency: string;
@@ -13,7 +13,7 @@ export type PriceQuoteView = {
 export function isPriceQuoteView(value: unknown): value is PriceQuoteView {
   if (value === null || typeof value !== "object") return false;
   const row = value as Partial<PriceQuoteView>;
-  return row.priceStatus === "UNAPPROVED"
+  return (row.priceStatus === "APPROVED" || row.priceStatus === "UNAPPROVED")
     && typeof row.currency === "string"
     && typeof row.localCurrency === "string"
     && typeof row.usdFallback === "boolean"

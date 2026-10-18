@@ -654,7 +654,9 @@ test("decimal EUR and GBP amounts match in minor units", async () => {
   assert.equal(CURRENCY_TABLE.NGN.monthlyMinor, 250_000);
   assert.equal(CURRENCY_TABLE.NGN.yearlyMinor, 2_500_000);
   assert.equal(CURRENCY_TABLE.NGN.note.includes("246246"), true);
-  assert.equal(CURRENCY_TABLE.NGN.note.includes("20000"), true);
+  assert.equal(CURRENCY_TABLE.NGN.note.includes("246244"), true);
+  assert.equal(CURRENCY_TABLE.NGN.priceStatus, "APPROVED");
+  assert.equal(CURRENCY_TABLE.USD.priceStatus, "APPROVED");
   assert.equal(CURRENCY_TABLE.GHS.monthlyMinor, 2_500);
   assert.equal(CURRENCY_TABLE.GHS.yearlyMinor, 20_000);
   assert.equal(CURRENCY_TABLE.KES.monthlyMinor, 25_000);
@@ -679,11 +681,16 @@ test("decimal EUR and GBP amounts match in minor units", async () => {
   assert.equal(CURRENCY_TABLE.XAF.yearlyMinor, 2_400_000);
   assert.equal(CURRENCY_TABLE.EUR.enabled, false);
   assert.equal(CURRENCY_TABLE.GBP.enabled, false);
+  assert.equal(CURRENCY_TABLE.EUR.priceStatus, "UNAPPROVED");
+  assert.equal(CURRENCY_TABLE.GBP.priceStatus, "UNAPPROVED");
 
-  const previousEur = CURRENCY_TABLE.EUR.enabled;
-  const previousGbp = CURRENCY_TABLE.GBP.enabled;
+  // Simulates a future approved, enabled EUR / GBP row only to exercise decimal amounts.
+  const previousEur = { enabled: CURRENCY_TABLE.EUR.enabled, priceStatus: CURRENCY_TABLE.EUR.priceStatus };
+  const previousGbp = { enabled: CURRENCY_TABLE.GBP.enabled, priceStatus: CURRENCY_TABLE.GBP.priceStatus };
   CURRENCY_TABLE.EUR.enabled = true;
   CURRENCY_TABLE.GBP.enabled = true;
+  CURRENCY_TABLE.EUR.priceStatus = "APPROVED";
+  CURRENCY_TABLE.GBP.priceStatus = "APPROVED";
   env.FLW_PLAN_MONTHLY_EUR = "401";
   env.FLW_PLAN_YEARLY_EUR = "402";
   env.FLW_PLAN_MONTHLY_GBP = "501";
@@ -752,8 +759,8 @@ test("decimal EUR and GBP amounts match in minor units", async () => {
     assert.equal(planForAmount(35.98, "EUR", env), null);
     assert.equal(planForAmount("4.49", "EUR", env)?.plan, "premium_monthly");
   } finally {
-    CURRENCY_TABLE.EUR.enabled = previousEur;
-    CURRENCY_TABLE.GBP.enabled = previousGbp;
+    Object.assign(CURRENCY_TABLE.EUR, previousEur);
+    Object.assign(CURRENCY_TABLE.GBP, previousGbp);
     delete env.FLW_PLAN_MONTHLY_EUR;
     delete env.FLW_PLAN_YEARLY_EUR;
     delete env.FLW_PLAN_MONTHLY_GBP;

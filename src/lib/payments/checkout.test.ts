@@ -4,7 +4,7 @@ import { buildCheckout, createCheckout } from "./checkout.ts";
 import { paymentsLive } from "./env.ts";
 import { txRefFor } from "./fields.ts";
 import { hostedLink, requestHostedLink, requestVerificationByReference } from "./flutterwave.ts";
-import { PRICE_APPROVAL } from "./plans.ts";
+import { priceStatusFor } from "./plans.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
 const user = { id: USER, email: "Player@StarTap.fun" };
@@ -35,7 +35,9 @@ test("payments stay off unless the flag and every required variable are set", ()
   assert.equal(paymentsLive(usdOnly), true);
   assert.equal(paymentsLive({ ...env, FLW_PLAN_MONTHLY_USD: "" }), false);
   assert.equal(paymentsLive({ ...env, FLW_PLAN_YEARLY_USD: "nope" }), false);
-  assert.equal(PRICE_APPROVAL, "UNAPPROVED");
+  assert.equal(priceStatusFor("USD"), "APPROVED");
+  assert.equal(priceStatusFor("NGN"), "APPROVED");
+  assert.equal(priceStatusFor("GHS"), "UNAPPROVED");
 });
 
 test("fake plan rejected", () => {

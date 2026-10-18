@@ -1,5 +1,5 @@
 import { paymentsLive } from "./env.ts";
-import { currencyChargeable, isPlanId, PRICE_APPROVAL, resolvePlan, type CurrencyCode, type ResolvedPlan } from "./plans.ts";
+import { currencyChargeable, isPlanId, resolvePlan, type CurrencyCode, type ResolvedPlan } from "./plans.ts";
 import type { PriceQuoteView } from "./quote.ts";
 
 export type PricePreference = "local" | "USD" | "absent";
@@ -102,7 +102,8 @@ export function resolveQuote(input: {
   if (!monthly || !yearly) return { ok: false, status: 503, error: "Payments are not available" };
   const selected = input.plan === undefined ? null : input.plan === "premium_monthly" ? monthly : yearly;
   const quote: PriceQuote = {
-    priceStatus: PRICE_APPROVAL,
+    // Both sides come from the same row, so they share its status.
+    priceStatus: monthly.priceStatus === "APPROVED" && yearly.priceStatus === "APPROVED" ? "APPROVED" : "UNAPPROVED",
     country,
     localCurrency,
     currency,

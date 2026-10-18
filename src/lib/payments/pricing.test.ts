@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { buildCheckout } from "./checkout.ts";
 import { paymentsLive } from "./env.ts";
-import { CURRENCY_TABLE } from "./plans.ts";
+import { CURRENCY_CODES, CURRENCY_TABLE, currencyChargeable, resolvePlan } from "./plans.ts";
 import { COUNTRY_CURRENCY, readPreference, resolveCountry, resolveQuote, toPublicQuote } from "./pricing.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
@@ -55,7 +55,7 @@ test("country resolution uses the platform header, then USD", () => {
   assert.equal(nigeria.quote.yearly.amount, 25000);
   assert.equal(nigeria.quote.usdFallback, false);
   assert.equal(nigeria.quote.localAvailable, true);
-  assert.equal(nigeria.quote.priceStatus, "UNAPPROVED");
+  assert.equal(nigeria.quote.priceStatus, "APPROVED");
 
   const unknown = resolveQuote({ env, countryHeader: "ZZ", preference: "absent" });
   assert.equal(unknown.ok, true);
@@ -65,6 +65,38 @@ test("country resolution uses the platform header, then USD", () => {
   assert.equal(unknown.quote.monthly.amount, 5);
   assert.equal(unknown.quote.yearly.amount, 40);
   assert.equal(unknown.quote.usdFallback, false);
+  assert.equal(unknown.quote.priceStatus, "APPROVED");
+});
+
+test("only USD and NGN carry approved final prices; every other row is a disabled placeholder", () => {
+  assert.deepEqual(
+    { status: CURRENCY_TABLE.USD.priceStatus, monthly: CURRENCY_TABLE.USD.monthlyMinor, yearly: CURRENCY_TABLE.USD.yearlyMinor, enabled: CURRENCY_TABLE.USD.enabled },
+    { status: "APPROVED", monthly: 500, yearly: 4_000, enabled: true },
+  );
+  assert.deepEqual(
+    { status: CURRENCY_TABLE.NGN.priceStatus, monthly: CURRENCY_TABLE.NGN.monthlyMinor, yearly: CURRENCY_TABLE.NGN.yearlyMinor, enabled: CURRENCY_TABLE.NGN.enabled },
+    { status: "APPROVED", monthly: 250_000, yearly: 2_500_000, enabled: true },
+  );
+  for (const code of CURRENCY_CODES) {
+    const row = CURRENCY_TABLE[code];
+    // Approved is not live-verified. Both stay false until Flutterwave LIVE is confirmed.
+    assert.equal(row.recurringVerified, false, code);
+    assert.equal(row.liveVerified, false, code);
+    if (code === "USD" || code === "NGN") {
+      assert.match(row.note, /APPROVED final price/, code);
+      assert.doesNotMatch(row.note, /UNAPPROVED|placeholder/i, code);
+      continue;
+    }
+    assert.equal(row.priceStatus, "UNAPPROVED", code);
+    assert.equal(row.enabled, false, code);
+    assert.match(row.note, /UNAPPROVED placeholder/, code);
+    // A plan id alone never makes an unapproved row chargeable.
+    const withPlans = { ...env, [`FLW_PLAN_MONTHLY_${code}`]: "301", [`FLW_PLAN_YEARLY_${code}`]: "302" };
+    assert.equal(currencyChargeable(code, withPlans), false, code);
+    assert.equal(resolvePlan("premium_monthly", code, withPlans), null, code);
+  }
+  assert.equal(resolvePlan("premium_yearly", "NGN", env)?.priceStatus, "APPROVED");
+  assert.equal(resolvePlan("premium_monthly", "USD", env)?.priceStatus, "APPROVED");
 });
 
 test("client currency, amount and country cannot choose the charge", () => {
@@ -88,7 +120,7 @@ test("client currency, amount and country cannot choose the charge", () => {
   assert.equal(tampered.pending.currency, "NGN");
   assert.equal(tampered.providerBody.payment_plan, 101);
   assert.equal(JSON.stringify(toPublicQuote({
-    priceStatus: "UNAPPROVED",
+    priceStatus: "APPROVED",
     country: "NG",
     localCurrency: "NGN",
     currency: "NGN",

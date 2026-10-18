@@ -90,7 +90,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView }) {
           <p className="eyebrow">✦ STARTAP PREMIUM</p>
           <h1>PLAY THE <em>WHOLE SKY.</em></h1>
           <p className={styles.lede}>Today&apos;s Five stays free. Premium opens every world, unlimited Play Five, the Adventure of Wonders, and the full history of your game.</p>
-          <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>
+          {quote.priceStatus !== "APPROVED" && <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>}
         </div>
         <Image className={styles.globe} src="/globe-hero.svg" width={1024} height={768} alt="" priority />
       </section>
@@ -129,7 +129,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView }) {
                 <button type="button" className="secondary-button" aria-pressed={choice === "USD"} onClick={() => chooseCurrency("USD")}>USD</button>
               </>}
             </div>
-            <p>{formatMoney(selected.amount)} {selected.currency} · {selected.per} · {shown.priceStatus}</p>
+            <p>{formatMoney(selected.amount)} {selected.currency} · {selected.per}{shown.priceStatus !== "APPROVED" ? ` · ${shown.priceStatus}` : ""}</p>
             {shown.usdFallback && <p>Local currency isn&apos;t available yet. This is the USD price.</p>}
             <button className="primary-button" type="button" disabled={busy || access.loading} onClick={go}>{busy ? "OPENING CHECKOUT…" : "GO PREMIUM"}</button>
             {message && <p role="status">{message}</p>}
