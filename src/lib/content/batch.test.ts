@@ -17,10 +17,10 @@ const added = content.questions.filter(q => ids.has(q.id));
 const reverified = new Set(batches.flatMap(b => b.entries.filter(e => e.reverify).map(e => e.question.id)));
 
 test("every batch entry is a new person (or a re-verified existing one) with one active, verified question", () => {
- assert.deepEqual(batches.map(b => [b.batch, b.entries.length]), [[1, 30], [2, 30], [3, 25], [4, 50], [5, 50], [6, 50], [7, 50], [8, 50], [9, 2], [10, 32], [11, 47], [12, 92], [13, 87], [14, 50], [15, 37], [16, 65], [17, 114], [18, 16], [19, 48], [20, 40], [21, 40]]);
- assert.equal(added.length, 1005);
+ assert.deepEqual(batches.map(b => [b.batch, b.entries.length]), [[1, 30], [2, 30], [3, 25], [4, 50], [5, 50], [6, 50], [7, 50], [8, 50], [9, 2], [10, 32], [11, 47], [12, 92], [13, 87], [14, 50], [15, 37], [16, 65], [17, 114], [18, 16], [19, 48], [20, 40], [21, 40], [22, 39]]);
+ assert.equal(added.length, 1044);
  assert.equal(reverified.size, 3);
- assert.equal(new Set(added.filter(q => !reverified.has(q.id)).map(q => q.entityId)).size, 1002);
+ assert.equal(new Set(added.filter(q => !reverified.has(q.id)).map(q => q.entityId)).size, 1041);
  for (const q of added.filter(q => reverified.has(q.id))) assert.ok(content.questions.some(o => o.entityId === q.entityId && o.id !== q.id && !ids.has(o.id)), q.id);
  for (const q of added) {
   assert.equal(q.active, true, q.id);
@@ -49,7 +49,7 @@ test("no person appears twice across legacy and new content", () => {
  const norm = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
  const names = content.entities.map(e => norm(e.name));
  assert.equal(new Set(names).size, names.length);
- assert.equal(content.entities.length, 65 + 1002);
+ assert.equal(content.entities.length, 65 + 1041);
 });
 
 test("batches mix question types and add the Middle East region", () => {

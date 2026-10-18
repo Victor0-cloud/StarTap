@@ -1,0 +1,867 @@
+{
+ "ralf-hutter": {
+  "query": "Düsseldorf",
+  "results": [
+   {
+    "lat": 51.2254018,
+    "lon": 6.7763137,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dusseldorf",
+    "display": "Dusseldorf, North Rhine-Westphalia, Germany",
+    "cc": "DE",
+    "osm": "relation/62539"
+   }
+  ]
+ },
+ "ryuichi-sakamoto": {
+  "query": "Tokyo",
+  "results": [
+   {
+    "lat": 35.6768601,
+    "lon": 139.7638947,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tokyo",
+    "display": "Tokyo, Japan",
+    "cc": "JP",
+    "osm": "relation/1543125"
+   }
+  ]
+ },
+ "frankie-knuckles": {
+  "query": "The Bronx, New York",
+  "results": [
+   {
+    "lat": 40.8466508,
+    "lon": -73.8785937,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "The Bronx",
+    "display": "The Bronx, Bronx County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691916"
+   },
+   {
+    "lat": 40.851039,
+    "lon": -73.8402503,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bronx County",
+    "display": "Bronx County, New York, United States",
+    "cc": "US",
+    "osm": "relation/2552450"
+   }
+  ]
+ },
+ "honey-dijon": {
+  "query": "Chicago",
+  "results": [
+   {
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Chicago",
+    "display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122604"
+   }
+  ]
+ },
+ "david-guetta": {
+  "query": "Paris",
+  "results": [
+   {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/71525"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/7444"
+   },
+   {
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Paris",
+    "display": "Paris, Ile-de-France, Metropolitan France, France",
+    "cc": "FR",
+    "osm": "relation/1641193"
+   }
+  ]
+ },
+ "calvin-harris": {
+  "query": "Dumfries",
+  "results": [
+   {
+    "lat": 55.0691831,
+    "lon": -3.6106856,
+    "type": "town",
+    "category": "place",
+    "name": "Dumfries",
+    "display": "Dumfries, Dumfries and Galloway, Scotland, DG1 1BL, United Kingdom",
+    "cc": "GB",
+    "osm": "node/11860312402"
+   },
+   {
+    "lat": 55.083333,
+    "lon": -3.833333,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dumfries and Galloway",
+    "display": "Dumfries and Galloway, Scotland, United Kingdom",
+    "cc": "GB",
+    "osm": "relation/1877232"
+   }
+  ]
+ },
+ "avicii": {
+  "query": "Stockholm",
+  "results": [
+   {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "type": "city",
+    "category": "place",
+    "name": "Stockholm",
+    "display": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+    "cc": "SE",
+    "osm": "node/25929985"
+   },
+   {
+    "lat": 59.3336131,
+    "lon": 18.0275091,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Stockholm Municipality",
+    "display": "Stockholm Municipality, Stockholm County, Sweden",
+    "cc": "SE",
+    "osm": "relation/398021"
+   }
+  ]
+ },
+ "tiesto": {
+  "query": "Breda",
+  "results": [
+   {
+    "lat": 51.5887845,
+    "lon": 4.7760237,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Breda",
+    "display": "Breda, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/2712700"
+   },
+   {
+    "lat": 51.5643776,
+    "lon": 4.7802673,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Breda",
+    "display": "Breda, North Brabant, Netherlands",
+    "cc": "NL",
+    "osm": "relation/297129"
+   }
+  ]
+ },
+ "kygo": {
+  "query": "Bergen",
+  "results": [
+   {
+    "lat": 60.3943055,
+    "lon": 5.3259192,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Bergen",
+    "display": "Bergen, Vestland, Norway",
+    "cc": "NO",
+    "osm": "relation/404159"
+   }
+  ]
+ },
+ "nina-kraviz": {
+  "query": "Irkutsk",
+  "results": [
+   {
+    "lat": 52.2891225,
+    "lon": 104.279829,
+    "type": "city",
+    "category": "place",
+    "name": "Irkutsk",
+    "display": "Irkutsk, городской округ Иркутск, Irkutsk Oblast, Siberian Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/1430614"
+   },
+   {
+    "lat": 56.6370122,
+    "lon": 104.719221,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Irkutsk Oblast",
+    "display": "Irkutsk Oblast, Siberian Federal District, Russia",
+    "cc": "RU",
+    "osm": "relation/145454"
+   }
+  ]
+ },
+ "umm-kulthum": {
+  "query": "طماي الزهايرة",
+  "results": [
+   {
+    "lat": 30.9099557,
+    "lon": 31.4703526,
+    "type": "village",
+    "category": "place",
+    "name": "Tamay Ez-Zahayra",
+    "display": "Tamay Ez-Zahayra, Dakahlia Governorate, 35651, Egypt",
+    "cc": "EG",
+    "osm": "node/5593511532"
+   }
+  ]
+ },
+ "khaled": {
+  "query": "Oran",
+  "results": [
+   {
+    "lat": 35.7044415,
+    "lon": -0.6502981,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Oran",
+    "display": "Oran, Oran District, Oran, 31000, Algeria",
+    "cc": "DZ",
+    "osm": "relation/1259562"
+   },
+   {
+    "lat": 35.6215862,
+    "lon": -0.7016143,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Oran",
+    "display": "Oran, 31000, Algeria",
+    "cc": "DZ",
+    "osm": "relation/1259187"
+   }
+  ]
+ },
+ "googoosh": {
+  "query": "Tehran",
+  "results": [
+   {
+    "lat": 35.6892523,
+    "lon": 51.3896004,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tehran",
+    "display": "Tehran, Central Tehran section, Tehran County, Tehran Province, Iran",
+    "cc": "IR",
+    "osm": "relation/6663864"
+   },
+   {
+    "lat": 35.5121097,
+    "lon": 51.8005344,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Tehran Province",
+    "display": "Tehran Province, Iran",
+    "cc": "IR",
+    "osm": "relation/537701"
+   }
+  ]
+ },
+ "sezen-aksu": {
+  "query": "İzmir",
+  "results": [
+   {
+    "lat": 38.4192537,
+    "lon": 27.128469,
+    "type": "city",
+    "category": "place",
+    "name": "İzmir",
+    "display": "İzmir, Konak, Izmir, Aegean Region, 35250, Turkey",
+    "cc": "TR",
+    "osm": "node/428039507"
+   },
+   {
+    "lat": 38.23166,
+    "lon": 27.02997,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Izmir",
+    "display": "Izmir, Aegean Region, Turkey",
+    "cc": "TR",
+    "osm": "relation/223167"
+   }
+  ]
+ },
+ "teresa-teng": {
+  "query": "Baozhong Township, Yunlin",
+  "results": [
+   {
+    "lat": 23.694245,
+    "lon": 120.310488,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Baozhong Township",
+    "display": "Baozhong Township, Yunlin County, 634, Taiwan",
+    "cc": "TW",
+    "osm": "relation/6748671"
+   }
+  ]
+ },
+ "kyu-sakamoto": {
+  "query": "Kawasaki, Kanagawa",
+  "results": [
+   {
+    "lat": 35.5306639,
+    "lon": 139.7037668,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kawasaki",
+    "display": "Kawasaki, Kanagawa Prefecture, Japan",
+    "cc": "JP",
+    "osm": "relation/2689476"
+   }
+  ]
+ },
+ "celia-cruz": {
+  "query": "Havana",
+  "results": [
+   {
+    "lat": 23.135305,
+    "lon": -82.3589631,
+    "type": "city",
+    "category": "place",
+    "name": "Havana",
+    "display": "Havana, 10000, Cuba",
+    "cc": "CU",
+    "osm": "node/26396457"
+   },
+   {
+    "lat": 23.1597566,
+    "lon": -82.3478839,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Havana",
+    "display": "Havana, Cuba",
+    "cc": "CU",
+    "osm": "relation/1854615"
+   }
+  ]
+ },
+ "mercedes-sosa": {
+  "query": "San Miguel de Tucumán",
+  "results": [
+   {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "San Miguel de Tucumán",
+    "display": "San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+    "cc": "AR",
+    "osm": "relation/3486117"
+   }
+  ]
+ },
+ "caetano-veloso": {
+  "query": "Santo Amaro, Bahia",
+  "results": [
+   {
+    "lat": -12.5519686,
+    "lon": -38.7060448,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Santo Amaro",
+    "display": "Santo Amaro, Bahia, Northeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/362158"
+   },
+   {
+    "lat": -12.5282937,
+    "lon": -38.7623775,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Santo Amaro",
+    "display": "Santo Amaro, Bahia, Northeast Region, Brazil",
+    "cc": "BR",
+    "osm": "relation/6234476"
+   }
+  ]
+ },
+ "edith-piaf": {
+  "query": "Hôpital Tenon, Paris",
+  "results": [
+   {
+    "lat": 48.8663567,
+    "lon": 2.4015104,
+    "type": "hospital",
+    "category": "amenity",
+    "name": "Hôpital Tenon",
+    "display": "Hôpital Tenon, Rue Belgrand, Quartier du Père-Lachaise, 20th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75020, France",
+    "cc": "FR",
+    "osm": "way/14577452"
+   },
+   {
+    "lat": 48.8659357,
+    "lon": 2.4004992,
+    "type": "bus_stop",
+    "category": "highway",
+    "name": "Hôpital Tenon",
+    "display": "Hôpital Tenon, Rue de la Chine, Quartier du Père-Lachaise, 20th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75020, France",
+    "cc": "FR",
+    "osm": "node/1577028194"
+   },
+   {
+    "lat": 48.8648663,
+    "lon": 2.4009404,
+    "type": "bus_stop",
+    "category": "highway",
+    "name": "Hôpital Tenon",
+    "display": "Hôpital Tenon, Rue Belgrand, Quartier du Père-Lachaise, 20th Arrondissement, Paris, Ile-de-France, Metropolitan France, 75020, France",
+    "cc": "FR",
+    "osm": "node/4754579332"
+   }
+  ]
+ },
+ "hugh-masekela": {
+  "query": "eMalahleni, Mpumalanga",
+  "results": [
+   {
+    "lat": -25.8762409,
+    "lon": 29.2099962,
+    "type": "city",
+    "category": "place",
+    "name": "eMalahleni",
+    "display": "eMalahleni, Emalahleni Local Municipality, Nkangala, Mpumalanga, 1034, South Africa",
+    "cc": "ZA",
+    "osm": "node/30324159"
+   }
+  ]
+ },
+ "brenda-fassie": {
+  "query": "Langa, Cape Town",
+  "results": [
+   {
+    "lat": -33.9455556,
+    "lon": 18.53,
+    "type": "suburb",
+    "category": "place",
+    "name": "Langa",
+    "display": "Langa, Cape Town, City of Cape Town, Western Cape, 7455, South Africa",
+    "cc": "ZA",
+    "osm": "relation/2043562"
+   }
+  ]
+ },
+ "franco-luambo": {
+  "query": "Sona-Bata",
+  "results": [
+   {
+    "lat": -4.9053974,
+    "lon": 15.1616089,
+    "type": "town",
+    "category": "place",
+    "name": "Sona-Bata",
+    "display": "Sona-Bata, Kasangulu, Kongo Central, Democratic Republic of the Congo",
+    "cc": "CD",
+    "osm": "node/435680651"
+   },
+   {
+    "lat": -4.8278284,
+    "lon": 15.2962962,
+    "type": "health",
+    "category": "boundary",
+    "name": "Sona-Bata",
+    "display": "Sona-Bata, Madimba, Kongo Central, Democratic Republic of the Congo",
+    "cc": "CD",
+    "osm": "relation/10753680"
+   },
+   {
+    "lat": -4.4570528,
+    "lon": 15.3717301,
+    "type": "residential",
+    "category": "highway",
+    "name": "Sona-Bata",
+    "display": "Sona-Bata, Kimbanseke, Kinshasa, Democratic Republic of the Congo",
+    "cc": "CD",
+    "osm": "way/435936298"
+   }
+  ]
+ },
+ "mbilia-bel": {
+  "query": "Kinshasa",
+  "results": [
+   {
+    "lat": -4.3196982,
+    "lon": 15.3424196,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kinshasa",
+    "display": "Kinshasa, Democratic Republic of the Congo",
+    "cc": "CD",
+    "osm": "relation/5646651"
+   },
+   {
+    "lat": -4.32171,
+    "lon": 15.3122511,
+    "type": "city",
+    "category": "place",
+    "name": "Kinshasa",
+    "display": "Kinshasa, Aketi, Kinshasa, Democratic Republic of the Congo",
+    "cc": "CD",
+    "osm": "node/27043346"
+   },
+   {
+    "lat": -4.3219402,
+    "lon": 15.3118474,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Kinshasa",
+    "display": "Kinshasa, Democratic Republic of the Congo",
+    "cc": "CD",
+    "osm": "relation/388103"
+   }
+  ]
+ },
+ "salif-keita": {
+  "query": "Djoliba, Mali",
+  "results": [
+   {
+    "lat": 12.3421627,
+    "lon": -8.1408298,
+    "type": "town",
+    "category": "place",
+    "name": "Djoliba",
+    "display": "Djoliba, Kati Cercle, Koulikoro, Mali",
+    "cc": "ML",
+    "osm": "node/7779421462"
+   }
+  ]
+ },
+ "manu-dibango": {
+  "query": "Douala",
+  "results": [
+   {
+    "lat": 4.0429389,
+    "lon": 9.7062018,
+    "type": "city",
+    "category": "place",
+    "name": "Douala",
+    "display": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroon",
+    "cc": "CM",
+    "osm": "node/732125487"
+   },
+   {
+    "lat": 4.055897,
+    "lon": 9.6670278,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Communauté urbaine de Douala",
+    "display": "Communauté urbaine de Douala, Wouri, Littoral, Cameroon",
+    "cc": "CM",
+    "osm": "relation/3832073"
+   }
+  ]
+ },
+ "oliver-mtukudzi": {
+  "query": "Highfield, Harare",
+  "results": [
+   {
+    "lat": -17.8913239,
+    "lon": 30.9860534,
+    "type": "suburb",
+    "category": "place",
+    "name": "Highfield",
+    "display": "Highfield, Harare, Zimbabwe",
+    "cc": "ZW",
+    "osm": "node/4103119043"
+   }
+  ]
+ },
+ "mulatu-astatke": {
+  "query": "Jimma",
+  "results": [
+   {
+    "lat": 7.6756152,
+    "lon": 36.8478779,
+    "type": "city",
+    "category": "place",
+    "name": "Jimma",
+    "display": "Jimma, Oromia Region, Ethiopia",
+    "cc": "ET",
+    "osm": "node/2503575146"
+   },
+   {
+    "lat": 8.0494818,
+    "lon": 37.1273298,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Jimma",
+    "display": "Jimma, Oromia Region, Ethiopia",
+    "cc": "ET",
+    "osm": "relation/3306207"
+   }
+  ]
+ },
+ "e-t-mensah": {
+  "query": "Accra",
+  "results": [
+   {
+    "lat": 5.5571096,
+    "lon": -0.2012376,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Accra",
+    "display": "Accra, Korle-Klottey Municipal District, Greater Accra Region, Ghana",
+    "cc": "GH",
+    "osm": "relation/12803764"
+   }
+  ]
+ },
+ "luther-vandross": {
+  "query": "Lower East Side, Manhattan",
+  "results": [
+   {
+    "lat": 40.7159357,
+    "lon": -73.9868057,
+    "type": "neighbourhood",
+    "category": "place",
+    "name": "Lower East Side",
+    "display": "Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+    "cc": "US",
+    "osm": "node/158853595"
+   }
+  ]
+ },
+ "chaka-khan": {
+  "query": "Kenwood Academy, Chicago",
+  "results": [
+   {
+    "lat": 41.8039551,
+    "lon": -87.5895086,
+    "type": "school",
+    "category": "amenity",
+    "name": "Kenwood Academy",
+    "display": "Kenwood Academy, 5015, South Blackstone Avenue, Indian Village, Kenwood, Chicago, Hyde Park Township, Cook County, Illinois, 60615, United States",
+    "cc": "US",
+    "osm": "way/184864539"
+   },
+   {
+    "lat": 41.8034111,
+    "lon": -87.5898449,
+    "type": "school",
+    "category": "building",
+    "name": "Kenwood Academy",
+    "display": "Kenwood Academy, 5015, South Blackstone Avenue, Indian Village, Kenwood, Chicago, Hyde Park Township, Cook County, Illinois, 60615, United States",
+    "cc": "US",
+    "osm": "relation/1954441"
+   }
+  ]
+ },
+ "patti-labelle": {
+  "query": "Southwest Philadelphia",
+  "results": [
+   {
+    "lat": 39.9130945,
+    "lon": -75.2433102,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Southwest Philadelphia",
+    "display": "Southwest Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",
+    "cc": "US",
+    "osm": "relation/18973880"
+   }
+  ]
+ },
+ "babyface": {
+  "query": "Indianapolis",
+  "results": [
+   {
+    "lat": 39.7683331,
+    "lon": -86.1583502,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Indianapolis",
+    "display": "Indianapolis, Center Township, Marion County, Indiana, United States",
+    "cc": "US",
+    "osm": "relation/18438530"
+   }
+  ]
+ },
+ "toni-braxton": {
+  "query": "Severn, Maryland",
+  "results": [
+   {
+    "lat": 39.1354665,
+    "lon": -76.7006238,
+    "type": "statistical",
+    "category": "boundary",
+    "name": "Severn",
+    "display": "Severn, Anne Arundel County, Maryland, United States",
+    "cc": "US",
+    "osm": "relation/13381563"
+   },
+   {
+    "lat": 39.1278864,
+    "lon": -76.6869128,
+    "type": "town",
+    "category": "place",
+    "name": "Severn",
+    "display": "Severn, Anne Arundel County, Maryland, 21144, United States",
+    "cc": "US",
+    "osm": "node/157574730"
+   },
+   {
+    "lat": 39.1370528,
+    "lon": -76.6983022,
+    "type": "hamlet",
+    "category": "place",
+    "name": "Severn",
+    "display": "Severn, Anne Arundel County, Maryland, 21144, United States",
+    "cc": "US",
+    "osm": "node/158611161"
+   }
+  ]
+ },
+ "d-angelo": {
+  "query": "Richmond, Virginia",
+  "results": [
+   {
+    "lat": 37.5385087,
+    "lon": -77.43428,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Richmond",
+    "display": "Richmond, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/3864712"
+   },
+   {
+    "lat": 37.9476108,
+    "lon": -76.7161921,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Richmond County",
+    "display": "Richmond County, Virginia, United States",
+    "cc": "US",
+    "osm": "relation/2534202"
+   }
+  ]
+ },
+ "maxwell": {
+  "query": "Brooklyn",
+  "results": [
+   {
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Kings County, New York, United States",
+    "cc": "US",
+    "osm": "relation/9691750"
+   },
+   {
+    "lat": 38.657181,
+    "lon": -90.1670585,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Saint Clair County, Illinois, United States",
+    "cc": "US",
+    "osm": "relation/122952"
+   },
+   {
+    "lat": 41.7286464,
+    "lon": -92.4455938,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Brooklyn",
+    "display": "Brooklyn, Bear Creek Township, Poweshiek County, Iowa, United States",
+    "cc": "US",
+    "osm": "relation/128863"
+   }
+  ]
+ },
+ "lauryn-hill": {
+  "query": "South Orange, New Jersey",
+  "results": [
+   {
+    "lat": 40.7474966,
+    "lon": -74.2635376,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "South Orange",
+    "display": "South Orange, Essex County, New Jersey, 07079, United States",
+    "cc": "US",
+    "osm": "relation/170782"
+   }
+  ]
+ },
+ "sade": {
+  "query": "Ibadan",
+  "results": [
+   {
+    "lat": 7.3783681,
+    "lon": 3.8972331,
+    "type": "city",
+    "category": "place",
+    "name": "Ibadan",
+    "display": "Ibadan, Ibadan South West, Oyo State, 234102, Nigeria",
+    "cc": "NG",
+    "osm": "node/27565066"
+   },
+   {
+    "lat": 10.844983,
+    "lon": 4.021152,
+    "type": "village",
+    "category": "place",
+    "name": "Ibadan",
+    "display": "Ibadan, Borgu, Niger State, Nigeria",
+    "cc": "NG",
+    "osm": "node/501510226"
+   }
+  ]
+ },
+ "erykah-badu": {
+  "query": "Dallas, Texas",
+  "results": [
+   {
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas",
+    "display": "Dallas, Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6571629"
+   },
+   {
+    "lat": 32.7620405,
+    "lon": -96.7790069,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas County",
+    "display": "Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837698"
+   }
+  ]
+ }
+}

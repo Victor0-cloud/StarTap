@@ -7071,5 +7071,1875 @@
     "Batch 21."
    ]
   }
+ },
+ {
+  "id": "ralf-hutter-dusseldorf",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "career_location",
+  "difficulty": "medium",
+  "displayCategory": "Electronic",
+  "chapter": "The studio years",
+  "question": "Kraftwerk co-founder Ralf Hütter built the band's Kling Klang studio in which German city?",
+  "clue": "On the Rhine, capital of North Rhine-Westphalia.",
+  "hint": "Its old town is called 'the longest bar in the world'.",
+  "answer": {
+   "city": "Düsseldorf",
+   "country": "Germany",
+   "countryCode": "DE",
+   "latitude": 51.2254,
+   "longitude": 6.7763,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/62539"
+  },
+  "story": "Ralf Hütter and Florian Schneider founded Kraftwerk's Kling Klang studio in downtown Düsseldorf, the band's native city.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/arts/trans-europe-finesse-1.548122",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "They founded their own studio, Kling Klang, in downtown Düsseldorf."
+   },
+   {
+    "url": "https://www.thenationalnews.com/arts/trans-europe-finesse-1.548122",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Another key recent development has been Kraftwerk's relocation to the new Kling Klang studio complex, on an industrial estate close to the group's native Düsseldorf"
+   }
+  ],
+  "entityId": "ralf-hutter",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "ryuichi-sakamoto-tokyo",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Electronic",
+  "chapter": "Where the story began",
+  "question": "Yellow Magic Orchestra's Ryuichi Sakamoto was born in which capital city?",
+  "clue": "The world's largest metropolitan area.",
+  "hint": "Japan's capital.",
+  "answer": {
+   "city": "Tokyo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.6769,
+   "longitude": 139.7639,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1543125"
+  },
+  "story": "Ryuichi Sakamoto was born in Tokyo in 1952; as a teenager he studied the sounds of Japan's commuter trains, presaging his electronic work.",
+  "sources": [
+   {
+    "url": "https://variety.com/2023/music/obituaries-people-news/ryuichi-sakamoto-dead-last-emperor-1235570971/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in Tokyo on January 17, 1952, Sakamoto was something of a child prodigy"
+   },
+   {
+    "url": "https://rafu.com/2023/04/obituary-award-winning-musician-and-composer-ryuichi-sakamoto/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "A native of Tokyo and the son of Kazuki Sakamoto"
+   }
+  ],
+  "entityId": "ryuichi-sakamoto",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "frankie-knuckles-bronx",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Electronic",
+  "chapter": "Where the story began",
+  "question": "Before he became Chicago's 'Godfather of House', Frankie Knuckles was born in which New York City borough?",
+  "clue": "The only NYC borough mostly on the US mainland.",
+  "hint": "Home of Yankee Stadium.",
+  "answer": {
+   "city": "The Bronx",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.8467,
+   "longitude": -73.8786,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691916"
+  },
+  "story": "Born in the Bronx in 1955, Frankie Knuckles DJed in New York before moving to Chicago, where The Warehouse gave house music its name.",
+  "sources": [
+   {
+    "url": "https://www.nme.com/news/music/frankie-knuckles-4-1238544",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in The Bronx in 1955, he began DJing in New York in the early ’70s while he was still a teenager, before he moved to Chicago."
+   },
+   {
+    "url": "https://news.pollstar.com/2014/04/02/house-music-legend-frankie-knuckles-dead-at-59/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Knuckles was born Francis Nicholls on Jan. 18, 1955, in the Bronx."
+   }
+  ],
+  "entityId": "frankie-knuckles",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "honey-dijon-chicago",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Electronic",
+  "chapter": "Growing up",
+  "question": "DJ Honey Dijon grew up on the South Side of which city during house music's heyday?",
+  "clue": "On Lake Michigan; the birthplace of house music.",
+  "hint": "The Windy City.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.8756,
+   "longitude": -87.6244,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/122604"
+  },
+  "story": "Honey Dijon grew up on Chicago's South Side during house music's heyday, and its classic rhythms still guide her sound.",
+  "sources": [
+   {
+    "url": "https://daily.redbullmusicacademy.com/2016/09/honey-dijon-feature/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Honey Redmond grew up on the South Side of Chicago during house music’s heyday"
+   },
+   {
+    "url": "https://www.npr.org/2022/12/28/1145779758/serving-house-music-history-with-honey-dijon",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "You are from Chicago's South Side."
+   }
+  ],
+  "entityId": "honey-dijon",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "david-guetta-paris",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Electronic",
+  "chapter": "Where the story began",
+  "question": "Superstar DJ David Guetta was born in which European capital, where he began in its clubs?",
+  "clue": "On the Seine.",
+  "hint": "The City of Light.",
+  "answer": {
+   "city": "Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8535,
+   "longitude": 2.3484,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/71525"
+  },
+  "story": "David Guetta was born in Paris in 1967 and began his career in Parisian clubs in the late 1980s.",
+  "sources": [
+   {
+    "url": "https://www.stadefrance.com/en/stadium/david-guetta-stade-de-france",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "born on 7 November 1967 in Paris, is undoubtedly one of the most influential DJs and producers on the global music scene."
+   },
+   {
+    "url": "https://www.hellorayo.co.uk/kiss/entertainment/music/david-guetta",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "David Guetta started his career at a nightclub in Paris called Broad Club."
+   }
+  ],
+  "entityId": "david-guetta",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "calvin-harris-dumfries",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Electronic",
+  "chapter": "Where the story began",
+  "question": "Calvin Harris began making electronic music in his bedroom in which Scottish town, where he was born?",
+  "clue": "In south-west Scotland, on the River Nith.",
+  "hint": "It shares its name with its region, '... and Galloway'.",
+  "answer": {
+   "city": "Dumfries",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "latitude": 55.0692,
+   "longitude": -3.6107,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/11860312402"
+  },
+  "story": "Calvin Harris was born Adam Wiles in Dumfries in 1984 and began making electronic music in his bedroom there.",
+  "sources": [
+   {
+    "url": "https://www.scottishnews.com/articles/calvin-harris-at-hampden-from-dumfries-bedroom-dj-to-global-fame",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Behind it all will be Adam Richard Wiles, born in Dumfries on January 17, 1984, before reinventing himself as Calvin Harris"
+   }
+  ],
+  "entityId": "calvin-harris",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "avicii-stockholm",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Electronic",
+  "chapter": "Growing up",
+  "question": "Avicii, the producer behind 'Levels', was a native of which Scandinavian capital?",
+  "clue": "Built on 14 islands.",
+  "hint": "Sweden's capital.",
+  "answer": {
+   "city": "Stockholm",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "latitude": 59.3251,
+   "longitude": 18.0711,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/25929985"
+  },
+  "story": "Avicii (Tim Bergling) was a Stockholm native who crossed into the mainstream with his global hit 'Levels'.",
+  "sources": [
+   {
+    "url": "https://www.djtimes.com/2018/04/swedish-dj-avicii-dead-at-28/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "the Stockholm native would later reach superstar status crossing into the mainstream following his global hit single"
+   }
+  ],
+  "entityId": "avicii",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "tiesto-breda",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Electronic",
+  "chapter": "Where the story began",
+  "question": "Tiësto first DJed at the Sprock club in which Dutch city, where he was born?",
+  "clue": "In North Brabant, near the Belgian border.",
+  "hint": "It starts with 'Bre'.",
+  "answer": {
+   "city": "Breda",
+   "country": "Netherlands",
+   "countryCode": "NL",
+   "latitude": 51.5888,
+   "longitude": 4.776,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2712700"
+  },
+  "story": "Tiësto was born Tijs Verwest in Breda in 1969 and first DJed at a hometown club called the Sprock.",
+  "sources": [
+   {
+    "url": "https://www.qobuz.com/ca-en/interpreter/tiesto/251453",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "A native of Breda, the Netherlands, Tiësto was born Tijs Verwest on January 17, 1969, and first started DJ'ing at a hometown club called the Sprock."
+   }
+  ],
+  "entityId": "tiesto",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "kygo-bergen",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Electronic",
+  "chapter": "Growing up",
+  "question": "Born in Singapore, tropical-house star Kygo grew up in which rainy Norwegian city?",
+  "clue": "Norway's second city, on the west coast.",
+  "hint": "Gateway to the fjords.",
+  "answer": {
+   "city": "Bergen",
+   "country": "Norway",
+   "countryCode": "NO",
+   "latitude": 60.3943,
+   "longitude": 5.3259,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/404159"
+  },
+  "story": "Kygo was born in Singapore, but his family moved to Bergen when he was one, and he grew up there.",
+  "sources": [
+   {
+    "url": "https://www.thegentlemansjournal.com/article/at-home-with-kygo-dj-interview/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "I grew up in Bergen. I was born in Singapore actually. But my family moved here when I was one, and I’ve been living here ever since."
+   }
+  ],
+  "entityId": "kygo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Hometown question: Kygo was born in Singapore and raised in Bergen."
+   ]
+  }
+ },
+ {
+  "id": "nina-kraviz-irkutsk",
+  "primaryCategory": "music",
+  "subcategory": "electronic",
+  "questionType": "hometown",
+  "difficulty": "legend",
+  "displayCategory": "Electronic",
+  "chapter": "Growing up",
+  "question": "Techno DJ Nina Kraviz found her love of techno in which Siberian hometown?",
+  "clue": "On the Angara River, near Lake Baikal.",
+  "hint": "It starts with 'Irk'.",
+  "answer": {
+   "city": "Irkutsk",
+   "country": "Russia",
+   "countryCode": "RU",
+   "latitude": 52.2891,
+   "longitude": 104.2798,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1430614"
+  },
+  "story": "Nina Kraviz found techno in her hometown of Irkutsk, listening to late-night radio, before becoming a DJ and producer.",
+  "sources": [
+   {
+    "url": "https://mixmag.net/artist/nina-kraviz",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kraviz’s found her love of techno in her hometown of Irkutsk, Russia"
+   },
+   {
+    "url": "https://www.interviewmagazine.com/music/how-russian-dj-nina-kraviz-came-to-dominate-the-techno-scene-interview",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Hailing from the riverside city of Irkutsk, Russia"
+   }
+  ],
+  "entityId": "nina-kraviz",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "umm-kulthum-tamay-ez-zahayra",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Umm Kulthum, the voice of the Arab world, was born in which Nile Delta village?",
+  "clue": "In Dakahlia Governorate, near El Senbellawein.",
+  "hint": "Its name starts with 'Tamay'.",
+  "answer": {
+   "city": "Tamay ez-Zahayra",
+   "country": "Egypt",
+   "countryCode": "EG",
+   "latitude": 30.91,
+   "longitude": 31.4704,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/5593511532"
+  },
+  "story": "Umm Kulthum was born in Tamay ez-Zahayra in the Nile Delta, the daughter of an imam, and moved to Cairo in the early 1920s.",
+  "sources": [
+   {
+    "url": "https://musicinafrica.net/directory/umm-kulthum-0/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Place of Birth: Tamay ez-Zahayra, Senbellawein, Dakahlia, Egypt"
+   }
+  ],
+  "entityId": "umm-kulthum",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Geocoded from the village's Arabic name (OSM: Tamay Ez-Zahayra, Dakahlia)."
+   ]
+  }
+ },
+ {
+  "id": "khaled-oran",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Khaled, the 'King of Raï', was born in which Algerian port city — raï's birthplace?",
+  "clue": "On the Mediterranean, close to Morocco.",
+  "hint": "Algeria's second city.",
+  "answer": {
+   "city": "Oran",
+   "country": "Algeria",
+   "countryCode": "DZ",
+   "latitude": 35.7044,
+   "longitude": -0.6503,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/1259562"
+  },
+  "story": "Khaled was born in 1960 in the Algerian seaport of Oran, where he grew up with the accordion and later organised a raï festival.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/friday/2004-11-19-i-was-spat-at-and-called-a-traitor/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Oran is the Algerian seaport, close to the Moroccan frontier, where Khaled Hadj Brahim was born in 1960."
+   },
+   {
+    "url": "https://www.soundonsound.com/people/khaled-algerian-rai-music",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Khaled Hadj Brahim was born on February 29th, 1960, in Oran, an Algerian port"
+   }
+  ],
+  "entityId": "khaled",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "googoosh-tehran",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Iranian pop icon Googoosh was born in which capital city?",
+  "clue": "At the foot of the Alborz mountains.",
+  "hint": "Iran's capital.",
+  "answer": {
+   "city": "Tehran",
+   "country": "Iran",
+   "countryCode": "IR",
+   "latitude": 35.6893,
+   "longitude": 51.3896,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6663864"
+  },
+  "story": "Googoosh was born Faegheh Atashin in Tehran and was acting on stage by the age of three.",
+  "sources": [
+   {
+    "url": "https://daily.redbullmusicacademy.com/2018/04/googoosh-profile/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born Faegheh Atashin to Azerbaijini parents in Tehran, she started acting onstage as early as three years old."
+   }
+  ],
+  "entityId": "googoosh",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "sezen-aksu-izmir",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Global Icons",
+  "chapter": "Growing up",
+  "question": "Sezen Aksu, 'Queen of Turkish Pop', grew up in which Aegean port city?",
+  "clue": "Turkey's third-largest city.",
+  "hint": "Ancient Smyrna.",
+  "answer": {
+   "city": "İzmir",
+   "country": "Turkey",
+   "countryCode": "TR",
+   "latitude": 38.4193,
+   "longitude": 27.1285,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/428039507"
+  },
+  "story": "Born in Sarayköy, Sezen Aksu moved to İzmir at three; she later took music lessons from artists of İzmir Radio.",
+  "sources": [
+   {
+    "url": "https://www.dailysabah.com/portrait/2018/07/28/sezen-aksu-burn-me-burn-you-burn-everything-down/amp",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The Yıldırım family moved from Sarayköy to İzmir when Sezen was three years old."
+   },
+   {
+    "url": "https://www.dailysabah.com/portrait/2018/07/28/sezen-aksu-burn-me-burn-you-burn-everything-down/amp",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "She left school in the second year and began taking music lessons from artists of İzmir Radio."
+   }
+  ],
+  "entityId": "sezen-aksu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Hometown question: born in Sarayköy, Denizli; her family moved to İzmir when she was three."
+   ]
+  }
+ },
+ {
+  "id": "teresa-teng-baozhong",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Teresa Teng was born in which rural township of Yunlin County, Taiwan?",
+  "clue": "In Yunlin County, on Taiwan's western plain.",
+  "hint": "It starts with 'Bao'.",
+  "answer": {
+   "city": "Baozhong",
+   "country": "Taiwan",
+   "countryCode": "TW",
+   "latitude": 23.6942,
+   "longitude": 120.3105,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6748671"
+  },
+  "story": "Teresa Teng was born in Baozhong Township, Yunlin, whose county government held a concert in her memory in 2026.",
+  "sources": [
+   {
+    "url": "https://www.taiwannews.com.tw/news/6280896",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "At a press conference on Monday, Magistrate Chang Li-shan (張麗善) said Teng was born in the county’s Baozhong Township."
+   }
+  ],
+  "entityId": "teresa-teng",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "kyu-sakamoto-kawasaki",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "'Sukiyaki' singer Kyu Sakamoto was born in which city between Tokyo and Yokohama?",
+  "clue": "In Kanagawa Prefecture, on the Tama River.",
+  "hint": "It shares its name with a motorcycle maker.",
+  "answer": {
+   "city": "Kawasaki",
+   "country": "Japan",
+   "countryCode": "JP",
+   "latitude": 35.5307,
+   "longitude": 139.7038,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2689476"
+  },
+  "story": "Kyu Sakamoto was born Hisashi Oshima in Kawasaki in 1941.",
+  "sources": [
+   {
+    "url": "https://doodles.google/doodle/celebrating-kyu-sakamoto/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Kyu Sakamoto was born Hisashi Oshima on December 10th, 1941 in Kawasaki, Japan."
+   }
+  ],
+  "entityId": "kyu-sakamoto",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "celia-cruz-havana",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "hometown",
+  "difficulty": "easy",
+  "displayCategory": "Global Icons",
+  "chapter": "Growing up",
+  "question": "Celia Cruz, the 'Queen of Salsa', studied at the music conservatory of which hometown?",
+  "clue": "A Caribbean capital famous for its vintage cars.",
+  "hint": "Cuba's capital.",
+  "answer": {
+   "city": "Havana",
+   "country": "Cuba",
+   "countryCode": "CU",
+   "latitude": 23.1353,
+   "longitude": -82.359,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/26396457"
+  },
+  "story": "Celia Cruz studied at the Conservatory of Music in her hometown of Havana before fronting the Sonora Matancera.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2003/7/17/salsa-legend-dies",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "The diva of Latin song studied at the Conservatory of Music in her hometown of Havana, sang on Cuban radio programmes and became the lead singer of the legendary Sonora Matancera."
+   }
+  ],
+  "entityId": "celia-cruz",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "mercedes-sosa-tucuman",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Mercedes Sosa, 'the Voice of Latin America', was born in which Argentine city?",
+  "clue": "Capital of Argentina's smallest province.",
+  "hint": "Where Argentina declared independence in 1816.",
+  "answer": {
+   "city": "San Miguel de Tucumán",
+   "country": "Argentina",
+   "countryCode": "AR",
+   "latitude": -26.8304,
+   "longitude": -65.2038,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3486117"
+  },
+  "story": "Mercedes Sosa was born on 9 July 1935 — Argentina's Independence Day — in San Miguel de Tucumán.",
+  "sources": [
+   {
+    "url": "https://www.argentina.gob.ar/node/340628",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Al igual que nuestra independencia Mercedes Haydeé Sosa nació un 9 de julio en San Miguel de Tucumán, pero en el año 1935."
+   }
+  ],
+  "entityId": "mercedes-sosa",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "caetano-veloso-santo-amaro",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Tropicália founder Caetano Veloso was born in which town in Bahia?",
+  "clue": "In the Recôncavo, near Salvador.",
+  "hint": "Its full name ends 'da Purificação'.",
+  "answer": {
+   "city": "Santo Amaro",
+   "country": "Brazil",
+   "countryCode": "BR",
+   "latitude": -12.552,
+   "longitude": -38.706,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/362158"
+  },
+  "story": "Caetano Veloso was born in 1942 in Santo Amaro da Purificação, in the Bahia region of Brazil.",
+  "sources": [
+   {
+    "url": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/caetano-veloso",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Santo Amaro da Purificacao, Bahia, Brazil"
+   },
+   {
+    "url": "https://sites.usp.br/portalatinoamericano/en/espanol-veloso-caetano",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Santo Amaro da Purificação (Brasil), 1942"
+   }
+  ],
+  "entityId": "caetano-veloso",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "edith-piaf-belleville",
+  "primaryCategory": "music",
+  "subcategory": "global-icons",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Global Icons",
+  "chapter": "Where the story began",
+  "question": "Édith Piaf was born in which working-class Paris neighbourhood — the one her famous plaque celebrates?",
+  "clue": "In the 20th arrondissement, in north-east Paris.",
+  "hint": "Its name means 'beautiful town'.",
+  "answer": {
+   "city": "Belleville, Paris",
+   "country": "France",
+   "countryCode": "FR",
+   "latitude": 48.8664,
+   "longitude": 2.4015,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/14577452"
+  },
+  "story": "A plaque on rue de Belleville claims Piaf was born on its steps — a myth. She was actually born nearby, at the Hôpital Tenon.",
+  "sources": [
+   {
+    "url": "https://www.hurriyetdailynews.com/memories-and-melodies-of-piaf-fill-the-paris-air-56035",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Belleville, the still down-at-heel Paris neighbourhood where she was born Edith Giovanna Gassain"
+   },
+   {
+    "url": "https://www.paris.fr/pages/une-balade-sur-les-pas-d-edith-piaf-18776",
+    "role": "extra",
+    "quality": "authoritative",
+    "quote": "Piaf est née plus précisément à l’hôpital Tenon, rue de la Chine"
+   }
+  ],
+  "entityId": "edith-piaf",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Answer point is the Hôpital Tenon (her documented birthplace) in Belleville, not the rue de Belleville plaque."
+   ]
+  }
+ },
+ {
+  "id": "hugh-masekela-witbank",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "Jazz trumpeter Hugh Masekela was born in which Mpumalanga coal town, now called eMalahleni?",
+  "clue": "East of Pretoria, in Mpumalanga.",
+  "hint": "Its old name starts with 'Wit'.",
+  "answer": {
+   "city": "Witbank (eMalahleni)",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -25.8762,
+   "longitude": 29.21,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/30324159"
+  },
+  "story": "Hugh Masekela was born on 4 April 1939 in Witbank, today's eMalahleni, in Mpumalanga.",
+  "sources": [
+   {
+    "url": "https://sahistory.org.za/people/hugh-masekela",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Hugh Ramopolo Masekela was born on 4 April 1939 in Witbank, near Johannesburg ."
+   }
+  ],
+  "entityId": "hugh-masekela",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "brenda-fassie-langa",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "'Queen of African Pop' Brenda Fassie was born in which Cape Town township?",
+  "clue": "One of Cape Town's oldest townships, on the Cape Flats.",
+  "hint": "Its name means 'sun'.",
+  "answer": {
+   "city": "Langa",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "latitude": -33.9456,
+   "longitude": 18.53,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/2043562"
+  },
+  "story": "Brenda Fassie was born in Langa, near Cape Town, in 1964, and was buried there in 2004.",
+  "sources": [
+   {
+    "url": "https://sahistory.org.za/dated-event/south-african-pop-queen-brenda-fassie-born",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Brenda Nokuzola Fassie, South African Pop Queen, was born in 1964 in Langa, a township near Cape Town."
+   },
+   {
+    "url": "https://www.brandsouthafrica.com/stay-updated/quick-facts/2004/brenda-township-madonna/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Brenda Fassie, South Africa's undisputed queen of pop, was buried at her birthplace in Langa, Cape Town on Saturday 22 May 2004."
+   }
+  ],
+  "entityId": "brenda-fassie",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "franco-luambo-sona-bata",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "Rumba giant Franco of TPOK Jazz was born in which town in Kongo Central, before growing up in Kinshasa?",
+  "clue": "South-west of Kinshasa, in Kongo Central.",
+  "hint": "Its name has two parts: 'Sona-...'.",
+  "answer": {
+   "city": "Sona-Bata",
+   "country": "Democratic Republic of the Congo",
+   "countryCode": "CD",
+   "latitude": -4.9054,
+   "longitude": 15.1616,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/435680651"
+  },
+  "story": "Franco was born in Sona-Bata, Kongo Central, and raised in Kinshasa, where his band became TPOK Jazz in 1971.",
+  "sources": [
+   {
+    "url": "https://musicinafrica.net/node/385244",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Born in Sona-Bata, Kongo Central, and raised in Kinshasa"
+   }
+  ],
+  "entityId": "franco-luambo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "mbilia-bel-kinshasa",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "Mbilia Bel, 'Queen of Congolese rumba', was born in which capital on the Congo River?",
+  "clue": "Africa's largest French-speaking city.",
+  "hint": "Facing Brazzaville across the river.",
+  "answer": {
+   "city": "Kinshasa",
+   "country": "Democratic Republic of the Congo",
+   "countryCode": "CD",
+   "latitude": -4.3197,
+   "longitude": 15.3424,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/5646651"
+  },
+  "story": "Mbilia Bel was born in Kinshasa and sang with Tabu Ley's band Afrisa before leaving Kinshasa for Paris in 1988.",
+  "sources": [
+   {
+    "url": "https://rumbaontheriver.com/mbilia.html",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Congolese singer; born Kinshasa"
+   },
+   {
+    "url": "https://thecitizen.co.tz/tanzania/news/entertainment/mbilia-bel-what-tabu-ley-taught-me-about-the-business-of-music--3889428",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Mbilia left Kinshasa for Paris in 1988"
+   }
+  ],
+  "entityId": "mbilia-bel",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Sources disagree on her birth date (10 January or 14 August 1959), so the story gives none."
+   ]
+  }
+ },
+ {
+  "id": "salif-keita-djoliba",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "Salif Keita, 'the Golden Voice of Africa', was born in which Malian village on the Niger?",
+  "clue": "Upriver from Bamako, on the Niger.",
+  "hint": "Its name starts with 'Djo'.",
+  "answer": {
+   "city": "Djoliba",
+   "country": "Mali",
+   "countryCode": "ML",
+   "latitude": 12.3422,
+   "longitude": -8.1408,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/7779421462"
+  },
+  "story": "Salif Keita was born in the village of Djoliba and left for Bamako in 1967 to join the Super Rail Band.",
+  "sources": [
+   {
+    "url": "https://musicinafrica.net/directory/salif-keita/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Keita was born in the village of Djoliba."
+   },
+   {
+    "url": "https://musicinafrica.net/directory/salif-keita/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "He left Djoliba for Bamako in 1967, where he joined the government-sponsored Super Rail Band de Bamako."
+   }
+  ],
+  "entityId": "salif-keita",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "manu-dibango-douala",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "'Soul Makossa' saxophonist Manu Dibango was born in which Cameroonian port city?",
+  "clue": "Cameroon's largest city, on the Wouri estuary.",
+  "hint": "It shares its name with his mother's ethnic group.",
+  "answer": {
+   "city": "Douala",
+   "country": "Cameroon",
+   "countryCode": "CM",
+   "latitude": 4.0429,
+   "longitude": 9.7062,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/732125487"
+  },
+  "story": "Manu Dibango was born in 1933 in the port city of Douala; 'Kossa' means 'dance' in Douala, his mother's language.",
+  "sources": [
+   {
+    "url": "https://www.npr.org/2020/03/24/820598340/afro-funk-saxophonist-manu-dibango-dies-of-covid-19",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Dibango was born December 12, 1933, in the port city of Douala, Cameroon; his father was a civil servant."
+   }
+  ],
+  "entityId": "manu-dibango",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "oliver-mtukudzi-highfield",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "hard",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "Zimbabwe's Oliver 'Tuku' Mtukudzi was born in which Harare township?",
+  "clue": "One of Harare's oldest high-density suburbs, south-west of the centre.",
+  "hint": "Its name means a high meadow.",
+  "answer": {
+   "city": "Highfield, Harare",
+   "country": "Zimbabwe",
+   "countryCode": "ZW",
+   "latitude": -17.8913,
+   "longitude": 30.9861,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/4103119043"
+  },
+  "story": "Oliver Mtukudzi was born in Highfield, Harare (then Salisbury), in 1952.",
+  "sources": [
+   {
+    "url": "https://www.sabcnews.com/sabcnews/tributes-pour-in-for-mtukudzi/",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Oliver Mtukudzi was born in Highfield, formerly Salisbury in Harare in 1952."
+   }
+  ],
+  "entityId": "oliver-mtukudzi",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "mulatu-astatke-jimma",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "Mulatu Astatke, father of Ethio-jazz, was born in which south-western Ethiopian city?",
+  "clue": "In Oromia, in coffee country.",
+  "hint": "It starts with 'Ji'.",
+  "answer": {
+   "city": "Jimma",
+   "country": "Ethiopia",
+   "countryCode": "ET",
+   "latitude": 7.6756,
+   "longitude": 36.8479,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/2503575146"
+  },
+  "story": "Mulatu Astatke was born in Jimma in 1943; he fused jazz and Latin music with Ethiopian sounds to create Ethio-jazz.",
+  "sources": [
+   {
+    "url": "https://musicinafrica.net/directory/mulato-astakte/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "born 19 December 1943, Jimma, Ethiopia) is a pioneering Ethiopian musician and arranger widely regarded as the father of \"Ethio-jazz.\""
+   }
+  ],
+  "entityId": "mulatu-astatke",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "e-t-mensah-accra",
+  "primaryCategory": "music",
+  "subcategory": "african-legends",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "African Legends",
+  "chapter": "Where the story began",
+  "question": "E.T. Mensah, the 'King of Highlife', was born in which West African capital?",
+  "clue": "On the Gulf of Guinea.",
+  "hint": "Ghana's capital.",
+  "answer": {
+   "city": "Accra",
+   "country": "Ghana",
+   "countryCode": "GH",
+   "latitude": 5.5571,
+   "longitude": -0.2012,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/12803764"
+  },
+  "story": "E.T. Mensah was born in Accra in 1919 and formed the Accra Rhythmic Orchestra with his brother.",
+  "sources": [
+   {
+    "url": "https://www.myjoyonline.com/legend-of-the-week-e-t-mensah/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Mensah was born on the 19 th of May, 1919 in Accra, in the Gold Coast."
+   },
+   {
+    "url": "https://www.myjoyonline.com/legend-of-the-week-e-t-mensah/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "a group he formed with his brother, J.Y Mensah."
+   }
+  ],
+  "entityId": "e-t-mensah",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Sources disagree on the day of his birth in May 1919, so the story gives only the year."
+   ]
+  }
+ },
+ {
+  "id": "luther-vandross-lower-east-side",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Soul Legends",
+  "chapter": "Growing up",
+  "question": "Luther Vandross grew up the youngest of four kids in which Manhattan neighbourhood?",
+  "clue": "Downtown Manhattan, east of the Bowery.",
+  "hint": "Its initials are LES.",
+  "answer": {
+   "city": "Lower East Side, New York",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7159,
+   "longitude": -73.9868,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/158853595"
+  },
+  "story": "Luther Vandross grew up the youngest of four on Manhattan's Lower East Side.",
+  "sources": [
+   {
+    "url": "https://www.npr.org/2005/07/02/4727455/luther-vandross-r-b-legend-dies-at-54",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Luther Vandross grew up the youngest of four kids on the Lower East Side of Manhattan."
+   }
+  ],
+  "entityId": "luther-vandross",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "chaka-khan-chicago",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Soul Legends",
+  "chapter": "High-school years",
+  "question": "Chaka Khan Way runs beside her old high school, Kenwood Academy, in which city?",
+  "clue": "On Lake Michigan's south-west shore.",
+  "hint": "The Windy City.",
+  "answer": {
+   "city": "Chicago",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 41.804,
+   "longitude": -87.5895,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "way/184864539"
+  },
+  "story": "Chicago honoured native Chaka Khan with Chaka Khan Way, beside Kenwood Academy, where she went to high school.",
+  "sources": [
+   {
+    "url": "https://www.cbsnews.com/chicago/news/chicago-native-chaka-khan-honored-with-street-name/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "said she has come a long way since her high school days at Kenwood Academy, which is just steps from the newly named Chaka Khan Way."
+   },
+   {
+    "url": "https://newsone.com/2647907/chaka-khan-chicago-street/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The newly named Chaka Khan Way is located on the west side of Kenwood Academy, where Khan attended high school."
+   }
+  ],
+  "entityId": "chaka-khan",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "patti-labelle-southwest-philadelphia",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Soul Legends",
+  "chapter": "Growing up",
+  "question": "Patti LaBelle grew up in which part of Philadelphia, where she sang gospel at Beulah Baptist Church?",
+  "clue": "The quadrant of Philly by the airport.",
+  "hint": "Southwest ...",
+  "answer": {
+   "city": "Southwest Philadelphia",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.9131,
+   "longitude": -75.2433,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/18973880"
+  },
+  "story": "Patti LaBelle grew up in Southwest Philadelphia and got her start singing gospel at Beulah Baptist Church.",
+  "sources": [
+   {
+    "url": "https://www.phillymag.com/news/2014/06/30/one-of-us-patti-labelle/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "I grew up in … Southwest Philadelphia, at 5819 Washington Avenue."
+   },
+   {
+    "url": "https://www.inquirer.com/columnists/patti-labelle-visit-philly-black-history-month-20260209.html",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "LaBelle got her start singing gospel at Southwest Philly’s Beulah Baptist Church."
+   }
+  ],
+  "entityId": "patti-labelle",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "babyface-indianapolis",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Soul Legends",
+  "chapter": "Where the story began",
+  "question": "Songwriter-producer Kenneth 'Babyface' Edmonds was born in which Midwestern state capital?",
+  "clue": "Home of the famous 500-mile race.",
+  "hint": "Indiana's capital.",
+  "answer": {
+   "city": "Indianapolis",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.7683,
+   "longitude": -86.1584,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/18438530"
+  },
+  "story": "Kenneth 'Babyface' Edmonds was born in Indianapolis in 1959, the fifth of six brothers.",
+  "sources": [
+   {
+    "url": "https://www.songhall.org/profiles/kenneth-babyface-edmonds",
+    "role": "primary",
+    "quality": "authoritative",
+    "quote": "Edmonds was born in Indianapolis on April 10, 1959, the fifth of six brothers"
+   }
+  ],
+  "entityId": "babyface",
+  "sourceQuality": "authoritative",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "toni-braxton-severn",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "birthplace",
+  "difficulty": "legend",
+  "displayCategory": "Soul Legends",
+  "chapter": "Where the story began",
+  "question": "90s soul star Toni Braxton was born in which Maryland community near Baltimore?",
+  "clue": "In Anne Arundel County, near BWI airport.",
+  "hint": "It sounds like a British river.",
+  "answer": {
+   "city": "Severn",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 39.1355,
+   "longitude": -76.7006,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/13381563"
+  },
+  "story": "Toni Braxton was born in Severn, Maryland, in 1967, the eldest of six children.",
+  "sources": [
+   {
+    "url": "https://americansongwriter.com/born-59-years-ago-today-in-maryland-the-7-time-grammy-winner-who-gave-the-90s-its-ultimate-heartbreak-anthem/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "On this day (October 7) in 1967, Toni Michele Braxton was born in Severn, Maryland."
+   }
+  ],
+  "entityId": "toni-braxton",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "d-angelo-richmond",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "hometown",
+  "difficulty": "medium",
+  "displayCategory": "Soul Legends",
+  "chapter": "Growing up",
+  "question": "Neo-soul pioneer D'Angelo was raised in which Virginia state capital?",
+  "clue": "On the James River.",
+  "hint": "Virginia's capital.",
+  "answer": {
+   "city": "Richmond",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 37.5385,
+   "longitude": -77.4343,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/3864712"
+  },
+  "story": "D'Angelo, born Michael Eugene Archer, was raised in Richmond, Virginia.",
+  "sources": [
+   {
+    "url": "https://www.thewrap.com/dangelo-soul-singer-dead-dies-obit/",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "D’Angelo, born Michael Eugene Archer, was raised in Richmond, Virginia."
+   }
+  ],
+  "entityId": "d-angelo",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "maxwell-brooklyn",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "birthplace",
+  "difficulty": "easy",
+  "displayCategory": "Soul Legends",
+  "chapter": "Where the story began",
+  "question": "Neo-soul singer Maxwell was born in which New York City borough?",
+  "clue": "NYC's most populous borough.",
+  "hint": "Across the bridge from Manhattan.",
+  "answer": {
+   "city": "Brooklyn",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.6526,
+   "longitude": -73.9497,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/9691750"
+  },
+  "story": "Maxwell was born in Brooklyn in 1973 to a Puerto Rican father and a Haitian mother.",
+  "sources": [
+   {
+    "url": "https://www.bkreader.com/black-history-month/feb-24-black-history-maker-maxwell-2-6544392",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Maxwell was born May 23, 1973, in Brooklyn."
+   }
+  ],
+  "entityId": "maxwell",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "lauryn-hill-south-orange",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "hometown",
+  "difficulty": "hard",
+  "displayCategory": "Soul Legends",
+  "chapter": "Growing up",
+  "question": "Lauryn Hill grew up in which New Jersey town, home of the family house she showed journalists?",
+  "clue": "In Essex County, west of Newark.",
+  "hint": "Its name is a direction plus a fruit.",
+  "answer": {
+   "city": "South Orange",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 40.7475,
+   "longitude": -74.2635,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/170782"
+  },
+  "story": "Lauryn Hill grew up in South Orange, New Jersey, and still lived with her parents there after her 1990s success.",
+  "sources": [
+   {
+    "url": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/lauryn-hill",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Hill was born in the mid-1970s and grew up in South Orange, New Jersey"
+   }
+  ],
+  "entityId": "lauryn-hill",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22.",
+    "Hometown question: sources differ on her birthplace (East Orange vs South Orange)."
+   ]
+  }
+ },
+ {
+  "id": "sade-ibadan",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Soul Legends",
+  "chapter": "Where the story began",
+  "question": "Sade was born in which south-western Nigerian city before moving to England as a child?",
+  "clue": "Capital of Oyo State.",
+  "hint": "One of Africa's largest cities by area.",
+  "answer": {
+   "city": "Ibadan",
+   "country": "Nigeria",
+   "countryCode": "NG",
+   "latitude": 7.3784,
+   "longitude": 3.8972,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "node/27565066"
+  },
+  "story": "Sade was born Helen Folasade Adu in Ibadan, Nigeria, to a Nigerian father and a British mother.",
+  "sources": [
+   {
+    "url": "https://www.biography.com/musicians/sade",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Sade was born Helen Folasade Adu on January 16, 1959, in Ibadan, Nigeria."
+   },
+   {
+    "url": "https://www.encyclopedia.com/arts/culture-magazines/sade",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "Sade was born Helen Folasade Adu in Ibadan , Nigeria , to a British mother and a Nigerian father."
+   }
+  ],
+  "entityId": "sade",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
+ },
+ {
+  "id": "erykah-badu-dallas",
+  "primaryCategory": "music",
+  "subcategory": "soul-legends-80s-90s",
+  "questionType": "birthplace",
+  "difficulty": "medium",
+  "displayCategory": "Soul Legends",
+  "chapter": "Where the story began",
+  "question": "Neo-soul queen Erykah Badu was born in which Texas city, where she later graduated from its Booker T. Washington arts high school?",
+  "clue": "In North Texas, on the Trinity River.",
+  "hint": "Nicknamed 'Big D'.",
+  "answer": {
+   "city": "Dallas",
+   "country": "United States",
+   "countryCode": "US",
+   "latitude": 32.7763,
+   "longitude": -96.7969,
+   "coordinateSource": "OpenStreetMap Nominatim",
+   "osm": "relation/6571629"
+  },
+  "story": "Erykah Badu was born Erica Abi Wright in Dallas in 1971 and graduated from the city's Booker T. Washington arts high school in 1989.",
+  "sources": [
+   {
+    "url": "https://www.biography.com/musicians/erykah-badu",
+    "role": "primary",
+    "quality": "reputable_secondary",
+    "quote": "Erykah Badu was born Erica Abi Wright on February 26, 1971, in Dallas, Texas."
+   },
+   {
+    "url": "https://www.dallasobserver.com/music/ahead-of-her-birthday-dallasites-share-their-best-erykah-badu-encounters-18700127/",
+    "role": "extra",
+    "quality": "reputable_secondary",
+    "quote": "The dance teacher worked at Booker T from 1978 to 2014, spending significant time with Badu at the school through her graduation in 1989."
+   }
+  ],
+  "entityId": "erykah-badu",
+  "sourceQuality": "reputable_secondary",
+  "access": {
+   "tier": "free"
+  },
+  "featured": false,
+  "active": true,
+  "review": {
+   "status": "verified",
+   "classification": "provisional",
+   "checkedAt": "2026-10-18",
+   "notes": [
+    "Batch 22."
+   ]
+  }
  }
 ]

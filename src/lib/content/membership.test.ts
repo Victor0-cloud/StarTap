@@ -26,11 +26,11 @@ test("one artist belongs to two Music subcategories from a single record", () =>
  for (const id of SHARED) assert.ok(q(id).sources.some(s => s.role === "extra" && /198\d|199\d|1990s|1980s/.test(s.quote ?? "")), `${id}: era evidence is sourced`);
 });
 
-test("counts: R&B unchanged at 8, Soul Legends 5 and playable, Music counts each person once", () => {
+test("counts: R&B unchanged at 8, Soul Legends 15 (5 shared + 10 from batch 22) and playable, Music counts each person once", () => {
  assert.equal(sub("rnb").stars, 8);
- assert.equal(sub(SOUL).stars, 5); assert.equal(sub(SOUL).playable, true);
+ assert.equal(sub(SOUL).stars, 15); assert.equal(sub(SOUL).playable, true);
  const soulPeople = new Set(raw.questions.filter(x => x.active && inSubcategory(x, "music", SOUL)).map(x => x.entityId));
- assert.deepEqual([...soulPeople].sort(), ["anita-baker", "lionel-richie", "mariah-carey", "usher", "whitney-houston"]);
+ assert.deepEqual([...soulPeople].sort(), ["anita-baker", "babyface", "chaka-khan", "d-angelo", "erykah-badu", "lauryn-hill", "lionel-richie", "luther-vandross", "mariah-carey", "maxwell", "patti-labelle", "sade", "toni-braxton", "usher", "whitney-houston"]);
  const musicPeople = new Set(raw.questions.filter(x => x.active && inCategory(x, "music")).map(x => x.entityId));
  assert.equal(music.stars, musicPeople.size, "a shared member counts once in Music");
 });

@@ -52,7 +52,7 @@ test("reused stars: Taylor Swift is Pop (primary) + Country (secondary) from one
  const music = new Set(raw.questions.filter(x => x.active && inCategory(x, "music")).map(x => x.entityId));
  assert.equal(counts.find(c => c.key === "music")!.stars, music.size);
  assert.equal(subs("music").find(s => s.key === "rnb")!.stars, 8, "R&B unchanged");
- assert.equal(subs("music").find(s => s.key === "soul-legends-80s-90s")!.stars, 5, "Soul Legends unchanged");
+ assert.equal(subs("music").find(s => s.key === "soul-legends-80s-90s")!.stars, 15, "Soul Legends: the 5 originals plus 10 from batch 22");
 });
 
 test("Today's Five and every legacy edition render exactly as before the V1 expansion", () => {
