@@ -12,7 +12,7 @@ type Kind = "world" | "sport" | "play-five" | "adventure" | "stats";
 /** Why this paywall appeared. `label` names the world or sport the player tapped. */
 const reason = (kind: Kind, label?: string) => ({
   world: `${label ?? "This world"} is part of StarTap Premium.`,
-  sport: `${label ?? "This sport"} is a Premium sport. Football, American Football, Basketball and Boxing stay free.`,
+  sport: `${label ?? "This sport"} is a Premium sport. Football (Soccer), Basketball and Boxing stay free.`,
   "play-five": `You've played today's ${FREE_PLAY_FIVE_PER_DAY} free World Mix rounds. Music, free sports and Today's Five stay open.`,
   adventure: "The Adventure of Wonders — its worlds, levels and Wonder Stars — is part of StarTap Premium.",
   stats: "Your score and share card stay free. The full Star Passport and expanded history are Premium.",

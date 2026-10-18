@@ -103,7 +103,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
           <ul>
             <li>Today&apos;s Five, every day</li>
             <li>Every Music genre</li>
-            <li>Football, American Football, Basketball and Boxing</li>
+            <li>Football (Soccer), Basketball and Boxing</li>
             <li>Score and share</li>
             {quote ? <li>{FREE_PLAY_FIVE_PER_DAY} World Mix rounds a day</li> : <li>Play Five and every world</li>}
           </ul>
@@ -113,7 +113,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
           <p className="eyebrow">✦ PREMIUM</p>
           <strong>STARTAP PREMIUM</strong>
           <ul>
-            <li>Premium Sports: Tennis, Baseball, MMA, Formula 1, Cricket and more</li>
+            <li>Premium Sports: American Football, Tennis, Baseball, MMA, Formula 1, Cricket and more</li>
             <li>Screen, World Icons, Tech, Fashion, Business, Creators and Royalty</li>
             <li>Unlimited World Mix</li>
             <li>Adventure of Wonders</li>

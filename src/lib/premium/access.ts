@@ -1,11 +1,16 @@
+// TEMPORARY LAUNCH BEHAVIOR — Premium gating currently applies only where checkout is supported (NGN-only launch).
+// Elsewhere the status route reports regionAvailable false and the client shows no locks (see load-status.ts and
+// docs/payments.md). Worldwide gating is switched on only after USD/global checkout is ready.
+
 /** Worlds whose pages stay open when Premium is on. Music is free throughout; Sports is free only for FREE_SPORTS. */
 export const FREE_WORLD_KEYS = ["music", "sports"] as const;
 
 /**
  * Sports subcategory keys (taxonomy.json) that stay free. "football" is association football (Football / Soccer);
- * "american-football" is the separate gridiron sport. Every other sport is Premium.
+ * there is no separate soccer key. Every other sport is Premium, including "american-football" (gridiron) and any
+ * sport that gains content later (golf, wrestling, olympic-legends).
  */
-export const FREE_SPORTS = ["football", "american-football", "basketball", "boxing"] as const;
+export const FREE_SPORTS = ["football", "basketball", "boxing"] as const;
 
 /** New World Mix rounds a free player can start per UTC day. Today's Five, Music and free sports are not counted. */
 export const FREE_PLAY_FIVE_PER_DAY = 3;

@@ -93,6 +93,7 @@ Victor approved launching LIVE with NGN only, before Flutterwave confirms USD. P
 - A visitor whose `x-vercel-ip-country` is `NG` sees ₦2,500 / month and ₦25,000 / year. There is no local / USD toggle (`usdAvailable` is false). A `currency=USD` request is answered in NGN, the only chargeable currency.
 - Everyone else gets `403` `{ "error": "Premium isn't available in your region yet", "reason": "region_unavailable" }` from `GET /api/pricing` and `create-checkout`. `/premium` shows a friendly "Premium isn't available in your region yet" card (200, not a 404).
 - `GET /api/subscription/status` adds `regionAvailable`. When it is false, a free player sees no Premium locks (the site is as it is with payments off). A Premium member keeps Premium in any country.
+- **TEMPORARY LAUNCH BEHAVIOR — Premium gating currently applies only where checkout is supported.** Outside Nigeria every world, every sport and Adventure stay open to free players. Worldwide Premium gating is activated only after USD/global checkout is ready.
 - NGN is `liveVerified: true` (local and international cards enabled on the LIVE dashboard). `recurringVerified` stays false until a live renewal is observed. USD stays enabled in the table but is not chargeable until its LIVE plan ids are set.
 
 ### Before enabling a country

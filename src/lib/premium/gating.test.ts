@@ -12,9 +12,9 @@ const signedOut = { paymentsOn: true, isPremium: false };
 const member = { paymentsOn: true, isPremium: true };
 const off = { paymentsOn: false, isPremium: false };
 
-// The approved split (Victor, Oct 18, 2026). "football" is association football; "american-football" is gridiron.
-const APPROVED_FREE_SPORTS = ["football", "american-football", "basketball", "boxing"];
-const APPROVED_PREMIUM_SPORTS = ["tennis", "baseball", "mma", "formula-1", "cricket", "gymnastics", "racket-sports", "winter-sports", "track-field"];
+// The approved split (Victor, Oct 18, 2026). "football" is association football (soccer); "american-football" is gridiron.
+const APPROVED_FREE_SPORTS = ["football", "basketball", "boxing"];
+const APPROVED_PREMIUM_SPORTS = ["american-football", "tennis", "baseball", "mma", "formula-1", "cricket", "gymnastics", "racket-sports", "winter-sports", "track-field"];
 const PREMIUM_WORLDS = ["screen", "icons", "tech", "fashion", "business", "creators", "royalty"];
 
 test("the sports split matches the approved list, using the taxonomy keys", () => {
@@ -22,6 +22,10 @@ test("the sports split matches the approved list, using the taxonomy keys", () =
   const keys = new Set(sports.subcategories.map(s => s.key));
   for (const key of [...APPROVED_FREE_SPORTS, ...APPROVED_PREMIUM_SPORTS]) assert.ok(keys.has(key), `taxonomy has ${key}`);
   assert.equal(sports.subcategories.find(s => s.key === "football")!.label, "Football / Soccer");
+  // `football` is soccer: there is no duplicate soccer key anywhere in the taxonomy.
+  assert.equal(raw.taxonomy.categories.flatMap(c => [c.key, ...c.subcategories.map(s => s.key)]).some(k => /soccer/i.test(k)), false);
+  assert.equal(subcategoryLocked("sports", "american-football", signedOut), true, "American Football is Premium");
+  assert.equal(subcategoryLocked("sports", "tennis", signedOut), true, "Tennis is Premium");
   assert.deepEqual([...FREE_SPORTS].sort(), [...APPROVED_FREE_SPORTS].sort());
   for (const key of APPROVED_FREE_SPORTS) {
     assert.equal(isFreeSport(key), true, key);
@@ -63,7 +67,7 @@ test("Premium worlds and Adventure lock for free players and open for members", 
   assert.equal(unlimitedFreePlay(null, null), false);
 });
 
-test("a free player's Sports Five draws only from the four free sports; members draw from every sport", () => {
+test("a free player's Sports Five draws only from football, basketball and boxing; members draw from every sport", () => {
   assert.deepEqual(sportsPoolFor(signedOut), FREE_SPORTS);
   assert.equal(sportsPoolFor(member), undefined);
   assert.equal(sportsPoolFor(off), undefined);
