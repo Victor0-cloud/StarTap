@@ -5,6 +5,7 @@ import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
 import { CategoryIcon } from "@/components/worlds/CategoryIcon";
 import { SubPremiumMark } from "@/components/premium/SubPremiumMark";
+import { SubPlayAction } from "@/components/premium/SubPlayAction";
 import { MoreGrid } from "@/components/worlds/WorldCards";
 import { WorldIntro } from "@/components/cinematic/WorldIntro";
 import Image from "next/image";
@@ -70,7 +71,7 @@ export default async function CategoryPage({ params }: Params) {
       : <span><strong>{s.label}</strong><small>{s.stars} {s.stars === 1 ? "star" : "stars"}</small></span>}
      {s.playable && <SubPremiumMark category={category.key} subcategory={s.key} />}
      {s.playable
-      ? <Link className="sub-play" href={tap ?? `/category/${category.key}/play/?sub=${s.key}&intro=1`} aria-label={`Play ${s.label} Five`}>PLAY FIVE</Link>
+      ? <SubPlayAction category={category.key} subcategory={s.key} label={s.label} href={tap ?? `/category/${category.key}/play/?sub=${s.key}&intro=1`} />
       : detail
        ? <Link className="sub-play sub-preview" href={`/category/${category.key}/genre/${detail.key}/`} aria-label={`Preview ${s.label}`}>PREVIEW</Link>
        : <span className="sub-soon">Soon</span>}
