@@ -3,7 +3,8 @@ import assert from "node:assert/strict";
 import { buildCheckout } from "./checkout.ts";
 import { paymentsLive } from "./env.ts";
 import { CURRENCY_CODES, CURRENCY_TABLE, currencyChargeable, resolvePlan } from "./plans.ts";
-import { COUNTRY_CURRENCY, readPreference, resolveCountry, resolveQuote, toPublicQuote } from "./pricing.ts";
+import { COUNTRY_CURRENCY, REGION_UNAVAILABLE, readPreference, regionHasOffer, resolveCountry, resolveQuote, toPublicQuote } from "./pricing.ts";
+import { isPriceQuoteView } from "./quote.ts";
 
 const USER = "11111111-1111-4111-8111-111111111111";
 const user = { id: USER, email: "player@startap.fun" };
@@ -79,9 +80,9 @@ test("only USD and NGN carry approved final prices; every other row is a disable
   );
   for (const code of CURRENCY_CODES) {
     const row = CURRENCY_TABLE[code];
-    // Approved is not live-verified. Both stay false until Flutterwave LIVE is confirmed.
+    // Approved is not live-verified. Only NGN is live-verified (Oct 17, 2026). Recurring stays unverified.
     assert.equal(row.recurringVerified, false, code);
-    assert.equal(row.liveVerified, false, code);
+    assert.equal(row.liveVerified, code === "NGN", code);
     if (code === "USD" || code === "NGN") {
       assert.match(row.note, /APPROVED final price/, code);
       assert.doesNotMatch(row.note, /UNAPPROVED|placeholder/i, code);
@@ -126,6 +127,7 @@ test("client currency, amount and country cannot choose the charge", () => {
     currency: "NGN",
     usdFallback: false,
     localAvailable: true,
+    usdAvailable: true,
     monthly: tampered.plan.plan === "premium_monthly" ? { plan: "premium_monthly", amount: 2500, currency: "NGN", label: "Monthly", per: "per month" } : tampered.plan,
     yearly: { plan: "premium_yearly", amount: 25000, currency: "NGN", label: "Yearly", per: "per year" },
     monthlyPlan: tampered.plan,
@@ -195,7 +197,6 @@ test("disabled or plan-less currencies fall back to USD", () => {
   assert.equal(ghana.quote.localCurrency, "GHS");
   assert.equal(ghana.quote.currency, "USD");
 
-  assert.equal(paymentsLive({ ...env, FLW_PLAN_MONTHLY_USD: undefined, FLW_PLAN_YEARLY_USD: undefined }), false);
   const noUsd = resolveQuote({
     env: { ...env, FLW_PLAN_MONTHLY_USD: "", FLW_PLAN_YEARLY_USD: "" },
     countryHeader: "US",
@@ -203,7 +204,74 @@ test("disabled or plan-less currencies fall back to USD", () => {
   });
   assert.equal(noUsd.ok, false);
   if (noUsd.ok) return;
-  assert.equal(noUsd.status, 503);
+  assert.equal(noUsd.status, 403);
+  assert.equal(noUsd.reason, REGION_UNAVAILABLE);
+});
+
+// NGN-only LIVE launch: production sets only FLW_PLAN_MONTHLY_NGN and FLW_PLAN_YEARLY_NGN.
+const ngnOnly: Record<string, string> = { ...env };
+delete ngnOnly.FLW_PLAN_MONTHLY_USD;
+delete ngnOnly.FLW_PLAN_YEARLY_USD;
+
+test("NGN-only: payments are live without USD plan ids", () => {
+  assert.equal(paymentsLive(ngnOnly), true);
+  assert.equal(currencyChargeable("USD", ngnOnly), false);
+  assert.equal(currencyChargeable("NGN", ngnOnly), true);
+  const none = { ...ngnOnly };
+  delete none.FLW_PLAN_MONTHLY_NGN;
+  assert.equal(paymentsLive(none), false);
+});
+
+test("NGN-only: Nigeria gets naira with no USD toggle", () => {
+  for (const preference of ["absent", "local", "USD"] as const) {
+    const quote = resolveQuote({ env: ngnOnly, countryHeader: "NG", preference });
+    assert.equal(quote.ok, true, preference);
+    if (!quote.ok) return;
+    assert.equal(quote.quote.currency, "NGN", preference);
+    assert.equal(quote.quote.monthly.amount, 2500);
+    assert.equal(quote.quote.yearly.amount, 25000);
+    assert.equal(quote.quote.usdFallback, false);
+    assert.equal(quote.quote.localAvailable, true);
+    assert.equal(quote.quote.usdAvailable, false);
+    assert.equal(isPriceQuoteView(toPublicQuote(quote.quote)), true);
+  }
+  const checkout = buildCheckout({
+    user,
+    body: { plan: "premium_yearly", currency: "USD" },
+    env: ngnOnly,
+    countryHeader: "NG",
+    requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+  });
+  assert.equal(checkout.ok, true);
+  if (!checkout.ok) return;
+  assert.equal(checkout.pending.currency, "NGN");
+  assert.equal(checkout.pending.amount, 25000);
+  assert.equal(checkout.providerBody.payment_plan, 201);
+  assert.equal(regionHasOffer("NG", ngnOnly), true);
+});
+
+test("NGN-only: everyone else sees region unavailable, never a USD charge", () => {
+  for (const header of ["US", "GB", "GH", "FR", "ZZ", null]) {
+    const quote = resolveQuote({ env: ngnOnly, countryHeader: header, preference: "absent" });
+    assert.equal(quote.ok, false, String(header));
+    if (quote.ok) return;
+    assert.equal(quote.status, 403);
+    assert.equal(quote.reason, REGION_UNAVAILABLE);
+    assert.equal(quote.error, "Premium isn't available in your region yet");
+    assert.equal(regionHasOffer(header, ngnOnly), false, String(header));
+    const checkout = buildCheckout({
+      user,
+      body: { plan: "premium_monthly", currency: "USD", country: "NG" },
+      env: ngnOnly,
+      countryHeader: header,
+      requestUrl: "https://startap.fun/api/flutterwave/create-checkout/",
+    });
+    assert.equal(checkout.ok, false);
+    if (checkout.ok) return;
+    assert.equal(checkout.status, 403);
+  }
+  // A body country never unlocks naira; only the platform header does.
+  assert.equal(regionHasOffer("US", env), true);
 });
 
 test("payments stay unavailable when the flag is unset", () => {

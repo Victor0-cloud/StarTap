@@ -103,7 +103,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
             <li>Today&apos;s Five, every day</li>
             <li>Music World and Sports World</li>
             <li>Score and share</li>
-            <li>3 Play Five rounds a day</li>
+            {quote ? <li>3 Play Five rounds a day</li> : <li>Play Five and every world</li>}
           </ul>
           <Link className="secondary-button" href="/play/">PLAY TODAY&apos;S FIVE</Link>
         </article>

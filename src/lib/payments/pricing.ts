@@ -126,3 +126,12 @@ export function resolveQuote(input: {
   };
   return { ok: true, quote, selected };
 }
+
+/**
+ * Whether this visitor can buy Premium at all: their local currency or USD is chargeable.
+ * False in an NGN-only launch for anyone outside Nigeria. Payments being off is checked separately.
+ */
+export function regionHasOffer(countryHeader: string | null | undefined, env: Record<string, string | undefined>): boolean {
+  const localCurrency = currencyForCountry(resolveCountry(countryHeader, env));
+  return currencyChargeable(localCurrency, env) || currencyChargeable("USD", env);
+}

@@ -33,8 +33,11 @@ test("payments stay off unless the flag and every required variable are set", ()
   delete usdOnly.FLW_PLAN_MONTHLY_NGN;
   delete usdOnly.FLW_PLAN_YEARLY_NGN;
   assert.equal(paymentsLive(usdOnly), true);
-  assert.equal(paymentsLive({ ...env, FLW_PLAN_MONTHLY_USD: "" }), false);
-  assert.equal(paymentsLive({ ...env, FLW_PLAN_YEARLY_USD: "nope" }), false);
+  // USD is optional: NGN alone is a valid launch. With no chargeable currency at all, payments stay off.
+  assert.equal(paymentsLive({ ...env, FLW_PLAN_MONTHLY_USD: "" }), true);
+  assert.equal(paymentsLive({ ...env, FLW_PLAN_YEARLY_USD: "nope" }), true);
+  assert.equal(paymentsLive({ ...usdOnly, FLW_PLAN_MONTHLY_USD: "" }), false);
+  assert.equal(paymentsLive({ ...usdOnly, FLW_PLAN_YEARLY_USD: "nope" }), false);
   assert.equal(priceStatusFor("USD"), "APPROVED");
   assert.equal(priceStatusFor("NGN"), "APPROVED");
   assert.equal(priceStatusFor("GHS"), "UNAPPROVED");

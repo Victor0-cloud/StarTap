@@ -59,10 +59,12 @@ Set these in the Vercel project for Production when you are ready, and for Previ
 | `STARTAP_PAYMENTS_ENABLED` | `1` or `true` to offer Premium. |
 | `FLW_SECRET_KEY` | Flutterwave secret key. Server only. Sent as `Authorization: Bearer`. |
 | `FLW_SECRET_HASH` | The secret hash configured on the Flutterwave webhook. Compared to the `verif-hash` header with a timing-safe check. |
-| `FLW_PLAN_MONTHLY_USD` | Flutterwave payment plan id for the USD monthly base. Required. Positive integer. |
-| `FLW_PLAN_YEARLY_USD` | Same, USD yearly base. Required. |
-| `FLW_PLAN_MONTHLY_NGN` | Optional. NGN monthly test plan. Same shape for any other currency: `FLW_PLAN_MONTHLY_<CUR>` and `FLW_PLAN_YEARLY_<CUR>`. |
-| `FLW_PLAN_YEARLY_NGN` | Optional. NGN yearly test plan. |
+| `FLW_PLAN_MONTHLY_USD` | Flutterwave payment plan id for the USD monthly base. Positive integer. Optional: leave unset until Flutterwave confirms LIVE USD. |
+| `FLW_PLAN_YEARLY_USD` | Same, USD yearly base. Optional. |
+| `FLW_PLAN_MONTHLY_NGN` | NGN monthly plan. Same shape for any other currency: `FLW_PLAN_MONTHLY_<CUR>` and `FLW_PLAN_YEARLY_<CUR>`. |
+| `FLW_PLAN_YEARLY_NGN` | NGN yearly plan. |
+
+At least one currency must have both plan ids set (and be enabled and APPROVED), or payments stay off.
 | `STARTAP_GEO_COUNTRY` | Optional server-only test override. An ISO alpha-2 code replaces `x-vercel-ip-country`. Do not set this in production. |
 | `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL. |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon key. Used in the browser and to verify the user JWT. |
@@ -83,6 +85,15 @@ The server maps the visitor's country to a currency, then looks up a fixed amoun
 Country comes from `x-vercel-ip-country` on Vercel. `STARTAP_GEO_COUNTRY` overrides it for a server test. The browser may send `currency` as `local` or `USD` only. A currency code, an amount, or a country in the body is not the price. An invalid `currency` is 400. `GET /api/pricing/` returns the offer used on `/premium`: currency, both amounts, `usdFallback`, and `localAvailable`. The plan picker shows a local / USD toggle only when the local currency is chargeable and is not already USD.
 
 Webhook and verify-payment still grant only when the verified charge matches the stored payment row and the configured plan id.
+
+### NGN-only launch (Oct 17, 2026)
+
+Victor approved launching LIVE with NGN only, before Flutterwave confirms USD. Production sets `FLW_PLAN_MONTHLY_NGN` and `FLW_PLAN_YEARLY_NGN` and no USD plan ids. Then:
+
+- A visitor whose `x-vercel-ip-country` is `NG` sees ₦2,500 / month and ₦25,000 / year. There is no local / USD toggle (`usdAvailable` is false). A `currency=USD` request is answered in NGN, the only chargeable currency.
+- Everyone else gets `403` `{ "error": "Premium isn't available in your region yet", "reason": "region_unavailable" }` from `GET /api/pricing` and `create-checkout`. `/premium` shows a friendly "Premium isn't available in your region yet" card (200, not a 404).
+- `GET /api/subscription/status` adds `regionAvailable`. When it is false, a free player sees no Premium locks (the site is as it is with payments off). A Premium member keeps Premium in any country.
+- NGN is `liveVerified: true` (local and international cards enabled on the LIVE dashboard). `recurringVerified` stays false until a live renewal is observed. USD stays enabled in the table but is not chargeable until its LIVE plan ids are set.
 
 ### Before enabling a country
 

@@ -65,3 +65,23 @@ test("active and cancelled-but-unexpired members hide the purchase controls", ()
   );
   assert.deepEqual(premiumOffer({ loading: false, isPremium: true, currentPeriodEnd: null }), { until: null });
 });
+
+test("a region with nothing to buy shows no locks to a free player, but keeps a member's Premium", async () => {
+  const free = await loadPremiumStatus({
+    readSession: () => null,
+    fetchStatus: async () => ({ ok: true, status: 200, body: { paymentsEnabled: true, regionAvailable: false, isPremium: false } }),
+  });
+  assert.equal(free.access.paymentsOn, false);
+  assert.equal(free.access.isPremium, false);
+  const member = await loadPremiumStatus({
+    readSession: () => ({ accessToken: "jwt-1" }),
+    fetchStatus: async () => ({ ok: true, status: 200, body: { paymentsEnabled: true, regionAvailable: false, isPremium: true, plan: "premium_yearly", status: "active", currentPeriodEnd: END } }),
+  });
+  assert.equal(member.access.paymentsOn, true);
+  assert.equal(member.access.isPremium, true);
+  const nigeria = await loadPremiumStatus({
+    readSession: () => null,
+    fetchStatus: async () => ({ ok: true, status: 200, body: { paymentsEnabled: true, regionAvailable: true, isPremium: false } }),
+  });
+  assert.equal(nigeria.access.paymentsOn, true);
+});
