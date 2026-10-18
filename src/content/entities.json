@@ -11141,5 +11141,593 @@
   "image": {
    "status": "none"
   }
+ },
+ {
+  "id": "anthony-joshua",
+  "name": "Anthony Joshua",
+  "monogram": "AJ",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "tyson-fury",
+  "name": "Tyson Fury",
+  "monogram": "TF",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "oleksandr-usyk",
+  "name": "Oleksandr Usyk",
+  "monogram": "OU",
+  "countryOfOrigin": "UA",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "floyd-mayweather-jr",
+  "name": "Floyd Mayweather Jr.",
+  "monogram": "FM",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "claressa-shields",
+  "name": "Claressa Shields",
+  "monogram": "CS",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "katie-taylor",
+  "name": "Katie Taylor",
+  "monogram": "KT",
+  "countryOfOrigin": "IE",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "naoya-inoue",
+  "name": "Naoya Inoue",
+  "monogram": "NI",
+  "countryOfOrigin": "JP",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "azumah-nelson",
+  "name": "Azumah Nelson",
+  "monogram": "AN",
+  "countryOfOrigin": "GH",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "julio-cesar-chavez",
+  "name": "Julio César Chávez",
+  "monogram": "JC",
+  "countryOfOrigin": "MX",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "dick-tiger",
+  "name": "Dick Tiger",
+  "monogram": "DT",
+  "countryOfOrigin": "NG",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "carlos-alcaraz",
+  "name": "Carlos Alcaraz",
+  "monogram": "CA",
+  "countryOfOrigin": "ES",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "iga-swiatek",
+  "name": "Iga Świątek",
+  "monogram": "IS",
+  "countryOfOrigin": "PL",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jannik-sinner",
+  "name": "Jannik Sinner",
+  "monogram": "JS",
+  "countryOfOrigin": "IT",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "billie-jean-king",
+  "name": "Billie Jean King",
+  "monogram": "BK",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "arthur-ashe",
+  "name": "Arthur Ashe",
+  "monogram": "AA",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "martina-navratilova",
+  "name": "Martina Navratilova",
+  "monogram": "MN",
+  "countryOfOrigin": "CZ",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "gustavo-kuerten",
+  "name": "Gustavo Kuerten",
+  "monogram": "GK",
+  "countryOfOrigin": "BR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "rod-laver",
+  "name": "Rod Laver",
+  "monogram": "RL",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jesse-owens",
+  "name": "Jesse Owens",
+  "monogram": "JO",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "carl-lewis",
+  "name": "Carl Lewis",
+  "monogram": "CL",
+  "countryOfOrigin": "US",
+  "region": "north-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "shelly-ann-fraser-pryce",
+  "name": "Shelly-Ann Fraser-Pryce",
+  "monogram": "SF",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "haile-gebrselassie",
+  "name": "Haile Gebrselassie",
+  "monogram": "HG",
+  "countryOfOrigin": "ET",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "armand-duplantis",
+  "name": "Armand Duplantis",
+  "monogram": "AD",
+  "countryOfOrigin": "SE",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "sifan-hassan",
+  "name": "Sifan Hassan",
+  "monogram": "SH",
+  "countryOfOrigin": "NL",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "mo-farah",
+  "name": "Mo Farah",
+  "monogram": "MF",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "yulimar-rojas",
+  "name": "Yulimar Rojas",
+  "monogram": "YR",
+  "countryOfOrigin": "VE",
+  "region": "latin-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "neeraj-chopra",
+  "name": "Neeraj Chopra",
+  "monogram": "NC",
+  "countryOfOrigin": "IN",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "faith-kipyegon",
+  "name": "Faith Kipyegon",
+  "monogram": "FK",
+  "countryOfOrigin": "KE",
+  "region": "africa",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "michael-schumacher",
+  "name": "Michael Schumacher",
+  "monogram": "MS",
+  "countryOfOrigin": "DE",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "fernando-alonso",
+  "name": "Fernando Alonso",
+  "monogram": "FA",
+  "countryOfOrigin": "ES",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "juan-manuel-fangio",
+  "name": "Juan Manuel Fangio",
+  "monogram": "JF",
+  "countryOfOrigin": "AR",
+  "region": "latin-america",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "niki-lauda",
+  "name": "Niki Lauda",
+  "monogram": "NL",
+  "countryOfOrigin": "AT",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "alain-prost",
+  "name": "Alain Prost",
+  "monogram": "AP",
+  "countryOfOrigin": "FR",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kimi-raikkonen",
+  "name": "Kimi Räikkönen",
+  "monogram": "KR",
+  "countryOfOrigin": "FI",
+  "region": "europe",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "sergio-perez",
+  "name": "Sergio Pérez",
+  "monogram": "SP",
+  "countryOfOrigin": "MX",
+  "region": "latin-america",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "yuki-tsunoda",
+  "name": "Yuki Tsunoda",
+  "monogram": "YT",
+  "countryOfOrigin": "JP",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "jody-scheckter",
+  "name": "Jody Scheckter",
+  "monogram": "JS",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "lando-norris",
+  "name": "Lando Norris",
+  "monogram": "LN",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "babar-azam",
+  "name": "Babar Azam",
+  "monogram": "BA",
+  "countryOfOrigin": "PK",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "kumar-sangakkara",
+  "name": "Kumar Sangakkara",
+  "monogram": "KS",
+  "countryOfOrigin": "LK",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "muttiah-muralitharan",
+  "name": "Muttiah Muralitharan",
+  "monogram": "MM",
+  "countryOfOrigin": "LK",
+  "region": "asia",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "rashid-khan",
+  "name": "Rashid Khan",
+  "monogram": "RK",
+  "countryOfOrigin": "AF",
+  "region": "asia",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ben-stokes",
+  "name": "Ben Stokes",
+  "monogram": "BS",
+  "countryOfOrigin": "GB",
+  "region": "europe",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ab-de-villiers",
+  "name": "AB de Villiers",
+  "monogram": "AV",
+  "countryOfOrigin": "ZA",
+  "region": "africa",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "ellyse-perry",
+  "name": "Ellyse Perry",
+  "monogram": "EP",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "tags": [
+   "current"
+  ],
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "stafanie-taylor",
+  "name": "Stafanie Taylor",
+  "monogram": "ST",
+  "countryOfOrigin": "JM",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "viv-richards",
+  "name": "Viv Richards",
+  "monogram": "VR",
+  "countryOfOrigin": "AG",
+  "region": "caribbean",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
+ },
+ {
+  "id": "don-bradman",
+  "name": "Don Bradman",
+  "monogram": "DB",
+  "countryOfOrigin": "AU",
+  "region": "oceania",
+  "kind": "person",
+  "image": {
+   "status": "none"
+  }
  }
 ]
