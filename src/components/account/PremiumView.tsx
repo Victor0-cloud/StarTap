@@ -7,6 +7,7 @@ import { SiteFooter } from "@/components/site/SiteChrome";
 import { formatMoney } from "@/lib/payments/money";
 import { isPriceQuoteView, type PriceQuoteView } from "@/lib/payments/quote";
 import { syncSavedSession } from "@/lib/auth/browser";
+import { FREE_PLAY_FIVE_PER_DAY } from "@/lib/premium/access";
 import { premiumOffer } from "@/lib/premium/offer";
 import { readSavedSession } from "@/lib/premium/session";
 import { bindPremiumSession, markPremiumPending, refreshPremium, usePremium } from "@/lib/premium/usePremium";
@@ -90,7 +91,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
         <div>
           <p className="eyebrow">✦ STARTAP PREMIUM</p>
           <h1>PLAY THE <em>WHOLE SKY.</em></h1>
-          <p className={styles.lede}>Today&apos;s Five stays free. Premium opens every world, unlimited Play Five, the Adventure of Wonders, and the full history of your game.</p>
+          <p className={styles.lede}>Today&apos;s Five stays free. Music and four sports stay free too. Premium opens every sport, every world, the Adventure of Wonders, and the full history of your game.</p>
           {quote && quote.priceStatus !== "APPROVED" && <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>}
         </div>
         <Image className={styles.globe} src="/globe-hero.svg" width={1024} height={768} alt="" priority />
@@ -101,9 +102,10 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
           <strong>STARTAP FREE</strong>
           <ul>
             <li>Today&apos;s Five, every day</li>
-            <li>Music World and Sports World</li>
+            <li>Every Music genre</li>
+            <li>Football, American Football, Basketball and Boxing</li>
             <li>Score and share</li>
-            {quote ? <li>3 Play Five rounds a day</li> : <li>Play Five and every world</li>}
+            {quote ? <li>{FREE_PLAY_FIVE_PER_DAY} World Mix rounds a day</li> : <li>Play Five and every world</li>}
           </ul>
           <Link className="secondary-button" href="/play/">PLAY TODAY&apos;S FIVE</Link>
         </article>
@@ -111,8 +113,9 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
           <p className="eyebrow">✦ PREMIUM</p>
           <strong>STARTAP PREMIUM</strong>
           <ul>
-            <li>All worlds</li>
-            <li>Unlimited Play Five</li>
+            <li>Premium Sports: Tennis, Baseball, MMA, Formula 1, Cricket and more</li>
+            <li>Screen, World Icons, Tech, Fashion, Business, Creators and Royalty</li>
+            <li>Unlimited World Mix</li>
             <li>Adventure of Wonders</li>
             <li>Expanded stats and history</li>
             <li>Future premium challenges</li>

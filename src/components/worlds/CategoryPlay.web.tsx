@@ -8,7 +8,7 @@ import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
 import { genreIntro, WORLD_INTROS, type Cinematic } from "@/lib/game/cinematics";
 import type { ModeSpec } from "@/lib/game/modes";
-import { isFreeWorld } from "@/lib/premium/access";
+import { isFreeWorld, sportsPoolFor, subcategoryLocked } from "@/lib/premium/access";
 import { usePremium } from "@/lib/premium/usePremium";
 import { PremiumLock } from "@/components/premium/PremiumLock";
 
@@ -23,14 +23,18 @@ export function CategoryPlay({ category }: { category: string }) {
  const [fresh] = useState(() => always || params.get("new") === "1"); // every PLAY FIVE: a brand-new five from Round 1
  const counts = categoryCounts(catalog.raw).find(c => c.key === category);
  const subcategory = sub && counts?.subcategories.find(s => s.key === sub && s.playable);
- const spec: ModeSpec = subcategory ? { mode: "subcategory", category, subcategory: subcategory.key } : { mode: "category", category };
+ // A free player's whole-world Sports Five is dealt only from the free sports; Premium players get every sport.
+ const only = category === "sports" ? sportsPoolFor(access) : undefined;
+ const spec: ModeSpec = subcategory ? { mode: "subcategory", category, subcategory: subcategory.key } : only ? { mode: "category", category, only } : { mode: "category", category };
  const backLabel = (counts?.label ?? "Back").toUpperCase();
  // A genre plays its own clip; sports (no per-sport clips) and world-wide play use the world's intro.
  const intro = (subcategory ? genreIntro(category, subcategory.key) : null) ?? WORLD_INTROS[category] ?? null;
  const mounted = useSyncExternalStore(subscribe, () => true, () => false); // watched flags live in local storage
- if (access.paymentsOn && !isFreeWorld(category)) {
+ // Sports waits for status too: it decides both the lock and which sports a whole-world five may use.
+ if (access.paymentsOn && (!isFreeWorld(category) || category === "sports")) {
   if (access.loading || !mounted) return <main className="empty-state">Checking access…</main>;
-  if (!access.isPremium) return <PremiumLock kind="world" />;
+  if (!isFreeWorld(category) && !access.isPremium) return <PremiumLock kind="world" label={counts?.label} />;
+  if (subcategory && subcategoryLocked(category, subcategory.key, access)) return <PremiumLock kind="sport" label={subcategory.label} back={`/category/${category}/`} />;
  }
  if (intro && !mounted) return <main className="adventure-cinematic-gate" />;
  return <GenreIntroGate key={JSON.stringify(spec)} intro={intro} always={always} backHref={`/category/${category}/`}>

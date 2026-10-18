@@ -1193,6 +1193,8 @@ a.feature-card:hover,a.feature-card:focus-visible{border-color:var(--accent);tra
 /* Phones (600 and below): stacked hero, store badge below PLAY NOW, footer stacked. */
 @media(max-width:600px){
  .masthead-nav{display:none}
+ .masthead-premium{padding:0 10px!important}.masthead-premium-go{display:none}
+ .masthead:has(.masthead-premium) .home-mascot-change{display:none}
  .home-ctas{flex-direction:column}
  .home-ctas .home-play,.store-button{width:100%;min-width:0}
  .store-button{justify-content:center}

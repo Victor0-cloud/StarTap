@@ -1,9 +1,18 @@
 import Link from "next/link";
 import { PAYMENTS_UI_ENABLED } from "@/lib/premium/flag";
 import { PLAY_STORE_URL } from "@/lib/site";
+import { AccountLink, PremiumCta } from "@/components/premium/AccountNav";
 
 export function Brand() {
  return <Link className="brand" href="/" aria-label="StarTap home"><span aria-hidden="true">✦</span> STAR<span>TAP</span>.</Link>;
+}
+
+/** Header Premium pill (every width) and account link (desktop nav). Absent unless the payments UI was baked on. */
+export function PremiumNav() {
+ return PAYMENTS_UI_ENABLED ? <PremiumCta /> : null;
+}
+export function AccountNavLink() {
+ return PAYMENTS_UI_ENABLED ? <AccountLink /> : null;
 }
 
 /** Public footer: game links plus the legal and support pages (also reachable inside the Android app). */
@@ -32,7 +41,7 @@ export function GooglePlayButton({ className = "" }: { className?: string }) {
 /** Text pages (How to play, Privacy, Terms, Support): readable width on every device, same header and footer. */
 export function InfoPage({ eyebrow, title, intro, children }: { eyebrow: string; title: string; intro?: React.ReactNode; children: React.ReactNode }) {
  return <div className="site-shell">
-  <header className="masthead"><Brand /><Link className="secondary-button masthead-play" href="/play/">PLAY NOW</Link></header>
+  <header className="masthead"><Brand /><span style={{ display: "flex", alignItems: "center", gap: 10 }}><PremiumNav /><Link className="secondary-button masthead-play" href="/play/">PLAY NOW</Link></span></header>
   <main className="info-page">
    <p className="eyebrow">{eyebrow}</p>
    <h1>{title}</h1>

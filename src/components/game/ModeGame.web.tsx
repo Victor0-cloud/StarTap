@@ -7,7 +7,7 @@ import { toPlayable } from "@/lib/content/build";
 import { dateKey } from "@/lib/game/daily";
 import { finishWonder, type WonderReveal } from "@/lib/game/wonder";
 import { modeKey, modeLabel, modePath, selectQuestions, sessionStorageKey, type ModeSpec } from "@/lib/game/modes";
-import { isFreeWorld } from "@/lib/premium/access";
+import { isFreeWorld, isFreeSport, unlimitedFreePlay } from "@/lib/premium/access";
 import { browserQuota, canStartPlayFive, recordPlayFive } from "@/lib/premium/quota";
 import { usePremium, type PremiumAccess } from "@/lib/premium/usePremium";
 import { PremiumLock } from "@/components/premium/PremiumLock";
@@ -49,9 +49,14 @@ export function ModeGame(props:Props){
 }
 function GatedMode({access,...props}:Props&{access:PremiumAccess}){
  const category=props.spec.mode==="category"||props.spec.mode==="subcategory"?props.spec.category:null;
+ const subcategory=props.spec.mode==="subcategory"?props.spec.subcategory:null;
  const blockedWorld=Boolean(category&&!isFreeWorld(category)&&!access.isPremium);
+ const blockedSport=category==="sports"&&subcategory!==null&&!isFreeSport(subcategory)&&!access.isPremium;
+ // A free player's whole-world Sports Five must come pre-limited to the free sports; anything wider is Premium.
+ const wideSports=props.spec.mode==="category"&&props.spec.category==="sports"&&!props.spec.only&&!access.isPremium;
  const blockedAdventure=props.spec.mode==="adventure"&&!access.isPremium;
- const limited=!blockedWorld&&!blockedAdventure&&!access.isPremium&&props.spec.mode!=="adventure";
+ // Music and free sports are unlimited. The daily cap applies to what is left (World Mix).
+ const limited=!blockedWorld&&!blockedSport&&!wideSports&&!blockedAdventure&&!access.isPremium&&props.spec.mode!=="adventure"&&!unlimitedFreePlay(category,subcategory);
  const [mountId]=useState(()=>++quotaSerial);
  const [again,setAgain]=useState(false);
  // Remember the decision for this mount so a second render does not spend another free round.
@@ -66,6 +71,7 @@ function GatedMode({access,...props}:Props&{access:PremiumAccess}){
  }
  if(access.loading)return <main className="empty-state">Checking access…</main>;
  if(blockedWorld)return <PremiumLock kind="world"/>;
+ if(blockedSport||wideSports)return <PremiumLock kind="sport" back="/category/sports/"/>;
  if(blockedAdventure)return <PremiumLock kind="adventure"/>;
  if(limited&&(quota==="block"||again))return <PremiumLock kind="play-five"/>;
  return <ModeSession {...props} onBeforePlayAgain={limited?()=>{

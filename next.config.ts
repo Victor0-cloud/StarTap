@@ -13,6 +13,7 @@ const exported = { output: "export" as const, trailingSlash: true, images: { uno
 const webAlias = (spec: string) => path.join(process.cwd(), spec);
 const WEB_MODULES: Record<string, string> = {
   "@/components/site/PaymentsDisclosure": "src/components/site/PaymentsDisclosure.web.tsx",
+  "@/components/premium/SubPremiumMark": "src/components/premium/SubPremiumMark.web.tsx",
   "@/components/site/ContactLine": "src/components/site/ContactLine.web.tsx",
   "@/components/site/SiteChrome": "src/components/site/SiteChrome.web.tsx",
   "@/components/game/ModeGame": "src/components/game/ModeGame.web.tsx",

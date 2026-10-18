@@ -3,13 +3,14 @@ import { inCategory, inSubcategory, playableQuestions, MIN_PLAYABLE } from "../c
 import { selectFive, type Candidate } from "./select.ts";
 
 // Non-daily modes. Today's Five is not a mode here: it stays on its frozen edition and its own storage keys.
-export type ModeSpec = { mode: "world_mix" } | { mode: "category"; category: string } | { mode: "subcategory"; category: string; subcategory: string }
+// `only` limits a whole-world five to those subcategories (a free player's Sports Five draws only from the free sports).
+export type ModeSpec = { mode: "world_mix" } | { mode: "category"; category: string; only?: readonly string[] } | { mode: "subcategory"; category: string; subcategory: string }
  | { mode: "adventure"; level: string }; // Adventure of Wonders: a fixed, hand-picked five
 
 /** Storage namespace per mode, kept apart from Today's Five keys (startap:<edition>:<day>). */
 export const modeKey = (spec: ModeSpec) =>
  spec.mode === "world_mix" ? "world_mix" : spec.mode === "adventure" ? `adventure:${spec.level}`
- : spec.mode === "category" ? `category:${spec.category}` : `subcategory:${spec.category}/${spec.subcategory}`;
+ : spec.mode === "category" ? `category:${spec.category}${spec.only ? `[${spec.only.join(",")}]` : ""}` : `subcategory:${spec.category}/${spec.subcategory}`;
 export const sessionStorageKey = (spec: ModeSpec) => `startap:session:${modeKey(spec)}`;
 
 /** Short on-screen and share label, e.g. "WORLD MIX", "MUSIC FIVE", "AFROBEATS FIVE". */
@@ -31,7 +32,7 @@ export function poolFor(raw: RawContent, spec: ModeSpec): Candidate[] {
  // One candidate per question record, whatever its memberships: a person in two subcategories is never in a pool twice,
  // and selectFive keeps every game to five distinct people and questions.
  return playableQuestions(raw).filter(q => spec.mode === "world_mix" ? true
-  : spec.mode === "category" ? inCategory(q, spec.category) : inSubcategory(q, spec.category, spec.subcategory)).map(q => ({ id: q.id, entityId: q.entityId, primaryCategory: q.primaryCategory, region: region.get(q.entityId) ?? "unknown", answerCountryCode: q.answer.countryCode }));
+  : spec.mode === "category" ? (spec.only ? spec.only.some(sub => inSubcategory(q, spec.category, sub)) : inCategory(q, spec.category)) : inSubcategory(q, spec.category, spec.subcategory)).map(q => ({ id: q.id, entityId: q.entityId, primaryCategory: q.primaryCategory, region: region.get(q.entityId) ?? "unknown", answerCountryCode: q.answer.countryCode }));
 }
 
 /**

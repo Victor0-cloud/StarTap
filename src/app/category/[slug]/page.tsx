@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
 import { CategoryIcon } from "@/components/worlds/CategoryIcon";
+import { SubPremiumMark } from "@/components/premium/SubPremiumMark";
 import { MoreGrid } from "@/components/worlds/WorldCards";
 import { WorldIntro } from "@/components/cinematic/WorldIntro";
 import Image from "next/image";
@@ -67,6 +68,7 @@ export default async function CategoryPage({ params }: Params) {
      {(category.key === "music" && tap) || detail // the name opens the genre's game (Music, via its intro) or the sport's hero page
       ? <Link className="sub-name" href={category.key === "music" && tap ? tap : `/category/${category.key}/genre/${detail!.key}/`}><strong>{s.label}</strong><small>{s.stars} {s.stars === 1 ? "star" : "stars"}</small></Link>
       : <span><strong>{s.label}</strong><small>{s.stars} {s.stars === 1 ? "star" : "stars"}</small></span>}
+     {s.playable && <SubPremiumMark category={category.key} subcategory={s.key} />}
      {s.playable
       ? <Link className="sub-play" href={tap ?? `/category/${category.key}/play/?sub=${s.key}&intro=1`} aria-label={`Play ${s.label} Five`}>PLAY FIVE</Link>
       : detail
