@@ -1514,46 +1514,43 @@
   },
   {
    "entity": {
-    "id": "lisa-stansfield",
-    "name": "Lisa Stansfield",
-    "monogram": "LS",
-    "countryOfOrigin": "GB",
-    "region": "europe"
+    "id": "erykah-badu",
+    "name": "Erykah Badu",
+    "monogram": "EB",
+    "countryOfOrigin": "US",
+    "region": "north-america"
    },
    "question": {
-    "id": "lisa-stansfield-rochdale",
+    "id": "erykah-badu-dallas",
     "primaryCategory": "music",
     "subcategory": "soul-legends-80s-90s",
-    "questionType": "hometown",
-    "difficulty": "hard",
+    "questionType": "birthplace",
+    "difficulty": "medium",
     "displayCategory": "Soul Legends",
-    "chapter": "Growing up",
-    "question": "British soul singer Lisa Stansfield grew up in which Greater Manchester town?",
-    "clue": "North of Manchester, birthplace of the co-operative movement.",
-    "hint": "It starts with 'Roch'.",
+    "chapter": "Where the story began",
+    "question": "Neo-soul queen Erykah Badu was born in which Texas city, where she later graduated from its Booker T. Washington arts high school?",
+    "clue": "In North Texas, on the Trinity River.",
+    "hint": "Nicknamed 'Big D'.",
     "answer": {
-     "city": "Rochdale",
-     "country": "United Kingdom",
-     "countryCode": "GB",
-     "geocode": "Rochdale"
+     "city": "Dallas",
+     "country": "United States",
+     "countryCode": "US",
+     "geocode": "Dallas, Texas"
     },
-    "story": "Born in Manchester, Lisa Stansfield moved to Rochdale at 11 and is still known for her Rochdale accent.",
+    "story": "Erykah Badu was born Erica Abi Wright in Dallas in 1971 and graduated from the city's Booker T. Washington arts high school in 1989.",
     "sources": [
      {
-      "url": "https://manchesterhistory.net/rochdale/FOLK/stansfield.html",
+      "url": "https://www.biography.com/musicians/erykah-badu",
       "role": "primary",
       "quality": "reputable_secondary",
-      "quote": "and then when Lisa was 11 to Rochdale."
+      "quote": "Erykah Badu was born Erica Abi Wright on February 26, 1971, in Dallas, Texas."
      },
      {
-      "url": "https://www.northernsoul.me.uk/interview-lisa-stansfield/",
+      "url": "https://www.dallasobserver.com/music/ahead-of-her-birthday-dallasites-share-their-best-erykah-badu-encounters-18700127/",
       "role": "extra",
       "quality": "reputable_secondary",
-      "quote": "not least her Rochdale accent."
+      "quote": "The dance teacher worked at Booker T from 1978 to 2014, spending significant time with Badu at the school through her graduation in 1989."
      }
-    ],
-    "notes": [
-     "Hometown question: sources disagree on her birthplace (Manchester, Heywood or Rochdale); all agree she grew up in Rochdale."
     ]
    }
   }

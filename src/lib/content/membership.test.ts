@@ -30,7 +30,7 @@ test("counts: R&B unchanged at 8, Soul Legends 15 (5 shared + 10 from batch 22) 
  assert.equal(sub("rnb").stars, 8);
  assert.equal(sub(SOUL).stars, 15); assert.equal(sub(SOUL).playable, true);
  const soulPeople = new Set(raw.questions.filter(x => x.active && inSubcategory(x, "music", SOUL)).map(x => x.entityId));
- assert.deepEqual([...soulPeople].sort(), ["anita-baker", "babyface", "chaka-khan", "d-angelo", "lauryn-hill", "lionel-richie", "lisa-stansfield", "luther-vandross", "mariah-carey", "maxwell", "patti-labelle", "sade", "toni-braxton", "usher", "whitney-houston"]);
+ assert.deepEqual([...soulPeople].sort(), ["anita-baker", "babyface", "chaka-khan", "d-angelo", "erykah-badu", "lauryn-hill", "lionel-richie", "luther-vandross", "mariah-carey", "maxwell", "patti-labelle", "sade", "toni-braxton", "usher", "whitney-houston"]);
  const musicPeople = new Set(raw.questions.filter(x => x.active && inCategory(x, "music")).map(x => x.entityId));
  assert.equal(music.stars, musicPeople.size, "a shared member counts once in Music");
 });

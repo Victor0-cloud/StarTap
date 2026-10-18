@@ -7,9 +7,11 @@
 // Music In Africa, Mail & Guardian, Sound On Sound, Daily Sabah, Taiwan News, Google Doodles, Al Jazeera, Encyclopedia.com
 // (Contemporary Musicians), Hürriyet Daily News (AFP), Brand South Africa, Rumba on the River (Gary Stewart), The Citizen (TZ),
 // MyJoyOnline, Philadelphia magazine, CBS Chicago, NewsOne, American Songwriter, TheWrap, BK Reader, Biography.com,
-// Manchester History. Britannica, AllMusic, BlackPast, the Scotsman and Tokyo Weekender block fetching, so no quote rests on them.
+// Dallas Observer. Britannica, AllMusic, BlackPast, the Scotsman and Tokyo Weekender block fetching, so no quote rests on them.
+// Swapped before PR: Lisa Stansfield → Erykah Badu. Stansfield's birthplace is disputed (Manchester / Heywood / Rochdale) and no
+// strong fetchable source states her Rochdale upbringing; Badu's Dallas birth is undisputed and doubly sourced.
 // Location choices: hometown or career locations replace disputed or myth-laden birthplaces — Kygo (born Singapore, raised Bergen),
-// Lisa Stansfield (born Manchester or Heywood by different sources; raised in Rochdale), Édith Piaf (the rue de Belleville
+// Édith Piaf (the rue de Belleville
 // "street birth" is a myth; the answer is the Hôpital Tenon in Belleville), Ralf Hütter (Kraftwerk's Kling Klang studio,
 // Düsseldorf), Chaka Khan (Chaka Khan Way beside her Kenwood Academy high school), Sezen Aksu (İzmir, where she grew up),
 // Franco (birthplace Sona-Bata, documented by Music In Africa). Birth dates that sources disagree on are left out of stories
@@ -253,13 +255,12 @@ L("sade", "Sade", "SD", "GB", "europe", { qid: "sade-ibadan", type: "birthplace"
  story: "Sade was born Helen Folasade Adu in Ibadan, Nigeria, to a Nigerian father and a British mother.",
  quotes: [["https://www.biography.com/musicians/sade", "Sade was born Helen Folasade Adu on January 16, 1959, in Ibadan, Nigeria."],
   ["https://www.encyclopedia.com/arts/culture-magazines/sade", "Sade was born Helen Folasade Adu in Ibadan , Nigeria , to a British mother and a Nigerian father."]] });
-L("lisa-stansfield", "Lisa Stansfield", "LS", "GB", "europe", { qid: "lisa-stansfield-rochdale", type: "hometown", diff: "hard", chapter: home,
- question: "British soul singer Lisa Stansfield grew up in which Greater Manchester town?", clue: "North of Manchester, birthplace of the co-operative movement.", hint: "It starts with 'Roch'.",
- city: "Rochdale", country: GB[0], code: GB[1], geocode: "Rochdale",
- story: "Born in Manchester, Lisa Stansfield moved to Rochdale at 11 and is still known for her Rochdale accent.",
- notes: ["Hometown question: sources disagree on her birthplace (Manchester, Heywood or Rochdale); all agree she grew up in Rochdale."],
- quotes: [["https://manchesterhistory.net/rochdale/FOLK/stansfield.html", "and then when Lisa was 11 to Rochdale."],
-  ["https://www.northernsoul.me.uk/interview-lisa-stansfield/", "not least her Rochdale accent."]] });
+L("erykah-badu", "Erykah Badu", "EB", "US", "north-america", { qid: "erykah-badu-dallas", type: "birthplace", diff: "medium", chapter: born,
+ question: "Neo-soul queen Erykah Badu was born in which Texas city, where she later graduated from its Booker T. Washington arts high school?", clue: "In North Texas, on the Trinity River.", hint: "Nicknamed 'Big D'.",
+ city: "Dallas", country: US[0], code: US[1], geocode: "Dallas, Texas",
+ story: "Erykah Badu was born Erica Abi Wright in Dallas in 1971 and graduated from the city's Booker T. Washington arts high school in 1989.",
+ quotes: [["https://www.biography.com/musicians/erykah-badu", "Erykah Badu was born Erica Abi Wright on February 26, 1971, in Dallas, Texas."],
+  ["https://www.dallasobserver.com/music/ahead-of-her-birthday-dallasites-share-their-best-erykah-badu-encounters-18700127/", "The dance teacher worked at Booker T from 1978 to 2014, spending significant time with Badu at the school through her graduation in 1989."]] });
 
 require("fs").writeFileSync(require("path").join(__dirname, "../../src/content/batches/batch-22.json"),
  JSON.stringify({ batch: 22, researched: "2026-10-18", coordinateSource: "OpenStreetMap Nominatim", entries, memberships: [] }, null, 1) + "\n");

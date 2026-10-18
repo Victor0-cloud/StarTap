@@ -839,28 +839,28 @@
    }
   ]
  },
- "lisa-stansfield": {
-  "query": "Rochdale",
+ "erykah-badu": {
+  "query": "Dallas, Texas",
   "results": [
    {
-    "lat": 53.6153659,
-    "lon": -2.1557561,
-    "type": "town",
-    "category": "place",
-    "name": "Rochdale",
-    "display": "Rochdale, Greater Manchester, England, OL16 1NL, United Kingdom",
-    "cc": "GB",
-    "osm": "node/27329903"
-   },
-   {
-    "lat": 53.6073109,
-    "lon": -2.1480101,
+    "lat": 32.7762719,
+    "lon": -96.7968559,
     "type": "administrative",
     "category": "boundary",
-    "name": "Rochdale",
-    "display": "Rochdale, Greater Manchester, England, United Kingdom",
-    "cc": "GB",
-    "osm": "relation/146926"
+    "name": "Dallas",
+    "display": "Dallas, Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/6571629"
+   },
+   {
+    "lat": 32.7620405,
+    "lon": -96.7790069,
+    "type": "administrative",
+    "category": "boundary",
+    "name": "Dallas County",
+    "display": "Dallas County, Texas, United States",
+    "cc": "US",
+    "osm": "relation/1837698"
    }
   ]
  }
