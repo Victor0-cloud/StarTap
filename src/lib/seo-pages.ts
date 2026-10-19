@@ -20,7 +20,7 @@ const STAR_NOUN: Readonly<Record<string, string>> = {
 };
 
 const list = (items: readonly string[]) => items.length <= 1 ? items.join("") : `${items.slice(0, -1).join(", ")} and ${items.at(-1)}`;
-const STAGES = "Read the clue, find the country, then the city where their story happened.";
+const STAGES = "Find the country, then the city.";
 
 /** A world (category) page. Worlds with no stars yet are honest "coming soon" pages and are not indexed. */
 export function categoryCopy(category: CategoryCount): PageCopy & { indexable: boolean } {
@@ -47,11 +47,17 @@ export function moreCopy(categories: readonly CategoryCount[]): PageCopy {
  };
 }
 
+/** Genre titles stay at 60 characters: drop the "| StarTap" suffix when the base is already long. */
+function genreTitle(name: string): string {
+ const base = `${name} Trivia: Where Stars Come From`;
+ return base.length + 10 <= 60 ? `${base} | StarTap` : base;
+}
+
 /** A genre or sport landing page (/category/<category>/genre/<key>/). */
 export function genreCopy(preview: Pick<GenrePreview, "title" | "description">, stars: number): PageCopy {
  const count = stars > 0 ? ` ${stars} ${stars === 1 ? "star" : "stars"}.` : "";
  return {
-  title: `${preview.title} Trivia: Where Do the Stars Come From? | StarTap`,
+  title: genreTitle(preview.title),
   description: `${preview.description}${count} ${STAGES}`,
  };
 }

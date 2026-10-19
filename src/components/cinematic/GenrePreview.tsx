@@ -17,7 +17,7 @@ export function GenrePreviewView({ previewKey, category, categoryLabel, stars, p
  return <main className={`world-page genre-page genre-${preview.theme}`} data-genre={preview.key}>
   <Link className="world-back" href={`/category/${category}/`}>← {categoryLabel.toUpperCase()}</Link>
   <header className="genre-hero">
-   {preview.artwork && <Image className="genre-art" src={preview.artwork} alt="" width={w} height={h} style={{ aspectRatio: `auto ${w}/${h}` }} unoptimized priority />}
+   {preview.artwork && <Image className="genre-art" src={preview.artwork} alt={`${preview.title} artwork`} width={w} height={h} style={{ aspectRatio: `auto ${w}/${h}` }} unoptimized priority />}
    <p className="eyebrow">{categoryLabel.toUpperCase()} WORLD</p>
    <h1>{preview.title.toUpperCase()}</h1>
    <p className="genre-subtitle">{preview.subtitle}</p>

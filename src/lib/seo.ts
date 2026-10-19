@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
-export const SITE_TITLE = "StarTap — 5 stars. 5 questions. 5 taps. One score.";
-export const SITE_DESCRIPTION = "A daily geography game about the world's biggest stars. Read the clue, spin the globe, tap where their story happened and see how close you get. Free in your browser, no sign-up.";
+export const SITE_TITLE = "StarTap: Daily Geography Game About Famous Stars";
+export const SITE_DESCRIPTION = "A daily geography game about the world's biggest stars. Read the clue, spin the globe and tap where their story happened. Free, no ads, no sign-up.";
 export const OG_IMAGE = { url: "/og-image.jpg", width: 1200, height: 630, alt: "StarTap: 5 stars, 5 questions, 5 taps, one score" };
 
 /**
@@ -28,15 +28,17 @@ type Json = string | number | boolean | null | Json[] | { [key: string]: Json };
  */
 export function homeJsonLd(origin: string, contactEmail: string | null): Json {
  const url = `${origin}/`;
+ const alternateName = ["StarTap daily geography game", "StarTap geography game", "StarTap.fun"];
  const publisher: Json = { "@type": "Organization", name: "StarTap", url, ...(contactEmail ? { email: contactEmail } : {}) };
  return {
   "@context": "https://schema.org",
   "@graph": [
-   { "@type": "WebSite", "@id": `${url}#website`, url, name: "StarTap", description: SITE_DESCRIPTION, inLanguage: "en", publisher },
+   { "@type": "WebSite", "@id": `${url}#website`, url, name: "StarTap", alternateName, description: SITE_DESCRIPTION, inLanguage: "en", publisher },
    {
     "@type": ["VideoGame", "WebApplication"],
     "@id": `${url}#game`,
     name: "StarTap",
+    alternateName,
     url,
     description: SITE_DESCRIPTION,
     applicationCategory: "GameApplication",

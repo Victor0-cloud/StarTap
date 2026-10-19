@@ -1,9 +1,9 @@
 # StarTap
 
-> StarTap (https://startap.fun) is a geography trivia game about famous people. Each round shows a star from music, sport, screen or another world, with a short clue about a place in their story: where they grew up, trained or broke through. The player spins and zooms a 3D globe, taps where they think it happened and locks the answer; the closer the pin, the higher the score, up to 1,000 points a round and 5,000 for a five-round game. It plays in any modern web browser on phone, tablet or computer. There is no clock. Free play needs no account, and the site has no ads.
+> StarTap (https://startap.fun) is a daily geography trivia game about famous people. Each round shows a star from music, sport, screen or another world, with a short clue about a place in their story: where they grew up, trained or broke through. The player spins a 3D globe. In Today's Five the first tap zooms into a country, then they place the pin and lock the answer; the closer the pin, the higher the score, up to 1,000 points a round and 5,000 for a five-round game. It plays in any modern web browser on phone, tablet or computer. There is no clock. Free play needs no account, and the site has no ads.
 
 ## Play
-- [Today's Five](https://startap.fun/play/): the daily game, free for everyone. The same five stars for every player, from music, sport and screen; a new set starts every day at midnight UTC. Scored by distance.
+- [Today's Five](https://startap.fun/play/): the daily game, free for everyone. The same five stars for every player, from music, sport and screen; a new set starts every day at midnight UTC. The first tap zooms into a country, then you place the pin and lock the answer. Scored by distance.
 - [World Mix](https://startap.fun/world-mix/): five stars drawn from across the worlds, no more than two from any one world. Two steps a round: the country (up to 300 points), then the city (up to 700 points).
 - [Music World](https://startap.fun/category/music/): genres including Afrobeats, Amapiano, Pop, Rock, Hip-Hop / Rap, R&B, Reggae / Dancehall, Country, Latin, K-Pop, Electronic / DJ, African Music Legends, Global Music Icons and 80s/90s Soul Legends.
 - [Sports World](https://startap.fun/category/sports/): Football / Soccer, Basketball, American Football, Baseball, Boxing, MMA / UFC, Tennis, Track & Field, Formula 1, Cricket, Gymnastics, Racket Sports and Winter Sports.
@@ -14,8 +14,9 @@
 
 ## Help
 - [Support](https://startap.fun/support/): free-play progress is saved in the browser on that device. Contact: sales@startap.fun.
+- Free on the web: Today's Five, all 14 Music genres, Football/Soccer, Basketball and Boxing, and 3 World Mix games a day. Outside Nigeria every world is open, with no daily cap. Premium is sold in Nigeria only, in NGN, and unlocks the other worlds and sports there. The Android app has no Premium.
 - [Premium](https://startap.fun/premium/): an optional paid plan, currently sold only in Nigeria (NGN). Today's Five stays free.
 - [Privacy](https://startap.fun/privacy/) and [Terms](https://startap.fun/terms/).
 
 ## Android
-- An Android app is on its way to Google Play; it is not listed yet. The website and the app share the same game.
+- An Android app is on its way to Google Play; it is not listed yet. The website and the app share the same game. The Android app has no Premium.

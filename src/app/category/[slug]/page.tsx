@@ -55,7 +55,7 @@ export default async function CategoryPage({ params }: Params) {
     <h1>{category.label.toUpperCase()}</h1>
     <p>{category.stars} {category.stars === 1 ? "star" : "stars"}</p>
    </span>
-   {poster && <Image className="world-poster" src={poster.src} alt="" width={poster.size[0]} height={poster.size[1]} style={{ aspectRatio: `auto ${poster.size[0]}/${poster.size[1]}` }} unoptimized priority />}
+   {poster && <Image className="world-poster" src={poster.src} alt={`${category.label} World overview collage`} width={poster.size[0]} height={poster.size[1]} style={{ aspectRatio: `auto ${poster.size[0]}/${poster.size[1]}` }} unoptimized priority />}
   </header>
   <WorldIntro worldId={category.key} />
   {category.playable
@@ -64,7 +64,7 @@ export default async function CategoryPage({ params }: Params) {
   {category.key === "music" && soulLegends && <section aria-labelledby="soul-title" className="soul-legends-section">
    <h2 id="soul-title" className="worlds-title">CLASSIC SOUL</h2>
    <Link className="soul-legends-card" href={genreTap("music", soulLegends.subcategory ?? "", Boolean(soulCount?.playable)) ?? `/category/music/genre/${soulLegends.key}/`} aria-label={`${soulLegends.title}: ${soulLegends.subtitle}`}>
-    {soulLegends.artwork && <Image className="soul-legends-art" src={soulLegends.artwork} alt="" width={1122} height={1402} unoptimized />}
+    {soulLegends.artwork && <Image className="soul-legends-art" src={soulLegends.artwork} alt="80s/90s Soul Legends artwork" width={1122} height={1402} unoptimized />}
     <span className="soul-legends-text"><strong>{soulLegends.title}</strong><em>{soulLegends.subtitle}</em><small>{soulCount?.playable ? `${soulCount.stars} stars · Play Five` : "Preview · gameplay coming soon"}</small></span>
    </Link>
   </section>}

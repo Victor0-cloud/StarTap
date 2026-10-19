@@ -94,7 +94,7 @@ export function PremiumView({ quote }: { quote: PriceQuoteView | null }) {
           <p className={styles.lede}>Today&apos;s Five stays free. Music and four sports stay free too. Premium opens every sport, every world, the Adventure of Wonders, and the full history of your game.</p>
           {quote && quote.priceStatus !== "APPROVED" && <p className={styles.note}>Prices are {quote.priceStatus} placeholders.</p>}
         </div>
-        <Image className={styles.globe} src="/globe-hero.svg" width={1024} height={768} alt="" priority />
+        <Image className={styles.globe} src="/globe-hero.svg" width={1024} height={768} alt="Illustrated glowing Earth with an arcing route" priority />
       </section>
       <div className={styles.grid}>
         <article className={styles.card}>

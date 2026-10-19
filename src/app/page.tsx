@@ -42,7 +42,8 @@ export default function Home() {
     <div className="sky-stars" aria-hidden="true">{SKY.map(([x, y, d, z], i) => <i key={i} style={{ left: x + "%", top: y + "%", animationDelay: d + "s", ["--z" as string]: z }}/>)}</div>
     <div className="home-copy">
      <p className="eyebrow home-kicker">✦ MUSIC. SPORT. EVERYWHERE.</p>
-     <h1 id="home-title" className="home-five"><span>5 STARS</span><span>5 QUESTIONS</span><span>5 TAPS</span><em>ONE SCORE</em></h1>
+     <h1 id="home-title" className="home-title">The daily geography game about the world&apos;s biggest stars</h1>
+     <p className="home-five"><span>5 STARS </span><span>5 QUESTIONS </span><span>5 TAPS </span><em>ONE SCORE</em></p>
      <p className="home-description">You know the face. But do you know the place? Follow the clue, spin the globe and tap where their story happened.</p>
      <div className="home-ctas">
       <Link className="primary-button home-play" href="/play/">PLAY NOW <span aria-hidden="true">↗</span></Link>
@@ -67,7 +68,7 @@ export default function Home() {
      <span className="feature-cta">ENTER MUSIC <span aria-hidden="true">→</span></span>
     </Link>}
     {sports && <Link className="feature-card feature-sports" href="/category/sports/">
-     <Image className="feature-poster" src="/images/sports-world/sports_world.webp" alt="" width={941} height={1672} loading="lazy"/>
+     <Image className="feature-poster" src="/images/sports-world/sports_world.webp" alt="Sports World overview collage" width={941} height={1672} loading="lazy"/>
      <CategoryIcon category="sports" size={34}/><strong>SPORTS WORLD</strong>
      <span>{sports.stars} stars from football, tennis, basketball, F1 and more.</span>
      <span className="feature-cta">ENTER SPORTS <span aria-hidden="true">→</span></span>

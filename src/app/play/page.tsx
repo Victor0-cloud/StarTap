@@ -3,7 +3,7 @@ import { Suspense } from "react";
 import { DailyGame } from "@/components/game/DailyGame";
 import { PageAbout } from "@/components/site/PageAbout";
 import { pageMetadata } from "@/lib/seo";
-export const metadata: Metadata = pageMetadata({ title: "Today's Five: The Daily StarTap Geography Game", description: "Five famous stars from music, sport and screen, the same for everyone and new every day at midnight UTC. Tap the globe where their story happened: up to 1,000 points a star.", path: "/play/" });
+export const metadata: Metadata = pageMetadata({ title: "Today's Five: The Daily StarTap Geography Game", description: "Five famous stars, the same for everyone, new daily at midnight UTC. Tap the globe where their story happened: up to 1,000 points a star.", path: "/play/" });
 export default function PlayPage(){return <>
  <Suspense fallback={<main className="empty-state">Preparing your five stars…</main>}><DailyGame/></Suspense>
  <PageAbout id="about-today" title="How Today's Five works" link={{ href: "/how-to-play/", label: "How to play →" }}>
