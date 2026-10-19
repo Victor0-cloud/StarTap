@@ -8,8 +8,9 @@ import { HomeMascot } from "@/components/mascot/HomeMascot";
 import { AccountNavLink, GooglePlayButton, PremiumNav, SiteFooter } from "@/components/site/SiteChrome";
 import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
-import { IS_ANDROID_BUILD } from "@/lib/site";
-import { pageMetadata, SITE_TITLE } from "@/lib/seo";
+import { homeJsonLd, pageMetadata, SITE_TITLE } from "@/lib/seo";
+import { JsonLd } from "@/components/site/JsonLd";
+import { IS_ANDROID_BUILD, PRODUCTION_URL, SUPPORT_EMAIL } from "@/lib/site";
 
 export const metadata: Metadata = pageMetadata({ title: SITE_TITLE, path: "/" });
 
@@ -29,6 +30,7 @@ const DEVICES = [["📱", "PHONE"], ["📲", "TABLET"], ["💻", "LAPTOP"], ["�
 export default function Home() {
  const music = world("music"), sports = world("sports");
  return <div className="site-shell">
+  <JsonLd data={homeJsonLd(PRODUCTION_URL, SUPPORT_EMAIL)} />
   <header className="masthead">
    <Link className="brand" href="/" aria-label="StarTap home"><span aria-hidden="true">✦</span> STAR<span>TAP</span>.</Link>
    <nav className="masthead-nav" aria-label="Main"><Link href="/how-to-play/">HOW TO PLAY</Link><Link href="/support/">SUPPORT</Link><AccountNavLink/></nav>

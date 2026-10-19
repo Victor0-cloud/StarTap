@@ -10,6 +10,8 @@ import { MoreGrid } from "@/components/worlds/WorldCards";
 import { WorldIntro } from "@/components/cinematic/WorldIntro";
 import Image from "next/image";
 import { genreIntro, genrePreview, previewForSubcategory, WORLD_POSTERS } from "@/lib/game/cinematics";
+import { pageMetadata } from "@/lib/seo";
+import { categoryCopy, moreCopy } from "@/lib/seo-pages";
 
 const soulLegends = genrePreview("music", "soul-legends-80s-90s"); // 80s/90s Soul Legends: its own card (never a second row), Play Five at 5 stars
 /** Music genre taps go straight to the game, playing that genre's intro first every time (the game page handles it). */
@@ -22,9 +24,15 @@ export const dynamicParams = false;
 export function generateStaticParams() {
  return [...catalog.raw.taxonomy.categories.map(c => ({ slug: c.key })), { slug: "more" }];
 }
-const labelFor = (slug: string) => slug === "more" ? "More" : catalog.raw.taxonomy.categories.find(c => c.key === slug)?.label ?? "StarTap";
+// Own title, description and trailing-slash canonical per world. Worlds with no stars yet are noindex (see categoryCopy).
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
- return { title: `${labelFor((await params).slug)} | StarTap` };
+ const { slug } = await params;
+ const counts = categoryCounts(catalog.raw);
+ if (slug === "more") return pageMetadata({ ...moreCopy(counts), path: "/category/more/" });
+ const category = counts.find(c => c.key === slug);
+ if (!category) return { title: "StarTap" };
+ const { indexable, ...copy } = categoryCopy(category);
+ return pageMetadata({ ...copy, path: `/category/${slug}/`, index: indexable });
 }
 
 export default async function CategoryPage({ params }: Params) {

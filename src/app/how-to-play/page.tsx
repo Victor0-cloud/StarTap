@@ -3,7 +3,7 @@ import Link from "next/link";
 import { InfoPage } from "@/components/site/SiteChrome";
 import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = pageMetadata({ title: "How to play | StarTap", description: "See the star, read the clue, explore the globe and tap your guess. Five rounds, up to 1,000 points each: here is how StarTap works.", path: "/how-to-play/" });
+export const metadata: Metadata = pageMetadata({ title: "How to Play StarTap: Rules, Scoring and Hints", description: "See the star, read the clue, explore the globe and tap your guess. Five rounds, up to 1,000 points each: here is how StarTap works.", path: "/how-to-play/" });
 
 const STEPS = [
  ["See the star", "Each round opens on a famous face from music, sport or screen."],
