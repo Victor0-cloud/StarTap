@@ -1301,3 +1301,12 @@ body{padding-top:var(--sat)}
 .page-about{max-width:760px;margin:0 auto;padding:28px clamp(18px,5vw,70px) calc(36px + env(safe-area-inset-bottom));border-top:1px solid #ffffff1a;color:var(--muted);font-size:14px;line-height:1.6}
 .page-about h2{margin:0 0 8px;color:var(--text);font:800 20px/1.1 "Barlow Condensed",Impact,sans-serif;letter-spacing:.06em;text-transform:uppercase}
 .page-about p{margin:0 0 10px}
+/* On a phone the aim screen is exactly one viewport tall so the map fills it (see .game-page[data-phase="aim"]).
+   The star wheel is taller than that on a short screen. A fixed height with overflow visible lets the Skip button
+   and the note under it paint outside the game box, on top of the following PageAbout section, and intercept taps.
+   While the wheel is showing, and only when PageAbout is actually in the document, let the game grow with the wheel
+   so the section starts after it. The map phase has no .wheel-stage and stays one screen. Android renders no
+   PageAbout, so this rule does not match there and the app screen is unchanged. */
+@media(max-width:850px){
+ body:has(.page-about) .game-page[data-phase="aim"]:has(.wheel-stage){height:auto;min-height:calc(100dvh - var(--sat))}
+}
