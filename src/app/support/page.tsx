@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { InfoPage } from "@/components/site/SiteChrome";
 import { ContactLine } from "@/components/site/ContactLine";
-import { pageMetadata } from "@/lib/seo";
+import { faqJsonLd, pageMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/site/JsonLd";
 
 export const metadata: Metadata = pageMetadata({ title: "Support | StarTap", description: "Help with StarTap: saving progress, daily editions, sound, intro videos and reporting a content error.", path: "/support/" });
 
@@ -18,6 +19,7 @@ const FAQ = [
 
 export default function Support() {
  return <InfoPage eyebrow="✦ SUPPORT" title="NEED A HAND?" intro={<p>Quick answers first. New to the game? Start with <Link className="text-link" href="/how-to-play/">How to play</Link>.</p>}>
+  <JsonLd data={faqJsonLd(FAQ)} />
   <section className="info-section faq">
    {FAQ.map(([q, a]) => <details key={q}><summary>{q}</summary><p>{a}</p></details>)}
   </section>

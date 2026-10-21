@@ -10,6 +10,8 @@ import { MoreGrid } from "@/components/worlds/WorldCards";
 import { WorldIntro } from "@/components/cinematic/WorldIntro";
 import Image from "next/image";
 import { genreIntro, genrePreview, previewForSubcategory, WORLD_POSTERS } from "@/lib/game/cinematics";
+import { pageMetadata } from "@/lib/seo";
+import { categoryCopy, moreCopy } from "@/lib/seo-pages";
 
 const soulLegends = genrePreview("music", "soul-legends-80s-90s"); // 80s/90s Soul Legends: its own card (never a second row), Play Five at 5 stars
 /** Music genre taps go straight to the game, playing that genre's intro first every time (the game page handles it). */
@@ -22,9 +24,15 @@ export const dynamicParams = false;
 export function generateStaticParams() {
  return [...catalog.raw.taxonomy.categories.map(c => ({ slug: c.key })), { slug: "more" }];
 }
-const labelFor = (slug: string) => slug === "more" ? "More" : catalog.raw.taxonomy.categories.find(c => c.key === slug)?.label ?? "StarTap";
+// Own title, description and trailing-slash canonical per world. Worlds with no stars yet are noindex (see categoryCopy).
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
- return { title: `${labelFor((await params).slug)} | StarTap` };
+ const { slug } = await params;
+ const counts = categoryCounts(catalog.raw);
+ if (slug === "more") return pageMetadata({ ...moreCopy(counts), path: "/category/more/" });
+ const category = counts.find(c => c.key === slug);
+ if (!category) return { title: "StarTap" };
+ const { indexable, ...copy } = categoryCopy(category);
+ return pageMetadata({ ...copy, path: `/category/${slug}/`, index: indexable });
 }
 
 export default async function CategoryPage({ params }: Params) {
@@ -47,7 +55,7 @@ export default async function CategoryPage({ params }: Params) {
     <h1>{category.label.toUpperCase()}</h1>
     <p>{category.stars} {category.stars === 1 ? "star" : "stars"}</p>
    </span>
-   {poster && <Image className="world-poster" src={poster.src} alt="" width={poster.size[0]} height={poster.size[1]} style={{ aspectRatio: `auto ${poster.size[0]}/${poster.size[1]}` }} unoptimized priority />}
+   {poster && <Image className="world-poster" src={poster.src} alt={`${category.label} World overview collage`} width={poster.size[0]} height={poster.size[1]} style={{ aspectRatio: `auto ${poster.size[0]}/${poster.size[1]}` }} unoptimized priority />}
   </header>
   <WorldIntro worldId={category.key} />
   {category.playable
@@ -56,7 +64,7 @@ export default async function CategoryPage({ params }: Params) {
   {category.key === "music" && soulLegends && <section aria-labelledby="soul-title" className="soul-legends-section">
    <h2 id="soul-title" className="worlds-title">CLASSIC SOUL</h2>
    <Link className="soul-legends-card" href={genreTap("music", soulLegends.subcategory ?? "", Boolean(soulCount?.playable)) ?? `/category/music/genre/${soulLegends.key}/`} aria-label={`${soulLegends.title}: ${soulLegends.subtitle}`}>
-    {soulLegends.artwork && <Image className="soul-legends-art" src={soulLegends.artwork} alt="" width={1122} height={1402} unoptimized />}
+    {soulLegends.artwork && <Image className="soul-legends-art" src={soulLegends.artwork} alt="80s/90s Soul Legends artwork" width={1122} height={1402} unoptimized />}
     <span className="soul-legends-text"><strong>{soulLegends.title}</strong><em>{soulLegends.subtitle}</em><small>{soulCount?.playable ? `${soulCount.stars} stars · Play Five` : "Preview · gameplay coming soon"}</small></span>
    </Link>
   </section>}

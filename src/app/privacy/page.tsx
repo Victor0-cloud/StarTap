@@ -3,7 +3,7 @@ import { InfoPage } from "@/components/site/SiteChrome";
 import { ContactLine } from "@/components/site/ContactLine";
 import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = pageMetadata({ title: "Privacy Policy | StarTap", description: "StarTap has no accounts, no ads and no tracking. Your scores and settings stay on your own device.", path: "/privacy/" });
+export const metadata: Metadata = pageMetadata({ title: "Privacy Policy | StarTap", description: "How StarTap handles your data. Free play needs no account and has no ads, analytics or tracking cookies; scores and settings stay on your device.", path: "/privacy/" });
 
 // Keep this page in step with what the game actually does. Last checked against the code: 7 October 2026
 // (local storage only; no accounts, analytics, ads, cookies or third-party requests).

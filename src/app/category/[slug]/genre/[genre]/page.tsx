@@ -4,6 +4,8 @@ import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
 import { GENRE_PREVIEWS, genrePreview } from "@/lib/game/cinematics";
 import { GenrePreviewView } from "@/components/cinematic/GenrePreview";
+import { pageMetadata } from "@/lib/seo";
+import { genreCopy } from "@/lib/seo-pages";
 
 type Params = { params: Promise<{ slug: string; genre: string }> };
 export const dynamicParams = false;
@@ -12,7 +14,10 @@ export function generateStaticParams() {
 }
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
  const { slug, genre } = await params;
- return { title: `${genrePreview(slug, genre)?.title ?? "StarTap"} | StarTap` };
+ const preview = genrePreview(slug, genre);
+ if (!preview) return { title: "StarTap" };
+ const sub = preview.subcategory ? categoryCounts(catalog.raw).find(c => c.key === slug)?.subcategories.find(s => s.key === preview.subcategory) : undefined;
+ return pageMetadata({ ...genreCopy(preview, sub?.stars ?? 0), path: `/category/${slug}/genre/${genre}/` });
 }
 
 /** A genre's own screen: its intro on first visit, Replay Intro, and PLAY FIVE once it has enough verified stars. */

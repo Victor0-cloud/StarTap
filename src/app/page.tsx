@@ -8,8 +8,9 @@ import { HomeMascot } from "@/components/mascot/HomeMascot";
 import { AccountNavLink, GooglePlayButton, PremiumNav, SiteFooter } from "@/components/site/SiteChrome";
 import { catalog } from "@/lib/content/catalog";
 import { categoryCounts } from "@/lib/content/counts";
-import { IS_ANDROID_BUILD } from "@/lib/site";
-import { pageMetadata, SITE_TITLE } from "@/lib/seo";
+import { homeJsonLd, pageMetadata, SITE_TITLE } from "@/lib/seo";
+import { JsonLd } from "@/components/site/JsonLd";
+import { IS_ANDROID_BUILD, PRODUCTION_URL, SUPPORT_EMAIL } from "@/lib/site";
 
 export const metadata: Metadata = pageMetadata({ title: SITE_TITLE, path: "/" });
 
@@ -29,6 +30,7 @@ const DEVICES = [["📱", "PHONE"], ["📲", "TABLET"], ["💻", "LAPTOP"], ["�
 export default function Home() {
  const music = world("music"), sports = world("sports");
  return <div className="site-shell">
+  <JsonLd data={homeJsonLd(PRODUCTION_URL, SUPPORT_EMAIL)} />
   <header className="masthead">
    <Link className="brand" href="/" aria-label="StarTap home"><span aria-hidden="true">✦</span> STAR<span>TAP</span>.</Link>
    <nav className="masthead-nav" aria-label="Main"><Link href="/how-to-play/">HOW TO PLAY</Link><Link href="/support/">SUPPORT</Link><AccountNavLink/></nav>
@@ -40,7 +42,8 @@ export default function Home() {
     <div className="sky-stars" aria-hidden="true">{SKY.map(([x, y, d, z], i) => <i key={i} style={{ left: x + "%", top: y + "%", animationDelay: d + "s", ["--z" as string]: z }}/>)}</div>
     <div className="home-copy">
      <p className="eyebrow home-kicker">✦ MUSIC. SPORT. EVERYWHERE.</p>
-     <h1 id="home-title" className="home-five"><span>5 STARS</span><span>5 QUESTIONS</span><span>5 TAPS</span><em>ONE SCORE</em></h1>
+     <h1 id="home-title" className="home-title">The daily geography game about the world&apos;s biggest stars</h1>
+     <p className="home-five"><span>5 STARS </span><span>5 QUESTIONS </span><span>5 TAPS </span><em>ONE SCORE</em></p>
      <p className="home-description">You know the face. But do you know the place? Follow the clue, spin the globe and tap where their story happened.</p>
      <div className="home-ctas">
       <Link className="primary-button home-play" href="/play/">PLAY NOW <span aria-hidden="true">↗</span></Link>
@@ -65,7 +68,7 @@ export default function Home() {
      <span className="feature-cta">ENTER MUSIC <span aria-hidden="true">→</span></span>
     </Link>}
     {sports && <Link className="feature-card feature-sports" href="/category/sports/">
-     <Image className="feature-poster" src="/images/sports-world/sports_world.webp" alt="" width={941} height={1672} loading="lazy"/>
+     <Image className="feature-poster" src="/images/sports-world/sports_world.webp" alt="Sports World overview collage" width={941} height={1672} loading="lazy"/>
      <CategoryIcon category="sports" size={34}/><strong>SPORTS WORLD</strong>
      <span>{sports.stars} stars from football, tennis, basketball, F1 and more.</span>
      <span className="feature-cta">ENTER SPORTS <span aria-hidden="true">→</span></span>

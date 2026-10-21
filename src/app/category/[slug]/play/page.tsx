@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
 import { catalog } from "@/lib/content/catalog";
+import { categoryCounts } from "@/lib/content/counts";
 import { CategoryPlay } from "@/components/worlds/CategoryPlay";
+import { pageMetadata } from "@/lib/seo";
+import { categoryPlayCopy } from "@/lib/seo-pages";
 
 type Params = { params: Promise<{ slug: string }> };
 export const dynamicParams = false;
@@ -10,7 +13,11 @@ export function generateStaticParams() {
 }
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
  const { slug } = await params;
- return { title: `${catalog.raw.taxonomy.categories.find(c => c.key === slug)?.label ?? "StarTap"} Five | StarTap` };
+ const category = categoryCounts(catalog.raw).find(c => c.key === slug);
+ const label = catalog.raw.taxonomy.categories.find(c => c.key === slug)?.label ?? "StarTap";
+ // Canonical drops ?sub= and &intro=: every play state of a world shares one URL.
+ // Worlds with no stars yet are thin coming-soon screens, so they stay noindex, like their parent pages.
+ return pageMetadata({ ...categoryPlayCopy(label), path: `/category/${slug}/play/`, index: (category?.stars ?? 0) > 0 });
 }
 export default async function CategoryPlayPage({ params }: Params) {
  const { slug } = await params;
